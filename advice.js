@@ -11,4 +11,16 @@
     topics: ['example-topic'],
     tags: ['example-tag'],
   },
+  {
+    id: '01_make-your-bed',
+    title: 'Make your bed',
+    description: 'Completing the first simplest task of the day gives you the confidence to complete the next ones.',
+    content: 'Completing the first simplest task of the day gives you the confidence to complete the next ones.',
+    quotes: ['Make your bed'],
+    learnedFrom: 'The book Make Your Bed: Little Things That Can Change Your Life...And Maybe the World from Admiral William H. McRaven',
+    usefulResources: ['Make Your Bed: Little Things That Can Change Your Life...And Maybe the World from Admiral William H. McRaven'],
+    relatedAdvice: ['example-relatedAdvice'],
+    topics: ['Goals'],
+    tags: ['goals', 'completing-tasks', 'self-help'],
+  },
 ];
