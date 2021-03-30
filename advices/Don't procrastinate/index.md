@@ -21,6 +21,8 @@ If you spend your time complaining about how much you have to do (procrastinatio
 
 You are not necessarily what you say. Behavior is a much better barometer of what you are than words. What you do in your present moments is the only indicator of what you are as a person.
 
+By identifying why you procrastinate, you can begin to hash out a plan to avoid this and increase your productivity. It can be as simple as taking a 5 minute Facebook break for every hour you work, or stepping out to get some air at the end of a long period of focused work. Take a night off to go dancing or to your favourite yoga class, or spend your Sunday hiking or barbecuing with friends. Whatever you choose to do, strive for balance!
+
 ## Quotes
 
 > Putting it off, in fact, doesn’t even exist. You simply do, and those things you don’t do, in reality, are just undone, rather than postponed.
@@ -39,4 +41,5 @@ There are no advices related to this one
 
 - [Don't Complain](../Don't%20complain)
 - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix)
-
+- [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time)
+- [Pomodoro]
