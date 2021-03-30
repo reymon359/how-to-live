@@ -1,11 +1,11 @@
 ---
-name: 'Time Management'
+name: 'Manage the time you have'
 description: 'How to manage time'
 categories: ['time management', 'time']
 ---
 # Time Management
 
-Time is 
+Time is the only resource finite
 
 ## Quotes
 
