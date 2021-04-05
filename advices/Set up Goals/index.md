@@ -5,9 +5,13 @@ categories: ['Goals', 'Future']
 ---
 # Set up Goals
 
-Set up goals, divide them in tasks, check them every week
+Set up goals, think about where you want to be, who you want to be.
+
+Big goals small steps.
 
 ## Quotes
+
+Eating an elephant.
 
 ## Resources
 
@@ -15,3 +19,4 @@ Set up goals, divide them in tasks, check them every week
 
 ## Related advices:
 
+- [Review your Goals](../Review%20your%20Goals)
