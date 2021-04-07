@@ -1,0 +1,26 @@
+{
+  "name": "how-to-live",
+  "version": "0.0.1",
+  "description": "how to live tips",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reymon359/how-to-live.git"
+  },
+  "keywords": [
+    "life"
+  ],
+  "author": "reymon359",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reymon359/how-to-live/issues"
+  },
+  "homepage": "https://github.com/reymon359/how-to-live#readme",
+  "dependencies": {
+    "collman": "0.0.4"
+  }
+}
