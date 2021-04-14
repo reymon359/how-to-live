@@ -1,0 +1,18 @@
+---
+name: 'Question everything. do not take anything for granted'
+description: ''
+categories: ['Learning']
+---
+# Question everything. do not take anything for granted
+
+Question everything. do not take anything for granted, do not accept a "this is so because it is so" as an answer
+
+## Quotes
+
+## Resources
+
+## Credits
+
+## Related advices:
+
+- Research
