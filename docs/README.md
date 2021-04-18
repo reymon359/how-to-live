@@ -32,7 +32,13 @@ How to live description
     
  - [Create your own opinion of things](Create%20your%20own%20opinion%20of%20things/index.md)
     
+ - [Discover new music](Discover%20new%20music/index.md)
+    
  - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
+    
+ - [Do things that fulfill you and makes you happy](Do%20things%20that%20fulfill%20you%20and%20makes%20you%20happy/index.md)
+    
+ - [Do what you want](Do%20what%20you%20want/index.md)
     
  - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
     
@@ -49,6 +55,8 @@ How to live description
  - [Embrace growing](Embrace%20growing/index.md)
     
  - [Empathic Listening](Empathic%20Listening/index.md)
+    
+ - [Enjoy the little things](Enjoy%20the%20little%20things/index.md)
     
  - [Everything in life is practice](Everything%20in%20life%20is%20practice/index.md)
     
@@ -89,6 +97,10 @@ How to live description
  - [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
     
  - [Listen before talking](Listen%20before%20talking/index.md)
+    
+ - [Listen to music](Listen%20to%20music/index.md)
+    
+ - [Listen to music](Listen%20to%20music/index.md)
     
  - [Listen to your body](Listen%20to%20your%20body/index.md)
     
@@ -132,7 +144,13 @@ How to live description
     
  - [Set up Social Goals too](Set%20up%20Social%20Goals%20too/index.md)
     
+ - [Sing](Sing/index.md)
+    
  - [Sleep enough time](Sleep%20enough%20time/index.md)
+    
+ - [Smile](Smile/index.md)
+    
+ - [Spend time with people you love and love you](Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
     
  - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
