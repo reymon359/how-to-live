@@ -35,6 +35,8 @@
     
  - [Material things](../Categories/Material%20things.md)
     
+ - [Mental health](../Categories/Mental%20health.md)
+    
  - [Mistakes](../Categories/Mistakes.md)
     
  - [Money](../Categories/Money.md)
@@ -64,6 +66,8 @@
  - [Religion](../Categories/Religion.md)
     
  - [Respect](../Categories/Respect.md)
+    
+ - [Sleep](../Categories/Sleep.md)
     
  - [Social](../Categories/Social.md)
     
