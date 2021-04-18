@@ -4,6 +4,8 @@
         
      - [Ask questions](Ask%20questions/index.md)
         
+     - [Avoid mobile when going to sleep](Avoid%20mobile%20when%20going%20to%20sleep/index.md)
+        
      - [Be grateful](Be%20grateful/index.md)
         
      - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
@@ -30,6 +32,10 @@
         
      - [Don’t feel bad about making mistakes](Don’t%20feel%20bad%20about%20making%20mistakes/index.md)
         
+     - [Drink enough water](Drink%20enough%20water/index.md)
+        
+     - [Eat healthy](Eat%20healthy/index.md)
+        
      - [Eating an elephant](Eating%20an%20elephant/index.md)
         
      - [Embrace growing](Embrace%20growing/index.md)
@@ -38,6 +44,8 @@
         
      - [Everything in life is practice](Everything%20in%20life%20is%20practice/index.md)
         
+     - [Exercise frequently](Exercise%20frequently/index.md)
+        
      - [Fail with success](Fail%20with%20success/index.md)
         
      - [Finish what you start](Finish%20what%20you%20start/index.md)
@@ -45,6 +53,8 @@
      - [Give and share with others](Give%20and%20share%20with%20others/index.md)
         
      - [Give credit](Give%20credit/index.md)
+        
+     - [Go to the doctor](Go%20to%20the%20doctor/index.md)
         
      - [Go with the truth](Go%20with%20the%20truth/index.md)
         
@@ -58,6 +68,8 @@
         
      - [If you want you can](If%20you%20want%20you%20can/index.md)
         
+     - [Integrity](Integrity/index.md)
+        
      - [Just buy what you need](Just%20buy%20what%20you%20need/index.md)
         
      - [Keep track of your Goals](Keep%20track%20of%20your%20Goals/index.md)
@@ -69,6 +81,10 @@
      - [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
         
      - [Listen before talking](Listen%20before%20talking/index.md)
+        
+     - [Listen to your body](Listen%20to%20your%20body/index.md)
+        
+     - [Look for feedback](Look%20for%20feedback/index.md)
         
      - [Look for solutions in life situations](Look%20for%20solutions%20in%20life%20situations/index.md)
         
@@ -108,7 +124,11 @@
         
      - [Set up Social Goals too](Set%20up%20Social%20Goals%20too/index.md)
         
+     - [Sleep enough time](Sleep%20enough%20time/index.md)
+        
      - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
+        
+     - [Take care of your mental health](Take%20care%20of%20your%20mental%20health/index.md)
         
      - [Teaching is one of the best ways to learn](Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
         
@@ -134,8 +154,6 @@
         
      - [default name](default%20name/index.md)
         
-     - [default name](default%20name/index.md)
-        
      - [don't be emotionally attached to money.](don't%20be%20emotionally%20attached%20to%20money./index.md)
         
      - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
@@ -144,7 +162,11 @@
         
      - [don't interrupt](don't%20interrupt/index.md)
         
+     - [don't overthink](don't%20overthink/index.md)
+        
      - [don't procrastinate](don't%20procrastinate/index.md)
+        
+     - [don't waste time on social media](don't%20waste%20time%20on%20social%20media/index.md)
         
      - [dry don't repeat yourself](dry%20don't%20repeat%20yourself/index.md)
         
@@ -192,6 +214,8 @@
         
      - [Material things](../Categories/Material%20things.md)
         
+     - [Mental health](../Categories/Mental%20health.md)
+        
      - [Mistakes](../Categories/Mistakes.md)
         
      - [Money](../Categories/Money.md)
@@ -221,6 +245,8 @@
      - [Religion](../Categories/Religion.md)
         
      - [Respect](../Categories/Respect.md)
+        
+     - [Sleep](../Categories/Sleep.md)
         
      - [Social](../Categories/Social.md)
         
