@@ -1,7 +1,7 @@
 ---
 name: 'Most religions have great values'
 description: ''
-categories: ['Believing', 'Religion', 'Open minded']
+Categories: ['Believing', 'Religion', 'Open minded']
 ---
 # Most religions have great values
 

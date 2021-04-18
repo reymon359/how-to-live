@@ -1,7 +1,7 @@
 ---
 name: 'Don't be emotionally attached to money'
 description: ''
-categories: ['Material things', 'Money']
+Categories: ['Material things', 'Money']
 ---
 # Don't be emotionally attached to money
 

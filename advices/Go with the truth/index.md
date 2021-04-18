@@ -1,7 +1,7 @@
 ---
 name: 'Go with the truth'
 description: ''
-categories: ['Communication', 'Trust', 'Integrity']
+Categories: ['Communication', 'Trust', 'Integrity']
 ---
 # Go with the truth
 

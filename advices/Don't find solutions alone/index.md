@@ -1,7 +1,7 @@
 ---
 name: 'Don't find solutions alone'
 description: ''
-categories: ['Solutions', 'Communication']
+Categories: ['Solutions', 'Communication']
 ---
 # Don't find solutions alone
 

@@ -1,7 +1,7 @@
 ---
 name: 'Don’t do something that hurts another person'
 description: ''
-categories: ['Respect']
+Categories: ['Respect']
 ---
 # Don’t do something that hurts another person
 

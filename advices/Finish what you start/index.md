@@ -1,7 +1,7 @@
 ---
 name: 'Finish what you start'
 description: ''
-categories: ['Goals']
+Categories: ['Goals']
 ---
 # Finish what you start
 

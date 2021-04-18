@@ -1,7 +1,7 @@
 ---
 name: 'Be grateful to the people that have taken care of you'
 description: ''
-categories: ['Gratitude']
+Categories: ['Gratitude']
 ---
 # Be grateful to the people that have taken care of you
 

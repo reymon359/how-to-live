@@ -1,7 +1,7 @@
 ---
 name: 'Set up Social Goals too'
 description: ''
-categories: ['Goals', 'Future', 'Social', 'Relationships']
+Categories: ['Goals', 'Future', 'Social', 'Relationships']
 ---
 # Set up Social Goals too
 

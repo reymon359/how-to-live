@@ -1,7 +1,7 @@
 ---
 name: 'Greetings before a Conversation'
 description: ''
-categories: ['Communication', 'Respect']
+Categories: ['Communication', 'Respect']
 ---
 # Greetings before a Conversation
 

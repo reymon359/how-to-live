@@ -1,7 +1,7 @@
 ---
 name: 'Read books'
 description: ''
-categories: ['Learning']
+Categories: ['Learning']
 ---
 # Read books
 

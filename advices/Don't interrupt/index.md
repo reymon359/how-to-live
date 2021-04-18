@@ -1,7 +1,7 @@
 ---
 name: 'Don't interrupt'
 description: ''
-categories: ['Communication', 'Listening']
+Categories: ['Communication', 'Listening']
 ---
 # Don't interrupt
 

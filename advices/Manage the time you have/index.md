@@ -1,7 +1,7 @@
 ---
 name: 'Manage the time you have'
 description: 'How to manage time'
-categories: ['time management', 'time']
+Categories: ['time management', 'time']
 ---
 # Time Management
 

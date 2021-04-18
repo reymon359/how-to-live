@@ -1,7 +1,7 @@
 ---
 name: 'Fail with success'
 description: ''
-categories: ['Mistakes']
+Categories: ['Mistakes']
 ---
 # Fail with success
 

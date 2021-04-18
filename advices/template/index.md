@@ -1,7 +1,7 @@
 ---
 name: 'default name'
 description: 'default description'
-categories: []
+Categories: []
 ---
 # <!-- TODO: Replace this with title -->
 <!-- TODO: Add description here -->

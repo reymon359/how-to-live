@@ -1,7 +1,7 @@
 ---
 name: 'Continuous refactor'
 description: ''
-categories: ['Growing', 'Refactor']
+Categories: ['Growing', 'Refactor']
 ---
 # Continuous refactor
 

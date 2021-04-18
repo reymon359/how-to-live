@@ -1,7 +1,7 @@
 ---
 name: 'Respect others beliefs'
 description: ''
-categories: ['Respect', 'Believing', 'Religion']
+Categories: ['Respect', 'Believing', 'Religion']
 ---
 # Respect others beliefs
 

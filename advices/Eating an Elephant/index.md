@@ -1,7 +1,7 @@
 ---
 name: 'Eating an elephant'
 description: ''
-categories: ['Practice', 'Little by little']
+Categories: ['Practice', 'Little by little']
 ---
 # Eating an elephant
 

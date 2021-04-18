@@ -1,7 +1,7 @@
 ---
 name: 'Continuous learning'
 description: ''
-categories: ['Learning']
+Categories: ['Learning']
 ---
 # Continuous learning
 

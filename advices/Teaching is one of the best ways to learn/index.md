@@ -1,7 +1,7 @@
 ---
 name: 'Teaching is one of the best ways to learn'
 description: ''
-categories: ['Learning', 'Helping']
+Categories: ['Learning', 'Helping']
 ---
 # Teaching is one of the best ways to learn
 

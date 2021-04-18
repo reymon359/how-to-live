@@ -1,7 +1,7 @@
 ---
 name: 'Don’t Live with Broken Windows'
 description: ''
-categories: ['Mistakes']
+Categories: ['Mistakes']
 ---
 # Don’t Live with Broken Windows
 

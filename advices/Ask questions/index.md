@@ -1,7 +1,7 @@
 ---
 name: 'Ask questions'
 description: ''
-categories: ['Communication', 'Listening']
+Categories: ['Communication', 'Listening']
 ---
 # Ask questions
 

@@ -1,7 +1,7 @@
 ---
 name: 'Book leisure time'
 description: 'Book time for leisure to relax or do things alone or with friends'
-categories: ['Time', 'Time management', 'Leisure']
+Categories: ['Time', 'Time management', 'Leisure']
 ---
 # Book leisure time
 

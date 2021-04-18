@@ -1,7 +1,7 @@
 ---
 name: 'Book time for planning'
 description: ''
-categories: ['Planning', 'Time']
+Categories: ['Planning', 'Time']
 ---
 # Book time for planning
 

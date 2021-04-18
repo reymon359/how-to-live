@@ -1,7 +1,7 @@
 ---
 name: 'Don't get attached to material things'
 description: ''
-categories: ['Material things']
+Categories: ['Material things']
 ---
 # Don't get attached to material things
 

@@ -1,7 +1,7 @@
 ---
 name: 'Embrace growing'
 description: ''
-categories: ['Growing']
+Categories: ['Growing']
 ---
 # Embrace growing
 

@@ -1,7 +1,7 @@
 ---
 name: 'Apologize'
 description: ''
-categories: ['Respect']
+Categories: ['Respect']
 ---
 # Apologize
 

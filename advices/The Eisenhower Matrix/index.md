@@ -1,7 +1,7 @@
 ---
 name: 'The Eisenhower Matrix'
 description: 'default description'
-categories: ['Time', 'Time management', 'Goals', 'Prioritize'
+Categories: ['Time', 'Time management', 'Goals', 'Prioritize'
 ]
 ---
 # The Eisenhower Matrix

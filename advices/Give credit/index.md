@@ -1,7 +1,7 @@
 ---
 name: 'Give credit'
 description: ''
-categories: ['Gratitude', 'Truth', 'Honesty']
+Categories: ['Gratitude', 'Truth', 'Honesty']
 ---
 # Give credit
 

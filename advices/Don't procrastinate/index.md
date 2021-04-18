@@ -1,7 +1,7 @@
 ---
 name: 'Don't procrastinate'
 description: 'Don't waste time procrastinating'
-categories: ['Time', 'Time management', 'Procrastination']
+Categories: ['Time', 'Time management', 'Procrastination']
 ---
 # Don't procrastinate
 

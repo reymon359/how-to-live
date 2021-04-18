@@ -1,7 +1,7 @@
 ---
 name: 'Try new things'
 description: ''
-categories: ['Open-mindedness', 'Comfort zone', 'Unknown']
+Categories: ['Open-mindedness', 'Comfort zone', 'Unknown']
 ---
 # Try new things
 

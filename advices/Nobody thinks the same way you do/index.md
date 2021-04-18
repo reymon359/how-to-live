@@ -1,7 +1,7 @@
 ---
 name: 'Nobody thinks the same way you do'
 description: ''
-categories: ['Communication', 'Respect']
+Categories: ['Communication', 'Respect']
 ---
 # Nobody thinks the same way you do
 

@@ -1,7 +1,7 @@
 ---
 name: 'Keep track of your Goals'
 description: ''
-categories: ['Goals', 'Tracking']
+Categories: ['Goals', 'Tracking']
 ---
 # Keep track of your Goals
 

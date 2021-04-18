@@ -1,7 +1,7 @@
 ---
 name: 'Thank people back'
 description: ''
-categories: ['Gratitude']
+Categories: ['Gratitude']
 ---
 # Thank people back
 

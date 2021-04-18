@@ -1,7 +1,7 @@
 ---
 name: 'Learn the difference between procrastination and leisure time'
 description: 'Do not confuse and feel bad in your free time thinking that you are procrastinating'
-categories: ['Time', 'Time management', 'Procrastination', 'Leisure']
+Categories: ['Time', 'Time management', 'Procrastination', 'Leisure']
 ---
 # Learn the difference between procrastination and leisure time.
 

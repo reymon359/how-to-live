@@ -1,7 +1,7 @@
 ---
 name: 'Everything in life is practice'
 description: 'Think about what you want to achieve'
-categories: ['Goals', 'Practice']
+Categories: ['Goals', 'Practice']
 ---
 # Everything in life is practice
 

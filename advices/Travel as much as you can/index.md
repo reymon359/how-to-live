@@ -1,7 +1,7 @@
 ---
 name: 'Travel as much as you can'
 description: ''
-categories: ['Open-mindedness', 'Respect', 'Comfort zone', 'Travel']
+Categories: ['Open-mindedness', 'Respect', 'Comfort zone', 'Travel']
 ---
 # Travel as much as you can
 

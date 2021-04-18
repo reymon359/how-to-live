@@ -1,7 +1,7 @@
 ---
 name: 'Research to understand better'
 description: ''
-categories: ['Learning']
+Categories: ['Learning']
 ---
 # Research to understand better
 

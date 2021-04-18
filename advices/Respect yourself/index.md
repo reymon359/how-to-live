@@ -1,7 +1,7 @@
 ---
 name: 'Respect yourself'
 description: ''
-categories: ['Respect', 'Health']
+Categories: ['Respect', 'Health']
 ---
 # Respect yourself
 

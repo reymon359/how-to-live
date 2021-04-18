@@ -1,7 +1,7 @@
 ---
 name: 'Review you Goals'
 description: 'Think about what you want to achieve'
-categories: ['Goals', 'Future', 'Productivity']
+Categories: ['Goals', 'Future', 'Productivity']
 ---
 # Review you Goals
 

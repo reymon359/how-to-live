@@ -1,7 +1,7 @@
 ---
 name: 'Give and share with others'
 description: ''
-categories: ['Material things', 'Helping']
+Categories: ['Material things', 'Helping']
 ---
 # Give and share with others
 

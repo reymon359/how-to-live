@@ -1,7 +1,7 @@
 ---
 name: 'Time is more valuable than money'
 description: ''
-categories: ['Material things', 'Money', 'Time']
+Categories: ['Material things', 'Money', 'Time']
 ---
 # Time is more valuable than money
 

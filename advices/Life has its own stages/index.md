@@ -1,7 +1,7 @@
 ---
 name: 'Life has its own stages'
 description: ''
-categories: ['Growing']
+Categories: ['Growing']
 ---
 # Life has its own stages
 

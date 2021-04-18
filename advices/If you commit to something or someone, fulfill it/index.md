@@ -1,7 +1,7 @@
 ---
 name: 'If you commit to something or someone, fulfill it'
 description: ''
-categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
+Categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
 # If you commit to something or someone, fulfill it
 

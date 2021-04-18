@@ -1,7 +1,7 @@
 ---
 name: 'Set up Goals'
 description: 'Think about what you want to achieve'
-categories: ['Goals', 'Future']
+Categories: ['Goals', 'Future']
 ---
 # Set up Goals
 

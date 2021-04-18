@@ -1,7 +1,7 @@
 ---
 name: 'The 2 minutes rule'
 description: 'If something takes you more than 2 min just do it.'
-categories: ['Time', 'Time management', 'Prioritize']
+Categories: ['Time', 'Time management', 'Prioritize']
 ---
 # The 2 minutes rule
 

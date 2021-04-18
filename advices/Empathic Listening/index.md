@@ -1,7 +1,7 @@
 ---
 name: 'Empathic Listening'
 description: ''
-categories: ['Communication', 'Listening']
+Categories: ['Communication', 'Listening']
 ---
 # Empathic Listening
 

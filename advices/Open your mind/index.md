@@ -1,7 +1,7 @@
 ---
 name: 'Open your mind'
 description: ''
-categories: ['Open-mindedness', 'Respect', 'Comfort zone']
+Categories: ['Open-mindedness', 'Respect', 'Comfort zone']
 ---
 # Open your mind
 

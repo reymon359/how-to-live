@@ -1,7 +1,7 @@
 ---
 name: 'Respect others opinion'
 description: ''
-categories: ['Respect']
+Categories: ['Respect']
 ---
 # Respect others opinion
 

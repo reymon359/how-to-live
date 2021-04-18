@@ -1,7 +1,7 @@
 ---
 name: 'Be grateful'
 description: ''
-categories: ['Gratitude']
+Categories: ['Gratitude']
 ---
 # Be grateful
 

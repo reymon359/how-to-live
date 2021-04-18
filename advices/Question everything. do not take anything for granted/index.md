@@ -1,7 +1,7 @@
 ---
 name: 'Question everything. do not take anything for granted'
 description: ''
-categories: ['Learning']
+Categories: ['Learning']
 ---
 # Question everything. do not take anything for granted
 

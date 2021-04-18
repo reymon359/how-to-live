@@ -1,7 +1,7 @@
 ---
 name: 'Grow with others'
 description: ''
-categories: ['Growing', 'Communication']
+Categories: ['Growing', 'Communication']
 ---
 # Grow with others
 

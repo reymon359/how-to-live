@@ -1,7 +1,7 @@
 ---
 name: 'Helping makes you happy'
 description: ''
-categories: ['Helping', 'Happiness']
+Categories: ['Helping', 'Happiness']
 ---
 # Helping makes you happy
 

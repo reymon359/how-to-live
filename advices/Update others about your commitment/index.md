@@ -1,7 +1,7 @@
 ---
 name: 'Update others about your commitment'
 description: ''
-categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
+Categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
 # Update others about your commitment
 

@@ -1,7 +1,7 @@
 ---
 name: 'Connect with others'
 description: ''
-categories: ['Open-mindedness', 'Comfort zone', 'Communication']
+Categories: ['Open-mindedness', 'Comfort zone', 'Communication']
 ---
 # Connect with others
 
