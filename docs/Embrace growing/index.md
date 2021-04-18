@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Growing](../categories/Growing.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
 # Embrace growing
 
 growing yourself.
@@ -13,4 +13,5 @@ think about your growth
 
 ## Related advices:
 
-[categories:](../categories/index.md) [Growing](../categories/Growing.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

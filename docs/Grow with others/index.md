@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Growing](../categories/Growing.md) [Communication](../categories/Communication.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Communication](../Categories/Communication.md)
 # Grow with others
 
 You can grow alone but you can also grow when you are with others
@@ -11,4 +11,5 @@ You can grow alone but you can also grow when you are with others
 
 ## Related advices:
 
-[categories:](../categories/index.md) [Growing](../categories/Growing.md) [Communication](../categories/Communication.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Communication](../Categories/Communication.md)

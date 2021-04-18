@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Open-mindedness](../categories/Open-mindedness.md) [Respect](../categories/Respect.md) [Comfort zone](../categories/Comfort%20zone.md)
+[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)
 # Open your mind
 
 This one is key, has to do with so many other ones.
@@ -21,4 +21,5 @@ Opening your mind, see other things, understand, respect.
 
 - nobody thinks the same way
 - step outside the comfort ozone
-[categories:](../categories/index.md) [Open-mindedness](../categories/Open-mindedness.md) [Respect](../categories/Respect.md) [Comfort zone](../categories/Comfort%20zone.md)
+
+[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)

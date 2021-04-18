@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Respect](../categories/Respect.md) [Punctuality](../categories/Punctuality.md) [Integrity](../categories/Integrity.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md)
 # Be punctual
 
 when you agree to meet someone at a certain time you are making a promise.
@@ -27,4 +27,5 @@ clean coder
 - lying
 - telling the truth
 - integrity
-[categories:](../categories/index.md) [Respect](../categories/Respect.md) [Punctuality](../categories/Punctuality.md) [Integrity](../categories/Integrity.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md)

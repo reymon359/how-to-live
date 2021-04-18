@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Learning](../categories/Learning.md)
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)
 # Continuous learning
 
 Never stop learning. never
@@ -15,4 +15,5 @@ Step outside of comfort zone to learn
 ## Related advices:
 
 - Step outside comfort zone
-[categories:](../categories/index.md) [Learning](../categories/Learning.md)
+
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)

@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Planning](../categories/Planning.md) [Time](../categories/Time.md)
+[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md)
 # Book time for planning
 
 Book time for plan,
@@ -15,4 +15,5 @@ Plan the next week every weekend or sundeay
 
 ## Related advices:
 
-[categories:](../categories/index.md) [Planning](../categories/Planning.md) [Time](../categories/Time.md)
+
+[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md)

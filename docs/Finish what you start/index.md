@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Goals](../categories/Goals.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)
 # Finish what you start
 
 If you start something finish it.
@@ -18,4 +18,5 @@ to finish things you have to plan and go little by little
 - the hardest is begginning
 - planning
 - little by little
-[categories:](../categories/index.md) [Goals](../categories/Goals.md)
+
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)

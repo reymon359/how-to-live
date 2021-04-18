@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Growing](../categories/Growing.md) [Refactor](../categories/Refactor.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md)
 # Continuous refactor
 
 refactor is blablabla
@@ -19,4 +19,5 @@ The main principle is that you refactor constantly without mercy to improve the 
 - eating elephant
 - little by little
 
-[categories:](../categories/index.md) [Growing](../categories/Growing.md) [Refactor](../categories/Refactor.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md)

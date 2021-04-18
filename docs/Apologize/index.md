@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Respect](../categories/Respect.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
 # Apologize
 
 Apologize with someone if you did something that hurt him/her
@@ -16,4 +16,5 @@ you will feel better
 ## Related advices:
 
 - hurting
-[categories:](../categories/index.md) [Respect](../categories/Respect.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Goals](../categories/Goals.md) [Tracking](../categories/Tracking.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md)
 # Keep track of your Goals
 
 Keep track of the progress of your goals, see where you are and how much you improved
@@ -12,4 +12,5 @@ Keep track of the progress of your goals, see where you are and how much you imp
 ## Related advices:
 
 - [Feedback]()
-[categories:](../categories/index.md) [Goals](../categories/Goals.md) [Tracking](../categories/Tracking.md)
+
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md)

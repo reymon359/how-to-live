@@ -1,93 +1,93 @@
-# categories
+# Categories
 
 
- - [Believing](../categories/Believing.md)
+ - [Believing](../Categories/Believing.md)
     
- - [Comfort zone](../categories/Comfort%20zone.md)
+ - [Comfort zone](../Categories/Comfort%20zone.md)
     
- - [Communication](../categories/Communication.md)
+ - [Communication](../Categories/Communication.md)
     
- - [Future](../categories/Future.md)
+ - [Future](../Categories/Future.md)
     
- - [Goals](../categories/Goals.md)
+ - [Goals](../Categories/Goals.md)
     
- - [Gratitude](../categories/Gratitude.md)
+ - [Gratitude](../Categories/Gratitude.md)
     
- - [Growing](../categories/Growing.md)
+ - [Growing](../Categories/Growing.md)
     
- - [Happiness](../categories/Happiness.md)
+ - [Happiness](../Categories/Happiness.md)
     
- - [Health](../categories/Health.md)
+ - [Health](../Categories/Health.md)
     
- - [Helping](../categories/Helping.md)
+ - [Helping](../Categories/Helping.md)
     
- - [Honesty](../categories/Honesty.md)
+ - [Honesty](../Categories/Honesty.md)
     
- - [Integrity](../categories/Integrity.md)
+ - [Integrity](../Categories/Integrity.md)
     
- - [Learning](../categories/Learning.md)
+ - [Learning](../Categories/Learning.md)
     
- - [Leisure](../categories/Leisure.md)
+ - [Leisure](../Categories/Leisure.md)
     
- - [Listening](../categories/Listening.md)
+ - [Listening](../Categories/Listening.md)
     
- - [Little by little](../categories/Little%20by%20little.md)
+ - [Little by little](../Categories/Little%20by%20little.md)
     
- - [Material things](../categories/Material%20things.md)
+ - [Material things](../Categories/Material%20things.md)
     
- - [Mistakes](../categories/Mistakes.md)
+ - [Mistakes](../Categories/Mistakes.md)
     
- - [Money](../categories/Money.md)
+ - [Money](../Categories/Money.md)
     
- - [Nature](../categories/Nature.md)
+ - [Nature](../Categories/Nature.md)
     
- - [Open minded](../categories/Open%20minded.md)
+ - [Open minded](../Categories/Open%20minded.md)
     
- - [Open-mindedness](../categories/Open-mindedness.md)
+ - [Open-mindedness](../Categories/Open-mindedness.md)
     
- - [Planning](../categories/Planning.md)
+ - [Planning](../Categories/Planning.md)
     
- - [Practice](../categories/Practice.md)
+ - [Practice](../Categories/Practice.md)
     
- - [Prioritize](../categories/Prioritize.md)
+ - [Prioritize](../Categories/Prioritize.md)
     
- - [Procrastination](../categories/Procrastination.md)
+ - [Procrastination](../Categories/Procrastination.md)
     
- - [Productivity](../categories/Productivity.md)
+ - [Productivity](../Categories/Productivity.md)
     
- - [Punctuality](../categories/Punctuality.md)
+ - [Punctuality](../Categories/Punctuality.md)
     
- - [Refactor](../categories/Refactor.md)
+ - [Refactor](../Categories/Refactor.md)
     
- - [Relationships](../categories/Relationships.md)
+ - [Relationships](../Categories/Relationships.md)
     
- - [Religion](../categories/Religion.md)
+ - [Religion](../Categories/Religion.md)
     
- - [Respect](../categories/Respect.md)
+ - [Respect](../Categories/Respect.md)
     
- - [Social](../categories/Social.md)
+ - [Social](../Categories/Social.md)
     
- - [Solutions](../categories/Solutions.md)
+ - [Solutions](../Categories/Solutions.md)
     
- - [Time](../categories/Time.md)
+ - [Time](../Categories/Time.md)
     
- - [Time management](../categories/Time%20management.md)
+ - [Time management](../Categories/Time%20management.md)
     
- - [Tracking](../categories/Tracking.md)
+ - [Tracking](../Categories/Tracking.md)
     
- - [Travel](../categories/Travel.md)
+ - [Travel](../Categories/Travel.md)
     
- - [Trust](../categories/Trust.md)
+ - [Trust](../Categories/Trust.md)
     
- - [Truth](../categories/Truth.md)
+ - [Truth](../Categories/Truth.md)
     
- - [Unknown](../categories/Unknown.md)
+ - [Unknown](../Categories/Unknown.md)
     
- - [Willpower](../categories/Willpower.md)
+ - [Willpower](../Categories/Willpower.md)
     
- - [comfort Zone](../categories/comfort%20Zone.md)
+ - [comfort Zone](../Categories/comfort%20Zone.md)
     
- - [time](../categories/time.md)
+ - [time](../Categories/time.md)
     
- - [time management](../categories/time%20management.md)
+ - [time management](../Categories/time%20management.md)
     

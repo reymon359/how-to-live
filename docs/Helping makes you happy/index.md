@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Helping](../categories/Helping.md) [Happiness](../categories/Happiness.md)
+[Categories:](../Categories/index.md) [Helping](../Categories/Helping.md) [Happiness](../Categories/Happiness.md)
 # Helping makes you happy
 
 ## Quotes
@@ -10,4 +10,5 @@
 ## Related advices:
 
 - offer your help
-[categories:](../categories/index.md) [Helping](../categories/Helping.md) [Happiness](../categories/Happiness.md)
+
+[Categories:](../Categories/index.md) [Helping](../Categories/Helping.md) [Happiness](../Categories/Happiness.md)

@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Open-mindedness](../categories/Open-mindedness.md) [Respect](../categories/Respect.md) [Comfort zone](../categories/Comfort%20zone.md) [Travel](../categories/Travel.md)
+[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md) [Travel](../Categories/Travel.md)
 # Travel as much as you can
 
 travel, see other cultures, other food, people,
@@ -25,4 +25,5 @@ When you travel plan it, not that much but have an idea of  things you want to d
 - step outside the comfort ozone
 - try new things
 - Planning
-[categories:](../categories/index.md) [Open-mindedness](../categories/Open-mindedness.md) [Respect](../categories/Respect.md) [Comfort zone](../categories/Comfort%20zone.md) [Travel](../categories/Travel.md)
+
+[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md) [Travel](../Categories/Travel.md)

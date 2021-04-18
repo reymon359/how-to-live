@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [time management](../categories/time%20management.md) [time](../categories/time.md)
+[Categories:](../Categories/index.md) [time management](../Categories/time%20management.md) [time](../Categories/time.md)
 # Time Management
 
 Time is the only resource finite
@@ -23,4 +23,5 @@ There are no advices related to this one
 
 - []()
 
-[categories:](../categories/index.md) [time management](../categories/time%20management.md) [time](../categories/time.md)
+
+[Categories:](../Categories/index.md) [time management](../Categories/time%20management.md) [time](../Categories/time.md)

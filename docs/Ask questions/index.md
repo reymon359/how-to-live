@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Communication](../categories/Communication.md) [Listening](../categories/Listening.md)
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md)
 # Ask questions
 
 Asking is one of the best ways to communicate and get to know someone, sounds obvious.
@@ -28,4 +28,5 @@ ofc, listen properly to the answer, the better you listen the more you will unde
 - listening
 - asking
 listen before talking
-[categories:](../categories/index.md) [Communication](../categories/Communication.md) [Listening](../categories/Listening.md)
+
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md)

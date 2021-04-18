@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Believing](../categories/Believing.md) [Religion](../categories/Religion.md) [Open minded](../categories/Open%20minded.md)
+[Categories:](../Categories/index.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open minded](../Categories/Open%20minded.md)
 # Most religions have great values
 
 Most religions have good things or are based in good values. Get the best from them.
@@ -13,4 +13,5 @@ Most religions have good things or are based in good values. Get the best from t
 
 - Respect others beliefs
 - be open minded
-[categories:](../categories/index.md) [Believing](../categories/Believing.md) [Religion](../categories/Religion.md) [Open minded](../categories/Open%20minded.md)
+
+[Categories:](../Categories/index.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open minded](../Categories/Open%20minded.md)

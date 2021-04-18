@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Goals](../categories/Goals.md) [Willpower](../categories/Willpower.md) [Comfort zone](../categories/Comfort%20zone.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)
 # If you want you can
 
 If you really want to do something there is always a way.
@@ -23,4 +23,5 @@ Is hard sometimes because you will have to stepp uoutside your comfort zone
 - comfort zone
 - procrastination
 
-[categories:](../categories/index.md) [Goals](../categories/Goals.md) [Willpower](../categories/Willpower.md) [Comfort zone](../categories/Comfort%20zone.md)
+
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)

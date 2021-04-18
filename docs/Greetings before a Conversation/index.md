@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Communication](../categories/Communication.md) [Respect](../categories/Respect.md)
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)
 # Greetings before a Conversation
 
 Always  begin a conversation with a greetings
@@ -17,4 +17,5 @@ add some question in the greetings, even a simple how are you?
 
 - communication
 - asking
-[categories:](../categories/index.md) [Communication](../categories/Communication.md) [Respect](../categories/Respect.md)
+
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)

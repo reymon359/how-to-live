@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Growing](../categories/Growing.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
 # Life has its own stages
 
 The things you like, do, eat, exercise, …. when you are 15 are not the same when you are 30.  There are life stages and we pass through them, everyone has their life stages, and pass through them at different times. Do not expect people to do, like, … the same stuff as you just because you have a similar age. And as with everything learn from other people stages, try to get the best about what they do, like, … in addition share and provide them with your experience and advice on them. Related #4.2 Respect others. #13.1 Give and share with others.
@@ -16,4 +16,5 @@ Pablo was the first one that made me realize it
 
 - little by little
 
-[categories:](../categories/index.md) [Growing](../categories/Growing.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

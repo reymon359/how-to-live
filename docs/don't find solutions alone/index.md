@@ -15,3 +15,4 @@ Ask for other opinions. See different points of view, evaluate them.
 
 - there is always a solution
 
+

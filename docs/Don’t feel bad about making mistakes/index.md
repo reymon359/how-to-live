@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Mistakes](../categories/Mistakes.md)
+[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
 # Don’t feel bad about making mistakes
 
 Don’t feel bad about making mistakes, instead, feel good because next time you will know better how to act in that situation. 
@@ -22,4 +22,5 @@ Dont worry about mistakes and past things that can not be solved
 - to worry is a waste of time
 - fail with success
 - Things are not black or white
-[categories:](../categories/index.md) [Mistakes](../categories/Mistakes.md)
+
+[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)

@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Material things](../categories/Material%20things.md) [Money](../categories/Money.md)
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)
 # Money is a Means, Not an End
 
 Money is just something you use to accomplish other things.
@@ -16,4 +16,5 @@ https://lifeincharge.com/money-is-a-means-not-an-end
 
 - 
 
-[categories:](../categories/index.md) [Material things](../categories/Material%20things.md) [Money](../categories/Money.md)
+
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)

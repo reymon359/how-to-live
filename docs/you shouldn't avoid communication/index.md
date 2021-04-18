@@ -7,6 +7,8 @@ You should not avoid these situations, the oposite, you should embrace them,
 
 Communicating and more important, listening is the best way to understand something or someone.
 
+
+
 ## Quotes
 
 ## Resources
@@ -18,3 +20,4 @@ Communicating and more important, listening is the best way to understand someth
 - respect
 - listening
 - 
+

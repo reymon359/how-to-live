@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Respect](../categories/Respect.md) [Nature](../categories/Nature.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Nature](../Categories/Nature.md)
 # Respect nature
 
 Respect nature. Animals, plants, natural spaces.
@@ -25,4 +25,5 @@ enjoy this world
 
 - Just buy what you need
 - minimalism
-[categories:](../categories/index.md) [Respect](../categories/Respect.md) [Nature](../categories/Nature.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Nature](../Categories/Nature.md)

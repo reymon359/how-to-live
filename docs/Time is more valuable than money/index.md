@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Material things](../categories/Material%20things.md) [Money](../categories/Money.md) [Time](../categories/Time.md)
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md) [Time](../Categories/Time.md)
 # Time is more valuable than money
 
 Always think if certain action is worth the time in exchange of the money you will get from it. 
@@ -21,4 +21,5 @@ When doing things to obtain money like for example selling an item you no longer
 - Give and share with others
 
 
-[categories:](../categories/index.md) [Material things](../categories/Material%20things.md) [Money](../categories/Money.md) [Time](../categories/Time.md)
+
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md) [Time](../Categories/Time.md)

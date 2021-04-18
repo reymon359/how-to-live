@@ -21,3 +21,4 @@ software development
 - minimalism
 - just buy what you need
 
+

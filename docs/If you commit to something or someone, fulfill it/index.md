@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Respect](../categories/Respect.md) [Integrity](../categories/Integrity.md) [Truth](../categories/Truth.md) [Trust](../categories/Trust.md) [Honesty](../categories/Honesty.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
 # If you commit to something or someone, fulfill it
 
 this is about fullfilling your promises
@@ -19,4 +19,5 @@ its also about your integrity
 - not lying
 - telling the truth
 - update others about your commitment
-[categories:](../categories/index.md) [Respect](../categories/Respect.md) [Integrity](../categories/Integrity.md) [Truth](../categories/Truth.md) [Trust](../categories/Trust.md) [Honesty](../categories/Honesty.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

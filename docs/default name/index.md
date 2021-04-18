@@ -1,4 +1,4 @@
-[categories:](../categories/index.md)
+[Categories:](../Categories/index.md)
 # <!-- TODO: Replace this with title -->
 <!-- TODO: Add description here -->
 
@@ -22,4 +22,5 @@ There are no advices related to this one
 
 - []()
 
-[categories:](../categories/index.md)
+
+[Categories:](../Categories/index.md)

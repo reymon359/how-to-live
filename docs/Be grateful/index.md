@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Gratitude](../categories/Gratitude.md)
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)
 # Be grateful
 
 Be grateful for what you are, have, do
@@ -12,4 +12,5 @@ Realize where you are, what have you achieve, what you have, the sun, everything
 ## Credits
 
 ## Related advices:
-[categories:](../categories/index.md) [Gratitude](../categories/Gratitude.md)
+
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)

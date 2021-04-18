@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Communication](../categories/Communication.md) [Trust](../categories/Trust.md) [Integrity](../categories/Integrity.md)
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)
 # Go with the truth
 
 Always go with the truth when communiating
@@ -26,4 +26,5 @@ its about building trust with other people
 - your integrity is very important
 - communication
 - trust other poeple
-[categories:](../categories/index.md) [Communication](../categories/Communication.md) [Trust](../categories/Trust.md) [Integrity](../categories/Integrity.md)
+
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)

@@ -164,5 +164,5 @@ How to live description
 ## Classifications
 
 
- - [categories](categories/index.md)
+ - [Categories](Categories/index.md)
     

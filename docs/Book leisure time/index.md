@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Time](../categories/Time.md) [Time management](../categories/Time%20management.md) [Leisure](../categories/Leisure.md)
+[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Leisure](../Categories/Leisure.md)
 # Book leisure time
 
 // TODO improve
@@ -20,4 +20,5 @@ Also let things flow and adapt to situations when some leisure plans appear you 
 - [Let it flow]()
 - [Just do it]()
 - [Manage the time you have]()
-[categories:](../categories/index.md) [Time](../categories/Time.md) [Time management](../categories/Time%20management.md) [Leisure](../categories/Leisure.md)
+
+[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Leisure](../Categories/Leisure.md)

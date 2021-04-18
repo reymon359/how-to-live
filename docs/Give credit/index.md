@@ -1,4 +1,4 @@
-[categories:](../categories/index.md) [Gratitude](../categories/Gratitude.md) [Truth](../categories/Truth.md) [Honesty](../categories/Honesty.md)
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Honesty](../Categories/Honesty.md)
 # Give credit
 
 Give credit for things, also related with tell the truth
@@ -15,4 +15,5 @@ acknowledgements
 
 - be grateful
 - tell the truth    
-[categories:](../categories/index.md) [Gratitude](../categories/Gratitude.md) [Truth](../categories/Truth.md) [Honesty](../categories/Honesty.md)
+
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Honesty](../Categories/Honesty.md)

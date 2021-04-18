@@ -16,3 +16,4 @@ wait for your moment to talk, and don't feel the urge to communicate your opinio
 - listening
 - asking
 listen before talking
+
