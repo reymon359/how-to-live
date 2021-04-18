@@ -1,9 +1,9 @@
 ---
-name: 'default name'
+name: 'Don't Complain'
 description: 'default description'
 Categories: []
 ---
-# <!-- TODO: Replace this with title -->
+# Don't Complain
 <!-- TODO: Add description here -->
 
 ## Quotes
@@ -13,8 +13,7 @@ There are no related quotes to this advice
 
 ## Resources
 
-<!-- TODO: Add Resources here if there are-->
-There are no related resources to this advice
+erroenous zones
 
 ## Credits
 

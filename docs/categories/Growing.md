@@ -5,6 +5,8 @@
     
  - [Embrace growing](../Embrace%20growing/index.md)
     
+ - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
+    
  - [Grow with others](../Grow%20with%20others/index.md)
     
  - [Integrity](../Integrity/index.md)

@@ -11,6 +11,8 @@ You excite your brain too much before sleep
 
 You can stay there forever and waste time in social media
 
+Also when waking up. Dont go in to the phone just when wake up.
+
 ## Quotes
 
 ## Resources

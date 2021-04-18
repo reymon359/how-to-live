@@ -5,6 +5,8 @@
     
  - [Learn step by step](../Learn%20step%20by%20step/index.md)
     
+ - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
+    
  - [Question everything. do not take anything for granted](../Question%20everything.%20do%20not%20take%20anything%20for%20granted/index.md)
     
  - [Read books](../Read%20books/index.md)

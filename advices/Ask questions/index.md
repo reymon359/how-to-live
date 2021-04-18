@@ -17,6 +17,8 @@ you can even use a default one like "And what else can you tell me?"
 
 ofc, listen properly to the answer, the better you listen the more you will understand
 
+What you say you already know it
+
 ## Quotes
 
 ## Resources

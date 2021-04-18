@@ -41,6 +41,8 @@
     
  - [Money](../Categories/Money.md)
     
+ - [Music](../Categories/Music.md)
+    
  - [Nature](../Categories/Nature.md)
     
  - [Open minded](../Categories/Open%20minded.md)
@@ -52,6 +54,8 @@
  - [Practice](../Categories/Practice.md)
     
  - [Prioritize](../Categories/Prioritize.md)
+    
+ - [Problems](../Categories/Problems.md)
     
  - [Procrastination](../Categories/Procrastination.md)
     
@@ -70,6 +74,8 @@
  - [Sleep](../Categories/Sleep.md)
     
  - [Social](../Categories/Social.md)
+    
+ - [Solitude](../Categories/Solitude.md)
     
  - [Solutions](../Categories/Solutions.md)
     

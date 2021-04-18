@@ -10,6 +10,8 @@
         
      - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
         
+     - [Be independent](Be%20independent/index.md)
+        
      - [Be punctual](Be%20punctual/index.md)
         
      - [Book leisure time](Book%20leisure%20time/index.md)
@@ -27,6 +29,8 @@
      - [Discover new music](Discover%20new%20music/index.md)
         
      - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
+        
+     - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
         
      - [Do things that fulfill you and makes you happy](Do%20things%20that%20fulfill%20you%20and%20makes%20you%20happy/index.md)
         
@@ -56,11 +60,17 @@
         
      - [Fail with success](Fail%20with%20success/index.md)
         
+     - [Find a way to get the milk without buying the cow](Find%20a%20way%20to%20get%20the%20milk%20without%20buying%20the%20cow/index.md)
+        
      - [Finish what you start](Finish%20what%20you%20start/index.md)
+        
+     - [Get to know yourself](Get%20to%20know%20yourself/index.md)
         
      - [Give and share with others](Give%20and%20share%20with%20others/index.md)
         
      - [Give credit](Give%20credit/index.md)
+        
+     - [Give second chances](Give%20second%20chances/index.md)
         
      - [Go to the doctor](Go%20to%20the%20doctor/index.md)
         
@@ -85,6 +95,10 @@
      - [Learn step by step](Learn%20step%20by%20step/index.md)
         
      - [Learn the difference between procrastination and leisure time](Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
+        
+     - [Learn to be alone](Learn%20to%20be%20alone/index.md)
+        
+     - [Learn to forgive](Learn%20to%20forgive/index.md)
         
      - [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
         
@@ -114,9 +128,15 @@
         
      - [Optimize your stuff](Optimize%20your%20stuff/index.md)
         
+     - [Pay attention](Pay%20attention/index.md)
+        
      - [Question everything. do not take anything for granted](Question%20everything.%20do%20not%20take%20anything%20for%20granted/index.md)
         
      - [Read books](Read%20books/index.md)
+        
+     - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
+        
+     - [Remove dependencies](Remove%20dependencies/index.md)
         
      - [Research to understand better](Research%20to%20understand%20better/index.md)
         
@@ -146,6 +166,10 @@
         
      - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
         
+     - [Stick to people that give you useful advice and reach them when you are in trouble](Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)
+        
+     - [Surround yourself of people that sum and remove from your life the negative ones](Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)
+        
      - [Take care of your mental health](Take%20care%20of%20your%20mental%20health/index.md)
         
      - [Teaching is one of the best ways to learn](Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
@@ -156,7 +180,11 @@
         
      - [The Eisenhower Matrix](The%20Eisenhower%20Matrix/index.md)
         
+     - [The five whys](The%20five%20whys/index.md)
+        
      - [The hardest part is starting](The%20hardest%20part%20is%20starting/index.md)
+        
+     - [The rule of holes](The%20rule%20of%20holes/index.md)
         
      - [The simpler the better](The%20simpler%20the%20better/index.md)
         
@@ -170,9 +198,9 @@
         
      - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
         
-     - [default name](default%20name/index.md)
-        
      - [don't be emotionally attached to money.](don't%20be%20emotionally%20attached%20to%20money./index.md)
+        
+     - [don't complain](don't%20complain/index.md)
         
      - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
         
@@ -180,9 +208,13 @@
         
      - [don't interrupt](don't%20interrupt/index.md)
         
+     - [don't judge the whole by the part](don't%20judge%20the%20whole%20by%20the%20part/index.md)
+        
      - [don't overthink](don't%20overthink/index.md)
         
      - [don't procrastinate](don't%20procrastinate/index.md)
+        
+     - [don't seek for approval](don't%20seek%20for%20approval/index.md)
         
      - [don't waste time on social media](don't%20waste%20time%20on%20social%20media/index.md)
         
@@ -252,6 +284,8 @@
         
      - [Prioritize](../Categories/Prioritize.md)
         
+     - [Problems](../Categories/Problems.md)
+        
      - [Procrastination](../Categories/Procrastination.md)
         
      - [Productivity](../Categories/Productivity.md)
@@ -269,6 +303,8 @@
      - [Sleep](../Categories/Sleep.md)
         
      - [Social](../Categories/Social.md)
+        
+     - [Solitude](../Categories/Solitude.md)
         
      - [Solutions](../Categories/Solutions.md)
         
