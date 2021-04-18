@@ -1,4 +1,4 @@
-[categories:](categories/index.md) [Goals](../categories/Goals.md) [Practice](../categories/Practice.md)
+[categories:](../categories/index.md) [Goals](../categories/Goals.md) [Practice](../categories/Practice.md)
 # Everything in life is practice
 
 ![Practice by Sarah Andersen](./assets/sarah_andersen_practice.jpg)
@@ -18,4 +18,4 @@ If your goal is to improve at something you have to practice
 ## Related advices:
 
 - Little by little
-[categories:](categories/index.md) [Goals](../categories/Goals.md) [Practice](../categories/Practice.md)
+[categories:](../categories/index.md) [Goals](../categories/Goals.md) [Practice](../categories/Practice.md)

@@ -11,6 +11,8 @@
     
  - [Greetings before a Conversation](../Greetings%20before%20a%20Conversation/index.md)
     
+ - [Grow with others](../Grow%20with%20others/index.md)
+    
  - [Listen before talking](../Listen%20before%20talking/index.md)
     
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)

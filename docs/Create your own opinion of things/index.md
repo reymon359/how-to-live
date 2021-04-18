@@ -1,4 +1,4 @@
-[categories:](categories/index.md) [Open-mindedness](../categories/Open-mindedness.md)
+[categories:](../categories/index.md) [Open-mindedness](../categories/Open-mindedness.md)
 # Create your own opinion of things
 
 When you have an open minded
@@ -19,4 +19,4 @@ maybe some things that have been imposed to you culturally make no sense now
 ## Related advices:
 
 - Open your mind
-[categories:](categories/index.md) [Open-mindedness](../categories/Open-mindedness.md)
+[categories:](../categories/index.md) [Open-mindedness](../categories/Open-mindedness.md)

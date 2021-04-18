@@ -1,4 +1,4 @@
-[categories:](categories/index.md) [Respect](../categories/Respect.md)
+[categories:](../categories/index.md) [Respect](../categories/Respect.md)
 # Don’t do something that hurts another person
 
 Not just phisically but mentally too
@@ -20,4 +20,4 @@ if you do it for whatever reason, apologize
 
 - helping
 - apologize
-[categories:](categories/index.md) [Respect](../categories/Respect.md)
+[categories:](../categories/index.md) [Respect](../categories/Respect.md)

@@ -1,4 +1,4 @@
-[categories:](categories/index.md) [Respect](../categories/Respect.md)
+[categories:](../categories/index.md) [Respect](../categories/Respect.md)
 # Respect others opinion
 
 Nobody thinks like you do, because of culture, social situations, experiences, whatever.
@@ -28,4 +28,4 @@ erroneous zones
 
 - nobody thinks the same way
 -
-[categories:](categories/index.md) [Respect](../categories/Respect.md)
+[categories:](../categories/index.md) [Respect](../categories/Respect.md)
