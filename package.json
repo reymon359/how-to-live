@@ -2,10 +2,8 @@
   "name": "how-to-live",
   "version": "0.0.1",
   "description": "how to live tips",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs": "collman --id advices"
   },
   "repository": {
     "type": "git",
