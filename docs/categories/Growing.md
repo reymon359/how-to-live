@@ -15,3 +15,7 @@
     
  - [Look for feedback](../Look%20for%20feedback/index.md)
     
+ - [Rectify](../Rectify/index.md)
+    
+ - [What you want, is constantly changing](../What%20you%20want,%20is%20constantly%20changing/index.md)
+    

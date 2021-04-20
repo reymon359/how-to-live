@@ -15,6 +15,8 @@
     
  - [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     
+ - [Let it flow](../Let%20it%20flow/index.md)
+    
  - [Listen before talking](../Listen%20before%20talking/index.md)
     
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)

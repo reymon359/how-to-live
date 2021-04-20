@@ -14,6 +14,8 @@ How to live description
     
  - [Avoid mobile when going to sleep](Avoid%20mobile%20when%20going%20to%20sleep/index.md)
     
+ - [Be empathetic](Be%20empathetic/index.md)
+    
  - [Be grateful](Be%20grateful/index.md)
     
  - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
@@ -62,6 +64,8 @@ How to live description
     
  - [Enjoy the little things](Enjoy%20the%20little%20things/index.md)
     
+ - [Enjoy the moment](Enjoy%20the%20moment/index.md)
+    
  - [Everything in life is practice](Everything%20in%20life%20is%20practice/index.md)
     
  - [Exercise frequently](Exercise%20frequently/index.md)
@@ -71,6 +75,10 @@ How to live description
  - [Find a way to get the milk without buying the cow](Find%20a%20way%20to%20get%20the%20milk%20without%20buying%20the%20cow/index.md)
     
  - [Finish what you start](Finish%20what%20you%20start/index.md)
+    
+ - [First make it work, then refactor](First%20make%20it%20work,%20then%20refactor/index.md)
+    
+ - [Follow standards](Follow%20standards/index.md)
     
  - [Get to know yourself](Get%20to%20know%20yourself/index.md)
     
@@ -94,6 +102,8 @@ How to live description
     
  - [If you want you can](If%20you%20want%20you%20can/index.md)
     
+ - [Inbox zero](Inbox%20zero/index.md)
+    
  - [Integrity](Integrity/index.md)
     
  - [Just buy what you need](Just%20buy%20what%20you%20need/index.md)
@@ -107,6 +117,8 @@ How to live description
  - [Learn to be alone](Learn%20to%20be%20alone/index.md)
     
  - [Learn to forgive](Learn%20to%20forgive/index.md)
+    
+ - [Let it flow](Let%20it%20flow/index.md)
     
  - [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
     
@@ -141,6 +153,8 @@ How to live description
  - [Question everything. do not take anything for granted](Question%20everything.%20do%20not%20take%20anything%20for%20granted/index.md)
     
  - [Read books](Read%20books/index.md)
+    
+ - [Rectify](Rectify/index.md)
     
  - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
     
@@ -196,6 +210,8 @@ How to live description
     
  - [The simpler the better](The%20simpler%20the%20better/index.md)
     
+ - [The world is not fair](The%20world%20is%20not%20fair/index.md)
+    
  - [There is always a solution](There%20is%20always%20a%20solution/index.md)
     
  - [Time is more valuable than money](Time%20is%20more%20valuable%20than%20money/index.md)
@@ -206,6 +222,10 @@ How to live description
     
  - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
     
+ - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
+    
+ - [be punctual](be%20punctual/index.md)
+    
  - [don't be emotionally attached to money.](don't%20be%20emotionally%20attached%20to%20money./index.md)
     
  - [don't complain](don't%20complain/index.md)
@@ -213,6 +233,8 @@ How to live description
  - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
     
  - [don't get attached to material things](don't%20get%20attached%20to%20material%20things/index.md)
+    
+ - [don't give more importance to things than they already have](don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
     
  - [don't interrupt](don't%20interrupt/index.md)
     
@@ -229,6 +251,8 @@ How to live description
  - [dry don't repeat yourself](dry%20don't%20repeat%20yourself/index.md)
     
  - [question what you don't understand](question%20what%20you%20don't%20understand/index.md)
+    
+ - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
     
  - [you shouldn't avoid communication](you%20shouldn't%20avoid%20communication/index.md)
     

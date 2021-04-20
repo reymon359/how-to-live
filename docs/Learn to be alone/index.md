@@ -16,6 +16,8 @@ But, through love and friendship, socializing with others, we are capable of cre
 
 DAte yourself, miriam
 
+care with Ivory tower Syndrome
+
 ## Resources
 https://www.reddit.com/r/explainlikeimfive/comments/1kfvr2/eli5the_true_meaning_behind_orson_welles_famous/
 ## Credits

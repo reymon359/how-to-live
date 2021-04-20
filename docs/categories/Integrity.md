@@ -1,6 +1,8 @@
 # Integrity
 
 
+ - [Be empathetic](../Be%20empathetic/index.md)
+    
  - [Be punctual](../Be%20punctual/index.md)
     
  - [Go with the truth](../Go%20with%20the%20truth/index.md)

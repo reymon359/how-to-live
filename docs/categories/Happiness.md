@@ -11,6 +11,8 @@
     
  - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
     
+ - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
+    
  - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
     
  - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
