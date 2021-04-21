@@ -7,7 +7,7 @@ Categories: ['Growing']
 
 Do things no matter who is looking. Don't do things to impress
 
-
+What other people think doesnt matter, is their issue.
 ## Quotes
 
 ## Resources

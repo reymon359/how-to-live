@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/reymon359/how-to-live#readme",
   "dependencies": {
-    "collman": "0.0.4"
+    "collman": "0.0.5"
   }
 }

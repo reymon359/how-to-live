@@ -22,6 +22,8 @@ How to live description
     
  - [Be independent](Be%20independent/index.md)
     
+ - [Be kind to yourself and others](Be%20kind%20to%20yourself%20and%20others/index.md)
+    
  - [Be punctual](Be%20punctual/index.md)
     
  - [Book leisure time](Book%20leisure%20time/index.md)
@@ -96,6 +98,8 @@ How to live description
     
  - [Grow with others](Grow%20with%20others/index.md)
     
+ - [Have ownership of what you do](Have%20ownership%20of%20what%20you%20do/index.md)
+    
  - [Helping makes you happy](Helping%20makes%20you%20happy/index.md)
     
  - [If you commit to something or someone, fulfill it](If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
@@ -108,13 +112,19 @@ How to live description
     
  - [Just buy what you need](Just%20buy%20what%20you%20need/index.md)
     
+ - [Keep contact with people that matters to you](Keep%20contact%20with%20people%20that%20matters%20to%20you/index.md)
+    
  - [Keep track of your Goals](Keep%20track%20of%20your%20Goals/index.md)
     
  - [Learn step by step](Learn%20step%20by%20step/index.md)
     
  - [Learn the difference between procrastination and leisure time](Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
     
+ - [Learn to adapt](Learn%20to%20adapt/index.md)
+    
  - [Learn to be alone](Learn%20to%20be%20alone/index.md)
+    
+ - [Learn to delegate](Learn%20to%20delegate/index.md)
     
  - [Learn to forgive](Learn%20to%20forgive/index.md)
     
@@ -149,6 +159,10 @@ How to live description
  - [Optimize your stuff](Optimize%20your%20stuff/index.md)
     
  - [Pay attention](Pay%20attention/index.md)
+    
+ - [Practice Mindfulness](Practice%20Mindfulness/index.md)
+    
+ - [Practice empathy](Practice%20empathy/index.md)
     
  - [Question everything. do not take anything for granted](Question%20everything.%20do%20not%20take%20anything%20for%20granted/index.md)
     
@@ -192,7 +206,11 @@ How to live description
     
  - [Surround yourself of people that sum and remove from your life the negative ones](Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)
     
+ - [Take action](Take%20action/index.md)
+    
  - [Take care of your mental health](Take%20care%20of%20your%20mental%20health/index.md)
+    
+ - [Take notes](Take%20notes/index.md)
     
  - [Teaching is one of the best ways to learn](Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
     
@@ -214,6 +232,8 @@ How to live description
     
  - [There is always a solution](There%20is%20always%20a%20solution/index.md)
     
+ - [There is no black or white](There%20is%20no%20black%20or%20white/index.md)
+    
  - [Time is more valuable than money](Time%20is%20more%20valuable%20than%20money/index.md)
     
  - [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
@@ -227,6 +247,8 @@ How to live description
  - [be punctual](be%20punctual/index.md)
     
  - [don't be emotionally attached to money.](don't%20be%20emotionally%20attached%20to%20money./index.md)
+    
+ - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
     
  - [don't complain](don't%20complain/index.md)
     
@@ -243,6 +265,8 @@ How to live description
  - [don't overthink](don't%20overthink/index.md)
     
  - [don't procrastinate](don't%20procrastinate/index.md)
+    
+ - [don't reinvent the wheel](don't%20reinvent%20the%20wheel/index.md)
     
  - [don't seek for approval](don't%20seek%20for%20approval/index.md)
     

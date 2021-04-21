@@ -5,5 +5,9 @@
     
  - [Inbox zero](../Inbox%20zero/index.md)
     
+ - [Learn to delegate](../Learn%20to%20delegate/index.md)
+    
  - [Review you Goals](../Review%20you%20Goals/index.md)
+    
+ - [Take notes](../Take%20notes/index.md)
     

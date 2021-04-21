@@ -3,6 +3,8 @@
 
  - [Be grateful](../Be%20grateful/index.md)
     
+ - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+    
  - [Discover new music](../Discover%20new%20music/index.md)
     
  - [Do things that fulfill you and makes you happy](../Do%20things%20that%20fulfill%20you%20and%20makes%20you%20happy/index.md)

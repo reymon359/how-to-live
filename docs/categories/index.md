@@ -71,6 +71,8 @@
     
  - [Respect](../Categories/Respect.md)
     
+ - [Responsibility](../Categories/Responsibility.md)
+    
  - [Sleep](../Categories/Sleep.md)
     
  - [Social](../Categories/Social.md)

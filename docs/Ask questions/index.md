@@ -15,6 +15,8 @@ ofc, listen properly to the answer, the better you listen the more you will unde
 
 What you say you already know it
 
+If you didnt’t understand something, ask again
+
 ## Quotes
 
 ## Resources

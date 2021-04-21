@@ -3,6 +3,8 @@
 
  - [Apologize](../Apologize/index.md)
     
+ - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+    
  - [Be punctual](../Be%20punctual/index.md)
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
@@ -23,6 +25,10 @@
     
  - [Open your mind](../Open%20your%20mind/index.md)
     
+ - [Practice Mindfulness](../Practice%20Mindfulness/index.md)
+    
+ - [Practice empathy](../Practice%20empathy/index.md)
+    
  - [Respect nature](../Respect%20nature/index.md)
     
  - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
@@ -30,6 +36,8 @@
  - [Respect others opinion](../Respect%20others%20opinion/index.md)
     
  - [Respect yourself](../Respect%20yourself/index.md)
+    
+ - [Take action](../Take%20action/index.md)
     
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
     
