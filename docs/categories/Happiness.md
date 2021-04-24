@@ -1,6 +1,8 @@
 # Happiness
 
 
+ - [Apologize](../Apologize/index.md)
+    
  - [Be grateful](../Be%20grateful/index.md)
     
  - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)

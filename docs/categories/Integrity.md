@@ -1,11 +1,15 @@
 # Integrity
 
 
+ - [Apologize](../Apologize/index.md)
+    
  - [Be empathetic](../Be%20empathetic/index.md)
     
- - [Be punctual](../Be%20punctual/index.md)
+ - [Be empathetic](../Be%20empathetic/index.md)
     
- - [Go with the truth](../Go%20with%20the%20truth/index.md)
+ - [Be honest](../Be%20honest/index.md)
+    
+ - [Be punctual](../Be%20punctual/index.md)
     
  - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
     

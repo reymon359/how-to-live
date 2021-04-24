@@ -1,6 +1,8 @@
 # Solutions
 
 
+ - [Apologize](../Apologize/index.md)
+    
  - [Look for solutions in life situations](../Look%20for%20solutions%20in%20life%20situations/index.md)
     
  - [Rectify](../Rectify/index.md)

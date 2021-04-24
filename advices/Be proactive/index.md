@@ -1,4 +1,8 @@
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md)
+---
+name: 'Be empathetic'
+description: ''
+Categories: ['Integrity']
+---
 # Be empathetic
 
 Contents
@@ -26,5 +30,3 @@ put yourself in other people shoes
 ## Related advices
 - emphatic listening
 - be kind
-
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md)

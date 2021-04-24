@@ -1,5 +1,9 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)
-# Go with the truth
+---
+name: 'Be honest'
+description: ''
+Categories: ['Respect', 'Communication', 'Trust', 'Integrity']
+---
+# Be honest
 
 Always go with the truth when communiating
 
@@ -10,6 +14,7 @@ no matter how bad it is if the other person finds out later that you were lying 
 its about your integrity
 
 its about building trust with other people
+
 
 ## Quotes
 
@@ -26,5 +31,3 @@ its about building trust with other people
 - your integrity is very important
 - communication
 - trust other poeple
-
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)

@@ -8,9 +8,13 @@
         
      - [Be empathetic](Be%20empathetic/index.md)
         
+     - [Be empathetic](Be%20empathetic/index.md)
+        
      - [Be grateful](Be%20grateful/index.md)
         
      - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
+        
+     - [Be honest](Be%20honest/index.md)
         
      - [Be independent](Be%20independent/index.md)
         
@@ -84,8 +88,6 @@
         
      - [Go to the doctor](Go%20to%20the%20doctor/index.md)
         
-     - [Go with the truth](Go%20with%20the%20truth/index.md)
-        
      - [Greetings before a Conversation](Greetings%20before%20a%20Conversation/index.md)
         
      - [Grow with others](Grow%20with%20others/index.md)
@@ -99,8 +101,6 @@
      - [If you want you can](If%20you%20want%20you%20can/index.md)
         
      - [Inbox zero](Inbox%20zero/index.md)
-        
-     - [Integrity](Integrity/index.md)
         
      - [Just buy what you need](Just%20buy%20what%20you%20need/index.md)
         
@@ -135,6 +135,8 @@
      - [Look for feedback](Look%20for%20feedback/index.md)
         
      - [Look for solutions in life situations](Look%20for%20solutions%20in%20life%20situations/index.md)
+        
+     - [Maintain your integrity](Maintain%20your%20integrity/index.md)
         
      - [Manage the time you have](Manage%20the%20time%20you%20have/index.md)
         

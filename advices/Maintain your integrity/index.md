@@ -1,9 +1,9 @@
 ---
-name: 'Integrity'
+name: 'Maintain your integrity'
 description: ''
 Categories: ['Growing']
 ---
-# Integrity
+# Maintain your integrity
 
 
 ## Quotes

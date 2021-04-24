@@ -22,7 +22,7 @@ clean coder
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - lying
 - telling the truth

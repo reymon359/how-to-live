@@ -1,15 +1,17 @@
 # Communication
 
 
+ - [Apologize](../Apologize/index.md)
+    
  - [Ask questions](../Ask%20questions/index.md)
+    
+ - [Be honest](../Be%20honest/index.md)
     
  - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
     
  - [Connect with others](../Connect%20with%20others/index.md)
     
  - [Empathic Listening](../Empathic%20Listening/index.md)
-    
- - [Go with the truth](../Go%20with%20the%20truth/index.md)
     
  - [Greetings before a Conversation](../Greetings%20before%20a%20Conversation/index.md)
     
