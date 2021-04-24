@@ -27,7 +27,7 @@ If you didnt’t understand something, ask again
 
 7 habits
 
-## Related advices:
+## Related advices
 
 - listening
 - asking

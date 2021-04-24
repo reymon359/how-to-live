@@ -9,7 +9,7 @@ Have ownership of what you do, ownership of code,
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md)

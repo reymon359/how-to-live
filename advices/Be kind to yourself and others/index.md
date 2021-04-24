@@ -12,4 +12,4 @@ Categories: ['Respect', 'Happiness', 'Communication']
 
 ## Credits
 
-## Related advices:
+## Related advices

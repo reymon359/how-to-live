@@ -18,7 +18,7 @@ There are no related resources to this advice
 <!-- TODO: Add Where I learned this-->
 I learned this at, from, ...
 
-## Related advices:
+## Related advices
 There are no advices related to this one
 
 - []()

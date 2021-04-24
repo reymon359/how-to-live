@@ -13,6 +13,6 @@ Be grateful to your parents, family, friends, teachers, etc
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Be grateful

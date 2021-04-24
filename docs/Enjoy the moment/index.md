@@ -8,7 +8,7 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - little things
 

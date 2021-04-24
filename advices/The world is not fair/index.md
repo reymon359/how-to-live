@@ -13,5 +13,5 @@ Categories: []
 erroneous zones
 ## Credits
 
-## Related advices:
+## Related advices
 

@@ -13,7 +13,7 @@ Also let things flow and adapt to situations when some leisure plans appear you 
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - [Don't Procrastinate](../Don't%20procrastinate)
 - [Adapt to the situations]()

@@ -17,6 +17,6 @@ you will feel better
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - hurting

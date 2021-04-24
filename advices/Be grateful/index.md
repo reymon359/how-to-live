@@ -15,4 +15,4 @@ Realize where you are, what have you achieve, what you have, the sun, everything
 
 ## Credits
 
-## Related advices:
+## Related advices

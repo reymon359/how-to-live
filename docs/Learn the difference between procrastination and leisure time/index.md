@@ -23,7 +23,7 @@ Another way to tell if you are procrastinating resides inside you when you feel 
 
 I read about this in some book but can't remember the name now.
 
-## Related advices:
+## Related advices
 - [Pomodoro]()
 - [Don't Procrastinate](../Don't%20procrastinate)
 - [Leisure time]()

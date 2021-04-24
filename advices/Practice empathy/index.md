@@ -11,4 +11,4 @@ Categories: ['Respect']
 
 ## Credits
 
-## Related advices:
+## Related advices

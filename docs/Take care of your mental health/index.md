@@ -15,7 +15,7 @@ Your mind is part of it too
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listen to your body
 

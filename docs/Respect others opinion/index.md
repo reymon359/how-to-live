@@ -24,7 +24,7 @@ erroneous zones
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - nobody thinks the same way
 -

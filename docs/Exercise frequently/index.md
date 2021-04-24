@@ -15,7 +15,7 @@ don't excess, listen to your body
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - little by little
 - listen to your body

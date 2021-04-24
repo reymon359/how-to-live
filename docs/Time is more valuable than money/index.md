@@ -15,7 +15,7 @@ When doing things to obtain money like for example selling an item you no longer
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Time
 - Give and share with others

@@ -9,7 +9,7 @@ Keep track of the progress of your goals, see where you are and how much you imp
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - [Feedback]()
 

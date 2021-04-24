@@ -7,7 +7,7 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - don't feel guilty
 - don't worry

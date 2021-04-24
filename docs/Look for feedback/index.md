@@ -14,7 +14,7 @@ In software the feedback from users is super valuable
 software development
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

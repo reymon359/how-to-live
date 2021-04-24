@@ -15,7 +15,7 @@ wait for your moment to talk, and don't feel the urge to communicate your opinio
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listening
 - asking

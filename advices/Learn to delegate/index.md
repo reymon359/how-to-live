@@ -12,4 +12,4 @@ Categories: ['Productivity']
 
 ## Credits
 
-## Related advices:
+## Related advices

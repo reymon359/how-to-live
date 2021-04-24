@@ -13,7 +13,7 @@ Categories: ['Happiness', 'Music']
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Discover new music
 - Sing

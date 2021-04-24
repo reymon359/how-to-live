@@ -13,6 +13,6 @@ Categories: ['Happiness']
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Do what you want

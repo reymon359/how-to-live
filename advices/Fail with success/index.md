@@ -17,6 +17,6 @@ learn
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - apologize

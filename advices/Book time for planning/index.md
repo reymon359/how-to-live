@@ -17,5 +17,5 @@ Plan the next week every weekend or sundeay
 
 ## Credits
 
-## Related advices:
+## Related advices
 

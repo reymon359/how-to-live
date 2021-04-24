@@ -17,7 +17,7 @@ The main principle is that you refactor constantly without mercy to improve the 
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - big goals small steps
 - eating elephant

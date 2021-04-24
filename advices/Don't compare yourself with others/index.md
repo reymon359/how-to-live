@@ -12,4 +12,4 @@ Don't compare yourself with others, just with yourself
 
 ## Credits
 
-## Related advices:
+## Related advices

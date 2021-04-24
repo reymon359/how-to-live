@@ -21,7 +21,7 @@ its about building trust with other people
 
 7 habits
 
-## Related advices:
+## Related advices
 
 - your integrity is very important
 - communication

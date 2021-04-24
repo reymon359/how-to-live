@@ -30,5 +30,5 @@ The problem is to make a mistake or doing something wrong and keep doing it whil
 
 ## Credits
 
-## Related advices:
+## Related advices
 

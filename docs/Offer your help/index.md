@@ -9,7 +9,7 @@ always offer for help others.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - helping makes you happy
 

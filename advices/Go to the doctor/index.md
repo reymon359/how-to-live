@@ -19,6 +19,6 @@ Sometimes it can be too late
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listen to your body

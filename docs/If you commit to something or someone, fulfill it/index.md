@@ -13,7 +13,7 @@ its also about your integrity
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - fullfill promises
 - not lying

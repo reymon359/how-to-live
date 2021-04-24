@@ -18,7 +18,7 @@ Dont matter what other people think
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 dont follow what everyone does

@@ -16,6 +16,6 @@ The silence, birds, etc
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Listen to music

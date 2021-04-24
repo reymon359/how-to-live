@@ -13,7 +13,7 @@ Always listening to your body
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listen to your body
 

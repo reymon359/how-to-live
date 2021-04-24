@@ -21,7 +21,7 @@ Dont worry about mistakes and past things that can not be solved
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - to worry is a waste of time
 - fail with success

@@ -21,7 +21,7 @@ enjoy this world
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Just buy what you need
 - minimalism

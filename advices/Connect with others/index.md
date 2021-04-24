@@ -16,7 +16,7 @@ Although we born and die alone, and we need to learn to be alone, we like social
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Open your mind
 - communicate

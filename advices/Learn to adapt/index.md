@@ -13,4 +13,4 @@ Adapt to new technologies, dont complain, evolve
 
 ## Credits
 
-## Related advices:
+## Related advices

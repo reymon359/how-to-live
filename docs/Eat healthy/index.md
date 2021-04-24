@@ -11,7 +11,7 @@ Don't eat too much junk food
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listen to your body
 

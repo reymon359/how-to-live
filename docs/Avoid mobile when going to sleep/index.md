@@ -15,7 +15,7 @@ Also when waking up. Dont go in to the phone just when wake up.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listen to your body
 

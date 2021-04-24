@@ -16,7 +16,7 @@ software development
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - minimalism
 - just buy what you need

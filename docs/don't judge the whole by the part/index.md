@@ -9,5 +9,5 @@ you cannot judge a group by one person.
 
 ## Credits
 
-## Related advices:
+## Related advices
 

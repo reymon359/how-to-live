@@ -9,7 +9,7 @@ Review your goals. The big ones each month, medium week, smalls day.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - [Set up Goals](../Set%20up%20Goals)
 

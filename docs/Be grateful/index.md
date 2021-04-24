@@ -11,6 +11,6 @@ Realize where you are, what have you achieve, what you have, the sun, everything
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 [Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)

@@ -112,7 +112,7 @@ If no, assess if the task fits into your life goals and treat accordingly.
 
 I learned this reading Stephen Covey’s book 7 habits book
 
-## Related advices:
+## Related advices
 There are no advices related to this one
 
 - []()

@@ -8,7 +8,7 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - minimalism
 - Buy just what you need

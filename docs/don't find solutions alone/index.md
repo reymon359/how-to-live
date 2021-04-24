@@ -11,7 +11,7 @@ Ask for other opinions. See different points of view, evaluate them.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - there is always a solution
 

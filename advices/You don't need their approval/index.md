@@ -14,6 +14,6 @@ What other people think doesnt matter, is their issue.
 erroneous zones
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Do what you want

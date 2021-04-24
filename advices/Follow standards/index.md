@@ -12,5 +12,5 @@ software development
 
 ## Credits
 
-## Related advices:
+## Related advices
 

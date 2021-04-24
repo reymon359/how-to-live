@@ -20,6 +20,6 @@ Try new books too
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Try new things

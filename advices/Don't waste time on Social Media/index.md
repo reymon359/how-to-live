@@ -17,6 +17,6 @@ the issue is when you waste time looking browsing around stuff that doesn't brin
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - avoid mobile when going to sleep

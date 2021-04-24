@@ -12,7 +12,7 @@ inshallah
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Don't worry
 

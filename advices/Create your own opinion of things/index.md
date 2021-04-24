@@ -20,6 +20,6 @@ maybe some things that have been imposed to you culturally make no sense now
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Open your mind

@@ -13,6 +13,6 @@ Enjoy the little moments of life, those that seem to mean the least usually are 
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - 

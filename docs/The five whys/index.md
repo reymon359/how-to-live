@@ -7,7 +7,7 @@ Five whys (or 5 whys) is an iterative interrogative technique used to explore th
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Problems](../Categories/Problems.md)

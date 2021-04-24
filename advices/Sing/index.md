@@ -14,6 +14,6 @@ whistle too
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Discover new music

@@ -13,7 +13,7 @@ to finish things you have to plan and go little by little
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - the hardest is begginning
 - planning

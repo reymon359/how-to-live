@@ -16,6 +16,6 @@ Step outside of comfort zone to learn
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Step outside comfort zone

@@ -12,5 +12,5 @@ https://mythirdbrain.substack.com/p/how-i-spend-my-attention
 
 ## Credits
 
-## Related advices:
+## Related advices
 

@@ -19,7 +19,7 @@ When you travel plan it, not that much but have an idea of  things you want to d
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - nobody thinks the same way
 - step outside the comfort ozone

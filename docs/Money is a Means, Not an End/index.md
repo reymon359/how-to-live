@@ -12,7 +12,7 @@ https://lifeincharge.com/money-is-a-means-not-an-end
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - 
 

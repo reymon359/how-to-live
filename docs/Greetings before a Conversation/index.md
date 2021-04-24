@@ -13,7 +13,7 @@ add some question in the greetings, even a simple how are you?
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - communication
 - asking

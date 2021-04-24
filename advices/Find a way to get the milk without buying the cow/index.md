@@ -11,5 +11,5 @@ Categories: []
 Find a way to get the milk without buying the cow. -  clean architecture
 ## Credits
 
-## Related advices:
+## Related advices
 

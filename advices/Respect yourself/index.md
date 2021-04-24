@@ -18,7 +18,7 @@ if you dont respect yourself you wont respect others either
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - do what you want to do
 -

@@ -14,7 +14,7 @@ Open your mind to new melodies and songs and genres
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Discover new music
 - Sing

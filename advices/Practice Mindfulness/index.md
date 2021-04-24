@@ -11,6 +11,6 @@ mindfulness eating
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - pay attention

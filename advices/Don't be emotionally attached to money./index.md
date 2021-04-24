@@ -20,7 +20,7 @@ Money as an end: We can’t afford to go because it would mean dipping into our 
 https://lifeincharge.com/money-is-a-means-not-an-end
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Money is a mean not an end
 

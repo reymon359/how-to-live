@@ -7,7 +7,7 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 - remove dependencies
 
 [Categories:](../Categories/index.md)

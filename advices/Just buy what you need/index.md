@@ -17,7 +17,7 @@ Of course this is related to things like clothes and material things but if you
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - minimalism
 

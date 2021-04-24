@@ -19,6 +19,6 @@ If your goal is to improve at something you have to practice
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Little by little

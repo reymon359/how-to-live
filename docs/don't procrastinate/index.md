@@ -32,7 +32,7 @@ By identifying why you procrastinate, you can begin to hash out a plan to avoid 
 
 I learned this long ago, however the chapter 9 Putting An End to Procrastination — Now from Your Erroneous Zones. Wayne Dyer - 1976 has been the deepest I have entered the subject.
 
-## Related advices:
+## Related advices
 There are no advices related to this one
 
 - [Don't Complain](../Don't%20complain)

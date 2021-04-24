@@ -13,7 +13,7 @@ thank people back. When someone says thank you thank them back. Fallback/Default
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Be grateful
 - say thank you to everything

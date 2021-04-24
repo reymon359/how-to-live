@@ -17,7 +17,7 @@ Enjoy the way
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - [Set up Goals](../Set%20up%20Goals)
 - enjoy the way

@@ -18,7 +18,7 @@ the best way to listen is by asking.
 
 7 habits
 
-## Related advices:
+## Related advices
 
 - respect
 - listening

@@ -13,5 +13,5 @@ You can grow alone but you can also grow when you are with others
 
 ## Credits
 
-## Related advices:
+## Related advices
 

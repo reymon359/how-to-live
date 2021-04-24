@@ -11,7 +11,7 @@ Stepping out of the comfort zone is always hard
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - [Step outside the comfort zone](../)
 

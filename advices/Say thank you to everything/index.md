@@ -15,6 +15,6 @@ Tips, someone joins to some plan, someone tells you anything, whatever, just say
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - be grateful

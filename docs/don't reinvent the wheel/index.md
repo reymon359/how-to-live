@@ -7,5 +7,5 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 

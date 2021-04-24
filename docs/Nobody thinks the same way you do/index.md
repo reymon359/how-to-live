@@ -13,7 +13,7 @@ Although their opinion is not the same as your you have to respect it.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - respect
 

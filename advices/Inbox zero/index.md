@@ -11,4 +11,4 @@ Categories: ['Productivity', 'Goals']
 
 ## Credits
 
-## Related advices:
+## Related advices

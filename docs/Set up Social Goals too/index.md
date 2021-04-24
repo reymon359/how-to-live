@@ -19,7 +19,7 @@ The 7 habits book. There was a part about this
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)

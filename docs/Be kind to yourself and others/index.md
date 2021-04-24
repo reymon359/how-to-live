@@ -8,6 +8,6 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 [Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)

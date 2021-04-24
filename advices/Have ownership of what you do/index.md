@@ -13,5 +13,5 @@ Have ownership of what you do, ownership of code,
 
 ## Credits
 
-## Related advices:
+## Related advices
 

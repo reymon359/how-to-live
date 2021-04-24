@@ -14,7 +14,7 @@ Try new things, intermitent fasting, waking up at 5 am
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Open your mind
 - Try new things

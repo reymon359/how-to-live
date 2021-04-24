@@ -12,7 +12,7 @@ Occam's razor is the principle that, of two explanations that account for all th
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - there is always a solution
 

@@ -11,7 +11,7 @@ erroneous zones
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

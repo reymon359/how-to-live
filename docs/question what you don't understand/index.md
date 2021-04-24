@@ -11,7 +11,7 @@ Even if in a conversation you are not understanding something ask it
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Ask for help
 

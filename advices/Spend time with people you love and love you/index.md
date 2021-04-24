@@ -13,6 +13,6 @@ care with Ivory tower Syndrome
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - 

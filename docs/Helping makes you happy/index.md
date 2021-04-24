@@ -7,7 +7,7 @@
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - offer your help
 

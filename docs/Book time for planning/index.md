@@ -13,7 +13,7 @@ Plan the next week every weekend or sundeay
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md)

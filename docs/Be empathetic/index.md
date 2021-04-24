@@ -9,7 +9,7 @@ put yourself in other people shoes
 
 ## Credits
 
-## Related advices:
+## Related advices
 - emphatic listening
 - be kind
 

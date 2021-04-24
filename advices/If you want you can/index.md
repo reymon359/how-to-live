@@ -19,7 +19,7 @@ Is hard sometimes because you will have to stepp uoutside your comfort zone
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - the hardest is beginning
 - planning

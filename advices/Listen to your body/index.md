@@ -17,4 +17,4 @@ If you need to rest, do it
 
 ## Credits
 
-## Related advices:
+## Related advices

@@ -26,5 +26,5 @@ care with Ivory tower Syndrome
 https://www.reddit.com/r/explainlikeimfive/comments/1kfvr2/eli5the_true_meaning_behind_orson_welles_famous/
 ## Credits
 
-## Related advices:
+## Related advices
 

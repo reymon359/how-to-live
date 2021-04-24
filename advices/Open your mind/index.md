@@ -21,7 +21,7 @@ Opening your mind, see other things, understand, respect.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - nobody thinks the same way
 - step outside the comfort ozone

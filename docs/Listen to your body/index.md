@@ -13,6 +13,6 @@ If you need to rest, do it
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 [Categories:](../Categories/index.md) [Health](../Categories/Health.md)

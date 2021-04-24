@@ -14,5 +14,5 @@ Contact people from time to time, set a reminder if needed
 
 ## Credits
 
-## Related advices:
+## Related advices
 

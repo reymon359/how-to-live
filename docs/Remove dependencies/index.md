@@ -9,7 +9,7 @@ minimalism
 Software development
 ## Credits
 
-## Related advices:
+## Related advices
 
 - minimalism
 - Be independent

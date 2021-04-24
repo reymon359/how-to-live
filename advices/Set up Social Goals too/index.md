@@ -23,5 +23,5 @@ The 7 habits book. There was a part about this
 
 ## Credits
 
-## Related advices:
+## Related advices
 

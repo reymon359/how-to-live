@@ -9,7 +9,7 @@ The rule of holes, when you are in one stop digging the clean coder
 clean coder
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Problems](../Categories/Problems.md)

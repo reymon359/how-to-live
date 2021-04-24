@@ -11,7 +11,7 @@ think about your growth
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 
 [Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

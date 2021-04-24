@@ -17,7 +17,7 @@ When you do not understand something search the translation.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - little by little
 - eating an elephant

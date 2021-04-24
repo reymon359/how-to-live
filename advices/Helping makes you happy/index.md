@@ -11,6 +11,6 @@ Categories: ['Helping', 'Happiness']
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - offer your help

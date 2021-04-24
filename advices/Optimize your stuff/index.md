@@ -13,7 +13,7 @@ Optimize your stuff. If you have 2 items that accomplish the same thing get rid 
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - minimalism
 - Buy just what you need

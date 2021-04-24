@@ -13,7 +13,7 @@ Eating an elephant.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - [Review your Goals](../Review%20your%20Goals)
 

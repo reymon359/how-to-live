@@ -9,7 +9,7 @@ To people, ideas, stuff
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Learn to forgive
 

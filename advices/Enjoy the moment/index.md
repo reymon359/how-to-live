@@ -12,6 +12,6 @@ Categories: ['Happiness', 'Nature']
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - little things

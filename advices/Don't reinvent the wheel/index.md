@@ -11,4 +11,4 @@ Categories: ['Productivity', 'Time', 'Solutions']
 
 ## Credits
 
-## Related advices:
+## Related advices

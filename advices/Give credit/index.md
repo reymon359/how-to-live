@@ -15,7 +15,7 @@ acknowledgements
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - be grateful
 - tell the truth    

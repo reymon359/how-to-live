@@ -11,5 +11,5 @@ Categories: []
 
 ## Credits
 
-## Related advices:
+## Related advices
 - remove dependencies

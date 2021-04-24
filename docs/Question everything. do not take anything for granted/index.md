@@ -11,7 +11,7 @@ The more you question your world the more you learn about it.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Research
 

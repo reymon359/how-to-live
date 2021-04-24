@@ -14,5 +14,5 @@ Categories: ['Growing']
 
 ## Credits
 
-## Related advices:
+## Related advices
 

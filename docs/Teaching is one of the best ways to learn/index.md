@@ -11,7 +11,7 @@ And you help others sharing knowledge too
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Helping
 

@@ -11,7 +11,7 @@ There are a lot of religions out there, maybe you don't agree with the practices
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - nobody thinks the same way
 - respect others opinion

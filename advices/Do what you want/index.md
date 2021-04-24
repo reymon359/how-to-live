@@ -17,6 +17,6 @@ don't think on what others will think.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - 

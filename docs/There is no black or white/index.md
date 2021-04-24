@@ -9,6 +9,6 @@ No black or white, no good or bad choices just choices. Erroneous zones
 erroneous zones
 ## Credits
 
-## Related advices:
+## Related advices
 
 [Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

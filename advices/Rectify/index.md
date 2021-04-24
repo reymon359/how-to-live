@@ -11,6 +11,6 @@ Categories: ['Growing', 'Problems', 'Solutions']
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Refactor

@@ -12,7 +12,7 @@ You are not the same person as yesterday. And you can not expect to be the same 
 ## Credits
 
 Pablo was the first one that made me realize it
-## Related advices:
+## Related advices
 
 - little by little
 

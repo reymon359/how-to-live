@@ -19,7 +19,7 @@ Communicating and more important, listening is the best way to understand someth
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - respect
 - listening

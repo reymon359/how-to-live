@@ -21,6 +21,6 @@ erroneous zones explore the unknown
 
 erroneous zones explore the unknown
 
-## Related advices:
+## Related advices
 
 - Open your mind

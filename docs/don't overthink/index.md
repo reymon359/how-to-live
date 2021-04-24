@@ -11,7 +11,7 @@ Overthinking stuff. Most of the problems are due to a lack of communication, if 
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - take care of your  mental health
 - communication

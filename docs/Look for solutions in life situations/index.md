@@ -9,7 +9,7 @@ Always look for solutions not problems in life situations
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - there is always a solution
 

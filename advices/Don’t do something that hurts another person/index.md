@@ -20,7 +20,7 @@ if you do it for whatever reason, apologize
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - helping
 - apologize

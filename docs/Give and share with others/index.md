@@ -10,7 +10,7 @@ Sharing is caring
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - helping makes you happy
 - offer your help

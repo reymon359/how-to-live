@@ -11,7 +11,7 @@ However listen to your body if you need more or less, maybe one day more.
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - listen to your body
 

@@ -13,7 +13,7 @@ Refactor
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Let it flow
 - Refactor

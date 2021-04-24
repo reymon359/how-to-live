@@ -17,7 +17,7 @@ Categories: ['Communication', 'Listening']
 
 7 habits
 
-## Related advices:
+## Related advices
 
 - listening
 - asking

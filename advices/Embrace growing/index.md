@@ -15,5 +15,5 @@ think about your growth
 
 ## Credits
 
-## Related advices:
+## Related advices
 

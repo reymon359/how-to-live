@@ -13,7 +13,7 @@ Most religions have good things or are based in good values. Get the best from t
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Respect others beliefs
 - be open minded

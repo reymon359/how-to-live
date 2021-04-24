@@ -14,7 +14,7 @@ don't backfire. Don't talk bad of people at his back. If you need to say somethi
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - respect others
 - be kind

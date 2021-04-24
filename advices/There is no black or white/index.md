@@ -13,4 +13,4 @@ No black or white, no good or bad choices just choices. Erroneous zones
 erroneous zones
 ## Credits
 
-## Related advices:
+## Related advices

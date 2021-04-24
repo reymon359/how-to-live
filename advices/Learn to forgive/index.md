@@ -12,7 +12,7 @@ Categories: ['Happiness']
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - Akuna matata, let it flow
 - Give second chances

@@ -21,7 +21,7 @@ if you don't have time to research something in the momment note it down for lat
 
 ## Credits
 
-## Related advices:
+## Related advices
 
 - adapt to new technologies
 - note things down
