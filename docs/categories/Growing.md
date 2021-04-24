@@ -9,13 +9,13 @@
     
  - [Grow with others](../Grow%20with%20others/index.md)
     
- - [Integrity](../Integrity/index.md)
-    
  - [Learn to adapt](../Learn%20to%20adapt/index.md)
     
  - [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
     
  - [Look for feedback](../Look%20for%20feedback/index.md)
+    
+ - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
     
  - [Rectify](../Rectify/index.md)
     
