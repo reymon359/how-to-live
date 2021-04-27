@@ -23,16 +23,16 @@ It can be hard if you are not used to. It's ok, just begin with an "I'm sorry" a
 
 ## Quotes
 
-> “Never ruin an apology with an excuse.”
+> Never ruin an apology with an excuse.
 > – Benjamin Franklin
 
-> “If an apology is followed by an excuse or a reason, it means they are going to commit same mistake again they just apologized for.”
+> If an apology is followed by an excuse or a reason, it means they are going to commit same mistake again they just apologized for.
 > – Amit Kalantri
 
-> “Apologizing does not always mean you’re wrong and the other person is right. It just means you value your relationship more than your ego.”
+> Apologizing does not always mean you’re wrong and the other person is right. It just means you value your relationship more than your ego.
 > – Mark Matthews
 
-> “Sincere apologies make deposits; repeated apologies interpreted as insincere make withdrawals. And the quality of the relationship reflects it.”
+> Sincere apologies make deposits; repeated apologies interpreted as insincere make withdrawals. And the quality of the relationship reflects it.
 > ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
 ## Resources
