@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "how to live tips",
   "scripts": {
-    "docs": "collman --id advices"
+    "docs": "collman --id advices && docsify serve docs"
   },
   "repository": {
     "type": "git",
