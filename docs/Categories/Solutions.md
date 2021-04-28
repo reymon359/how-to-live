@@ -3,7 +3,11 @@
 
  - [Apologize](../Apologize/index.md)
     
+ - [Ask questions](../Ask%20questions/index.md)
+    
  - [Look for solutions in life situations](../Look%20for%20solutions%20in%20life%20situations/index.md)
+    
+ - [Raise your hand](../Raise%20your%20hand/index.md)
     
  - [Rectify](../Rectify/index.md)
     

@@ -3,6 +3,8 @@
 
  - [Apologize](../Apologize/index.md)
     
+ - [Raise your hand](../Raise%20your%20hand/index.md)
+    
  - [Rectify](../Rectify/index.md)
     
  - [The five whys](../The%20five%20whys/index.md)

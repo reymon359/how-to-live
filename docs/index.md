@@ -8,6 +8,8 @@ How to live description
 ## Content: advices
 
 
+ - [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)
+    
  - [Apologize](Apologize/index.md)
     
  - [Ask questions](Ask%20questions/index.md)
@@ -166,7 +168,9 @@ How to live description
     
  - [Practice empathy](Practice%20empathy/index.md)
     
- - [Question everything. do not take anything for granted](Question%20everything.%20do%20not%20take%20anything%20for%20granted/index.md)
+ - [Question everything. Do not take anything for granted](Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
+    
+ - [Raise your hand](Raise%20your%20hand/index.md)
     
  - [Read books](Read%20books/index.md)
     

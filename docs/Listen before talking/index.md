@@ -7,7 +7,7 @@ Always respect what you are listening from the other
 
 the best way to listen is by asking.
 
-
+- Seek first to understand, then to be understood
 ## Quotes
 
 ## Resources
