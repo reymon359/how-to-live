@@ -31,6 +31,8 @@
     
  - [Practice empathy](../Practice%20empathy/index.md)
     
+ - [Put your phone down](../Put%20your%20phone%20down/index.md)
+    
  - [Respect nature](../Respect%20nature/index.md)
     
  - [Respect others beliefs](../Respect%20others%20beliefs/index.md)

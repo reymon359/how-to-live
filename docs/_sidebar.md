@@ -6,7 +6,7 @@
         
      - [Ask questions](Ask%20questions/index.md)
         
-     - [Avoid mobile when going to sleep](Avoid%20mobile%20when%20going%20to%20sleep/index.md)
+     - [Avoid the phone when going to sleep](Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
         
      - [Be empathetic](Be%20empathetic/index.md)
         
@@ -159,6 +159,8 @@
      - [Practice Mindfulness](Practice%20Mindfulness/index.md)
         
      - [Practice empathy](Practice%20empathy/index.md)
+        
+     - [Put your phone down](Put%20your%20phone%20down/index.md)
         
      - [Question everything. Do not take anything for granted](Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
         

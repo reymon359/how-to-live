@@ -1,8 +1,6 @@
 # Growing
 
 
- - [Ask questions](../Ask%20questions/index.md)
-    
  - [Continuous refactor](../Continuous%20refactor/index.md)
     
  - [Embrace growing](../Embrace%20growing/index.md)

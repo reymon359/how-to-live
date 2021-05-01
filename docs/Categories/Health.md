@@ -1,7 +1,7 @@
 # Health
 
 
- - [Avoid mobile when going to sleep](../Avoid%20mobile%20when%20going%20to%20sleep/index.md)
+ - [Avoid the phone when going to sleep](../Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
     
  - [Drink enough water](../Drink%20enough%20water/index.md)
     
@@ -12,6 +12,8 @@
  - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
     
  - [Listen to your body](../Listen%20to%20your%20body/index.md)
+    
+ - [Put your phone down](../Put%20your%20phone%20down/index.md)
     
  - [Respect yourself](../Respect%20yourself/index.md)
     
