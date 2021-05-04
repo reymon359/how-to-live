@@ -1,6 +1,5 @@
 ---
 name: 'Smile'
-description: ''
 Categories: ['Happiness']
 ---
 # Smile

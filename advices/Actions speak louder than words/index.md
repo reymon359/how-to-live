@@ -1,6 +1,5 @@
 ---
 name: 'Actions speak louder than words'
-description: ''
 Categories: ['Integrity', 'Trust']
 ---
 # Actions speak louder than words

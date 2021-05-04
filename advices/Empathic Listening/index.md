@@ -1,6 +1,5 @@
 ---
 name: 'Empathic Listening'
-description: ''
 Categories: ['Communication', 'Listening']
 ---
 # Empathic Listening

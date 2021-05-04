@@ -1,6 +1,5 @@
 ---
 name: 'Inbox zero'
-description: ''
 Categories: ['Productivity', 'Goals']
 ---
 # Inbox zero

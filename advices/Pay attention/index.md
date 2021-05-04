@@ -1,6 +1,5 @@
 ---
 name: 'Pay attention'
-description: ''
 Categories: []
 ---
 # Pay attention

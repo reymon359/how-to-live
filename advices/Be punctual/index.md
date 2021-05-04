@@ -1,6 +1,5 @@
 ---
 name: 'Don't backfire
-description: ''
 Categories: ['Respect', 'Integrity', 'Problems' ]
 ---
 # Don't backfire

@@ -1,6 +1,5 @@
 ---
 name: 'Money is a Means, Not an End'
-description: ''
 Categories: ['Material things', 'Money']
 ---
 # Money is a Means, Not an End

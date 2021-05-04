@@ -1,6 +1,5 @@
 ---
 name: 'The five whys'
-description: ''
 Categories: ['Problems']
 ---
 # The five whys

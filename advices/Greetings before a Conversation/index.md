@@ -1,6 +1,5 @@
 ---
 name: 'Greetings before a Conversation'
-description: ''
 Categories: ['Communication', 'Respect']
 ---
 # Greetings before a Conversation

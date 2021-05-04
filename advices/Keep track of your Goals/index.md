@@ -1,6 +1,5 @@
 ---
 name: 'Keep track of your Goals'
-description: ''
 Categories: ['Goals', 'Tracking']
 ---
 # Keep track of your Goals

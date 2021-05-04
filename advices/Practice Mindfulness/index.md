@@ -1,6 +1,5 @@
 ---
 name: 'Practice Mindfulness'
-description: ''
 Categories: ['Respect']
 ---
 # Practice Mindfulness

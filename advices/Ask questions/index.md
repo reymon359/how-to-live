@@ -1,6 +1,5 @@
 ---
 name: 'Ask questions'
-description: ''
 Categories: ['Communication', 'Listening', 'Solutions', 'Learning']
 ---
 # Ask questions

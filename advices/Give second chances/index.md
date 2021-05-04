@@ -1,6 +1,5 @@
 ---
 name: 'Give second chances'
-description: ''
 Categories: ['Respect']
 ---
 # Give second chances

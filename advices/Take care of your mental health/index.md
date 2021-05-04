@@ -1,6 +1,5 @@
 ---
 name: 'Take care of your mental health'
-description: ''
 Categories: ['Health', 'Mental health']
 ---
 # Take care of your mental health

@@ -1,6 +1,5 @@
 ---
 name: 'Rectify'
-description: ''
 Categories: ['Growing', 'Problems', 'Solutions']
 ---
 # Rectify

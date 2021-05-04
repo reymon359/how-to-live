@@ -1,6 +1,5 @@
 ---
 name: 'Discover new music'
-description: ''
 Categories: ['Happiness', 'Music']
 ---
 # Discover new music

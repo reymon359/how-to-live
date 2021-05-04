@@ -1,6 +1,5 @@
 ---
 name: 'Follow standards'
-description: ''
 Categories: []
 ---
 # Follow standards

@@ -1,6 +1,5 @@
 ---
 name: 'Look for solutions in life situations'
-description: ''
 Categories: ['Solutions']
 ---
 # Look for solutions in life situations

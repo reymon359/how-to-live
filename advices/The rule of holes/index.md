@@ -1,6 +1,5 @@
 ---
 name: 'The rule of holes'
-description: ''
 Categories: ['Problems']
 ---
 # The rule of holes

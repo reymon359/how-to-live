@@ -1,6 +1,5 @@
 ---
 name: 'Look for feedback'
-description: ''
 Categories: ['Growing']
 ---
 # Look for feedback

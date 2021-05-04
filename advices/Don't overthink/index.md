@@ -1,6 +1,5 @@
 ---
 name: 'Don't overthink
-description: ''
 Categories: ['Health', 'Mental health']
 ---
 # Don't overthink

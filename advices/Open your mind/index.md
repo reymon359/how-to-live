@@ -1,6 +1,5 @@
 ---
 name: 'Open your mind'
-description: ''
 Categories: ['Open-mindedness', 'Respect', 'Comfort zone']
 ---
 # Open your mind

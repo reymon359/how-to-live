@@ -1,6 +1,5 @@
 ---
 name: 'The simpler the better'
-description: ''
 Categories: ['Solutions']
 ---
 # The simpler the better

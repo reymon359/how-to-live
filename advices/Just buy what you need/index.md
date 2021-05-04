@@ -1,6 +1,5 @@
 ---
 name: 'Just buy what you need'
-description: ''
 Categories: ['Material things', 'Money']
 ---
 # Just buy what you need

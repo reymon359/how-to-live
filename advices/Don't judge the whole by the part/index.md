@@ -1,6 +1,5 @@
 ---
 name: 'Don't judge the whole by the part'
-description: ''
 Categories: ['Respect']
 ---
 # Don't judge the whole by the part

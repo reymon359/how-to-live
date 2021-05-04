@@ -1,6 +1,5 @@
 ---
 name: 'Don't give more importance to things than they already have'
-description: ''
 Categories: ['Problems', 'Solutions']
 ---
 # Don't give more importance to things than they already have

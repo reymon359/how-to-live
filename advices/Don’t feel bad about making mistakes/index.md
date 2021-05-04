@@ -1,6 +1,5 @@
 ---
 name: 'Don’t feel bad about making mistakes'
-description: ''
 Categories: ['Mistakes']
 ---
 # Don’t feel bad about making mistakes

@@ -1,6 +1,5 @@
 ---
 name: 'Remove dependencies'
-description: ''
 Categories: []
 ---
 # Remove dependencies

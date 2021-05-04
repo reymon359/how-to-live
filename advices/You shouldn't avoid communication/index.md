@@ -1,6 +1,5 @@
 ---
 name: 'You shouldn't avoid communication'
-description: ''
 Categories: ['Communication', 'Respect']
 ---
 # You shouldn't avoid communication

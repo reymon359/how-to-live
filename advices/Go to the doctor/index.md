@@ -1,6 +1,5 @@
 ---
 name: 'Go to the doctor'
-description: ''
 Categories: ['Health']
 ---
 # Go to the doctor

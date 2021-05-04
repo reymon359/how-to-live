@@ -1,6 +1,5 @@
 ---
 name: 'Practice empathy'
-description: ''
 Categories: ['Respect']
 ---
 # Practice empathy

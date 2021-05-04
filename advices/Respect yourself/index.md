@@ -1,6 +1,5 @@
 ---
 name: 'Respect yourself'
-description: ''
 Categories: ['Respect', 'Health']
 ---
 # Respect yourself

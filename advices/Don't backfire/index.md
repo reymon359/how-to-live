@@ -1,6 +1,5 @@
 ---
 name: 'Be punctual'
-description: ''
 Categories: ['Respect', 'Punctuality', 'Integrity']
 ---
 # Be punctual

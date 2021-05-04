@@ -1,6 +1,5 @@
 ---
 name: 'Be empathetic'
-description: ''
 Categories: ['Integrity']
 ---
 # Be empathetic

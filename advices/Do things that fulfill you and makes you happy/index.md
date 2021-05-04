@@ -1,6 +1,5 @@
 ---
 name: 'Do things that fulfill you and makes you happy'
-description: ''
 Categories: ['Happiness']
 ---
 # Do things that fulfill you and makes you happy

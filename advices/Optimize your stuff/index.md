@@ -1,6 +1,5 @@
 ---
 name: 'Optimize your stuff'
-description: ''
 Categories: ['Material things']
 ---
 # Optimize your stuff

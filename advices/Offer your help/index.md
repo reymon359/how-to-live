@@ -1,6 +1,5 @@
 ---
 name: 'Offer your help'
-description: ''
 Categories: ['Helping']
 ---
 # Offer your help

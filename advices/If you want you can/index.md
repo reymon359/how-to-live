@@ -1,6 +1,5 @@
 ---
 name: 'If you want you can'
-description: ''
 Categories: ['Goals', 'Willpower', 'Comfort zone']
 ---
 # If you want you can

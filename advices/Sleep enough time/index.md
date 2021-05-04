@@ -1,6 +1,5 @@
 ---
 name: 'Sleep enough time'
-description: ''
 Categories: ['Health', 'Sleep']
 ---
 # Sleep enough time

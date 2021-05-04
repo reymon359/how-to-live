@@ -1,6 +1,5 @@
 ---
 name:  'Learn to adapt'
-description: ''
 Categories: ['Growing']
 ---
 # Learn to adapt

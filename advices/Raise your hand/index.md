@@ -1,6 +1,5 @@
 ---
 name: 'Raise your hand'
-description: ''
 Categories: ['Communication', 'Problems', 'Solutions']
 ---
 # Raise your hand

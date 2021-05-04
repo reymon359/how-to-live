@@ -1,6 +1,5 @@
 ---
 name: 'Give credit'
-description: ''
 Categories: ['Gratitude', 'Truth', 'Honesty']
 ---
 # Give credit

@@ -1,6 +1,5 @@
 ---
 name: 'Get to know yourself'
-description: ''
 Categories: ['Growing']
 ---
 # Get to know yourself

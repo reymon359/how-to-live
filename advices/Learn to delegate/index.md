@@ -1,6 +1,5 @@
 ---
 name: 'Learn to delegate'
-description: ''
 Categories: ['Productivity']
 ---
 # Learn to delegate

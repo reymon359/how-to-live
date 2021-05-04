@@ -1,6 +1,5 @@
 ---
 name: 'Be grateful'
-description: ''
 Categories: ['Gratitude', 'Happiness']
 ---
 # Be grateful

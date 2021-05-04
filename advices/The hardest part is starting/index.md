@@ -1,6 +1,5 @@
 ---
 name: 'The hardest part is starting'
-description: ''
 Categories: ['Goals', 'comfort Zone']
 ---
 # The hardest part is starting

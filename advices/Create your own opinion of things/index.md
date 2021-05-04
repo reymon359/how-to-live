@@ -1,6 +1,5 @@
 ---
 name: 'Create your own opinion of things'
-description: ''
 Categories: ['Open-mindedness']
 ---
 # Create your own opinion of things

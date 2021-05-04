@@ -1,6 +1,5 @@
 ---
 name: 'There is no black or white'
-description: ''
 Categories: ['Growing']
 ---
 # There is no black or white

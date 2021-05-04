@@ -1,6 +1,5 @@
 ---
 name: 'Listen to music'
-description: ''
 Categories: ['Happiness', 'Music']
 ---
 # Listen to music

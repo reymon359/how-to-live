@@ -1,6 +1,5 @@
 ---
 name: 'Update others about your commitment'
-description: ''
 Categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
 # Update others about your commitment

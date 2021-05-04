@@ -1,6 +1,5 @@
 ---
 name: 'Apologize'
-description: ''
 Categories: ['Respect', 'Communication', 'Happiness', 'Problems', 'Solutions', 'Integrity']
 ---
 # Apologize

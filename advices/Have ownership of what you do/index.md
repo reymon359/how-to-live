@@ -1,6 +1,5 @@
 ---
 name: 'Have ownership of what you do'
-description: ''
 Categories: ['Integrity', 'Responsibility']
 ---
 # Have ownership of what you do

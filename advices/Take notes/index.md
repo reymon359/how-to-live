@@ -1,6 +1,5 @@
 ---
 name: 'Take notes'
-description: ''
 Categories: ['Productivity']
 ---
 # Take notes

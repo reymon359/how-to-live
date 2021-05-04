@@ -1,6 +1,5 @@
 ---
 name: 'Respect nature'
-description: ''
 Categories: ['Respect', 'Nature']
 ---
 # Respect nature

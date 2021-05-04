@@ -1,6 +1,5 @@
 ---
 name: 'DRY Don't repeat yourself
-description: ''
 Categories: ['Material things', '']
 ---
 # DRY Don't repeat yourself

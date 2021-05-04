@@ -1,6 +1,5 @@
 ---
 name: 'Enjoy the little things'
-description: ''
 Categories: ['Happiness']
 ---
 # Enjoy the little things

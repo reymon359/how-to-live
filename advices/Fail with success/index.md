@@ -1,6 +1,5 @@
 ---
 name: 'Fail with success'
-description: ''
 Categories: ['Mistakes']
 ---
 # Fail with success

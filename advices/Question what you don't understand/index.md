@@ -1,6 +1,5 @@
 ---
 name: 'Question what you don't understand
-description: ''
 Categories: ['Learning', 'Communication']
 ---
 # Question what you don't understand

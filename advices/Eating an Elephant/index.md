@@ -1,6 +1,5 @@
 ---
 name: 'Eating an elephant'
-description: ''
 Categories: ['Practice', 'Little by little']
 ---
 # Eating an elephant

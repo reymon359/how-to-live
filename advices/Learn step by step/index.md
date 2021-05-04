@@ -1,6 +1,5 @@
 ---
 name: 'Learn step by step'
-description: ''
 Categories: ['Learning']
 ---
 # Learn step by step

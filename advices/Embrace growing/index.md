@@ -1,6 +1,5 @@
 ---
 name: 'Embrace growing'
-description: ''
 Categories: ['Growing']
 ---
 # Embrace growing

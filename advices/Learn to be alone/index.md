@@ -1,6 +1,5 @@
 ---
 name: 'Learn to be alone'
-description: ''
 Categories: ['Happiness', 'Solitude', 'Learning']
 ---
 # Learn to be alone

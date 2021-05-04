@@ -1,6 +1,5 @@
 ---
 name: 'Eat healthy'
-description: ''
 Categories: ['Health']
 ---
 # Eat healthy

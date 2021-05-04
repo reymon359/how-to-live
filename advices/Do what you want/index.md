@@ -1,6 +1,5 @@
 ---
 name: 'Do what you want'
-description: ''
 Categories: ['Happiness', 'Respect']
 ---
 # Do what you want

@@ -1,6 +1,5 @@
 ---
 name: 'Don't waste time on social media'
-description: ''
 Categories: ['Health', 'Social media']
 ---
 # Don't waste time on social media

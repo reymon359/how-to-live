@@ -1,6 +1,5 @@
 ---
 name: 'Put your phone down'
-description: ''
 Categories: ['Health', 'Respect', 'Communication']
 ---
 # Put your phone down

@@ -1,6 +1,5 @@
 ---
 name: 'Avoid the phone when going to sleep'
-description: ''
 Categories: ['Health', 'Sleep']
 ---
 # Avoid the phone when going to sleep

@@ -1,6 +1,5 @@
 ---
 name: 'Don't find solutions alone'
-description: ''
 Categories: ['Solutions', 'Communication']
 ---
 # Don't find solutions alone

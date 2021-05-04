@@ -1,6 +1,5 @@
 ---
 name: 'There is always a solution'
-description: ''
 Categories: ['Solutions']
 ---
 # There is always a solution

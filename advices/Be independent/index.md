@@ -1,6 +1,5 @@
 ---
 name: 'Be independent'
-description: ''
 Categories: []
 ---
 # Be independent

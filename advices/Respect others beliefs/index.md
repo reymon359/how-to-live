@@ -1,6 +1,5 @@
 ---
 name: 'Respect others beliefs'
-description: ''
 Categories: ['Respect', 'Believing', 'Religion']
 ---
 # Respect others beliefs

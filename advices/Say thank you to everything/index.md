@@ -1,6 +1,5 @@
 ---
 name: 'Say thank you to everything'
-description: ''
 Categories: ['Gratitude']
 ---
 # Say thank you to everything

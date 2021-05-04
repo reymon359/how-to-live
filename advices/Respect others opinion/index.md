@@ -1,6 +1,5 @@
 ---
 name: 'Respect others opinion'
-description: ''
 Categories: ['Respect']
 ---
 # Respect others opinion

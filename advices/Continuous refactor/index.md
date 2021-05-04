@@ -1,6 +1,5 @@
 ---
 name: 'Continuous refactor'
-description: ''
 Categories: ['Growing', 'Refactor']
 ---
 # Continuous refactor

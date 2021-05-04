@@ -1,6 +1,5 @@
 ---
 name: 'Sing'
-description: ''
 Categories: ['Happiness', 'Music']
 ---
 # Sing

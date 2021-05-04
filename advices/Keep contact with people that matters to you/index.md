@@ -1,6 +1,5 @@
 ---
 name: 'Keep contact with people that matters to you'
-description: ''
 Categories: ['Communication']
 ---
 # Keep contact with people that matters to you

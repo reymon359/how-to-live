@@ -1,6 +1,5 @@
 ---
 name: 'Drink enough water'
-description: ''
 Categories: ['Health']
 ---
 # Drink enough water

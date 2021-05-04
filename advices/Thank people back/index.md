@@ -1,6 +1,5 @@
 ---
 name: 'Thank people back'
-description: ''
 Categories: ['Gratitude']
 ---
 # Thank people back

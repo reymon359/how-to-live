@@ -1,6 +1,5 @@
 ---
 name: 'Exercise frequently'
-description: ''
 Categories: ['Health']
 ---
 # Exercise frequently

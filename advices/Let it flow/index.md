@@ -1,6 +1,5 @@
 ---
 name: 'Let it flow'
-description: ''
 Categories: ['Respect']
 ---
 # Let it flow

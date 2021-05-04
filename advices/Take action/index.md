@@ -1,6 +1,5 @@
 ---
 name: 'Take action'
-description: ''
 Categories: ['Respect']
 ---
 # Take action

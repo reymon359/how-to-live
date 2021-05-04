@@ -1,6 +1,5 @@
 ---
 name: 'Do not accumulate useless things'
-description: ''
 Categories: ['Material things']
 ---
 # Do not accumulate useless things

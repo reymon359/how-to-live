@@ -1,6 +1,5 @@
 ---
 name: 'Listen before talking'
-description: ''
 Categories: ['Communication', 'Respect', 'Listening']
 ---
 # Listen before talking

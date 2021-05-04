@@ -1,6 +1,5 @@
 ---
 name: 'Listen to your body'
-description: ''
 Categories: ['Health']
 ---
 # Listen to your body

@@ -1,6 +1,5 @@
 ---
 name: 'Step outside the Comfort Zone'
-description: ''
 Categories: ['Comfort zone', 'Unknown']
 ---
 # Step outside the Comfort Zone

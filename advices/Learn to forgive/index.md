@@ -1,6 +1,5 @@
 ---
 name: 'Learn to forgive'
-description: ''
 Categories: ['Happiness']
 ---
 # Learn to forgive

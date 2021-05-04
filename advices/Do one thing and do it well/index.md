@@ -1,6 +1,5 @@
 ---
 name: 'Do one thing and do it well'
-description: ''
 Categories: []
 ---
 # Do one thing and do it well

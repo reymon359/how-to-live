@@ -1,6 +1,5 @@
 ---
 name: 'Be honest'
-description: ''
 Categories: ['Respect', 'Communication', 'Trust', 'Integrity']
 ---
 # Be honest
