@@ -304,6 +304,8 @@
         
      - [Health](../Categories/Health.md)
         
+     - [Help](../Categories/Help.md)
+        
      - [Helping](../Categories/Helping.md)
         
      - [Honesty](../Categories/Honesty.md)
@@ -317,6 +319,8 @@
      - [Listening](../Categories/Listening.md)
         
      - [Little by little](../Categories/Little%20by%20little.md)
+        
+     - [Love](../Categories/Love.md)
         
      - [Material things](../Categories/Material%20things.md)
         
