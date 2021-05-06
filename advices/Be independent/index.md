@@ -1,6 +1,6 @@
 ---
 name: 'Be independent'
-Categories: []
+Categories: ['Growing']
 ---
 # Be independent
 

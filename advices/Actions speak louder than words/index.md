@@ -15,18 +15,14 @@ Be conscious about this when you are doing things. The way you act and how you b
 > Words are from the lips, actions are from the heart
 > ― Rashida Costa
 
-
 > Well done is better than well said. 
 > ― Benjamin Franklin
-
 
 > Words may show a man's wit, but actions his meaning.
 > ― Benjamin Franklin
 
 > Do not be wise in words be wise in deeds. 
 > ― Jewish Proverb 
-
-## Resources
 
 ## Credits
 
