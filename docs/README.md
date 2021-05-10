@@ -252,6 +252,8 @@ How to live description
     
  - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
     
+ - [You are not something you choose to be something](You%20are%20not%20something%20you%20choose%20to%20be%20something/index.md)
+    
  - [be punctual](be%20punctual/index.md)
     
  - [don't be emotionally attached to money.](don't%20be%20emotionally%20attached%20to%20money./index.md)

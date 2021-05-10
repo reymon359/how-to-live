@@ -1,6 +1,8 @@
 # Growing
 
 
+ - [Be independent](../Be%20independent/index.md)
+    
  - [Continuous refactor](../Continuous%20refactor/index.md)
     
  - [Embrace growing](../Embrace%20growing/index.md)

@@ -6,7 +6,7 @@ Categories: ['Growing']
 
 Try to depend as less as possible in other people and things.
 
-Loo
+
 
 
 ## Quotes
