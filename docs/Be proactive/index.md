@@ -1,7 +1,4 @@
----
-name: 'Be proactive'
-Categories: ['Productivity', 'Goals', 'Growing']
----
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md)
 # Be proactive
 
 If you want to do something just do it, don't wait for it to happen by itself. Don't make up excuses to don't do it.
@@ -38,3 +35,5 @@ The first chapter (first habit) from Stephen R. Covey, The 7 Habits of Highly Ef
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [If you want you can](../If%20you%20want%20you%20can/index.md)
 - [Better to ask for forgiveness than permission](../Better%20to%20ask%20for%20forgiveness%20than%20permission/index.md)
+
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md)

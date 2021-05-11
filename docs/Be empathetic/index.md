@@ -1,30 +1,26 @@
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Help](../Categories/Help.md)
 # Be empathetic
 
-Contents
-1	The 7 Habits
-1.1	Independence
-1.1.1	1 - Be proactive
-1.1.2	2 - Begin with the end in mind
-1.1.3	3 - First things first
-1.2	Interdependence
-1.2.1	4 - Think win-win
-1.2.2	5 - Seek first to understand, then to be understood
-1.2.3	6 - Synergies
-1.3	Continual improvement
-1.3.1	7 - Sharpen the Saw; Growth
+Empathy is the ability to understand and share the feelings of another person.
 
+When you are empathetic toward others, you help them feel better about themselves.
+
+It's the best way to understand other people's problems and help them solve them.
+
+Everyone has their own problems, be open-minded when someone tells you their issues. Don't judge them.
+
+Show care and concern. Try to understand how they may be feeling. Be kind to them.
 
 ## Quotes
 
-
-put yourself in other people shoes
-## Resources
-
-## Credits
+> Always put yourself in others' shoes. If you feel that it hurts you, it probably hurts the other person, too.”
+> ― Rachel Grady
 
 ## Related advices
-- emphatic listening
-- be kind
 
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md)
+- [Emphatic listening](../Empathic%20Listening/index.md)
+- [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+- [Offer your help](../Offer%20your%20help/index.md)  
+- [Open your mind](../Open%20your%20mind/index.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Help](../Categories/Help.md)

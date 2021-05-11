@@ -3,6 +3,30 @@
 
 How to live description
 
+Contents
+
+1	The 7 Habits
+
+1.1	Independence
+
+1.1.1	1 - Be proactive
+
+1.1.2	2 - Begin with the end in mind
+
+1.1.3	3 - First things first
+
+1.2	Interdependence
+
+1.2.1	4 - Think win-win
+
+1.2.2	5 - Seek first to understand, then to be understood
+
+1.2.3	6 - Synergies
+
+1.3	Continual improvement
+
+1.3.1	7 - Sharpen the Saw; Growth
+
 
 
 ## Content: advices
@@ -18,8 +42,6 @@ How to live description
     
  - [Be empathetic](Be%20empathetic/index.md)
     
- - [Be empathetic](Be%20empathetic/index.md)
-    
  - [Be grateful](Be%20grateful/index.md)
     
  - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
@@ -30,7 +52,11 @@ How to live description
     
  - [Be kind to yourself and others](Be%20kind%20to%20yourself%20and%20others/index.md)
     
+ - [Be proactive](Be%20proactive/index.md)
+    
  - [Be punctual](Be%20punctual/index.md)
+    
+ - [Better to ask for forgiveness than permission](Better%20to%20ask%20for%20forgiveness%20than%20permission/index.md)
     
  - [Book leisure time](Book%20leisure%20time/index.md)
     
@@ -252,7 +278,7 @@ How to live description
     
  - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
     
- - [You are not something you choose to be something](You%20are%20not%20something%20you%20choose%20to%20be%20something/index.md)
+ - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
     
  - [be punctual](be%20punctual/index.md)
     

@@ -7,6 +7,8 @@
     
  - [Communication](../Categories/Communication.md)
     
+ - [Freedom](../Categories/Freedom.md)
+    
  - [Future](../Categories/Future.md)
     
  - [Goals](../Categories/Goals.md)
@@ -50,6 +52,8 @@
  - [Nature](../Categories/Nature.md)
     
  - [Open minded](../Categories/Open%20minded.md)
+    
+ - [Open mindedness](../Categories/Open%20mindedness.md)
     
  - [Open-mindedness](../Categories/Open-mindedness.md)
     

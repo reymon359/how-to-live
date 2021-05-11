@@ -5,8 +5,6 @@
     
  - [Apologize](../Apologize/index.md)
     
- - [Be empathetic](../Be%20empathetic/index.md)
-    
  - [Be honest](../Be%20honest/index.md)
     
  - [Be punctual](../Be%20punctual/index.md)

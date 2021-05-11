@@ -10,8 +10,6 @@
         
      - [Be empathetic](Be%20empathetic/index.md)
         
-     - [Be empathetic](Be%20empathetic/index.md)
-        
      - [Be grateful](Be%20grateful/index.md)
         
      - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
@@ -22,7 +20,11 @@
         
      - [Be kind to yourself and others](Be%20kind%20to%20yourself%20and%20others/index.md)
         
+     - [Be proactive](Be%20proactive/index.md)
+        
      - [Be punctual](Be%20punctual/index.md)
+        
+     - [Better to ask for forgiveness than permission](Better%20to%20ask%20for%20forgiveness%20than%20permission/index.md)
         
      - [Book leisure time](Book%20leisure%20time/index.md)
         
@@ -244,7 +246,7 @@
         
      - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
         
-     - [You are not something you choose to be something](You%20are%20not%20something%20you%20choose%20to%20be%20something/index.md)
+     - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
         
      - [be punctual](be%20punctual/index.md)
         
@@ -294,6 +296,8 @@
         
      - [Communication](../Categories/Communication.md)
         
+     - [Freedom](../Categories/Freedom.md)
+        
      - [Future](../Categories/Future.md)
         
      - [Goals](../Categories/Goals.md)
@@ -337,6 +341,8 @@
      - [Nature](../Categories/Nature.md)
         
      - [Open minded](../Categories/Open%20minded.md)
+        
+     - [Open mindedness](../Categories/Open%20mindedness.md)
         
      - [Open-mindedness](../Categories/Open-mindedness.md)
         

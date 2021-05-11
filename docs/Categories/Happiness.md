@@ -5,6 +5,8 @@
     
  - [Be grateful](../Be%20grateful/index.md)
     
+ - [Be independent](../Be%20independent/index.md)
+    
  - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
     
  - [Discover new music](../Discover%20new%20music/index.md)

@@ -3,6 +3,10 @@
 
  - [Be independent](../Be%20independent/index.md)
     
+ - [Be proactive](../Be%20proactive/index.md)
+    
+ - [Better to ask for forgiveness than permission](../Better%20to%20ask%20for%20forgiveness%20than%20permission/index.md)
+    
  - [Continuous refactor](../Continuous%20refactor/index.md)
     
  - [Embrace growing](../Embrace%20growing/index.md)
