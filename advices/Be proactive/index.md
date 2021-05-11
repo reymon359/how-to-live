@@ -15,6 +15,12 @@ Don't sit and wait in a reactive mode, waiting for problems to happen and be sol
 > I believe that everyone chooses how to approach life. If you’re proactive, you focus on preparing. If you’re reactive, you end up focusing on repairing. 
 > ― John C. Maxwell
 
+> The best way to not feel hopeless is to get up and do something. Don’t wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.
+> ― Barack Obama
+
+> Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be.
+> ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+
 > Whatever you want to do, do it now! There are only so many tomorrows.
 > ― Michael Landon Jr.
 
