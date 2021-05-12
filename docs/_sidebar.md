@@ -4,6 +4,8 @@
         
      - [Apologize](Apologize/index.md)
         
+     - [Ask for forgiveness, not permission](Ask%20for%20forgiveness,%20not%20permission/index.md)
+        
      - [Ask questions](Ask%20questions/index.md)
         
      - [Avoid the phone when going to sleep](Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
@@ -23,8 +25,6 @@
      - [Be proactive](Be%20proactive/index.md)
         
      - [Be punctual](Be%20punctual/index.md)
-        
-     - [Better to ask for forgiveness than permission](Better%20to%20ask%20for%20forgiveness%20than%20permission/index.md)
         
      - [Book leisure time](Book%20leisure%20time/index.md)
         
@@ -377,6 +377,8 @@
      - [Solitude](../Categories/Solitude.md)
         
      - [Solutions](../Categories/Solutions.md)
+        
+     - [Success](../Categories/Success.md)
         
      - [Time](../Categories/Time.md)
         
