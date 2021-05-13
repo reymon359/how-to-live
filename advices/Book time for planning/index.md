@@ -1,20 +1,35 @@
 ---
 name: 'Book time for planning'
-Categories: ['Planning', 'Time']
+Categories: ['Planning', 'Time', 'Productivity', 'Goals']
 ---
 # Book time for planning
 
-Book time for plan,
+Book time to plan. Try to plan your week before begining it booking time for it in the weekend. Even expend some minutes each evening to plan the next day.
 
-Plan the next day every evening
+When planning review your goals and split them into smaller objectives. Book time for those objectives.
 
-Plan the next week every weekend or sundeay
+Envision what you want in the future so you can work and plan towards it.
+
+To be effective you need to act based on principles and constantly review your mission statements.
+
+Do not just act; think first: Is this how I want it to go, and are these the correct consequences?
 
 ## Quotes
 
+> “By Failing to prepare, you are preparing to fail.” – Benjamin Franklin
+
+> “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” – Abraham Lincoln
+
+> “If you don’t know where you are going, you’ll end up someplace else.” – Yogi Berra
+
 ## Resources
+
+- Stephen R. Covey, The 7 Habits of Highly Effective People
 
 ## Credits
 
+- The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People
+
 ## Related advices
 
+- Begin with the end in mind
