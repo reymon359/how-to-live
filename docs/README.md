@@ -60,6 +60,8 @@ Contents
     
  - [Be punctual](Be%20punctual/index.md)
     
+ - [Begin with the end in mind](Begin%20with%20the%20end%20in%20mind/index.md)
+    
  - [Book leisure time](Book%20leisure%20time/index.md)
     
  - [Book time for planning](Book%20time%20for%20planning/index.md)

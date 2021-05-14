@@ -32,4 +32,4 @@ Do not just act; think first: Is this how I want it to go, and are these the cor
 
 ## Related advices
 
-- Begin with the end in mind
+- [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
