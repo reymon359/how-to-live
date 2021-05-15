@@ -3,6 +3,8 @@
 
  - [Be proactive](../Be%20proactive/index.md)
     
+ - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
+    
  - [Book time for planning](../Book%20time%20for%20planning/index.md)
     
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
