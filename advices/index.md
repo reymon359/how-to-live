@@ -1,7 +1,8 @@
 ---
 name: 'How to live'
-
 ---
+
+quotes are because we are not the first to see this. other important people in the past.
 How to live description
 Contents
 1	The 7 Habits
