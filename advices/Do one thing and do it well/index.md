@@ -1,14 +1,17 @@
 ---
 name: 'Do one thing and do it well'
-Categories: []
+Categories: ['Goals', 'Productivity', 'Minimalism']
 ---
 # Do one thing and do it well
 
-## Quotes
-“Do one thing and do it well“ — Unix philosophy
-## Resources
+Do not try to do many things, focus on one and dedicate your effort to it.
 
-## Credits
+When you try to do a lot of things you end up doing nothing, or at least nothing well done.
+
+## Quotes
+
+> “Do one thing and do it well“ — Unix philosophy
 
 ## Related advices
 
+- [Embrace minimalism](../Embrace%20minimalism/index.md)
