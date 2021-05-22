@@ -1,7 +1,7 @@
 
-# Don't backfire
+# Don't bad-mouth
 
-don't backfire. Don't talk bad of people at his back. If you need to say something about someone say it at its face.
+don't bad-mouth. Don't talk bad of people at his back. If you need to say something about someone say it at its face.
 
 
 ## Quotes
