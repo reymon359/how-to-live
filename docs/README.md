@@ -286,7 +286,7 @@ Contents
     
  - [don't bad-mouth](don't%20bad-mouth/index.md)
     
- - [don't be emotionally attached to money.](don't%20be%20emotionally%20attached%20to%20money./index.md)
+ - [Don't be emotionally attached to money and material things.](don't%20be%20emotionally%20attached%20to%20money./index.md)
     
  - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
     

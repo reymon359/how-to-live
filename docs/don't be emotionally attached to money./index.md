@@ -1,5 +1,5 @@
 
-# Don't be emotionally attached to money
+# Don't be emotionally attached to money and material things
 
 When money is your ideal, of course you won’t like spending it — it’s the thing you’re working for!  But when money is not your ultimate goal, you recognize that money is easily replaceable.  A dollar I make today is the same as a dollar I make tomorrow.
 
