@@ -1,5 +1,4 @@
-
-# DRY Don't repeat yourself
+<br># DRY Don't repeat yourself
 
 DRY
 
@@ -21,4 +20,4 @@ software development
 - minimalism
 - just buy what you need
 
-
+<br>

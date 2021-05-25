@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)
-# Listen to music
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)<br># Listen to music
 
 
 
@@ -14,5 +13,4 @@
 - Discover new music
 - Sing
 - Enjoy nature music
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)
+<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)

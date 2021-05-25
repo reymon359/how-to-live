@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)
-# The Eisenhower Matrix
+[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)<br># The Eisenhower Matrix
 
 
 ![The Eisenhower Matrix](./assets/eisenhower-matrix.png)
@@ -112,5 +111,4 @@ There are no advices related to this one
 
 - []()
 
-
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)
+<br>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)

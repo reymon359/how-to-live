@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)
-# Say thank you to everything
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)<br># Say thank you to everything
 
 Say thank you to everything, even the small things
 
@@ -14,5 +13,4 @@ Tips, someone joins to some plan, someone tells you anything, whatever, just say
 ## Related advices
 
 - be grateful
-
-[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)
+<br>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)

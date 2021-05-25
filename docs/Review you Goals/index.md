@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Productivity](../Categories/Productivity.md)
-# Review you Goals
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Productivity](../Categories/Productivity.md)<br># Review you Goals
 
 Review your goals. The big ones each month, medium week, smalls day.
 
@@ -12,5 +11,4 @@ Review your goals. The big ones each month, medium week, smalls day.
 ## Related advices
 
 - [Set up Goals](../Set%20up%20Goals)
-
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Productivity](../Categories/Productivity.md)
+<br>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Productivity](../Categories/Productivity.md)

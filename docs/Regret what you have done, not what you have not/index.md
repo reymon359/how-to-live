@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# Regret what you have done, not what you have not
+[Categories:](../Categories/index.md)<br># Regret what you have done, not what you have not
 
 ## Quotes
 
@@ -9,5 +8,4 @@
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

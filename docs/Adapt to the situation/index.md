@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# Adapt to the situation
+[Categories:](../Categories/index.md)<br># Adapt to the situation
 
 ## Quotes
 
@@ -7,5 +6,4 @@
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

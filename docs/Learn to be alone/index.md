@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md)
-# Learn to be alone
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md)<br># Learn to be alone
 
 ## Quotes
 Orson Welles'  "We're born alone, we live alone, we die alone."
@@ -24,5 +23,4 @@ https://www.reddit.com/r/explainlikeimfive/comments/1kfvr2/eli5the_true_meaning_
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md)
+<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md)

@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)
-# Begin with the end in mind
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)<br># Begin with the end in mind
 
 To begin with the end in mind is to visualize your life, career, or a specific project the way that you want it to end up being before you actually begin pursuing it. When you make this conscious effort, you take much greater control over your life and circumstances.
 
@@ -20,5 +19,4 @@ When you do something think if it will contributte to the goals you want to acco
 ## Related advices
 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
-
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)
+<br>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)

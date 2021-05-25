@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Nature](../Categories/Nature.md)
-# Enjoy the moment
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Nature](../Categories/Nature.md)<br># Enjoy the moment
 
 
 ## Quotes
@@ -11,5 +10,4 @@
 ## Related advices
 
 - little things
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Nature](../Categories/Nature.md)
+<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Nature](../Categories/Nature.md)

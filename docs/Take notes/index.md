@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)
-# Take notes
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)<br># Take notes
 
 Take notes, about tasks, things to learn, music to listen, movies to watch
 
@@ -11,5 +10,4 @@ Take notes, about tasks, things to learn, music to listen, movies to watch
 ## Credits
 
 ## Related advices
-
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)
+<br>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)

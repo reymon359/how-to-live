@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md)
-# Set up Goals
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md)<br># Set up Goals
 
 Set up goals, think about where you want to be, who you want to be.
 
@@ -16,5 +15,4 @@ Eating an elephant.
 ## Related advices
 
 - [Review your Goals](../Review%20your%20Goals)
-
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md)
+<br>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md)

@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
-# Enjoy the little things
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)<br># Enjoy the little things
 
 Enjoy the little moments of life, those that seem to mean the least usually are the most important ones, the ones that fill us the most
 
@@ -12,5 +11,4 @@ Enjoy the little moments of life, those that seem to mean the least usually are 
 ## Related advices
 
 - 
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

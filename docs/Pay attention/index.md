@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# Pay attention
+[Categories:](../Categories/index.md)<br># Pay attention
 
 https://mythirdbrain.substack.com/p/how-i-spend-my-attention
 ## Quotes
@@ -10,5 +9,4 @@ https://mythirdbrain.substack.com/p/how-i-spend-my-attention
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
-# Eat healthy
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md)<br># Eat healthy
 
 Take care of your body
 
@@ -14,5 +13,4 @@ Don't eat too much junk food
 ## Related advices
 
 - listen to your body
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md)

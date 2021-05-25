@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
-# Drink enough water
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md)<br># Drink enough water
 
 Take care of your body
 
@@ -16,5 +15,4 @@ Always listening to your body
 ## Related advices
 
 - listen to your body
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md)

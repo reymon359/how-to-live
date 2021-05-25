@@ -1,5 +1,4 @@
-
-# Don't seek for approval
+<br># Don't seek for approval
 
 ## Resources
 
@@ -10,4 +9,4 @@ erroneous zones
 ## Related advices
 
 - Do what you want
-
+<br>

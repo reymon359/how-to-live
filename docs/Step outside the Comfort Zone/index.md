@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)
-# Step outside the Comfort Zone
+[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)<br># Step outside the Comfort Zone
 
 It is not easy
 
@@ -18,5 +17,4 @@ Try new things, intermitent fasting, waking up at 5 am
 
 - Open your mind
 - Try new things
-
-[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)
+<br>[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)

@@ -7,7 +7,11 @@
     
  - [Be proactive](../Be%20proactive/index.md)
     
+ - [Continuous learning](../Continuous%20learning/index.md)
+    
  - [Continuous refactor](../Continuous%20refactor/index.md)
+    
+ - [Create your own opinion of things](../Create%20your%20own%20opinion%20of%20things/index.md)
     
  - [Embrace growing](../Embrace%20growing/index.md)
     

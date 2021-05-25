@@ -16,3 +16,6 @@ Contents
 1.2.3	6 - Synergies
 1.3	Continual improvement
 1.3.1	7 - Sharpen the Saw; Growth
+
+
+We teach others how to treat us. For example if we respect ourselves we teach others to test us with respect.

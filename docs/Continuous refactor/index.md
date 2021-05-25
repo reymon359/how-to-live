@@ -1,23 +1,25 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md)
-# Continuous refactor
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)<br># Continuous refactor
 
-refactor is blablabla
+Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design.
 
-Continuous refactor mercilessly. Everytime think of improving  your life, deleting things not needed, story cleaning bedroom. Related #2.6 Big goals small steps, #9.5 Learn step by step
-
-The main principle is that you refactor constantly without mercy to improve the design of your code.
+In a continuous way, refactor your life mercilessly. Every time think of what can you improve in your life. This way, little by little, you get better and better.
 
 ## Quotes
 
+> "The only way to prove that your software is easy to change is to make easy changes to it. And when you find that the changes aren’t as easy as you thought, you refine the design so that the next change is easier. When do you make these easy changes? All the time!... ...This philosophy is sometimes called merciless refactoring." ― The Clean Coder
+
+> “When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.” ― Martin Fowler,
+
+> “I’ve found that refactoring helps me write fast software. It slows the software in the short term while I’m refactoring, but it makes the software easier to tune during optimization. I end up well ahead.” ― Martin Fowler
+
 ## Resources
 
-## Credits
+- The Pragmatic Programmer from Andy Hunt and Dave Thomas
+- The Clean Coder, and The Clean Architecture from Robert C. Martin
 
 ## Related advices
 
-- big goals small steps
-- eating elephant
-- little by little
-
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md)
+- [Review your Goals](../Review%20your%20Goals/index.md)
+- [Eating an elephant](../Eating%20an%20elephant/index.md)
+- [First make it work, then refactor](../First%20make%20it%20work,%20then%20refactor/index.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)

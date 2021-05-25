@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)
-# Be kind to yourself and others
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)<br># Be kind to yourself and others
 
 Just be kind. Don’t do bad.
 
@@ -26,5 +25,4 @@ If you act with kindness you will get that back. People will treat you in a kind
 ## Related advices
 
 - [Helping others makes you happy](../Helping%20makes%20you%20happy/index.md)
-
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)
+<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)

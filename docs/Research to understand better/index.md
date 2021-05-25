@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)
-# Research to understand better
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)<br># Research to understand better
 
 Nowadays we can access easily a lot of information
 
@@ -22,5 +21,4 @@ if you don't have time to research something in the momment note it down for lat
 - adapt to new technologies
 - note things down
 - save it for later
-
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)
+<br>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)

@@ -3,6 +3,10 @@
 
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
+ - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
+    
+ - [Embrace minimalism](../Embrace%20minimalism/index.md)
+    
  - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
     
  - [Just buy what you need](../Just%20buy%20what%20you%20need/index.md)

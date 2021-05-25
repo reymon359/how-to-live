@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# The world is not fair
+[Categories:](../Categories/index.md)<br># The world is not fair
 
 
 ## Quotes
@@ -11,5 +10,4 @@ erroneous zones
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

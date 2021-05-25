@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)
-# Thank people back
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)<br># Thank people back
 
 thank people back. When someone says thank you thank them back. Fallback/Default: Story bejo song "To you for existing"
 
@@ -13,5 +12,4 @@ thank people back. When someone says thank you thank them back. Fallback/Default
 
 - Be grateful
 - say thank you to everything
-
-[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)
+<br>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md)

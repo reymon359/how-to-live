@@ -1,6 +1,10 @@
 # How to live
 
 
+
+
+quotes are because we are not the first to see this. other important people in the past.
+
 How to live description
 
 Contents
@@ -28,6 +32,10 @@ Contents
 1.3.1	7 - Sharpen the Saw; Growth
 
 
+
+
+
+We teach others how to treat us. For example if we respect ourselves we teach others to test us with respect.
 
 ## Content: advices
 
@@ -78,9 +86,9 @@ Contents
     
  - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
     
- - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
+ - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
     
- - [Do things that fulfill you and makes you happy](Do%20things%20that%20fulfill%20you%20and%20makes%20you%20happy/index.md)
+ - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
     
  - [Do what you want](Do%20what%20you%20want/index.md)
     
@@ -97,6 +105,8 @@ Contents
  - [Eating an elephant](Eating%20an%20elephant/index.md)
     
  - [Embrace growing](Embrace%20growing/index.md)
+    
+ - [Embrace minimalism](Embrace%20minimalism/index.md)
     
  - [Empathic Listening](Empathic%20Listening/index.md)
     
@@ -286,7 +296,7 @@ Contents
     
  - [don't bad-mouth](don't%20bad-mouth/index.md)
     
- - [Don't be emotionally attached to money and material things.](don't%20be%20emotionally%20attached%20to%20money./index.md)
+ - [don't be emotionally attached to money and material things](don't%20be%20emotionally%20attached%20to%20money%20and%20material%20things/index.md)
     
  - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
     

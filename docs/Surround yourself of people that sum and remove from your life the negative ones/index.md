@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# Surround yourself of people that sum and remove from your life the negative ones
+[Categories:](../Categories/index.md)<br># Surround yourself of people that sum and remove from your life the negative ones
 
 ## Quotes
 
@@ -9,5 +8,4 @@
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

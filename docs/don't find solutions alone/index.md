@@ -1,5 +1,4 @@
-
-# Don't find solutions alone
+<br># Don't find solutions alone
 
 Talk with someone to find solutions.
 
@@ -15,4 +14,4 @@ Ask for other opinions. See different points of view, evaluate them.
 
 - there is always a solution
 
-
+<br>

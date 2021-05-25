@@ -1,5 +1,4 @@
-
-# Don't procrastinate
+<br># Don't procrastinate
 
 Don't waste time procrastinating.
 
@@ -39,4 +38,4 @@ There are no advices related to this one
 - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix)
 - [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time)
 - [Pomodoro]
-
+<br>

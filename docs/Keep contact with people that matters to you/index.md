@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md)
-# Keep contact with people that matters to you
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md)<br># Keep contact with people that matters to you
 
 Contact people from time to time, set a reminder if needed
 
@@ -12,5 +11,4 @@ Contact people from time to time, set a reminder if needed
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md)
+<br>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md)

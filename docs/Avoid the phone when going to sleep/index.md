@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md)
-# Avoid the phone when going to sleep
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md)<br># Avoid the phone when going to sleep
 
 Don't bring the phone to the bed before going to sleep.
 
@@ -19,5 +18,4 @@ These will help you sleep more and better.
 
 - [Don't waste time on social media](../Don't%20waste%20time%20on%20Social%20Media/index.md)
 - [Put your phone down](../Put%20your%20phone%20down/index.md)  
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md)

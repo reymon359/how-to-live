@@ -1,5 +1,4 @@
-
-# You shouldn't avoid communication
+<br># You shouldn't avoid communication
 
 We, as human need to communicate with each other. Is the only way to understand one another.
 
@@ -20,4 +19,4 @@ Communicating and more important, listening is the best way to understand someth
 - respect
 - listening
 - 
-
+<br>

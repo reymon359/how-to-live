@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)
-# Rectify
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)<br># Rectify
 
 ## Quotes
 
@@ -10,5 +9,4 @@
 ## Related advices
 
 - Refactor
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)

@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
-# Get to know yourself
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># Get to know yourself
 
 
 Which are your most productives moments
@@ -24,5 +23,4 @@ Dont matter what other people think
 dont follow what everyone does
 
 Dont matter what other people think
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

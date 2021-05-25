@@ -1,5 +1,4 @@
-
-# Don't interrupt
+<br># Don't interrupt
 
 Don't interrupt someone when they are talking
 
@@ -16,4 +15,4 @@ wait for your moment to talk, and don't feel the urge to communicate your opinio
 - listening
 - asking
 listen before talking
-
+<br>

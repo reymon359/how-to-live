@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)
-# Take care of your mental health
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)<br># Take care of your mental health
 
 Take care of your body
 
@@ -18,5 +17,4 @@ Your mind is part of it too
 ## Related advices
 
 - listen to your body
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)

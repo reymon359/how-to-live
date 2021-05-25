@@ -7,6 +7,12 @@
     
  - [Book time for planning](../Book%20time%20for%20planning/index.md)
     
+ - [Continuous learning](../Continuous%20learning/index.md)
+    
+ - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
+    
+ - [Do what you want](../Do%20what%20you%20want/index.md)
+    
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
     
  - [Finish what you start](../Finish%20what%20you%20start/index.md)

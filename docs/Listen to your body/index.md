@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
-# Listen to your body
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md)<br># Listen to your body
 
 Listen to your body, if you are hungry eat, if you are no longer hungry don't
 
@@ -14,5 +13,4 @@ If you need to rest, do it
 ## Credits
 
 ## Related advices
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md)

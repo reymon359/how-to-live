@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md)
-# Respect yourself
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md)<br># Respect yourself
 
 Respect yourself, your feelings, the things you want
 
@@ -18,5 +17,4 @@ if you dont respect yourself you wont respect others either
 
 - do what you want to do
 -
-
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md)
+<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md)

@@ -46,9 +46,9 @@
         
      - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
         
-     - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
+     - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
         
-     - [Do things that fulfill you and makes you happy](Do%20things%20that%20fulfill%20you%20and%20makes%20you%20happy/index.md)
+     - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
         
      - [Do what you want](Do%20what%20you%20want/index.md)
         
@@ -65,6 +65,8 @@
      - [Eating an elephant](Eating%20an%20elephant/index.md)
         
      - [Embrace growing](Embrace%20growing/index.md)
+        
+     - [Embrace minimalism](Embrace%20minimalism/index.md)
         
      - [Empathic Listening](Empathic%20Listening/index.md)
         
@@ -254,7 +256,7 @@
         
      - [don't bad-mouth](don't%20bad-mouth/index.md)
         
-     - [Don't be emotionally attached to money and material things.](don't%20be%20emotionally%20attached%20to%20money./index.md)
+     - [don't be emotionally attached to money and material things](don't%20be%20emotionally%20attached%20to%20money%20and%20material%20things/index.md)
         
      - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
         
@@ -300,6 +302,8 @@
         
      - [Communication](../Categories/Communication.md)
         
+     - [Dependencies](../Categories/Dependencies.md)
+        
      - [Freedom](../Categories/Freedom.md)
         
      - [Future](../Categories/Future.md)
@@ -320,6 +324,8 @@
         
      - [Honesty](../Categories/Honesty.md)
         
+     - [Improving](../Categories/Improving.md)
+        
      - [Integrity](../Categories/Integrity.md)
         
      - [Learning](../Categories/Learning.md)
@@ -336,6 +342,8 @@
         
      - [Mental health](../Categories/Mental%20health.md)
         
+     - [Minimalism](../Categories/Minimalism.md)
+        
      - [Mistakes](../Categories/Mistakes.md)
         
      - [Money](../Categories/Money.md)
@@ -349,6 +357,8 @@
      - [Open mindedness](../Categories/Open%20mindedness.md)
         
      - [Open-mindedness](../Categories/Open-mindedness.md)
+        
+     - [Open-mindness](../Categories/Open-mindness.md)
         
      - [Planning](../Categories/Planning.md)
         

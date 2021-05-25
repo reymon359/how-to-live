@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
-# First make it work, then refactor
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)<br># First make it work, then refactor
 
 ## Quotes
 
@@ -10,5 +9,4 @@
 ## Related advices
 
 - refactor
-
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+<br>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

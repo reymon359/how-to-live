@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md)
-# Have ownership of what you do
+[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md)<br># Have ownership of what you do
 
 Have ownership of what you do, ownership of code,
 
@@ -11,5 +10,4 @@ Have ownership of what you do, ownership of code,
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md)
+<br>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md)

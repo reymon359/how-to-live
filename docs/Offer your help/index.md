@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Helping](../Categories/Helping.md)
-# Offer your help
+[Categories:](../Categories/index.md) [Helping](../Categories/Helping.md)<br># Offer your help
 
 always offer for help others.
 
@@ -12,5 +11,4 @@ always offer for help others.
 ## Related advices
 
 - helping makes you happy
-
-[Categories:](../Categories/index.md) [Helping](../Categories/Helping.md)
+<br>[Categories:](../Categories/index.md) [Helping](../Categories/Helping.md)

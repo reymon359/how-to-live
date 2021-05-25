@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md)
-# The rule of holes
+[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md)<br># The rule of holes
 
 The rule of holes, when you are in one stop digging the clean coder
 
@@ -11,5 +10,4 @@ clean coder
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md)
+<br>[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md)

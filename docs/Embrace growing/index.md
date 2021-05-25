@@ -1,5 +1,6 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
-# Embrace growing
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># Embrace growing
+
+TODO: Always, like never, doesn't exist. Relativizar, no generalizar
 
 growing yourself.
 
@@ -13,5 +14,4 @@ think about your growth
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

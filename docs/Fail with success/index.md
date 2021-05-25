@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
-# Fail with success
+[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)<br># Fail with success
 
 If you make a mistake or fail at something just get the best of it. 
 
@@ -16,5 +15,4 @@ learn
 ## Related advices
 
 - apologize
-
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
+<br>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)

@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
-# Learn to adapt
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># Learn to adapt
 
 Adapt to new technologies, dont complain, evolve
 
@@ -10,5 +9,4 @@ Adapt to new technologies, dont complain, evolve
 ## Credits
 
 ## Related advices
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

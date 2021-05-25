@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
-# What you want, is constantly changing
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># What you want, is constantly changing
 
 ## Quotes
 
@@ -8,5 +7,4 @@
 ## Credits
 
 ## Related advices
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

@@ -1,5 +1,4 @@
-
-# Don't give more importance to things than they already have
+<br># Don't give more importance to things than they already have
 
 ## Quotes
 
@@ -11,4 +10,4 @@
 
 - don't feel guilty
 - don't worry
-
+<br>

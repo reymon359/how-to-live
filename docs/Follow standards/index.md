@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# Follow standards
+[Categories:](../Categories/index.md)<br># Follow standards
 standards is what has made humanity reach where we are
 ## Quotes
 
@@ -10,5 +9,4 @@ software development
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md)
-# Eating an elephant
+[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md)<br># Eating an elephant
 
 This one is probably one of my favourites.
 
@@ -22,5 +21,4 @@ Enjoy the way
 - [Set up Goals](../Set%20up%20Goals)
 - enjoy the way
 - don't hurry
-
-[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md)
+<br>[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md)

@@ -1,5 +1,4 @@
-
-# You don't need their approval
+<br># You don't need their approval
 
 Do things no matter who is looking. Don't do things to impress
 
@@ -13,4 +12,4 @@ erroneous zones
 ## Related advices
 
 - Do what you want
-
+<br>

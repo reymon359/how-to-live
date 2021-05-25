@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
-# Go to the doctor
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md)<br># Go to the doctor
 
 Take care of your body
 
@@ -18,5 +17,4 @@ Sometimes it can be too late
 ## Related advices
 
 - listen to your body
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md)

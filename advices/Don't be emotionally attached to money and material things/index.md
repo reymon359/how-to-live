@@ -16,6 +16,10 @@ The less attached emotionally to things you are, the happier you will be.
 
 > “The territorialism and desire to possess things comes directly from the ego, which strives to own and control things. Your spirit already knows you own nothing. It is a matter of realizing that your happiness does not depend on your ownership of things. They help you in your journey but they are not the journey itself.” ― Karen Kingston
 
+> Material things ain't nothing. You feel me? At the end of the day, it's who you is. You wasn't born with it; you gon' die without it. ― Nipsey Hussle
+
+> I am convinced that material things can contribute a lot to making one's life pleasant, but, basically, if you do not have very good friends and relatives who matter to you, life will be really empty and sad and material things cease to be important. ― David Rockefeller
+
 ## Related advices
 
 - [Money is a Means, not an End](../Money%20is%20a%20Means,%20Not%20an%20End/index.md)

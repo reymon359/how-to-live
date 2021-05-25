@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
-# Maintain your integrity
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># Maintain your integrity
 
 
 ## Quotes
@@ -12,5 +11,4 @@
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

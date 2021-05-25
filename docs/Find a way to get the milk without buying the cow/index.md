@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md)
-# Find a way to get the milk without buying the cow
+[Categories:](../Categories/index.md)<br># Find a way to get the milk without buying the cow
 
 ## Quotes
 
@@ -9,5 +8,4 @@ Find a way to get the milk without buying the cow. -  clean architecture
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md)
+<br>[Categories:](../Categories/index.md)

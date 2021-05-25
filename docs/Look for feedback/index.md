@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
-# Look for feedback
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># Look for feedback
 
 Feedback is one of the best ways to grow. 
 
@@ -16,5 +15,4 @@ software development
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)
+<br>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

@@ -1,5 +1,4 @@
-
-# Don't get attached to material things
+<br># Don't get attached to material things
 
 
 ## Quotes
@@ -13,4 +12,4 @@
 - minimalism
 - Buy just what you need
 
-
+<br>

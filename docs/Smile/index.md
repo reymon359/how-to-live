@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
-# Smile
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)<br># Smile
 
 
 
@@ -12,5 +11,4 @@
 ## Related advices
 
 - 
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

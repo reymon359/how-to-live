@@ -5,6 +5,8 @@
     
  - [Book time for planning](../Book%20time%20for%20planning/index.md)
     
+ - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
+    
  - [First make it work, then refactor](../First%20make%20it%20work,%20then%20refactor/index.md)
     
  - [Inbox zero](../Inbox%20zero/index.md)

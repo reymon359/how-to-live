@@ -7,6 +7,8 @@
     
  - [Communication](../Categories/Communication.md)
     
+ - [Dependencies](../Categories/Dependencies.md)
+    
  - [Freedom](../Categories/Freedom.md)
     
  - [Future](../Categories/Future.md)
@@ -27,6 +29,8 @@
     
  - [Honesty](../Categories/Honesty.md)
     
+ - [Improving](../Categories/Improving.md)
+    
  - [Integrity](../Categories/Integrity.md)
     
  - [Learning](../Categories/Learning.md)
@@ -43,6 +47,8 @@
     
  - [Mental health](../Categories/Mental%20health.md)
     
+ - [Minimalism](../Categories/Minimalism.md)
+    
  - [Mistakes](../Categories/Mistakes.md)
     
  - [Money](../Categories/Money.md)
@@ -56,6 +62,8 @@
  - [Open mindedness](../Categories/Open%20mindedness.md)
     
  - [Open-mindedness](../Categories/Open-mindedness.md)
+    
+ - [Open-mindness](../Categories/Open-mindness.md)
     
  - [Planning](../Categories/Planning.md)
     

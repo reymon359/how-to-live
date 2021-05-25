@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
-# Don’t Live with Broken Windows
+[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)<br># Don’t Live with Broken Windows
 
 Don’t Live with Broken Windows. Fix bad designs, wrong decisions, and poor code when you see them.
 
@@ -28,5 +27,4 @@ The problem is to make a mistake or doing something wrong and keep doing it whil
 
 ## Related advices
 
-
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
+<br>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)

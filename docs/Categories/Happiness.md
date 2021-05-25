@@ -13,9 +13,13 @@
     
  - [Discover new music](../Discover%20new%20music/index.md)
     
- - [Do things that fulfill you and makes you happy](../Do%20things%20that%20fulfill%20you%20and%20makes%20you%20happy/index.md)
+ - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
+    
+ - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
+    
+ - [Embrace minimalism](../Embrace%20minimalism/index.md)
     
  - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
     

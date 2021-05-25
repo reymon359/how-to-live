@@ -1,5 +1,4 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
-# Exercise frequently
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md)<br># Exercise frequently
 
 Take care of your body
 
@@ -19,5 +18,4 @@ don't excess, listen to your body
 
 - little by little
 - listen to your body
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
+<br>[Categories:](../Categories/index.md) [Health](../Categories/Health.md)
