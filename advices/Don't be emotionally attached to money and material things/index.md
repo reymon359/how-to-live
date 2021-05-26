@@ -1,6 +1,6 @@
 ---
 name: 'Don't be emotionally attached to money and material things'
-Categories: ['Material things', 'Money', 'Happiness']
+Categories: ['Material things', 'Money', 'Happiness', 'Minimalism']
 ---
 # Don't be emotionally attached to money and material things
 
@@ -25,3 +25,5 @@ The less attached emotionally to things you are, the happier you will be.
 - [Money is a Means, not an End](../Money%20is%20a%20Means,%20Not%20an%20End/index.md)
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
 - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
+- [Embrace minimalism](../Embrace%20minimalism/index.md)
+- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
