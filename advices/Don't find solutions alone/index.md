@@ -8,7 +8,7 @@ If you are looking for a solution you will find it easier with the help of other
 
 Ask for other people opinions and points of view, then evaluate them.
 
-Be grateful to the others that help you finding that solution.
+Be grateful to the others that help you find that solution.
 
 You will solve the problem faster working as a team.
 
