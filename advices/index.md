@@ -2,6 +2,8 @@
 name: 'How to live'
 ---
 
+
+
 if you want to accomplish something remind it to yourself
 
 quotes are because we are not the first to see this. other important people in the past.
