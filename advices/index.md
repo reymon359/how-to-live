@@ -4,6 +4,8 @@ name: 'How to live'
 
 change donts by avoid
 
+take responsibility
+
 if you want to accomplish something remind it to yourself
 
 quotes are because we are not the first to see this. other important people in the past.
