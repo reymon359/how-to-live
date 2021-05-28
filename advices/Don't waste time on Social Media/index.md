@@ -4,11 +4,9 @@ Categories: ['Health', 'Social media']
 ---
 # Don't waste time on social media
 
-You don't have to avoid social media, social media is a nice way to keep in contact with friends
+You don't have to avoid social media, social media is a nice way to keep in contact with the people we love.
 
-the issue is when you waste time looking browsing around stuff that doesn't bring you anything positive, just time consuming
-
-
+The issue is when you waste your time browsing stuff that doesn't bring you anything positive. You just keep scrolling for more and more useless content.
 
 ## Quotes
 
@@ -18,4 +16,5 @@ the issue is when you waste time looking browsing around stuff that doesn't brin
 
 ## Related advices
 
-- avoid mobile when going to sleep
+- [Avoid the phone when going to sleep](../Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
+- [Don't procrastinate](../Don't%20procrastinate/index.md)

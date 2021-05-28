@@ -2,7 +2,7 @@
 name: 'How to live'
 ---
 
-
+change donts by avoid
 
 if you want to accomplish something remind it to yourself
 
