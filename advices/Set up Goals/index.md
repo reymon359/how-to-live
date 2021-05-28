@@ -1,9 +1,9 @@
 ---
 name: 'Set up Goals'
-description: 'Think about what you want to achieve'
 Categories: ['Goals', 'Future']
 ---
 # Set up Goals
+Think about what you want to achieve
 
 Set up goals, think about where you want to be, who you want to be.
 

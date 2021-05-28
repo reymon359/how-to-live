@@ -1,6 +1,5 @@
 [Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)<br># Embrace growing
 
-TODO: Always, like never, doesn't exist. Relativizar, no generalizar
 
 growing yourself.
 

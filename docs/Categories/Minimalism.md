@@ -1,6 +1,8 @@
 # Minimalism
 
 
+ - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
+    
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)

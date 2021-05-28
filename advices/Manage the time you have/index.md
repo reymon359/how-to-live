@@ -1,9 +1,10 @@
 ---
 name: 'Manage the time you have'
-description: 'How to manage time'
 Categories: ['time management', 'time']
 ---
 # Time Management
+
+: 'How to manage time'
 
 Time is the only resource finite
 

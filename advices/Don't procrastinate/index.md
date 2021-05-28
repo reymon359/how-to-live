@@ -1,13 +1,16 @@
 ---
 name: 'Don't procrastinate'
-description: 'Don't waste time procrastinating'
-Categories: ['Time', 'Time management', 'Procrastination']
+Categories: ['Time', 'Time management', 'Procrastination', 'Goals', 'Productivity']
 ---
 # Don't procrastinate
 
-Don't waste time procrastinating.
+Procrastinating is just postponing things you should be doing now for later.
 
-Your Erroneous Zones. Wayne Dyer - 1976:
+If you want to accomplish something you need to avoid doing it and focus on doing the things now.
+
+Sometimes is hard to differentiate procrastinating from pleasure time. Do not avoid the second one, we need pleasure times to relax.
+
+Here is an extract about procrastinating from Wayne Dyer's Your Erroneous Zones:
 
 Three neurotic phrases of the procrastinator: “I hope things will work out.” “I wish things were better.” “Maybe it’ll be okay.”
 
@@ -25,8 +28,15 @@ By identifying why you procrastinate, you can begin to hash out a plan to avoid 
 
 ## Quotes
 
-> Putting it off, in fact, doesn’t even exist. You simply do, and those things you don’t do, in reality, are just undone, rather than postponed.
-> Your Erroneous Zones. Wayne Dyer - 1976
+> Putting it off, in fact, doesn’t even exist. You simply do, and those things you don’t do, in reality, are just undone, rather than postponed. - Wayne Dyer
+
+> “Time you enjoy wasting is not wasted time.” ― Marthe Troly-Curtin
+
+> “You may delay, but time will not, and lost time is never found again." ― Benjamin Franklin
+
+> “Only put off until tomorrow what you are willing to die having left undone” ― Pablo Picasso
+
+> “If you put off everything till you're sure of it, you'll never get anything done." ― Peale Quotes
 
 ## Resources
 
@@ -37,9 +47,8 @@ By identifying why you procrastinate, you can begin to hash out a plan to avoid 
 I learned this long ago, however the chapter 9 Putting An End to Procrastination — Now from Your Erroneous Zones. Wayne Dyer - 1976 has been the deepest I have entered the subject.
 
 ## Related advices
-There are no advices related to this one
 
-- [Don't Complain](../Don't%20complain)
-- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix)
-- [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time)
-- [Pomodoro]
+- [Don't Complain](../Don't%20complain/index.md)
+- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
+- [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)

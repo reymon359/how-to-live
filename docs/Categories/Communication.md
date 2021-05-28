@@ -13,6 +13,8 @@
     
  - [Connect with others](../Connect%20with%20others/index.md)
     
+ - [Embrace communication](../Embrace%20communication/index.md)
+    
  - [Empathic Listening](../Empathic%20Listening/index.md)
     
  - [Greetings before a Conversation](../Greetings%20before%20a%20Conversation/index.md)

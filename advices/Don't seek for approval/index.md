@@ -1,6 +1,5 @@
 ---
-name: 'Don't seek for approval
-description: 'Don't waste time procrastinating'
+name: 'Don't seek for approval'
 Categories: []
 ---
 # Don't seek for approval

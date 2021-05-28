@@ -34,6 +34,8 @@
         
      - [Book time for planning](Book%20time%20for%20planning/index.md)
         
+     - [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
+        
      - [Connect with others](Connect%20with%20others/index.md)
         
      - [Continuous learning](Continuous%20learning/index.md)
@@ -63,6 +65,8 @@
      - [Eat healthy](Eat%20healthy/index.md)
         
      - [Eating an elephant](Eating%20an%20elephant/index.md)
+        
+     - [Embrace communication](Embrace%20communication/index.md)
         
      - [Embrace growing](Embrace%20growing/index.md)
         
@@ -262,9 +266,9 @@
         
      - [don't complain](don't%20complain/index.md)
         
-     - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
+     - [don't feel guilty](don't%20feel%20guilty/index.md)
         
-     - [don't get attached to material things](don't%20get%20attached%20to%20material%20things/index.md)
+     - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
         
      - [don't give more importance to things than they already have](don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
         
@@ -282,9 +286,13 @@
         
      - [don't waste time on social media](don't%20waste%20time%20on%20social%20media/index.md)
         
+     - [don't worry](don't%20worry/index.md)
+        
      - [dry don't repeat yourself](dry%20don't%20repeat%20yourself/index.md)
         
      - [question what you don't understand](question%20what%20you%20don't%20understand/index.md)
+        
+     - [relativize, don't generalize](relativize,%20don't%20generalize/index.md)
         
      - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
         

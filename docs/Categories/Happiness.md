@@ -11,6 +11,8 @@
     
  - [Book leisure time](../Book%20leisure%20time/index.md)
     
+ - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
+    
  - [Discover new music](../Discover%20new%20music/index.md)
     
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
@@ -18,6 +20,8 @@
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
+    
+ - [Embrace communication](../Embrace%20communication/index.md)
     
  - [Embrace minimalism](../Embrace%20minimalism/index.md)
     

@@ -1,10 +1,10 @@
 ---
 name: 'Review you Goals'
-description: 'Think about what you want to achieve'
 Categories: ['Goals', 'Future', 'Productivity']
 ---
 # Review you Goals
 
+Think about what you want to achieve
 Review your goals. The big ones each month, medium week, smalls day.
 
 ## Quotes

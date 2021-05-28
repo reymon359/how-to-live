@@ -1,9 +1,10 @@
 ---
 name: 'Learn the difference between procrastination and leisure time'
-description: 'Do not confuse and feel bad in your free time thinking that you are procrastinating'
 Categories: ['Time', 'Time management', 'Procrastination', 'Leisure']
 ---
-# Learn the difference between procrastination and leisure time.
+# Learn the difference between procrastination and leisure time
+
+Do not confuse and feel bad in your free time thinking that you are procrastinating
 
 Sometimes it is hard to differentiate whether we are spending leisure time or if we are procrastinating. This can make us feel bad because we can think we are procrastinating, and we will not enjoy that leisure time.
 

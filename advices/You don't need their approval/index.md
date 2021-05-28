@@ -2,7 +2,7 @@
 name: 'You don't need their approval
 Categories: ['Growing']
 ---
-# You don't need their approval
+# You don't need val
 
 Do things no matter who is looking. Don't do things to impress
 

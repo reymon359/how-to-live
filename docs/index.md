@@ -3,6 +3,14 @@
 
 
 
+
+
+
+
+if you want to accomplish something remind it to yourself
+
+
+
 quotes are because we are not the first to see this. other important people in the past.
 
 How to live description
@@ -36,6 +44,36 @@ Contents
 
 
 We teach others how to treat us. For example if we respect ourselves we teach others to test us with respect.
+
+
+
+dont feel guilty neither worry
+
+
+
+1 Taking Charge of Yourself
+
+2 First Love
+
+3 You Don’t Need Their Approval
+
+4 Breaking Free From the Past
+
+5 The Useless Emotions — Guilt and Worry
+
+6 Exploring the Unknown
+
+7 Breaking the Barrier of Convention
+
+8 The Justice Trap
+
+9 Putting An End to Procrastination — Now
+
+10 Declare Your Independence
+
+11 Farewell to Anger
+
+12 Portrait of a Person Who has Eliminated all Erroneous Zones
 
 ## Content: advices
 
@@ -74,6 +112,8 @@ We teach others how to treat us. For example if we respect ourselves we teach ot
     
  - [Book time for planning](Book%20time%20for%20planning/index.md)
     
+ - [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
+    
  - [Connect with others](Connect%20with%20others/index.md)
     
  - [Continuous learning](Continuous%20learning/index.md)
@@ -103,6 +143,8 @@ We teach others how to treat us. For example if we respect ourselves we teach ot
  - [Eat healthy](Eat%20healthy/index.md)
     
  - [Eating an elephant](Eating%20an%20elephant/index.md)
+    
+ - [Embrace communication](Embrace%20communication/index.md)
     
  - [Embrace growing](Embrace%20growing/index.md)
     
@@ -302,9 +344,9 @@ We teach others how to treat us. For example if we respect ourselves we teach ot
     
  - [don't complain](don't%20complain/index.md)
     
- - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
+ - [don't feel guilty](don't%20feel%20guilty/index.md)
     
- - [don't get attached to material things](don't%20get%20attached%20to%20material%20things/index.md)
+ - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
     
  - [don't give more importance to things than they already have](don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
     
@@ -322,9 +364,13 @@ We teach others how to treat us. For example if we respect ourselves we teach ot
     
  - [don't waste time on social media](don't%20waste%20time%20on%20social%20media/index.md)
     
+ - [don't worry](don't%20worry/index.md)
+    
  - [dry don't repeat yourself](dry%20don't%20repeat%20yourself/index.md)
     
  - [question what you don't understand](question%20what%20you%20don't%20understand/index.md)
+    
+ - [relativize, don't generalize](relativize,%20don't%20generalize/index.md)
     
  - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
     
