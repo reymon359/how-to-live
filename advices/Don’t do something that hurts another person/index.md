@@ -1,6 +1,6 @@
 ---
 name: 'Don’t do something that hurts another person'
-Categories: ['Respect', 'Problems', 'Help', 'Happiness']
+Categories: ['Respect', 'Problems', 'Help', 'Happiness', 'Mistakes']
 ---
 # Don’t do something that hurts another person
 
