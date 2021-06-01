@@ -24,6 +24,8 @@ Of course, do it respecting others and doing no harm to anyone.
 
 > Start doing what you want to do, and everything else will be revealed to you. ― Paulo Coelho
 
+> You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you.” — Maya Angelou
+
 ## Resources
 
 - Your Erroneous Zones. Wayne Dyer - 1976
