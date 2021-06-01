@@ -342,7 +342,7 @@ dont feel guilty neither worry
     
  - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
     
- - [don't complain](don't%20complain/index.md)
+ - [Avoid complaining](don't%20complain/index.md)
     
  - [don't feel guilty](don't%20feel%20guilty/index.md)
     

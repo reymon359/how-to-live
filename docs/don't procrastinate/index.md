@@ -34,7 +34,7 @@ I learned this long ago, however the chapter 9 Putting An End to Procrastination
 ## Related advices
 There are no advices related to this one
 
-- [Don't Complain](../Don't%20complain)
+- [Avoid complaining](../Don't%20complain)
 - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix)
 - [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time)
 - [Pomodoro]

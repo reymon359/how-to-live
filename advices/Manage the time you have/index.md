@@ -3,7 +3,7 @@ name: 'Manage the time you have'
 Categories: ['time management', 'time']
 ---
 # Time Management
-
+https://en.wikipedia.org/wiki/Time_management
 : 'How to manage time'
 
 Time is the only resource finite

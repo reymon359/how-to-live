@@ -33,4 +33,4 @@ It will bring you more problems than sollutions.
 - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
 - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
 - [Be honest](../Be%20honest/index.md)
-- [Don't complain](../Don't%20complain/index.md)
+- [Avoid complaining](../Avoid%20complaining/index.md)

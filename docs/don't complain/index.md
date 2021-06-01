@@ -1,4 +1,4 @@
-<br># Don't Complain
+<br># Avoid complaining
 
 To complain is a waste of time. If you don't like something, do something to change that situation.
 

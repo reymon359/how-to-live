@@ -10,6 +10,8 @@ Not just yourself but everything you make
 
 In software the feedback from users is super valuable
 
+feedback is a gift
+
 ## Quotes
 
 ## Resources
