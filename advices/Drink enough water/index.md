@@ -1,6 +1,6 @@
 ---
 name: 'Drink enough water'
-Categories: ['Health']
+Categories: ['Health', 'Nutrition']
 ---
 # Drink enough water
 
@@ -28,3 +28,4 @@ Try to drink more water than other not-so-healthy drinks.
 ## Related advices
 
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
+- [Eat healthy](../Eat%20healthy/index.md)
