@@ -24,3 +24,4 @@ Enjoy that moment, you will connect with yourself and the world.
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Respect nature](../Respect%20nature/index.md)
+- [Pay attention](../Pay%20attention/index.md)
