@@ -8,6 +8,8 @@ take responsibility
 
 if you want to accomplish something remind it to yourself
 
+some of them contradict, dont take anything here too serious, let it flow, adapt, etc
+
 quotes are because we are not the first to see this. other important people in the past.
 How to live description
 Contents

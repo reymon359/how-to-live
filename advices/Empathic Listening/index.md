@@ -1,22 +1,42 @@
 ---
 name: 'Empathic Listening'
-Categories: ['Communication', 'Listening']
+Categories: ['Communication', 'Listening', 'Open-mindedness']
 ---
 # Empathic Listening
 
-“In empathic listening, you listen with your ears, but you also, and more importantly, listen with your eyes and with your heart.  You listen for feeling, for meaning.  You listen for behavior.  You use your right brain as well as your left.  You sense, you intuit, you feel.”
+Empathic listening is about listening with your eyes and with your heart. Listen to understand not only what is being said but the feelings and meaning of it.
+You listen the behaviour and feel the same way as the speaker.
+
+Try to listen this way when you are communicating with someone.
+
+Emphatic listening is above just listening. It achieves making an emotional connection with the other person.
+
+It is also called active listening or reflective listening.
 
 ## Quotes
 
+> “Empathy is about finding echoes of another person in yourself.” – Mohsin Hamid
+
+> “Empathy is like giving someone a psychological hug.” – Lawrence J
+
+> “When you show deep empathy toward others, their defensive energy goes down, and positive energy replaces is. That’s when you can get more creative in solving problems.” – Stephen Covey
+
+> “Dialogue is about people-listening to them, empathizing with them, and humbling ourselves for a moment that we might understand a different view.” – Science & Spirit: Connecting Science, Religion and Life
+
+> “Real dialogue is where two or more people become willing to suspend their certainty in each other’s presence.” – David Bohm
+
 ## Resources
 
-7 habits
+- Stephen R. Covey, The 7 Habits of Highly Effective People
 
 ## Credits
 
-7 habits
+- Stephen R. Covey, The 7 Habits of Highly Effective People
 
 ## Related advices
 
-- listening
-- asking
+- [Listen before talking](../Listen%20before%20talking/index.md)
+- [Open your mind](../Open%20your%20mind/index.md)
+- [Ask questions](../Ask%20questions/index.md)
+- [Respect others opinion](../Respect%20others%20opinion/index.md)
+- [Nobody things the same way yo do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
