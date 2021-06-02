@@ -5,12 +5,12 @@ Categories: ['Material things', 'Minimalism', 'Happiness', 'Dependencies']
 # Embrace minimalism
 
 Minimalism is all about living with less. It is about getting rid of excess stuff and living life based on experiences rather than worldly possessions. Having less stuff will also free up your life financially.
-
-Just have what you need to live, if you don't need it, ge rid of it, sell it or give it away.
-
-If you follow this mindset you will probably throw away most of your stuff. However if you want to have some of them because they make you happy just do it.
-
-Minimalism can be applied not only a phisical things but also digital ones or even topics like communication or work. In all of them the point is the same: Get rid of excess and focus on the important.
+ 
+Just have what you need to live, if you don't need it, get rid of it, sell it or give it away.
+ 
+If you follow this mindset, you will probably throw away most of your stuff. However, if you want to have some of them because they make you happy, just do it.
+ 
+Minimalism can be applied not only to physical things but also digital ones or even topics like communication or work. In all of them the point is the same: Get rid of excess and focus on the important.
 
 ## Quotes
 

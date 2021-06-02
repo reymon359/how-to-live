@@ -5,7 +5,7 @@ Categories: ['Communication', 'Listening', 'Open-mindedness']
 # Empathic Listening
 
 Empathic listening is about listening with your eyes and with your heart. Listen to understand not only what is being said but the feelings and meaning of it.
-You listen the behaviour and feel the same way as the speaker.
+You listen the behavior and feel the same way as the speaker.
 
 Try to listen this way when you are communicating with someone.
 
@@ -39,4 +39,4 @@ It is also called active listening or reflective listening.
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Ask questions](../Ask%20questions/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Nobody things the same way yo do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
