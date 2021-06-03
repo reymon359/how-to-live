@@ -6,6 +6,7 @@ change donts by avoid
 
 take responsibility
 
+pay atention and mindfulness together
 if you want to accomplish something remind it to yourself
 
 some of them contradict, dont take anything here too serious, let it flow, adapt, etc

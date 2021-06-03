@@ -6,7 +6,7 @@ Categories: ['Happiness', 'Minimalism', 'Love', 'Gratitude']
 
 Life is made by those little things and moments from day by day. A walk in the morning, a talk with a friend, a hug, a meal, a nap, etc.
 
-Enjoy those moments, they can seem meaningless, however, are the most important ones. The ones that fill us the most. Th
+Enjoy those details, they can seem meaningless, however, are the most important ones. The ones that fill us the most.
 
 ## Quotes
 
