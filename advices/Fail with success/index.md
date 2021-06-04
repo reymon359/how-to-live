@@ -1,21 +1,36 @@
 ---
 name: 'Fail with success'
-Categories: ['Mistakes']
+Categories: ['Mistakes', 'Success', 'Problems', 'Solutions', 'Growing']
 ---
 # Fail with success
 
-If you make a mistake or fail at something just get the best of it. 
-
-apologize, propose solutions, way to do it better, improve
-
-learn
+Each failure is an opportunity to learn from the mistakes made, leading to success. Society expects us not to fail, however, we have to fail to succeed.
+ 
+If you fail at something, just get the best of it.
+ 
+Apologize if you have to, look to solutions and ways to do it better, improve.
+ 
+Mistakes happen. How you fight them is the key. Each mistake is a chance to learn something new. Think this way and success will follow.
+ 
+Don't feel guilty and worry about failing.
+ 
+To successfully step out of the comfort zone, you will have to fail. Don't be afraid of it.
+ 
+Be responsible for what you have done, even if it was a mistake. If you did something, have the ownership of it to solve it.
 
 ## Quotes
 
-## Resources
+> “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all—in which case, you fail by default.” ― J.K. Rowling
 
-## Credits
+> “Failure comes part and parcel with invention. It’s not optional. We understand that and believe in failing early and iterating until we get it right.” ― Jeff Bezos
+
+> "Failure isn't fatal, but failure to change might be" - John Wooden
+
+> “Success is most often achieved by those who don't know that failure is inevitable.” - Coco Chanel
 
 ## Related advices
 
-- apologize
+- [Apologize](../Apologize/index.md)
+- [Don't worry](../Don't%20worry/index.md)
+- [Step outside the Comfort Zone](../Step%20outside%20the%20Comfort%20Zone/index.md)
+- [Have owner](../Have%20ownership%20of%20what%20you%20do/index.md)
