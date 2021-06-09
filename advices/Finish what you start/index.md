@@ -5,14 +5,14 @@ Categories: ['Goals', 'Success', 'Planning']
 # Finish what you start
 
 If you start something, finish it.
-
-If what you want to do is too big, split it into smaller goals to accomplish it.
-
-If you dont finish the things you start you never get motivation and the feeling of accomplishment that leads you to make other things.
-
-This is more important if you are about to finish something. It is the last effort you have to make so don't give up!
-
-To finish things you need to work on them constantly. Don't give things up. Plan time to work on them. Set up reminders.
+ 
+When what you want to do is too big, split it into smaller goals to accomplish it.
+ 
+When you don't finish the things you start, you never get motivation and the feeling of accomplishment that leads you to make other things.
+ 
+This is more important if you are about to finish something. It is the last effort you have to make, so don't give up!
+ 
+To finish things, you need to work on them constantly. Don't give things up. Plan time to work on them. Set up reminders.
 
 ## Quotes
 
