@@ -20,6 +20,10 @@ One of the best ways to get to know yourself is to spend time alone. Book time f
 
 > The more you know yourself, the more patience you have for what you see in others. — Erik Erikso
 
+> Knowing yourself is the beginning of all wisdom. — Aristotle
+
+> The more you know yourself, the more you forgive yourself. — Confucius
+
 > The most difficult thing in life is to know yourself. — Thales
 
 > Be yourself — not your idea of what you think somebody else’s idea of yourself should be. — Henry David Thoreau
