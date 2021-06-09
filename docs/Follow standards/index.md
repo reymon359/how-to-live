@@ -1,4 +1,4 @@
-# Follow standards
+# When in doubt, follow standards
 standards is what has made humanity reach where we are
 ## Quotes
 

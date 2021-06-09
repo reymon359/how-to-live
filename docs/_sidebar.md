@@ -92,7 +92,7 @@
         
      - [First make it work, then refactor](First%20make%20it%20work,%20then%20refactor/index.md)
         
-     - [Follow standards](Follow%20standards/index.md)
+     - [When in doubt, follow standards](Follow%20standards/index.md)
         
      - [Get to know yourself](Get%20to%20know%20yourself/index.md)
         
