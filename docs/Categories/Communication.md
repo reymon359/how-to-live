@@ -31,3 +31,5 @@
     
  - [Raise your hand](../Raise%20your%20hand/index.md)
     
+ - [Take responsibility](../Take%20responsibility/index.md)
+    

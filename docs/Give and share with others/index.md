@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md)<br># Give and share with others
+# Give and share with others
 
 Sharing is caring
 
@@ -13,4 +13,4 @@ Sharing is caring
 
 - helping makes you happy
 - offer your help
-<br>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md)
+<br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md)

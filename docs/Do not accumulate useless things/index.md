@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)<br># Do not accumulate useless things
+# Do not accumulate useless things
 
 If aren't going to use something anymore don't keep it. Give it to someone else or just remove it from your life.
 
@@ -21,8 +21,8 @@ Have a minimalist mentality.
 
 ## Related advices
 
-- Dependencies
-- minimalism
-- Give and share with others
+- [Remove dependencies](../Remove%20dependencies/index.md)
+- [Embrace minimalism](../Embrace%20minimalism/index.md)
+- [Give and share with others](../Give%20and%20share%20with%20others/index.md)
 - [Just buy what you need](../Just%20buy%20what%20you%20need/index.m)
-<br>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
+<br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)

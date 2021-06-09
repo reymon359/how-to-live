@@ -3,6 +3,8 @@
 
  - [Apologize](../Apologize/index.md)
     
+ - [Avoid complaining](../Avoid%20complaining/index.md)
+    
  - [Be grateful](../Be%20grateful/index.md)
     
  - [Be independent](../Be%20independent/index.md)
@@ -17,13 +19,17 @@
     
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
- - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
-    
  - [Do what you want](../Do%20what%20you%20want/index.md)
+    
+ - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)
     
+ - [Embrace growing](../Embrace%20growing/index.md)
+    
  - [Embrace minimalism](../Embrace%20minimalism/index.md)
+    
+ - [Enjoy nature music](../Enjoy%20nature%20music/index.md)
     
  - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
     
@@ -34,8 +40,6 @@
  - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
-    
- - [Listen to music](../Listen%20to%20music/index.md)
     
  - [Listen to music](../Listen%20to%20music/index.md)
     

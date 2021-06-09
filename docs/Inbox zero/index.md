@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)<br># Inbox zero
+# Inbox zero
 
 ## Quotes
 
@@ -7,4 +7,4 @@
 ## Credits
 
 ## Related advices
-<br>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+<br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

@@ -1,4 +1,4 @@
-<br># Don't find solutions alone
+# Don't find solutions alone
 
 If you are looking for a solution you will find it easier with the help of others.
 
@@ -22,4 +22,4 @@ You will solve the problem faster working as a team.
 - [Be grateful](../Be%20grateful/index.md)
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Ask questions](../Ask%20questions/index.md)
-- [Raise your hand](../Raise%20your%20hand/index.md)<br>
+- [Raise your hand](../Raise%20your%20hand/index.md)<br/>

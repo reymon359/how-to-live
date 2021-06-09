@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)<br># Respect others opinion
+# Respect others opinion
 
 Nobody thinks like you do, because of culture, social situations, experiences, whatever.
 
@@ -27,4 +27,4 @@ erroneous zones
 
 - nobody thinks the same way
 -
-<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

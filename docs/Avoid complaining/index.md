@@ -1,4 +1,4 @@
-<br># Avoid complaining
+# Avoid complaining
 
 To complain is a waste of time. If you don't like something, do something to change that situation.
 
@@ -37,4 +37,4 @@ Complaining is the refuge of those who have no self-reliance.
 
 - [Take action](../Take%20action/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-<br>
+<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)

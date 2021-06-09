@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)<br># Set up Social Goals too
+# Set up Social Goals too
 
 Dont focus only in career goals
 
@@ -20,4 +20,4 @@ The 7 habits book. There was a part about this
 
 ## Related advices
 
-<br>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)
+<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)

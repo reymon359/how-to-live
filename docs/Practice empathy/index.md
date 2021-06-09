@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)<br># Practice empathy
+# Practice empathy
 
 ## Quotes
 
@@ -7,4 +7,4 @@
 ## Credits
 
 ## Related advices
-<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

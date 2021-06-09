@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)<br># Book time for planning
+# Book time for planning
 
 Book time to plan. Try to plan your week before begining it booking time for it in the weekend. Even expend some minutes each evening to plan the next day.
 
@@ -29,4 +29,4 @@ Do not just act; think first: Is this how I want it to go, and are these the cor
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-<br>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+<br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

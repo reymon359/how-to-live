@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)<br># Try new things
+# Try new things
 
 Don't be afraid to try new things, new food, sports, activities, routines, whatever
 
@@ -19,4 +19,4 @@ erroneous zones explore the unknown
 ## Related advices
 
 - Open your mind
-<br>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)
+<br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)

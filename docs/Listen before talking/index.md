@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Listening](../Categories/Listening.md)<br># Listen before talking
+# Listen before talking
 
 When communicating with someone else always listen to them before speaking, in fact, just speak if it is totally necessary.
 
@@ -22,4 +22,4 @@ the best way to listen is by asking.
 - respect
 - listening
 - asking
-<br>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Listening](../Categories/Listening.md)
+<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Listening](../Categories/Listening.md)

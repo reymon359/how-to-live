@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)<br># Let it flow
+# Let it flow
 
 Dont overthink
 Dont overplan
@@ -14,4 +14,4 @@ inshallah
 ## Related advices
 
 - Don't worry
-<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

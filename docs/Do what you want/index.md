@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)<br># Do what you want
+# Do what you want
 
 If you really want to do something, just do it.
 
@@ -20,6 +20,8 @@ Of course, do it respecting others and doing no harm to anyone.
 
 > Start doing what you want to do, and everything else will be revealed to you. ― Paulo Coelho
 
+> You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you.” — Maya Angelou
+
 ## Resources
 
 - Your Erroneous Zones. Wayne Dyer - 1976
@@ -30,4 +32,4 @@ Of course, do it respecting others and doing no harm to anyone.
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Don't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
 - [Respect others opinion](../Respect%20others%20pinion/index.md)
-<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)
+<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)

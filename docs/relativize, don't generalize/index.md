@@ -1,4 +1,4 @@
-<br># Relativize, don't generalize
+# Relativize, don't generalize
 TODO: Always, like never, doesn't exist. Relativizar, no generalizar
 
 ## Quotes
@@ -8,4 +8,4 @@ TODO: Always, like never, doesn't exist. Relativizar, no generalizar
 ## Credits
 
 ## Related advices
-<br>
+<br/>

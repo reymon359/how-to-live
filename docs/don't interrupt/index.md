@@ -1,10 +1,10 @@
-<br># Don't interrupt
+# Don't interrupt
 
 If someone is focused in doing something let them finish and don't interrupt them.
 
 Don't interrupt someone when they are talking.
 
-Wait for others to finish, listen to them properly, and then say whatever you wanted to say.
+Listen to them properly, wait for them to finish, and then say whatever you wanted to say.
 
 Don't feel the urge to communicate your opinion.
 
@@ -20,4 +20,4 @@ Don't feel the urge to communicate your opinion.
 
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-<br>
+<br/>

@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)<br># Learn to delegate
+# Learn to delegate
 
 
 ## Quotes
@@ -8,4 +8,4 @@
 ## Credits
 
 ## Related advices
-<br>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)
+<br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)

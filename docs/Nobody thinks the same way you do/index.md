@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)<br># Nobody thinks the same way you do
+# Nobody thinks the same way you do
 
 Nobody thinks the same way you do and that is totally normal and perfect
 
@@ -15,4 +15,4 @@ Although their opinion is not the same as your you have to respect it.
 ## Related advices
 
 - respect
-<br>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)

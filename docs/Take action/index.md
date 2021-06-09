@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)<br># Take action
+# Take action
 
 one of the best ways to stop worrying
 
@@ -12,4 +12,4 @@ erroneous zones
 
 ## Related advices
 
-<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

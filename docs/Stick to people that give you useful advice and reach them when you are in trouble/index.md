@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md)<br># Stick to people that give you useful advice and reach them when you are in trouble
+# Stick to people that give you useful advice and reach them when you are in trouble
 
 ## Quotes
 
@@ -8,4 +8,4 @@
 
 ## Related advices
 
-<br>[Categories:](../Categories/index.md)
+<br/>[Categories:](../Categories/index.md)

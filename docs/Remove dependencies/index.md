@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md)<br># Remove dependencies
+# Remove dependencies
 
 minimalism
 
@@ -12,4 +12,4 @@ Software development
 
 - minimalism
 - Be independent
-<br>[Categories:](../Categories/index.md)
+<br/>[Categories:](../Categories/index.md)

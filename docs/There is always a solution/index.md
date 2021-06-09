@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md)<br># There is always a solution
+# There is always a solution
 
 There is always a solution or a better state of things
 
@@ -16,4 +16,4 @@ Refactor
 
 - Let it flow
 - Refactor
-<br>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md)
+<br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md)

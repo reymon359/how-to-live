@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)<br># Learn to forgive
+# Learn to forgive
 
 
 ## Quotes
@@ -11,4 +11,4 @@
 
 - Akuna matata, let it flow
 - Give second chances
-<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

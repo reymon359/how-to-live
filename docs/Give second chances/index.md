@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)<br># Give second chances
+# Give second chances
 
 To people, ideas, stuff
 
@@ -11,4 +11,4 @@ To people, ideas, stuff
 ## Related advices
 
 - Learn to forgive
-<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

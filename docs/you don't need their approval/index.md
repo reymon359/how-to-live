@@ -1,4 +1,6 @@
-<br># You don't need their approval
+# You don't need val
+
+https://github.com/reymon359/book-sentences/blob/master/books/your-erroneous-zones/README.md#3-you-dont-need-their-approval
 
 Do things no matter who is looking. Don't do things to impress
 
@@ -12,4 +14,4 @@ erroneous zones
 ## Related advices
 
 - Do what you want
-<br>
+<br/>

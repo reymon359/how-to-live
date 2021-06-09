@@ -15,6 +15,10 @@
     
  - [Embrace growing](../Embrace%20growing/index.md)
     
+ - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
+    
+ - [Fail with success](../Fail%20with%20success/index.md)
+    
  - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
     
  - [Grow with others](../Grow%20with%20others/index.md)

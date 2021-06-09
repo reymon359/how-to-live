@@ -3,11 +3,21 @@
 
 
 
+change donts by avoid
 
 
 
+take responsibility
+
+
+
+pay atention and mindfulness together
 
 if you want to accomplish something remind it to yourself
+
+
+
+some of them contradict, dont take anything here too serious, let it flow, adapt, etc
 
 
 
@@ -39,7 +49,7 @@ Contents
 
 1.3.1	7 - Sharpen the Saw; Growth
 
-
+https://github.com/reymon359/how-to-live/blob/master/docs/Categories/index.md
 
 
 
@@ -88,6 +98,8 @@ dont feel guilty neither worry
     
  - [Ask questions](Ask%20questions/index.md)
     
+ - [Avoid complaining](Avoid%20complaining/index.md)
+    
  - [Avoid the phone when going to sleep](Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
     
  - [Be empathetic](Be%20empathetic/index.md)
@@ -126,8 +138,6 @@ dont feel guilty neither worry
     
  - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
     
- - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
-    
  - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
     
  - [Do what you want](Do%20what%20you%20want/index.md)
@@ -151,6 +161,8 @@ dont feel guilty neither worry
  - [Embrace minimalism](Embrace%20minimalism/index.md)
     
  - [Empathic Listening](Empathic%20Listening/index.md)
+    
+ - [Enjoy nature music](Enjoy%20nature%20music/index.md)
     
  - [Enjoy the little things](Enjoy%20the%20little%20things/index.md)
     
@@ -217,8 +229,6 @@ dont feel guilty neither worry
  - [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
     
  - [Listen before talking](Listen%20before%20talking/index.md)
-    
- - [Listen to music](Listen%20to%20music/index.md)
     
  - [Listen to music](Listen%20to%20music/index.md)
     
@@ -302,6 +312,8 @@ dont feel guilty neither worry
     
  - [Take notes](Take%20notes/index.md)
     
+ - [Take responsibility](Take%20responsibility/index.md)
+    
  - [Teaching is one of the best ways to learn](Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
     
  - [Thank people back](Thank%20people%20back/index.md)
@@ -342,8 +354,6 @@ dont feel guilty neither worry
     
  - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
     
- - [Avoid complaining](don't%20complain/index.md)
-    
  - [don't feel guilty](don't%20feel%20guilty/index.md)
     
  - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
@@ -359,8 +369,6 @@ dont feel guilty neither worry
  - [don't procrastinate](don't%20procrastinate/index.md)
     
  - [don't reinvent the wheel](don't%20reinvent%20the%20wheel/index.md)
-    
- - [don't seek for approval](don't%20seek%20for%20approval/index.md)
     
  - [don't waste time on social media](don't%20waste%20time%20on%20social%20media/index.md)
     
@@ -382,3 +390,4 @@ dont feel guilty neither worry
 
  - [Categories](Categories/index.md)
     
+<br/><br/><br/>Made with [Collman](https://github.com/reymon359/collman)

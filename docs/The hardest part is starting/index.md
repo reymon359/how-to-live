@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort Zone](../Categories/comfort%20Zone.md)<br># The hardest part is starting
+# The hardest part is starting
 
 The hardest part is starting
 
@@ -13,4 +13,4 @@ Stepping out of the comfort zone is always hard
 ## Related advices
 
 - [Step outside the comfort zone](../)
-<br>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort Zone](../Categories/comfort%20Zone.md)
+<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort Zone](../Categories/comfort%20Zone.md)

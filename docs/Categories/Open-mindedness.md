@@ -5,6 +5,10 @@
     
  - [Create your own opinion of things](../Create%20your%20own%20opinion%20of%20things/index.md)
     
+ - [Embrace growing](../Embrace%20growing/index.md)
+    
+ - [Empathic Listening](../Empathic%20Listening/index.md)
+    
  - [Open your mind](../Open%20your%20mind/index.md)
     
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)

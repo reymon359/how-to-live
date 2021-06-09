@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)<br># Just buy what you need
+# Just buy what you need
 
 Just buy what you need. Think a bit before spending money on material things if  you really need them now and if you will still need them in the long term, 
 
@@ -17,4 +17,4 @@ Of course this is related to things like clothes and material things but if you
 - minimalism
 
 
-<br>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)
+<br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)

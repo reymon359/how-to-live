@@ -9,3 +9,9 @@
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
+ - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
+    
+ - [Fail with success](../Fail%20with%20success/index.md)
+    
+ - [Find a way to get the milk without buying the cow](../Find%20a%20way%20to%20get%20the%20milk%20without%20buying%20the%20cow/index.md)
+    

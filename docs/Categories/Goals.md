@@ -13,6 +13,10 @@
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
+ - [Eating an elephant](../Eating%20an%20elephant/index.md)
+    
+ - [Embrace growing](../Embrace%20growing/index.md)
+    
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
     
  - [Finish what you start](../Finish%20what%20you%20start/index.md)

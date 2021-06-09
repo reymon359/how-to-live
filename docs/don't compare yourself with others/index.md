@@ -1,4 +1,4 @@
-<br># Don't compare yourself with others
+# Don't compare yourself with others
 
 Don't compare yourself with others, just with yourself.
 
@@ -29,4 +29,4 @@ By comparing yourself to others, you are holding yourself back.
 ## Related advices
 
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)<br>
+- [Get to know yourself](../Get%20to%20know%20yourself/index.md)<br/>

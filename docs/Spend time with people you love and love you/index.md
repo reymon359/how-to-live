@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)<br># Spend time with people you love and love you
+# Spend time with people you love and love you
 
 
 care with Ivory tower Syndrome
@@ -11,4 +11,4 @@ care with Ivory tower Syndrome
 ## Related advices
 
 - 
-<br>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

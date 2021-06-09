@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)<br># Actions speak louder than words
+# Actions speak louder than words
 
 What you do and how you act is more important than what you say.
 
@@ -26,4 +26,4 @@ I think the first time I saw this and realized about it's meaning was printed in
 
 ## Related advices
 
-<br>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)
+<br/>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)

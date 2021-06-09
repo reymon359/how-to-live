@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)<br># Practice Mindfulness
+# Practice Mindfulness
 mindfulness eating
 ## Quotes
 
@@ -9,4 +9,4 @@ mindfulness eating
 ## Related advices
 
 - pay attention
-<br>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)
+<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md)

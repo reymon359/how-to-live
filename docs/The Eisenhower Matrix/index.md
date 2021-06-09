@@ -1,5 +1,16 @@
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)<br># The Eisenhower Matrix
+# The Eisenhower Matrix
 
+The Eisenhower Method https://en.wikipedia.org/wiki/Time_management#Setting_priorities_and_goals
+
+A basic "Eisenhower box" to help evaluate urgency and importance. Items may be placed at more precise points within each quadrant.
+The "Eisenhower Method" stems from a quote attributed to Dwight D. Eisenhower: "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent."[12] Eisenhower does not claim this insight for his own, but attributes it to an (unnamed) "former college president."[13]
+
+Using the Eisenhower Decision Principle, tasks are evaluated using the criteria important/unimportant and urgent/not urgent,[14][15] and then placed in according quadrants in an Eisenhower Matrix (also known as an "Eisenhower Box" or "Eisenhower Decision Matrix"[16]). Tasks in the quadrants are then handled as follows.
+
+Important/Urgent quadrant tasks are done immediately and personally,[17] e.g. crises, deadlines, problems.[16]
+Important/Not Urgent quadrant tasks get an end date and are done personally,[17] e.g. relationships, planning, recreation.[16]
+Unimportant/Urgent quadrant tasks are delegated,[17] e.g. interruptions, meetings, activities.[16]
+Unimportant/Not Urgent quadrant tasks are dropped,[17] e.g. time wasters, pleasant activities, trivia.[16]
 
 ![The Eisenhower Matrix](./assets/eisenhower-matrix.png)
 
@@ -111,4 +122,4 @@ There are no advices related to this one
 
 - []()
 
-<br>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)
+<br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md)

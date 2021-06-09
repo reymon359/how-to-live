@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)<br># Read books
+# Read books
 
 Spend time reading books
 
@@ -18,4 +18,4 @@ Try new books too
 ## Related advices
 
 - Try new things
-<br>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)
+<br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)

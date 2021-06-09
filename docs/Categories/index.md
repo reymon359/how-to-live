@@ -1,6 +1,8 @@
 # Categories
 
 
+ - [Attention](../Categories/Attention.md)
+    
  - [Believing](../Categories/Believing.md)
     
  - [Comfort zone](../Categories/Comfort%20zone.md)
@@ -8,6 +10,10 @@
  - [Communication](../Categories/Communication.md)
     
  - [Dependencies](../Categories/Dependencies.md)
+    
+ - [Exercise](../Categories/Exercise.md)
+    
+ - [Focus](../Categories/Focus.md)
     
  - [Freedom](../Categories/Freedom.md)
     
@@ -41,11 +47,15 @@
     
  - [Little by little](../Categories/Little%20by%20little.md)
     
+ - [Little things](../Categories/Little%20things.md)
+    
  - [Love](../Categories/Love.md)
     
  - [Material things](../Categories/Material%20things.md)
     
  - [Mental health](../Categories/Mental%20health.md)
+    
+ - [Mindfulness](../Categories/Mindfulness.md)
     
  - [Minimalism](../Categories/Minimalism.md)
     
@@ -56,6 +66,8 @@
  - [Music](../Categories/Music.md)
     
  - [Nature](../Categories/Nature.md)
+    
+ - [Nutrition](../Categories/Nutrition.md)
     
  - [Open minded](../Categories/Open%20minded.md)
     
@@ -92,6 +104,8 @@
  - [Sleep](../Categories/Sleep.md)
     
  - [Social](../Categories/Social.md)
+    
+ - [Software development](../Categories/Software%20development.md)
     
  - [Solitude](../Categories/Solitude.md)
     

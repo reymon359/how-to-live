@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)<br># Learn step by step
+# Learn step by step
 
 Learn step by step. 
 
@@ -16,4 +16,4 @@ When you do not understand something search the translation.
 
 - little by little
 - eating an elephant
-<br>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)
+<br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md)

@@ -1,4 +1,4 @@
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md)<br># The simpler the better
+# The simpler the better
 
 The simpler the better. Usually, the easiest sollution is the best one. Try to aim for that one.
 
@@ -14,4 +14,4 @@ Occam's razor is the principle that, of two explanations that account for all th
 ## Related advices
 
 - there is always a solution
-<br>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md)
+<br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md)
