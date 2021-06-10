@@ -1,19 +1,36 @@
 ---
 name: 'Give and share with others'
-Categories: ['Material things', 'Helping']
+Categories: ['Material things', 'Helping', 'Happiness']
 ---
 # Give and share with others
 
-Sharing is caring
+Yes, sharing is caring. Have a look at what you have and be grateful for having it. Then share it with others that don't have it. It will make you and them happier.
 
+If you have something you no longer need or use, just give it to others that can make profit of it.
+
+Sharing with others in the end is helping others, which makes you happier.
+
+Don't give and share just material things, you can share knowledge, stories, time, etc.
 
 ## Quotes
 
-## Resources
+> “Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.” ― Elie Wiesel
 
-## Credits
+> Sharing is good, and with digital technology, sharing is easy. ― Richard Stallman
+
+> Part of the healing process is sharing with other people who care. ― Jerry Cantrell
+
+> Food, in the end, in our own tradition, is something holy. It's not about nutrients and calories. It's about sharing. It's about honesty. It's about identity. ― Louise Fresco
+
+> Sharing food with another human being is an intimate act that should not be indulged in lightly. ― M. F. K. Fisher
+
+> Life is all about sharing. If we are good at something, pass it on. That is the pleasure I get from teaching - whether it is television or books. We should all share. ― Mary Berry
+
+> If you are really thankful, what do you do? You share. ― W. Clement Stone
+
+> There is no enjoying the possession of anything valuable unless one has someone to share it with. ― Seneca
 
 ## Related advices
 
-- helping makes you happy
-- offer your help
+- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
+- [Offer your help](../Offer%20your%20help/index.md)
