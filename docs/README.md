@@ -206,7 +206,7 @@ dont feel guilty neither worry
     
  - [Inbox zero](Inbox%20zero/index.md)
     
- - [Just buy what you need](Just%20buy%20what%20you%20need/index.md)
+ - [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
     
  - [Keep contact with people that matters to you](Keep%20contact%20with%20people%20that%20matters%20to%20you/index.md)
     

@@ -4,9 +4,13 @@ Categories: ['Material things', 'Money', 'Happiness', 'Minimalism']
 ---
 # Buy just what you need
 
-When you are going to buy something ask to yourself if you really need it. Maybe you already have something similar that fulfills that function.
+When you are going to buy something, ask yourself if you really need it and if you will still need them in the long term. 
 
-You can postpone buying it a week or a month and find out if you still need it.
+Maybe you already have something similar that fulfills that function.
+
+You can postpone buying it for a week or a month and find out if you still need it.
+
+Find the balance between something you need and something that makes you happy. If something makes you happy, really happy, not just a bit better at the moment, then go ahead. For example, when you want to buy a sweet or ice cream just because trying it makes you happy.
 
 ## Quotes
 

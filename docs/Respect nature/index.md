@@ -22,6 +22,6 @@ enjoy this world
 
 ## Related advices
 
-- Just buy what you need
+- Buy just what you need
 - minimalism
 <br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Nature](../Categories/Nature.md)
