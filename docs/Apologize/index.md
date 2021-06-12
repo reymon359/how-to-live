@@ -41,6 +41,6 @@ I learned this one over time. Still improving at it.
 ## Related advices
 
 - [Be honest](../Be%20honest/index.md)
-- [If you want you can](../If%20you%20want%20you%20can/index.md)
+- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 <br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Happiness](../Categories/Happiness.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)

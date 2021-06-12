@@ -202,7 +202,7 @@ dont feel guilty neither worry
     
  - [If you commit to something or someone, fulfill it](If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     
- - [If you want you can](If%20you%20want%20you%20can/index.md)
+ - [If you want, you can](If%20you%20want,%20you%20can/index.md)
     
  - [Inbox zero](Inbox%20zero/index.md)
     

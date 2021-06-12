@@ -45,5 +45,5 @@ I learned this one over time. Still improving at it.
 ## Related advices
 
 - [Be honest](../Be%20honest/index.md)
-- [If you want you can](../If%20you%20want%20you%20can/index.md)
+- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)

@@ -31,5 +31,5 @@ Plan and book time to practice.
 ## Related advices
  
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [If you want you can](../If%20you%20want%20you%20can/index.md)
+- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)

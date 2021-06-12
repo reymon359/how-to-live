@@ -4,11 +4,11 @@ Categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
 # If you commit to something or someone, fulfill it
 
-When you commit to something you are making a promise. A promise that you will do it.
+When you commit to something, you are making a promise. A promise that you will do it.
 
-If you make a promise you should fulfill it. Is about being honest with yourself and with the other person you have commited to.
+If you make a promise, you should fulfill it. It is a matter of being honest with yourself and with the other person you have committed to.
 
-Communicate, update often the other person about your commitment. No mather if it is going good or bad. The important thing is to avoid surprises about it.
+Communicate, update often the other person about your commitment. No matter if it is going well or bad. The important thing is to avoid surprises about it.
 
 ## Quotes
 

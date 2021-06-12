@@ -28,7 +28,7 @@ Of course, do it respecting others and doing no harm to anyone.
 
 ## Related advices
 
-- [If you want you can](../If%20you%20want%20you%20can/index.md)
+- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Don't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
 - [Respect others opinion](../Respect%20others%20pinion/index.md)

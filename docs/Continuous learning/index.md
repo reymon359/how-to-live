@@ -28,6 +28,6 @@ If you want to learn something that other people think is useless or not worth i
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
-- [If you want, you can](../If%20you%20want%20you%20can/index.md)
+- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
 - [Take Notes](../Take%20notes/index.md)<br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
