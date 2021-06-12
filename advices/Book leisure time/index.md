@@ -27,6 +27,8 @@ Be careful and don't confuse Leisure with Procrastination.
 > When you're at work, be fully at work. And let your leisure time be what it's meant to be - restorative and fun.
 > ― Daniel Levitin
 
+> All work and no play is not good for the soul ― Felix Sabates
+
 ## Related advices
 
 - [Don't Procrastinate](../Don't%20procrastinate/index.md)
