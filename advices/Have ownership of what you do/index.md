@@ -22,7 +22,7 @@ If you commit to something be responsible with that commitment and fulfill it.
 
 ## Credits
 
-- I learnt this while doing Software Development
+- I learnt this doing Software Development. Creating things that you have to be responsible of them later.
 
 ## Related advices
 
