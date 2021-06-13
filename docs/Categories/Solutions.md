@@ -15,6 +15,8 @@
     
  - [Find a way to get the milk without buying the cow](../Find%20a%20way%20to%20get%20the%20milk%20without%20buying%20the%20cow/index.md)
     
+ - [Learn to adapt](../Learn%20to%20adapt/index.md)
+    
  - [Look for solutions in life situations](../Look%20for%20solutions%20in%20life%20situations/index.md)
     
  - [Raise your hand](../Raise%20your%20hand/index.md)

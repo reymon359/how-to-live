@@ -9,6 +9,6 @@
 
 ## Related advices
 
-- Akuna matata, let it flow
-- Give second chances
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+- [Let it flow](../Let%20it%20flow/index.md)
+- [Give second chances](../Give%20second%20chances/index.md)
+<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [](../Categories/.md)

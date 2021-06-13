@@ -7,7 +7,9 @@ Categories: ['Believing', 'Religion', 'Open minded']
 Most religions have good things or are based in good values. Get the best from them.
 
 ## Quotes
+All major religious traditions carry basically the same message; that is love, compassion and forgiveness the important thing is they should be part of our daily lives.
 
+— Dalai Lama
 ## Resources
 
 ## Credits
@@ -16,3 +18,4 @@ Most religions have good things or are based in good values. Get the best from t
 
 - Respect others beliefs
 - be open minded
+- [Learn to forgive](../Learn%20to%20forgive/index.md)

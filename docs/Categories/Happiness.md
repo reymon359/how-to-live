@@ -35,6 +35,12 @@
     
  - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
     
+ - [Find balance](../Find%20balance/index.md)
+    
+ - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
+    
+ - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
+    
  - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
     
  - [Learn to be alone](../Learn%20to%20be%20alone/index.md)

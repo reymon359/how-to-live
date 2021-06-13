@@ -1,6 +1,8 @@
 # Communication
 
 
+ - [ Keep in touch with people that matter to you](../Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
+    
  - [Apologize](../Apologize/index.md)
     
  - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
@@ -21,8 +23,6 @@
     
  - [Grow with others](../Grow%20with%20others/index.md)
     
- - [Keep contact with people that matters to you](../Keep%20contact%20with%20people%20that%20matters%20to%20you/index.md)
-    
  - [Listen before talking](../Listen%20before%20talking/index.md)
     
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
@@ -32,4 +32,6 @@
  - [Raise your hand](../Raise%20your%20hand/index.md)
     
  - [Take responsibility](../Take%20responsibility/index.md)
+    
+ - [Trust others](../Trust%20others/index.md)
     

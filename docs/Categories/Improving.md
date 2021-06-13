@@ -9,3 +9,5 @@
     
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
     
+ - [Keep track of your Goals](../Keep%20track%20of%20your%20Goals/index.md)
+    

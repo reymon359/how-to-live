@@ -88,9 +88,9 @@ dont feel guilty neither worry
 ## Content: advices
 
 
- - [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)
+ - [ Keep in touch with people that matter to you](Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
     
- - [Adapt to the situation](Adapt%20to%20the%20situation/index.md)
+ - [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)
     
  - [Apologize](Apologize/index.md)
     
@@ -176,11 +176,11 @@ dont feel guilty neither worry
     
  - [Find a way to get the milk without buying the cow](Find%20a%20way%20to%20get%20the%20milk%20without%20buying%20the%20cow/index.md)
     
+ - [Find balance](Find%20balance/index.md)
+    
  - [Finish what you start](Finish%20what%20you%20start/index.md)
     
  - [First make it work, then refactor](First%20make%20it%20work,%20then%20refactor/index.md)
-    
- - [When in doubt, follow standards](Follow%20standards/index.md)
     
  - [Get to know yourself](Get%20to%20know%20yourself/index.md)
     
@@ -205,10 +205,6 @@ dont feel guilty neither worry
  - [If you want, you can](If%20you%20want,%20you%20can/index.md)
     
  - [Inbox zero](Inbox%20zero/index.md)
-    
- - [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
-    
- - [Keep contact with people that matters to you](Keep%20contact%20with%20people%20that%20matters%20to%20you/index.md)
     
  - [Keep track of your Goals](Keep%20track%20of%20your%20Goals/index.md)
     
@@ -340,11 +336,15 @@ dont feel guilty neither worry
     
  - [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
     
+ - [Trust others](Trust%20others/index.md)
+    
  - [Try new things](Try%20new%20things/index.md)
     
  - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
     
  - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
+    
+ - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
     
  - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
     
@@ -390,4 +390,4 @@ dont feel guilty neither worry
 
  - [Categories](Categories/index.md)
     
-<br/><br/><br/>Made with [Collman](https://github.com/reymon359/collman)
+<br/><br/><br/><sub>Made with [Collman](https://github.com/reymon359/collman)<sub>

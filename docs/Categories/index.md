@@ -1,17 +1,29 @@
 # Categories
 
 
+ - [](../Categories/.md)
+    
+ - [Adaptation](../Categories/Adaptation.md)
+    
  - [Attention](../Categories/Attention.md)
+    
+ - [Balance](../Categories/Balance.md)
     
  - [Believing](../Categories/Believing.md)
     
  - [Comfort zone](../Categories/Comfort%20zone.md)
     
+ - [Comfort-zone](../Categories/Comfort-zone.md)
+    
  - [Communication](../Categories/Communication.md)
+    
+ - [Community](../Categories/Community.md)
     
  - [Dependencies](../Categories/Dependencies.md)
     
  - [Exercise](../Categories/Exercise.md)
+    
+ - [Feedback](../Categories/Feedback.md)
     
  - [Focus](../Categories/Focus.md)
     
@@ -36,6 +48,8 @@
  - [Honesty](../Categories/Honesty.md)
     
  - [Improving](../Categories/Improving.md)
+    
+ - [Improvise](../Categories/Improvise.md)
     
  - [Integrity](../Categories/Integrity.md)
     
@@ -62,6 +76,8 @@
  - [Mistakes](../Categories/Mistakes.md)
     
  - [Money](../Categories/Money.md)
+    
+ - [Motivation](../Categories/Motivation.md)
     
  - [Music](../Categories/Music.md)
     
@@ -93,9 +109,13 @@
     
  - [Refactor](../Categories/Refactor.md)
     
+ - [Relationship](../Categories/Relationship.md)
+    
  - [Relationships](../Categories/Relationships.md)
     
  - [Religion](../Categories/Religion.md)
+    
+ - [Reminders](../Categories/Reminders.md)
     
  - [Respect](../Categories/Respect.md)
     
@@ -105,15 +125,21 @@
     
  - [Social](../Categories/Social.md)
     
+ - [Software](../Categories/Software.md)
+    
  - [Software development](../Categories/Software%20development.md)
     
  - [Solitude](../Categories/Solitude.md)
     
  - [Solutions](../Categories/Solutions.md)
     
+ - [Standards](../Categories/Standards.md)
+    
  - [Stress](../Categories/Stress.md)
     
  - [Success](../Categories/Success.md)
+    
+ - [Technology](../Categories/Technology.md)
     
  - [Time](../Categories/Time.md)
     

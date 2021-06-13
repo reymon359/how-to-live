@@ -1,12 +1,24 @@
 # First make it work, then refactor
 
+I love this one.
+ 
+The idea behind this one is getting first something that works, no matter how it does. Once it works, try to improve it.
+ 
+In software development most time you first have to deliver something, to make something work. Then you have to refactor, to improve it internally without stopping it from working.
+ 
+Whenever you are hesitating how to accomplish something, just do it, no matter the way it comes to your head the first time. Then, once is done, make it better.
+
 ## Quotes
+
+> “1. “First make it work.” You are out of business if it doesn’t work. 2. “Then make it right.” Refactor the code so that you and others can understand it and evolve it as needs change or are better understood. 3. “Then make it fast.” Refactor the code for “needed” performance.” — Robert C. Martin
 
 ## Resources
 
-## Credits
+- The Pragmatic Programmer from Andy Hunt and Dave Thomas
+- The Clean Coder, and The Clean Architecture from Robert C. Martin
 
 ## Related advices
 
-- refactor
-<br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+- [Continuous refactor](../Continuous%20refactor/index.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)
+<br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Software](../Categories/Software.md)

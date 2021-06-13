@@ -8,7 +8,7 @@ Big goals small steps.
 ## Quotes
 
 Eating an elephant.
-
+https://www.developgoodhabits.com/quotes-about-setting-and-achieving-goals/
 ## Resources
 
 ## Credits

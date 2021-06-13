@@ -3,7 +3,7 @@
 
  - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
     
- - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
+ - [Give second chances](../Give%20second%20chances/index.md)
     
  - [Offer your help](../Offer%20your%20help/index.md)
     
