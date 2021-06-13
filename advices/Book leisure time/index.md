@@ -32,7 +32,7 @@ Be careful and don't confuse Leisure with Procrastination.
 ## Related advices
 
 - [Don't Procrastinate](../Don't%20procrastinate/index.md)
-- [Adapt to the situation](../Adapt%20to%20the%20situation/index.md)
+- [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
