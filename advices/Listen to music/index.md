@@ -1,19 +1,33 @@
 ---
 name: 'Listen to music'
-Categories: ['Happiness', 'Music']
+Categories: ['Happiness', 'Music', 'Gratitude']
 ---
 # Listen to music
 
+Music is one of those gifts from life. Be grateful for it.
 
+Fill your life with music. Every moment can be improved with music. Some genres are more appropriate at some occasions. 
+
+Sometimes the best music is the silence itself, the sound that surrounds you. Enjoy it too.
+
+Be open-minded about music. Listen to new music from time to time; new artists, new genres, new songs. You may enjoy the new sounds you will listen.
+
+Sing and dance. Do not close yourself just to listen, enjoy the music in its fullness.
 
 ## Quotes
 
-## Resources
+> Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife. ― Kahlil Gibran
 
-## Credits
+> One good thing about music, when it hits you, you feel no pain. ― Bob Marley
+
+> “Without music, life would be a mistake” ― Friedrich Nietzsche
+
+> “Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything.” ― Plato
+
+> “After silence, that which comes nearest to expressing the inexpressible is music.” ― Aldous Huxley
 
 ## Related advices
 
-- Discover new music
-- Sing
-- Enjoy nature music
+- [Discover new music](../Discover%20new%20music/index.md)
+- [Sing](../Sing/index.md)
+- [Enjoy nature music](../Enjoy%20nature%20music/index.md)
