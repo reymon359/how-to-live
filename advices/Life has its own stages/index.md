@@ -4,11 +4,11 @@ Categories: ['Growing', 'Change', 'Respect']
 ---
 # Life has its own stages
 
-You are not the same person as yesterday. And you can not expect to be the same as you were in the past or will be in the future. The things you do and like when you are 15 are not the same when you are 30. there are life stages and as we grow we pass through them.
+You are not the same person as yesterday. And you can not expect to be the same as you were in the past or will be in the future. The things you do and like when you are 15 are not the same when you are 30. There are life stages and as we grow we pass through them.
 
-Do not expect people to do or like the same things as you just because you have a similar age. Everyone has their own stages and move at a different pace. Be open minded about it and respect them.
+Do not expect people to do or like the same things as you just because you have a similar age. Everyone has their own stages and move at a different pace. Be open-minded about it and respect them.
 
-Learn from them. Try to get the best of what they do. Respecfully, share and provide them with your experience and advice on them.
+Learn from them. Try to get the best of what they do. Respectfully, share and provide them with your experience and advice on them.
 
 ## Quotes
 
