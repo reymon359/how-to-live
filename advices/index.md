@@ -11,6 +11,8 @@ if you want to accomplish something remind it to yourself
 
 some of them contradict, dont take anything here too serious, let it flow, adapt, etc
 
+todo lo que hay aqui es lo que opinon ahora pero puede cambiar en el futuro, mi manera de ver la vida y sacar lo mejor de ella
+
 quotes are because we are not the first to see this. other important people in the past.
 How to live description
 Contents
