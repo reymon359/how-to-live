@@ -238,7 +238,7 @@ dont feel guilty neither worry
     
  - [Manage the time you have](Manage%20the%20time%20you%20have/index.md)
     
- - [Money is a Means, Not an End](Money%20is%20a%20Means,%20Not%20an%20End/index.md)
+ - [Money is a Means, not an End](Money%20is%20a%20Means,%20Not%20an%20End/index.md)
     
  - [Most religions have great values](Most%20religions%20have%20great%20values/index.md)
     

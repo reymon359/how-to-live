@@ -1,4 +1,4 @@
-# Money is a Means, Not an End
+# Money is a Means, not an End
 
 Money is just something you use to accomplish other things.
 

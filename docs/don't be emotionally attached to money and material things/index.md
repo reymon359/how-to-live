@@ -18,7 +18,7 @@ The less attached emotionally to things you are, the happier you will be.
 
 ## Related advices
 
-- [Money is a Means, not an End](../Money%20is%20a%20Means,%20Not%20an%20End/index.md)
+- [Money is a Means, not an End](../Money%20is%20a%20Means,%20not%20an%20End/index.md)
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
 - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
