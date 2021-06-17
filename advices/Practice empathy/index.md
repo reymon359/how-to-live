@@ -1,14 +1,14 @@
 ---
 name: 'Practice empathy'
-Categories: ['Respect', 'Openmindedness', 'Help', 'Empathy', 'Communication']
+Categories: ['Respect', 'Open mindedness', 'Help', 'Empathy', 'Communication']
 ---
 # Practice empathy
 
 Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference, that is, the capacity to place oneself in another's position.
 
-Open your mind, everyone has its own view of things. Respect each one of them.
+Open your mind, everyone has their own view of things. Respect each one of them.
 
-The more you understand someone and the issues they have the better you can help them.
+The more you understand someone and the issues they have, the better you can help them.
 
 To understand others better, listen to them properly.
 
