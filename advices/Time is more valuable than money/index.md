@@ -14,9 +14,9 @@ When doing things to obtain money like for example selling an item you no longer
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

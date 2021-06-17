@@ -49,11 +49,11 @@ Don't worry what people say or what people think. Be yourself.
 
 > The best antidote to worry is action. ― Wayne Dyer
 
-## Resources
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 
-## Credits
+## Resources and credits
 
 - The chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your Erroneous Zones.
 

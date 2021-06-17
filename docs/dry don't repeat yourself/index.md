@@ -16,11 +16,11 @@ This also works in life too, for example do not have extra items if you do not n
 
 > Foster an environment where it’s easier to find and reuse existing stuff than to write it yourself. If it isn’t easy, people won’t do it. And if you fail to reuse, you risk duplicating knowledge. ― The Pragmatic Programmer from Andy Hunt and Dave Thomas
 
-## Resources
+## Resources and credits
 
 - The Pragmatic Programmer from Andy Hunt and Dave Thomas
 
-## Credits
+## Resources and credits
 
 - The Pragmatic Programmer from Andy Hunt and Dave Thomas
 

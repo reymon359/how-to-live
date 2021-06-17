@@ -18,7 +18,7 @@ The issue is when you waste your time browsing stuff that doesn't bring you anyt
 
 > “If you feel the need to constantly post on social media documenting your every move, chances are you're either addicted to social networking or there is a void somewhere in your personal life.” ― Germany Kent
 
-## Resources
+## Resources and credits
 
 - The Social Dilemma documentary from 2020
 

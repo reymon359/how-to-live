@@ -5,9 +5,9 @@ Review your goals. The big ones each month, medium week, smalls day.
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

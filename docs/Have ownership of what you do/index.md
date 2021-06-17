@@ -16,7 +16,7 @@ If you commit to something be responsible with that commitment and fulfill it.
 
 > All we have to do to create the future is to change the nature of our conversations, to go from blame to ownership, and from bargaining to commitment, and from problem solving to possibility. ― Peter Block
 
-## Credits
+## Resources and credits
 
 - I learnt this doing Software Development. Creating things that you have to be responsible of them later.
 

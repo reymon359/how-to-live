@@ -6,9 +6,9 @@
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 software development
 ## Related advices
 

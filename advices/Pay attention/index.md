@@ -26,7 +26,7 @@ Open your mind, be careful with the social media world and where they try to mov
 
 > Pay attention, don't let life go by you. Fall in love with the back of your cereal box. ― Jerry Seinfeld
 
-## Credits
+## Resources and credits
 
 This article really made me think about this topic https://mythirdbrain.substack.com/p/how-i-spend-my-attention
 

@@ -8,11 +8,11 @@ one of the best ways to stop worrying
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 erroneous zones
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

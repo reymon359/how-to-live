@@ -10,9 +10,9 @@ Question everything. do not take anything for granted, do not accept a "this is 
 The more you question your world the more you learn about it.
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

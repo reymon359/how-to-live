@@ -9,9 +9,9 @@ Just sing, Sing everywhere. A lot of times I leave my house and head to the stre
 whistle too
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

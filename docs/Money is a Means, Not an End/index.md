@@ -12,9 +12,9 @@ Money is a means that allows us to reach our end goals.  The reason you hear peo
 https://lifeincharge.com/money-is-a-means-not-an-end
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

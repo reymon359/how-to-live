@@ -6,9 +6,9 @@ Tips, someone joins to some plan, someone tells you anything, whatever, just say
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

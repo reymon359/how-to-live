@@ -28,9 +28,9 @@ Review them from time to time. Remind yourself to do so.
 
 > Measure your progress towards achieving your goals. – Jerry Bruckner
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

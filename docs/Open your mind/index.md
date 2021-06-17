@@ -12,9 +12,9 @@ Opening your mind, see other things, understand, respect.
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

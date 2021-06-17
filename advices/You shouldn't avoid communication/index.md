@@ -14,9 +14,9 @@ Communicating and more important, listening is the best way to understand someth
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

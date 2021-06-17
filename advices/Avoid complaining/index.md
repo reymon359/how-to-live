@@ -29,11 +29,11 @@ Complaining is the refuge of those who have no self-reliance.
 > “If you have time to whine and complain about something then you have the time to do something about it.” ―  Anthony J. D’Angelo
 
 > If you want the world to change, don’t complain about it. Do something. ― Wayne Dyer
-## Resources
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 
-## Credits
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 

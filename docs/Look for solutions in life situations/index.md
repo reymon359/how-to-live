@@ -4,9 +4,9 @@ Always look for solutions not problems in life situations
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

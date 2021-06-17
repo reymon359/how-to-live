@@ -6,9 +6,9 @@ You are not the same person as yesterday. And you can not expect to be the same 
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 Pablo was the first one that made me realize it
 ## Related advices

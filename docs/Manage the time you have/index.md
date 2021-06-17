@@ -9,12 +9,12 @@ Time is the only resource finite
 <!-- TODO: Add related quotes here if there are-->
 There are no related quotes to this advice
 
-## Resources
+## Resources and credits
 
 <!-- TODO: Add Resources here if there are-->
 There are no related resources to this advice
 
-## Credits
+## Resources and credits
 
 <!-- TODO: Add Where I learned this-->
 I learned this at, from, ...

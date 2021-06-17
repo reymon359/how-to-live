@@ -21,11 +21,11 @@ It is also called active listening or reflective listening.
 
 > “Real dialogue is where two or more people become willing to suspend their certainty in each other’s presence.” – David Bohm
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People
 
-## Credits
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People
 

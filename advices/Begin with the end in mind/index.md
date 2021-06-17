@@ -12,11 +12,11 @@ When you do something think if it will contributte to the goals you want to acco
 
 > To begin with the end in mind means to start with a clear understanding of your destination. It means to know where you're going so that you better understand where you are now and so that the steps you take are always in the right direction. – Stephen R. Covey
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People
 
-## Credits
+## Resources and credits
 
 - The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People
 

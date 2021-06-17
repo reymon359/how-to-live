@@ -22,11 +22,11 @@ Do not just act; think first: Is this how I want it to go, and are these the cor
 
 > “If you don’t know where you are going, you’ll end up someplace else.” – Yogi Berra
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People
 
-## Credits
+## Resources and credits
 
 - The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People
 

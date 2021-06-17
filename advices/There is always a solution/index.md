@@ -14,9 +14,9 @@ Refactor
 There are three solutions to every problem: accept it, change it, or leave it. If you can’t accept it, change it. If you can’t change it, leave it.
 
 Unknown
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

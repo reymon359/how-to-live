@@ -10,9 +10,9 @@ However listen to your body if you need more or less, maybe one day more.
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

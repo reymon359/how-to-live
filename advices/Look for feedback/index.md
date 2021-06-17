@@ -30,7 +30,7 @@ Be grateful with the negative feedback. Don't be afraid of it. Embrace it becaus
 
 > Feedback is a gift. Ideas are the currency of our next success. Let people see you value both feedback and ideas.” – Jim Trinka and Les Wallace
 
-## Credits
+## Resources and credits
 
 I have experienced this in software development when getting feedback from users in a platform to make it better.
 

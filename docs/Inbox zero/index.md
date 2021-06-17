@@ -8,7 +8,7 @@ Avoid having too many notifications. Have the minimum ones to get things done. D
 
 Following these steps, you will increase your productivity and will be less distracted from your goals.
 
-## Resources
+## Resources and credits
 
 Although there is a book with the same title, I haven't read it. Therefore, I don't know how good it is as a resource.
 

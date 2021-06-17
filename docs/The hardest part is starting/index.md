@@ -6,9 +6,9 @@ Stepping out of the comfort zone is always hard
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

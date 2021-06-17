@@ -10,9 +10,9 @@ raise hand for help if you are not going to make it or need help
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

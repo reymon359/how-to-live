@@ -8,12 +8,12 @@ If something takes you more than 2 minutes to do it just do it. If not, postpone
 <!-- TODO: Add related quotes here if there are-->
 There are no related quotes to this advice
 
-## Resources
+## Resources and credits
 
 <!-- TODO: Add Resources here if there are-->
 There are no related resources to this advice
 
-## Credits
+## Resources and credits
 
 <!-- TODO: Add Where I learned this-->
 I think I learned this one from David Roncero.

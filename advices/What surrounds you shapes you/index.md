@@ -23,13 +23,13 @@ It might be a good time to reassess where you wa
 surround yourself of what you want to be and how you want to be
 ## Quotes
 
-## Resources
+## Resources and credits
 
 atomic habits, your surroundings chapter
 
 https://mythirdbrain.substack.com/p/where-you-live-is-who-you-are
 
-## Credits
+## Resources and credits
 
 
 ## Related advices

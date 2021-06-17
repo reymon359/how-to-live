@@ -4,9 +4,9 @@ Most religions have good things or are based in good values. Get the best from t
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

@@ -30,11 +30,11 @@ Is keeping up with your values and beliefs. If you don't keep up with them is be
 
 > The commitments we make to ourselves and to others, and our integrity to those commitments, is the essence and clearest manifestation of our proactivity. - Stephen Covey
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People.
 
-## Credits
+## Resources and credits
 
 Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effective People.
 ## Related advices

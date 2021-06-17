@@ -8,9 +8,9 @@ minimalism
 
 ## Quotes
 
-## Resources
+## Resources and credits
 Software development
-## Credits
+## Resources and credits
 
 ## Related advices
 

@@ -24,7 +24,7 @@ The more you know yourself, the easier to it is to know what you really want.
 
 > You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you.” — Maya Angelou
 
-## Resources
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 

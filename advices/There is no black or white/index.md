@@ -8,8 +8,8 @@ No black or white, no good or bad choices just choices. Erroneous zones
 
 ## Quotes
 
-## Resources
+## Resources and credits
 erroneous zones
-## Credits
+## Resources and credits
 
 ## Related advices

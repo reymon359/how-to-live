@@ -15,9 +15,9 @@ Read more at https://www.brainyquote.com/search_results?x=0&y=0&q=delegate
 The inability to delegate is one of the biggest problems I see with managers at all levels. Eli Broad
 Read more at https://www.brainyquote.com/search_results?x=0&y=0&q=delegate
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

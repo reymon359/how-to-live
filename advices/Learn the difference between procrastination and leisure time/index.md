@@ -16,11 +16,11 @@ Use planning and time management techniques like the [Pomodoro](https://en.wikip
 
 In the end is hard to discern between both. In the end is about how you feel. You know deep inside yourself when you are procrastinating. You feel like you shouldn't be doing what you are doing or in other words, avoiding what you should be doing. If you are already doing it, let it flow. Just enjoy it and next time do not procrastinate.
 
-## Resources
+## Resources and credits
 
 - https://blog.sandglaz.com/the-thin-line-between-leisure-and-procrastination/
 
-## Credits
+## Resources and credits
 
 I read about this in some book but can't remember the name now.
 

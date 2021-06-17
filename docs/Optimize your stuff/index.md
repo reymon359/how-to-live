@@ -4,9 +4,9 @@ Optimize your stuff. If you have 2 items that accomplish the same thing get rid 
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

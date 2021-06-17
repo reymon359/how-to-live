@@ -30,7 +30,7 @@ Be open-minded and understand that other people also want to do what they want. 
 
 > You can only become truly accomplished at something you love. Don't make money your goal. Instead, pursue the things you love doing, and then do them so well that people can't take their eyes off you.” — Maya Angelou
 
-## Resources
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 

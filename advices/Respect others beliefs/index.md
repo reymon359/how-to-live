@@ -10,9 +10,9 @@ There are a lot of religions out there, maybe you don't agree with the practices
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

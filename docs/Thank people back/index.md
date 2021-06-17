@@ -4,9 +4,9 @@ thank people back. When someone says thank you thank them back. Fallback/Default
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

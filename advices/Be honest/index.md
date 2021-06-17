@@ -30,11 +30,11 @@ When you are honest with someone you build trust with them.
 > Being honest may not get you a lot of friends but it’ll always get you the right ones.
 > — John Lennon
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
-## Credits
+## Resources and credits
 
 7 habits
 

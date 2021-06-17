@@ -18,9 +18,9 @@ When you travel plan it, not that much but have an idea of  things you want to d
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

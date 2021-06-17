@@ -7,7 +7,7 @@ Categories: ['Open-mindedness', 'Respect']
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 

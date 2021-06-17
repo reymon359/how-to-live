@@ -5,9 +5,9 @@ Take notes, about tasks, things to learn, music to listen, movies to watch
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 <br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md)

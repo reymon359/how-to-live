@@ -3,9 +3,9 @@
 https://mythirdbrain.substack.com/p/how-i-spend-my-attention
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

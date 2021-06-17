@@ -9,9 +9,9 @@ if you dont respect yourself you wont respect others either
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

@@ -3,11 +3,11 @@
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 7 habits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

@@ -16,7 +16,7 @@ In a continuous way, refactor your life mercilessly. Every time think of what ca
 
 > “I’ve found that refactoring helps me write fast software. It slows the software in the short term while I’m refactoring, but it makes the software easier to tune during optimization. I end up well ahead.” ― Martin Fowler
 
-## Resources
+## Resources and credits
 
 - The Pragmatic Programmer from Andy Hunt and Dave Thomas
 - The Clean Coder, and The Clean Architecture from Robert C. Martin

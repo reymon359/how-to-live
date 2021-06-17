@@ -16,9 +16,9 @@ if you don't have time to research something in the momment note it down for lat
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

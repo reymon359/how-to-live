@@ -11,9 +11,9 @@ Occam's razor is the principle that, of two explanations that account for all th
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

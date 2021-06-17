@@ -18,9 +18,9 @@ Set a reminder to contact them from time to time if needed.
 
 > “Time is everlasting, but people aren’t. Keep in touch with people whom you love.” – Anonymous
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

@@ -8,9 +8,9 @@ The rule of holes, when you are in one stop digging the clean coder
 
 ## Quotes
 
-## Resources
+## Resources and credits
 clean coder
-## Credits
+## Resources and credits
 
 ## Related advices
 

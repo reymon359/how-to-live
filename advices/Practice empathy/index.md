@@ -26,7 +26,7 @@ To understand others better, listen to them properly.
 
 > Empathy begins with understanding life from another person's perspective. Nobody has an objective experience of reality. It's all through our own individual prisms. ― Sterling K. Brown
 
-## Resources and credits
+## Resources and credits and credits
 
 - Stephen R. Covey, talks about empathy on The 7 Habits of Highly Effective People. In the chapter 5 - Seek first to understand, then to be understood
 

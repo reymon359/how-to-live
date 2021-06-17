@@ -2,9 +2,9 @@
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 <br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md)

@@ -8,11 +8,11 @@ you can discover new things you like or discard things for future occasions
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 erroneous zones explore the unknown
 
-## Credits
+## Resources and credits
 
 erroneous zones explore the unknown
 

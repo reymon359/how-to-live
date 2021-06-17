@@ -13,9 +13,9 @@ Try new things, intermitent fasting, waking up at 5 am
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

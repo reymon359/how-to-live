@@ -16,7 +16,7 @@ Whenever you are hesitating how to accomplish something, just do it, no matter t
 
 > “1. “First make it work.” You are out of business if it doesn’t work. 2. “Then make it right.” Refactor the code so that you and others can understand it and evolve it as needs change or are better understood. 3. “Then make it fast.” Refactor the code for “needed” performance.” — Robert C. Martin
 
-## Resources
+## Resources and credits
 
 - The Pragmatic Programmer from Andy Hunt and Dave Thomas
 - The Clean Coder, and The Clean Architecture from Robert C. Martin

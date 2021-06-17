@@ -24,7 +24,7 @@ There is always a solution. Find the best one and apply it.
 
 > “We learn from failure, not from success!” ― Bram Stoker, Dracula
 
-## Resources
+## Resources and credits
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 

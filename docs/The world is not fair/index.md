@@ -3,10 +3,10 @@
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 erroneous zones
-## Credits
+## Resources and credits
 
 ## Related advices
 

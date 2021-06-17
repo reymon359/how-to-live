@@ -10,10 +10,10 @@ feedback is a gift
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 software development
-## Credits
+## Resources and credits
 
 ## Related advices
 

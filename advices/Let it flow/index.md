@@ -28,7 +28,7 @@ The Lion King's classic saying "Hakuna Matata" is another way to express this.
 > You can have a plan, but you have to be flexible. Every day is unpredictable, and you just have to go with the flow. - Jane Krakowski
 
 
-## Credits
+## Resources and credits
 
 Moroccan people that taught me _Insha'Allah_
 

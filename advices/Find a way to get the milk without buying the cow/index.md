@@ -12,7 +12,7 @@ It is similar to the Occam’s Razor statement that "The simplest solution is al
 
 Don't rush for the first solution you come up with, spend some time looking for another one that will work better in the long term.
 
-## Resources
+## Resources and credits
 
 I learned it on The Clean Architecture from Robert C. Martin. Here it was related to working with frameworks.
 

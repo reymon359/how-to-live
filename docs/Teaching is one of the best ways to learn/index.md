@@ -6,9 +6,9 @@ And you help others sharing knowledge too
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

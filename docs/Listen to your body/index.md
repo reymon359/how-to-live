@@ -8,9 +8,9 @@ If you need to rest, do it
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 <br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md)

@@ -28,7 +28,7 @@ In the end, is your life, no matter how much you share it with others. What you 
 
 > To live alone is the fate of all great souls. ― Arthur Schopenhauer
 
-## Credits
+## Resources and credits
 
 Browsing Reddit I found an ELI5 about The true meaning behind Orson Welles' famous quote "We're born alone, we live alone, we die alone."
 

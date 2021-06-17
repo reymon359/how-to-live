@@ -15,13 +15,13 @@ look for a win win
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
 7 habits
 
 erroneous zones
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

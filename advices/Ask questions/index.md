@@ -29,7 +29,7 @@ Listen properly to the answer. This mean to pay as much attention you can to it.
 > And I like asking questions, to keep learning; people with big egos might not want to look unsure. 
 > – Heston Blumenthal
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People
 

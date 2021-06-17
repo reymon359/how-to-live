@@ -9,11 +9,11 @@ the best way to listen is by asking.
 - Seek first to understand, then to be understood
 ## Quotes
 
-## Resources
+## Resources and credits
 
 7 habits
 
-## Credits
+## Resources and credits
 
 7 habits
 

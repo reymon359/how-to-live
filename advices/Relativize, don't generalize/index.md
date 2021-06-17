@@ -7,8 +7,8 @@ TODO: Always, like never, doesn't exist. Relativizar, no generalizar
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices

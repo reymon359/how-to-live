@@ -10,9 +10,9 @@ Even if in a conversation you are not understanding something ask it
 
 ## Quotes
 
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

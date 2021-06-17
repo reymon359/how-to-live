@@ -16,11 +16,11 @@ I set upa reminder every now and then to talk to the people I want to keep conta
 ## Quotes
 
 
-## Resources
+## Resources and credits
 
 The 7 habits book. There was a part about this
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

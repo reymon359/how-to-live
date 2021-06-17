@@ -26,7 +26,7 @@ Make sure that you truly understand the topic of the conversation and the other 
 
 > “Most people do not listen with the intent to understand; they listen with the intent to reply.” ― Stephen R. Covey,
 
-## Resources
+## Resources and credits
 
 This topic is referenced in the chapter "5 - Seek first to understand, then to be understood" from the Stephen R. Covey book The 7 Habits of Highly Effective People.
 

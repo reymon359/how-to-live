@@ -20,7 +20,7 @@ Learn from them. Try to get the best of what they do. Respectfully, share and pr
 
 > “Every stage of life is unique. At any age and stage of life there are obstacles and opportunities, trials and triumphs. Never allow the negative bring to you to sudden halt. Make the most of the positive opportunities and stay positive.” ― Lailah Gifty Akita
 
-## Credits
+## Resources and credits
 
 A deep chat with a good friend (Pablo Llorca) made me realize about this.
 

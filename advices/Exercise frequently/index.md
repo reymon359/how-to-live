@@ -35,11 +35,11 @@ Ralph Waldo Emerson
  
 “All truly great thoughts are conceived while walking.”
 ― Friedrich Nietzsche, Twilight of the Idols
-## Resources
+## Resources and credits
  
 Stephen R. Covey, The 7 Habits of Highly Effective People
  
-## Credits
+## Resources and credits
  
 This topic is referenced in the chapter "7 - Sharpen the Saw" from the Stephen R. Covey book The 7 Habits of Highly Effective People.
  

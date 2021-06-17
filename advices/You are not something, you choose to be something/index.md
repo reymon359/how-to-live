@@ -8,11 +8,11 @@ Categories: []
 ## Quotes
 
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
-## Credits
+## Resources and credits
 
 I learned this one Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 

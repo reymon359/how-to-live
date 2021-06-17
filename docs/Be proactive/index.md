@@ -26,11 +26,11 @@ Don't sit and wait in a reactive mode, waiting for problems to happen and be sol
 > Knowing is not enough. We must apply. Willing is not enough. We must do.
 > ― Bruce Lee
 
-## Resources
+## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People
 
-## Credits
+## Resources and credits
 
 The first chapter (first habit) from Stephen R. Covey, The 7 Habits of Highly Effective People.
 

@@ -7,9 +7,9 @@ let each one do what they want the most.
 ## Quotes
 Hakuna matata
 inshallah
-## Resources
+## Resources and credits
 
-## Credits
+## Resources and credits
 
 ## Related advices
 

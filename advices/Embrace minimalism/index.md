@@ -30,7 +30,7 @@ Minimalism can be applied not only to physical things but also digital ones or e
 
 > “It is preoccupation with possession, more than anything else, that prevents men from living freely and nobly.” — Bertrand Russell
 
-## Resources
+## Resources and credits
 
 - I like my friend's Verekia [Zeronalist](https://verekia.com/zeromalist/)
 

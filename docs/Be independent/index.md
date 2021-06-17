@@ -29,7 +29,7 @@ of those determined to be free.
 > You have brains in your head. You have feet in your shoes. You can steer yourself in any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go. 
 > ~ Dr. Seuss
 
-## Credits
+## Resources and credits
 
 - The Berbers from Morocco and north of Africa also known as Amazigh, meaning "free people".
 
