@@ -1,4 +1,4 @@
-# Raise your hand
+# Ask for help
 
 raise the hand when you cant do something or have an issue
 ask for help

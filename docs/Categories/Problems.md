@@ -11,7 +11,7 @@
     
  - [Fail with success](../Fail%20with%20success/index.md)
     
- - [Raise your hand](../Raise%20your%20hand/index.md)
+ - [Ask for help](../Ask%20for%20help/index.md)
     
  - [Rectify](../Rectify/index.md)
     

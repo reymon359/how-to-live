@@ -29,7 +29,7 @@
     
  - [Put your phone down](../Put%20your%20phone%20down/index.md)
     
- - [Raise your hand](../Raise%20your%20hand/index.md)
+ - [Ask for help](../Ask%20for%20help/index.md)
     
  - [Take responsibility](../Take%20responsibility/index.md)
     
