@@ -12,3 +12,5 @@ TODO: Always, like never, doesn't exist. Relativizar, no generalizar
 ## Resources and credits
 
 ## Related advices
+
+dont judge whole for part
