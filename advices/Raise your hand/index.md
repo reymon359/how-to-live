@@ -1,6 +1,6 @@
 ---
 name: 'Raise your hand'
-Categories: ['Communication', 'Problems', 'Solutions']
+Categories: ['Communication', 'Help', 'Problems', 'Solutions']
 ---
 # Raise your hand
 
@@ -16,4 +16,6 @@ ask for help
 
 
 ## Related advices
-- ask questions
+
+- []()
+- [](../Question%20what%20you%20don't%20understand/index.md)
