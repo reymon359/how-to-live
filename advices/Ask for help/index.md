@@ -4,7 +4,7 @@ Categories: ['Communication', 'Help', 'Problems', 'Solutions', 'Honesty', 'Modes
 ---
 # Ask for help
 
-When you can not do something ask for help. There is nothing wrong on recognizing our limits.
+When you can not do something, ask for help. There is nothing wrong with recognizing our limits.
 
 Be honest. Better to ask for help on time than not to comply with what you promise.
 
@@ -22,10 +22,9 @@ If someone else raises their hand, offer your help to them.
 
 > “Humble people ask for help.” – Joyce Meyer
 
-
 ## Resources and credits
 
-The more I am in team situations the better I get at this. I learned soon that is much better to ask for help and keep your teammates updated about your limitations and problems than waiting and let the "ball of shit" get bigger and bigger.
+The more I am in team situations, the better I get at this. I learned soon that it is much better to ask for help and keep your teammates updated about your limitations and problems than to wait and let the "ball of poo" get bigger and bigger.
 
 ## Related advices
 
