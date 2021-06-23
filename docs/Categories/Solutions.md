@@ -21,7 +21,7 @@
     
  - [Ask for help](../Ask%20for%20help/index.md)
     
- - [Rectify](../Rectify/index.md)
+ - [Amend](../Amend/index.md)
     
  - [The simpler the better](../The%20simpler%20the%20better/index.md)
     

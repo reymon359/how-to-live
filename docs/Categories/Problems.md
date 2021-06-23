@@ -13,7 +13,7 @@
     
  - [Ask for help](../Ask%20for%20help/index.md)
     
- - [Rectify](../Rectify/index.md)
+ - [Amend](../Amend/index.md)
     
  - [The five whys](../The%20five%20whys/index.md)
     

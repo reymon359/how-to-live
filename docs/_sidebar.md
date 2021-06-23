@@ -176,7 +176,7 @@
         
      - [Read books](Read%20books/index.md)
         
-     - [Rectify](Rectify/index.md)
+     - [Amend](Amend/index.md)
         
      - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
         
