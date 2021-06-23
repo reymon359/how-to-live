@@ -22,6 +22,8 @@ In the end, this one is about not getting old and having done nothing. If you ha
 
 > Never regret yesterday. Life is in you today and you make your tomorrow. ― L. Ron Hubbard
 
+> “Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.” ― Mark Twain
+
 ## Resources and credits
 
 Little, by little, life teaches you about this with the choices you make.
