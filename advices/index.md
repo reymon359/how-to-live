@@ -11,6 +11,10 @@ if you want to accomplish something remind it to yourself
 
 some of them contradict, dont take anything here too serious, let it flow, adapt, etc
 
+
+
+Don't hurry up changing things, change them when they need to be changed.
+
 todo lo que hay aqui es lo que opinon ahora pero puede cambiar en el futuro, mi manera de ver la vida y sacar lo mejor de ella
 
 quotes are because we are not the first to see this. other important people in the past.
@@ -32,6 +36,7 @@ https://github.com/reymon359/how-to-live/blob/master/docs/Categories/index.md
 We teach others how to treat us. For example if we respect ourselves we teach others to test us with respect.
 
 dont feel guilty neither worry
+
 
 1 Taking Charge of Yourself
 2 First Love
