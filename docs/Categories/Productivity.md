@@ -13,7 +13,7 @@
     
  - [Learn to delegate](../Learn%20to%20delegate/index.md)
     
- - [Review you Goals](../Review%20you%20Goals/index.md)
+ - [Review your Goals](../Review%20your%20Goals/index.md)
     
  - [Take notes](../Take%20notes/index.md)
     

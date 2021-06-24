@@ -192,7 +192,7 @@
         
      - [Respect yourself](Respect%20yourself/index.md)
         
-     - [Review you Goals](Review%20you%20Goals/index.md)
+     - [Review your Goals](Review%20your%20Goals/index.md)
         
      - [Say thank you to everything](Say%20thank%20you%20to%20everything/index.md)
         

@@ -3,7 +3,7 @@
 
  - [Embrace growing](../Embrace%20growing/index.md)
     
- - [Review you Goals](../Review%20you%20Goals/index.md)
+ - [Review your Goals](../Review%20your%20Goals/index.md)
     
  - [Set up Goals](../Set%20up%20Goals/index.md)
     
