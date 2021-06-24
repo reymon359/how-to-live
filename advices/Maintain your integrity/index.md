@@ -30,6 +30,9 @@ Is keeping up with your values and beliefs. If you don't keep up with them is be
 
 > The commitments we make to ourselves and to others, and our integrity to those commitments, is the essence and clearest manifestation of our proactivity. - Stephen Covey
 
+> “Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.”
+― Fyodor Dostoevsky
+
 ## Resources and credits
 
 - Stephen R. Covey, The 7 Habits of Highly Effective People.
