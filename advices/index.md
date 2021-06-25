@@ -50,3 +50,14 @@ dont feel guilty neither worry
 10 Declare Your Independence
 11 Farewell to Anger
 12 Portrait of a Person Who has Eliminated all Erroneous Zones
+
+Most people spend their lives complaining about things they don’t like.
+So, you’re adding power to it.
+You’re giving it chi.
+We’re supposed to focus on what it is that we’re wanting to move towards instead of away from.
+
+You don’t have to lie when something is bad.
+You know, if you have a cold and someone says, “Are you sick?” that doesn’t mean say, “No.”
+It means say, “I’m getting better minute by minute.”
+
+- The Midnight Gospel (1x03)
