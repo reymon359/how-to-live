@@ -1,19 +1,32 @@
 ---
 name: 'Say thank you to everything'
-Categories: ['Gratitude']
+Categories: ['Gratitude', 'Happiness']
 ---
 # Say thank you to everything
 
-Say thank you to everything, even the small things
+Every time someone does something for you, give thanks for it.
 
-Tips, someone joins to some plan, someone tells you anything, whatever, just say it: thank you.
+Even the smallest thing they do for you.
+
+Even when there seems to be nothing to give thanks for, just do it.
+
+Just say it: thank you.
 
 ## Quotes
 
-## Resources and credits
+“Gratitude is a quality similar to electricity: It must be produced and discharged and used up in order to exist at all.” — William Faulkner
 
-## Resources and credits
+“Keep your eyes open to your mercies. The man who forgets to be thankful has fallen asleep in life.” — Robert Louis Stevenson
+“Don't let the sun go down without saying thank you to someone, and without admitting to yourself that absolutely no one gets this far alone.” — Stephen King
+
+“Thankfulness is the quickest path to joy.” — Jefferson Bethke
+
+“If you want to turn your life around, try thankfulness. It will change your life mightily.” — Gerald Good
+
+“Cultivate the habit of being grateful for every good thing that comes to you, and to give thanks continuously. And because all things have contributed to your advancement, you should include all things in your gratitude.” — Ralph Waldo Emerson
+
 
 ## Related advices
 
-- be grateful
+- [Be grateful](../Be%20grateful/index.md)
+- [Thank people back](../Thank%20people%20back/index.md)

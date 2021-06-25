@@ -11,7 +11,7 @@ thank people back. When someone says thank you thank them back. Fallback/Default
 ## Resources and credits
 
 ## Resources and credits
-
+Adrian Ferrera showed me this. He alwa
 ## Related advices
 
 - Be grateful
