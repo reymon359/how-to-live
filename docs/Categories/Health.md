@@ -19,7 +19,7 @@
     
  - [Respect yourself](../Respect%20yourself/index.md)
     
- - [Sleep enough time](../Sleep%20enough%20time/index.md)
+ - [Sleep properly](../Sleep%20properly/index.md)
     
  - [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
     

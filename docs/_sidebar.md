@@ -202,7 +202,7 @@
         
      - [Sing](Sing/index.md)
         
-     - [Sleep enough time](Sleep%20enough%20time/index.md)
+     - [Sleep properly](Sleep%20properly/index.md)
         
      - [Smile](Smile/index.md)
         

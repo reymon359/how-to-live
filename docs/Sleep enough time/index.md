@@ -1,4 +1,4 @@
-# Sleep enough time
+# Sleep properly
 
 Try to sleep what is enough for you, commonly is around 8 hours.
 
