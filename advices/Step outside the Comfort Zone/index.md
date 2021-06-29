@@ -57,4 +57,5 @@ I have talked about this topic with a lot of people. Also, read many books that 
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Don't procastinate](../Don't%20procrastinate/index.md)
+- [Take action](../Take%20action/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)

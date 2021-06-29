@@ -30,6 +30,8 @@ Be grateful with the negative feedback. Don't be afraid of it. Embrace it becaus
 
 > Feedback is a gift. Ideas are the currency of our next success. Let people see you value both feedback and ideas.” – Jim Trinka and Les Wallace
 
+> I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself. – Elon Musk
+
 ## Resources and credits
 
 I have experienced this in software development when getting feedback from users in a platform to make it better.
