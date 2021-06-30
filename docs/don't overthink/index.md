@@ -16,7 +16,7 @@ Sometimes we overthink about things that don't depend on us. Try to communicate 
 ## Related advices
 
 - [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
+- [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Don't worry](../Don't%20worry/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)

@@ -42,5 +42,5 @@ Respecting yourself and loving yourself go hand in hand.
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
+- [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
 - [Exercise frequently](../Exercise%20frequently/index.md)

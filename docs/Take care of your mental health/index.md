@@ -1,4 +1,4 @@
-# Take care of your mental health
+# Take care of mental health
 
 Take care of your body
 
