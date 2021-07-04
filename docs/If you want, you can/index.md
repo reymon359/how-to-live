@@ -34,6 +34,6 @@ When talking to people, they sometimes tell me about something they want to do o
 - [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Step outside the Comfort Zone](../Step%20outside%20the%20Comfort%20Zone/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
 <br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)

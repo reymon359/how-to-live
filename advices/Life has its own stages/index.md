@@ -28,6 +28,6 @@ A deep chat with a good friend (Pablo Llorca) made me realize about this.
 
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Embrace growing](../Embrace%20growing/index.md)
-- [Step outside the Comfort Zone](../Step%20outside%20the%20Comfort%20Zone/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Be grateful](../Be%20grateful/index.md)
 - [Look for feedback](../Look%20for%20feedback/index.md)

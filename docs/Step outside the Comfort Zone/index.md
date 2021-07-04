@@ -1,4 +1,4 @@
-# Step outside the Comfort Zone
+# Step outside the comfort zone
 
 It is not easy
 

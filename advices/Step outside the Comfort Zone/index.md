@@ -1,12 +1,12 @@
 ---
-name: 'Step outside the Comfort Zone'
+name: 'Step outside the comfort zone'
 Categories: ['Comfort zone', 'Unknown', 'Open mindedness', 'Growing', 'Proactivity']
 ---
-# Step outside the Comfort Zone
+# Step outside the comfort zone
 
 One of the most important ones.
 
-To step outside the Comfort Zone means to grow. To take risks, fail, and learn from all of them.
+To Step outside the comfort zone means to grow. To take risks, fail, and learn from all of them.
 
 It is not an easy task. As the name says, it is not comfortable at all. That is why you have to do it little by little, one step at a time. In the beginning, it will be hard and then, with time, it will get easier.
 

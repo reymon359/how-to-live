@@ -14,7 +14,7 @@ To learn is to invest in yourself. That is the safest and prosperous investment.
 
 Learn to master something. Mastering something takes time, so do it patiently. For example, to master another language do things in it like taking notes in that foreign language or watch movies on it. When you do not understand something, search for the translation. _Learn the translation._ The more you practice, the more you will learn.
 
-To learn something is to step outside the comfort zone. Is to explore the unknown.
+To learn something is to Step outside the comfort zone. Is to explore the unknown.
 
 ## Quotes
 
@@ -33,6 +33,6 @@ To learn something is to step outside the comfort zone. Is to explore the unknow
 ## Related advices
 
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20Comfort%20Zone/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)

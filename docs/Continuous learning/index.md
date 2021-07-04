@@ -24,7 +24,7 @@ If you want to learn something that other people think is useless or not worth i
 
 ## Related advices
 
-- [Step outside comfort zone](../Step%20outside%20the%20Comfort%20Zone/index.md)
+- [Step outside comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)

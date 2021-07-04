@@ -208,7 +208,7 @@
         
      - [Spend time with people you love and love you](Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
         
-     - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
+     - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
         
      - [Stick to people that give you useful advice and reach them when you are in trouble](Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)
         
