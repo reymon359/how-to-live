@@ -25,6 +25,10 @@ Be careful and don't confuse Leisure with Procrastination.
 
 > All work and no play is not good for the soul ― Felix Sabates
 
+## Resources and credits
+
+Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effective People.
+
 ## Related advices
 
 - [Don't Procrastinate](../Don't%20procrastinate/index.md)
