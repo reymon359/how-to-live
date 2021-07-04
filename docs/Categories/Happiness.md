@@ -47,11 +47,19 @@
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
     
+ - [Let it flow](../Let%20it%20flow/index.md)
+    
  - [Listen to music](../Listen%20to%20music/index.md)
+    
+ - [Offer your help](../Offer%20your%20help/index.md)
+    
+ - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)
     
  - [Sing](../Sing/index.md)
     
  - [Smile](../Smile/index.md)
     
  - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
+    
+ - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     

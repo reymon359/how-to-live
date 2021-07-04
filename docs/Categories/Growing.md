@@ -1,6 +1,8 @@
 # Growing
 
 
+ - [Amend](../Amend/index.md)
+    
  - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
     
  - [Be independent](../Be%20independent/index.md)
@@ -33,7 +35,7 @@
     
  - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
     
- - [Amend](../Amend/index.md)
+ - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
     
  - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
     

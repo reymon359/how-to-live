@@ -29,11 +29,15 @@
     
  - [Keep track of your Goals](../Keep%20track%20of%20your%20Goals/index.md)
     
+ - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
+    
  - [Review your Goals](../Review%20your%20Goals/index.md)
     
  - [Set up Goals](../Set%20up%20Goals/index.md)
     
  - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
+    
+ - [Set up reminders](../Set%20up%20reminders/index.md)
     
  - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
     

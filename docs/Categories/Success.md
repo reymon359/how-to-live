@@ -19,3 +19,9 @@
     
  - [Learn to delegate](../Learn%20to%20delegate/index.md)
     
+ - [Look for feedback](../Look%20for%20feedback/index.md)
+    
+ - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
+    
+ - [Take action](../Take%20action/index.md)
+    

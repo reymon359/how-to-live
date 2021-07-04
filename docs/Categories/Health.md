@@ -13,6 +13,8 @@
     
  - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
     
+ - [Learn to forgive](../Learn%20to%20forgive/index.md)
+    
  - [Listen to your body](../Listen%20to%20your%20body/index.md)
     
  - [Put your phone down](../Put%20your%20phone%20down/index.md)

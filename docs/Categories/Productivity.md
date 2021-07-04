@@ -13,7 +13,13 @@
     
  - [Learn to delegate](../Learn%20to%20delegate/index.md)
     
+ - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
+    
  - [Review your Goals](../Review%20your%20Goals/index.md)
+    
+ - [Set up reminders](../Set%20up%20reminders/index.md)
+    
+ - [Take action](../Take%20action/index.md)
     
  - [Take notes](../Take%20notes/index.md)
     

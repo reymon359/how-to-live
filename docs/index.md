@@ -21,6 +21,18 @@ some of them contradict, dont take anything here too serious, let it flow, adapt
 
 
 
+How to live choose your problems javier sunco
+
+
+
+Don't hurry up changing things, change them when they need to be changed.
+
+
+
+todo lo que hay aqui es lo que opinon ahora pero puede cambiar en el futuro, mi manera de ver la vida y sacar lo mejor de ella
+
+
+
 quotes are because we are not the first to see this. other important people in the past.
 
 How to live description
@@ -61,6 +73,8 @@ dont feel guilty neither worry
 
 
 
+
+
 1 Taking Charge of Yourself
 
 2 First Love
@@ -85,6 +99,34 @@ dont feel guilty neither worry
 
 12 Portrait of a Person Who has Eliminated all Erroneous Zones
 
+
+
+Most people spend their lives complaining about things they don’t like.
+
+So, you’re adding power to it.
+
+You’re giving it chi.
+
+We’re supposed to focus on what it is that we’re wanting to move towards instead of away from.
+
+
+
+You don’t have to lie when something is bad.
+
+You know, if you have a cold and someone says, “Are you sick?” that doesn’t mean say, “No.”
+
+It means say, “I’m getting better minute by minute.”
+
+
+
+- The Midnight Gospel (1x03)
+
+
+
+
+
+Say that the quotes are there to reach the authors of them and keep reading about them
+
 ## Content: advices
 
 
@@ -92,9 +134,13 @@ dont feel guilty neither worry
     
  - [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)
     
+ - [Amend](Amend/index.md)
+    
  - [Apologize](Apologize/index.md)
     
  - [Ask for forgiveness, not permission](Ask%20for%20forgiveness,%20not%20permission/index.md)
+    
+ - [Ask for help](Ask%20for%20help/index.md)
     
  - [Ask questions](Ask%20questions/index.md)
     
@@ -182,6 +228,8 @@ dont feel guilty neither worry
     
  - [First make it work, then refactor](First%20make%20it%20work,%20then%20refactor/index.md)
     
+ - [Focus on solutions, not problems](Focus%20on%20solutions,%20not%20problems/index.md)
+    
  - [Get to know yourself](Get%20to%20know%20yourself/index.md)
     
  - [Give and share with others](Give%20and%20share%20with%20others/index.md)
@@ -222,6 +270,8 @@ dont feel guilty neither worry
     
  - [Let it flow](Let%20it%20flow/index.md)
     
+ - [Let others do what they want](Let%20others%20do%20what%20they%20want/index.md)
+    
  - [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
     
  - [Listen before talking](Listen%20before%20talking/index.md)
@@ -232,13 +282,11 @@ dont feel guilty neither worry
     
  - [Look for feedback](Look%20for%20feedback/index.md)
     
- - [Look for solutions in life situations](Look%20for%20solutions%20in%20life%20situations/index.md)
-    
  - [Maintain your integrity](Maintain%20your%20integrity/index.md)
     
  - [Manage the time you have](Manage%20the%20time%20you%20have/index.md)
     
- - [Money is a Means, not an End](Money%20is%20a%20Means,%20Not%20an%20End/index.md)
+ - [Money is a Means, not an End](Money%20is%20a%20Means,%20not%20an%20End/index.md)
     
  - [Most religions have great values](Most%20religions%20have%20great%20values/index.md)
     
@@ -260,11 +308,7 @@ dont feel guilty neither worry
     
  - [Question everything. Do not take anything for granted](Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
     
- - [Ask for help](Raise%20your%20hand/index.md)
-    
  - [Read books](Read%20books/index.md)
-    
- - [Amend](Amend/index.md)
     
  - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
     
@@ -288,6 +332,8 @@ dont feel guilty neither worry
     
  - [Set up Social Goals too](Set%20up%20Social%20Goals%20too/index.md)
     
+ - [Set up reminders](Set%20up%20reminders/index.md)
+    
  - [Sing](Sing/index.md)
     
  - [Sleep properly](Sleep%20properly/index.md)
@@ -300,8 +346,6 @@ dont feel guilty neither worry
     
  - [Stick to people that give you useful advice and reach them when you are in trouble](Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)
     
- - [Surround yourself of people that sum and remove from your life the negative ones](Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)
-    
  - [Take action](Take%20action/index.md)
     
  - [Take care of mental health](Take%20care%20of%20mental%20health/index.md)
@@ -311,8 +355,6 @@ dont feel guilty neither worry
  - [Take responsibility](Take%20responsibility/index.md)
     
  - [Teaching is one of the best ways to learn](Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
-    
- - [Thank people back](Thank%20people%20back/index.md)
     
  - [The 2 minutes rule](The%202%20minutes%20rule/index.md)
     
@@ -341,6 +383,8 @@ dont feel guilty neither worry
  - [Try new things](Try%20new%20things/index.md)
     
  - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+    
+ - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
     
  - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
     

@@ -5,7 +5,3 @@
     
  - [Give second chances](../Give%20second%20chances/index.md)
     
- - [Offer your help](../Offer%20your%20help/index.md)
-    
- - [Teaching is one of the best ways to learn](../Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
-    

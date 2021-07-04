@@ -23,6 +23,10 @@
     
  - [Let it flow](../Let%20it%20flow/index.md)
     
+ - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
+    
+ - [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
+    
  - [Listen before talking](../Listen%20before%20talking/index.md)
     
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
@@ -43,11 +47,11 @@
     
  - [Respect yourself](../Respect%20yourself/index.md)
     
- - [Take action](../Take%20action/index.md)
-    
  - [Take responsibility](../Take%20responsibility/index.md)
     
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
     
  - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
+    
+ - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     

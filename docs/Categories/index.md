@@ -1,15 +1,17 @@
 # Categories
 
 
- - [](../Categories/.md)
-    
  - [Adaptation](../Categories/Adaptation.md)
+    
+ - [Asking](../Categories/Asking.md)
     
  - [Attention](../Categories/Attention.md)
     
  - [Balance](../Categories/Balance.md)
     
  - [Believing](../Categories/Believing.md)
+    
+ - [Change](../Categories/Change.md)
     
  - [Comfort zone](../Categories/Comfort%20zone.md)
     
@@ -19,7 +21,13 @@
     
  - [Community](../Categories/Community.md)
     
+ - [Curiosity](../Categories/Curiosity.md)
+    
  - [Dependencies](../Categories/Dependencies.md)
+    
+ - [Education](../Categories/Education.md)
+    
+ - [Empathy](../Categories/Empathy.md)
     
  - [Exercise](../Categories/Exercise.md)
     
@@ -37,6 +45,8 @@
     
  - [Growing](../Categories/Growing.md)
     
+ - [Guilt](../Categories/Guilt.md)
+    
  - [Happiness](../Categories/Happiness.md)
     
  - [Health](../Categories/Health.md)
@@ -47,11 +57,17 @@
     
  - [Honesty](../Categories/Honesty.md)
     
+ - [Improvement](../Categories/Improvement.md)
+    
  - [Improving](../Categories/Improving.md)
     
  - [Improvise](../Categories/Improvise.md)
     
+ - [Independence](../Categories/Independence.md)
+    
  - [Integrity](../Categories/Integrity.md)
+    
+ - [Knowledge](../Categories/Knowledge.md)
     
  - [Learning](../Categories/Learning.md)
     
@@ -67,6 +83,8 @@
     
  - [Material things](../Categories/Material%20things.md)
     
+ - [Memory](../Categories/Memory.md)
+    
  - [Mental health](../Categories/Mental%20health.md)
     
  - [Mindfulness](../Categories/Mindfulness.md)
@@ -74,6 +92,8 @@
  - [Minimalism](../Categories/Minimalism.md)
     
  - [Mistakes](../Categories/Mistakes.md)
+    
+ - [Modesty](../Categories/Modesty.md)
     
  - [Money](../Categories/Money.md)
     
@@ -89,15 +109,25 @@
     
  - [Open mindedness](../Categories/Open%20mindedness.md)
     
+ - [Open mindedness'](../Categories/Open%20mindedness'.md)
+    
  - [Open-mindedness](../Categories/Open-mindedness.md)
     
  - [Open-mindness](../Categories/Open-mindness.md)
+    
+ - [Openmindedness](../Categories/Openmindedness.md)
+    
+ - [Optimization](../Categories/Optimization.md)
     
  - [Planning](../Categories/Planning.md)
     
  - [Practice](../Categories/Practice.md)
     
  - [Prioritize](../Categories/Prioritize.md)
+    
+ - [Priority](../Categories/Priority.md)
+    
+ - [Proactivity](../Categories/Proactivity.md)
     
  - [Problems](../Categories/Problems.md)
     
@@ -107,7 +137,11 @@
     
  - [Punctuality](../Categories/Punctuality.md)
     
+ - [Read](../Categories/Read.md)
+    
  - [Refactor](../Categories/Refactor.md)
+    
+ - [Regret](../Categories/Regret.md)
     
  - [Relationship](../Categories/Relationship.md)
     
@@ -124,6 +158,8 @@
  - [Sleep](../Categories/Sleep.md)
     
  - [Social](../Categories/Social.md)
+    
+ - [Social Media](../Categories/Social%20Media.md)
     
  - [Software](../Categories/Software.md)
     
@@ -157,9 +193,5 @@
     
  - [Willpower](../Categories/Willpower.md)
     
- - [comfort Zone](../Categories/comfort%20Zone.md)
-    
- - [time](../Categories/time.md)
-    
- - [time management](../Categories/time%20management.md)
+ - [comfort zone](../Categories/comfort%20zone.md)
     

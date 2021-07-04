@@ -29,10 +29,6 @@ Complaining is the refuge of those who have no self-reliance.
 
 - Your Erroneous Zones. Wayne Dyer - 1976
 
-## Resources and credits
-
-- Your Erroneous Zones. Wayne Dyer - 1976
-
 ## Related advices
 
 - [Take action](../Take%20action/index.md)

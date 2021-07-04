@@ -10,6 +10,8 @@ Of course, do it respecting others and doing no harm to anyone.
 
 The more you know yourself, the easier to it is to know what you really want.
 
+Be open-minded and understand that other people also want to do what they want. No matter how different it is from what you want.
+
 ## Quotes
 
 > You can’t let the fear of what people might say or think stop you from doing what you want to do or else we would never do anything. ― Jennifer Lopez
@@ -35,4 +37,5 @@ The more you know yourself, the easier to it is to know what you really want.
 - [Don't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
 - [Respect others opinion](../Respect%20others%20pinion/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
+- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
 <br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)

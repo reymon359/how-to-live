@@ -9,7 +9,7 @@
     
  - [Give credit](../Give%20credit/index.md)
     
- - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)
+ - [Listen to music](../Listen%20to%20music/index.md)
     
- - [Thank people back](../Thank%20people%20back/index.md)
+ - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)
     

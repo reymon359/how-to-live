@@ -13,3 +13,7 @@
     
  - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
     
+ - [Optimize your stuff](../Optimize%20your%20stuff/index.md)
+    
+ - [Remove dependencies](../Remove%20dependencies/index.md)
+    

@@ -7,6 +7,8 @@
     
  - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
     
+ - [Ask for help](../Ask%20for%20help/index.md)
+    
  - [Ask questions](../Ask%20questions/index.md)
     
  - [Be honest](../Be%20honest/index.md)
@@ -27,11 +29,21 @@
     
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
     
+ - [Practice empathy](../Practice%20empathy/index.md)
+    
  - [Put your phone down](../Put%20your%20phone%20down/index.md)
     
- - [Ask for help](../Ask%20for%20help/index.md)
+ - [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
+    
+ - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
+    
+ - [Stick to people that give you useful advice and reach them when you are in trouble](../Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)
     
  - [Take responsibility](../Take%20responsibility/index.md)
     
+ - [Teaching is one of the best ways to learn](../Teaching%20is%20one%20of%20the%20best%20ways%20to%20learn/index.md)
+    
  - [Trust others](../Trust%20others/index.md)
+    
+ - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     

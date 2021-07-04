@@ -1,16 +1,35 @@
 # The hardest part is starting
 
-The hardest part is starting
+There is a big difference between planning and actually getting started with something.
 
-Stepping out of the comfort zone is always hard
+Starting with something means to challenge the unknown of it and step outside our comfort zone, which is always hard.
+
+Split the goal in smaller parts to help you begin with. Then go step by step.
 
 ## Quotes
 
-## Resources and credits
+> The hardest part is starting. Once you get that out of the way, you’ll find the rest of the journey much easier. — Simon Sinek
 
-## Resources and credits
+> “The hardest part of any important task is getting started on it in the first place. Once you actually begin work on a valuable task, you seem to be naturally motivated to continue.” ― Brian Tracy, Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
+
+> “The beginning is the hardest part to overcome. To decide that you will live the life of your dreams can be a scary undertaking but worth it nonetheless. Begin now, beyond your fear, and create your new life.” ― Avina Celeste
+
+> “The starting point of all achievement is desire.” — Napoleon Hill
+
+> “The secret to getting ahead is getting started.” ― Mark Twain
+
+> “The beginning is always NOW.” ― Roy T. Bennett
+
+> “Got an idea to start", "Thinking to start" and "Making a commitment to start" is one aspect of life. Actually "Starting" what you truly want to do in life, is a completely different ball game.” ― Manoj Arora, From the Rat Race to Financial Freedom
+
+> “Most times, the way isn’t clear, but you want to start anyway. It is in starting with the first step that other steps become clearer.” ― Israelmore Ayivor, Leaders' Frontpage: Leadership Insights from 21 Martin Luther King Jr. Thoughts
+
+> Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. – Francis of Assisi
 
 ## Related advices
 
-- [Step outside the comfort zone](../)
-<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort Zone](../Categories/comfort%20Zone.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
+- [Don't procrastinate](../Don't%20procrastinate/index.md)
+- [Be proactive](../Be%20proactive/index.md)
+- [Eating an elephant](../Eating%20an%20elephant/index.md)
+- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md)

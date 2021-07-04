@@ -7,3 +7,7 @@
     
  - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
     
+ - [Remove dependencies](../Remove%20dependencies/index.md)
+    
+ - [Take responsibility](../Take%20responsibility/index.md)
+    

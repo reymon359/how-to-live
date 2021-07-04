@@ -11,7 +11,13 @@
     
  - [Give second chances](../Give%20second%20chances/index.md)
     
+ - [Let it flow](../Let%20it%20flow/index.md)
+    
+ - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
+    
  - [Open your mind](../Open%20your%20mind/index.md)
+    
+ - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
     
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
     
