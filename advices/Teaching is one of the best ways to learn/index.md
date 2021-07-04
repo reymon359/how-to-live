@@ -1,19 +1,21 @@
 ---
 name: 'Teaching is one of the best ways to learn'
-Categories: ['Learning', 'Helping']
+Categories: ['Learning', 'Help']
 ---
 # Teaching is one of the best ways to learn
 
-Teaching is one of the best ways to learn, this can be done talking with others, writing a post, giving a talk. 
+Teaching is one of the best ways to learn.
 
-And you help others sharing knowledge too
+You get to help others while you improve yourself.
+
+It can be done in so many ways, by communicating with others, writing articles, giving talks, etc.
 
 ## Quotes
 
 ## Resources and credits
 
-## Resources and credits
 
 ## Related advices
 
-- Helping
+- [Offer your help](../Offer%20your%20help/index.md)
+- [Continuous learning](../Continuous%20learning/index.md)

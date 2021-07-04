@@ -11,7 +11,7 @@ if you want to accomplish something remind it to yourself
 
 some of them contradict, dont take anything here too serious, let it flow, adapt, etc
 
-
+How to live choose your problems javier sunco
 
 Don't hurry up changing things, change them when they need to be changed.
 
@@ -61,3 +61,6 @@ You know, if you have a cold and someone says, “Are you sick?” that doesn’
 It means say, “I’m getting better minute by minute.”
 
 - The Midnight Gospel (1x03)
+
+
+Say that the quotes are there to reach the authors of them and keep reading about them

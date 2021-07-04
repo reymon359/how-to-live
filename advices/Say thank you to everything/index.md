@@ -4,6 +4,8 @@ Categories: ['Gratitude', 'Happiness']
 ---
 # Say thank you to everything
 
+TODO: Pass translator again here
+
 Every time someone does something for you, give thanks for it.
 
 Even the smallest thing they do for you.
@@ -11,6 +13,10 @@ Even the smallest thing they do for you.
 Even when there seems to be nothing to give thanks for, just do it.
 
 Just say it: thank you.
+
+When someone is being grateful with you, thank them back.
+
+You are being grateful back.
 
 ## Quotes
 
@@ -25,8 +31,10 @@ Just say it: thank you.
 
 “Cultivate the habit of being grateful for every good thing that comes to you, and to give thanks continuously. And because all things have contributed to your advancement, you should include all things in your gratitude.” — Ralph Waldo Emerson
 
+## Resources and credits
+
+Adrian Ferrera inspired me to do this. He always thanked back anyone. No matter what they were talking, even when there was nothing to thank back he did it.
 
 ## Related advices
 
 - [Be grateful](../Be%20grateful/index.md)
-- [Thank people back](../Thank%20people%20back/index.md)
