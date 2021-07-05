@@ -12,6 +12,8 @@ Be proactive, adapt to the situation and look for a solution to our problem.
 
 Don't compare yourself with others. Everyone has their own lifes with good things but also bad ones.
 
+Take care of your mental health and don't feel angry or frustrated about an injustice.
+
 ## Quotes
 
 > If the world were so organized that everything had to be fair, no living creature could survive for a day. The birds would be forbidden to eat worms, and everyone’s self-interest would have to be served. — Wayne Dyer
@@ -36,3 +38,4 @@ This one is heavily inspired from the chapter 8: The Justice Trap that appears i
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
+- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
