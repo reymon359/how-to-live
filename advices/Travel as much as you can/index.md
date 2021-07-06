@@ -1,30 +1,69 @@
 ---
 name: 'Travel as much as you can'
-Categories: ['Open-mindedness', 'Respect', 'Comfort zone', 'Travel']
+Categories: ['Open-mindedness', 'Respect', 'Comfort zone', 'Travel', 'Adventures']
 ---
 # Travel as much as you can
 
-travel, see other cultures, other food, people,
+Few things will help you to open your mind, grow and learn in a way like traveling. If you have any opportunity to do it, go for it.
 
-open your mind
+You may regret not have done it.
 
-Try new things when you travel
+When you travel you explore new culture, music, gastronomy,... everything is new.
 
-respect and get used to the culture
+The more distant or different the place you visit, the better.
 
-if you can, live there for some time. Living in a different place is the best way to get to know that place.
+When you travel, respect the culture you are visiting. Be open-minded and respect the opinions and beliefs of others.
 
-When you travel plan it, not that much but have an idea of  things you want to do or see
+Have a look at new religions or habits and get the best of them.
+
+Traveling is a great moment to try new things and will help you to understand yourself.
+
+If you can, live there for some time instead of just visiting. In my opinion, living in a different place is the best way to get to know that place.
+
+When you travel, let things flow. Plan it a bit and be open to modifying your plans with new experiences and opportunities that may appear.
+
+Be prepared to step outside your comfort zone when traveling.
 
 ## Quotes
 
-## Resources and credits
+> “The world is a book and those who do not travel read only one page.” – Saint Augustinev
+
+> “Life is either a daring adventure or nothing at all” – Helen Keller
+
+> “Take only memories, leave only footprints” – Chief Seattle
+
+> “Travel is  fatal to prejudice, bigotry, and narrow mindedness, and many of our people need it sorely on these accounts.” – Mark Twain
+
+> ”The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.” – Marcel Proust
+
+> “Travel makes one modest, you see what a tiny place you occupy in the world.” – Gustave Flaubert
+
+> “Jobs fill your pockets, adventures fill your soul.” – Unknown
+
+> “Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do” – H. Jackson Brown Jr.
+
+> “We travel, some of us forever, to seek other places, other lives, other souls.” – Anais Nin
+
+> “Traveling – it leaves you speechless, then turns you into a storyteller.” – Ibn Battuta
+
+> “If you think adventure is dangerous, try routine, it’s lethal” – Paul Coelho
+
+> “Be fearless in the pursuit of what sets your soul on fire.” – Jennifer Lee
 
 ## Resources and credits
+
+My own experience as a Digital Nomad. I feel how I grow and learn the more I travel and visit new places and cultures.
 
 ## Related advices
 
-- nobody thinks the same way
-- step outside the comfort ozone
-- try new things
-- Planning
+- [Embrace growing](../Embrace%20growing/index.md)
+- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
+- [Open your mind](../Open%20your%20mind/index.md)
+- [Respect others beliefs](../Respect%20others%20beliefs/index.md)
+- [Respect others opinion](../Respect%20others%20opinion/index.md)
+- [Most religions have great values](../Most%20religions%20have%20great%20values/index.md)
+- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
+- [Try new things](../Try%20new%20things/index.md)
+- [Let it flow](../Let%20it%20flow/index.md)
+- [Regret what you have done, not what you have not](../Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
