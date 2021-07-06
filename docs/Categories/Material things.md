@@ -9,7 +9,7 @@
     
  - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
     
- - [Money is a Means, not an End](../Money%20is%20a%20Means,%20not%20an%20End/index.md)
+ - [Money is a means, not an end](../Money%20is%20a%20means,%20not%20an%20end/index.md)
     
  - [Optimize your stuff](../Optimize%20your%20stuff/index.md)
     

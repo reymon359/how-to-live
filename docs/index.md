@@ -207,7 +207,7 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
 
     65. Money
 
-        14. Money is a Means, not an End.
+        14. Money is a means, not an end.
 
         15. Time is more valuable than money. When doing things to obtain money like for example selling an item you no longer use, always think if the time you are going to spend on selling it is less valuable than the money you are going to obtain from selling it. If it is not just give it away or share it with others. Related #1 Time #13.1 Give and share with others. 
 
@@ -616,7 +616,7 @@ Say that the quotes are there to reach the authors of them and keep reading abou
     
  - [Manage the time you have](Manage%20the%20time%20you%20have/index.md)
     
- - [Money is a Means, not an End](Money%20is%20a%20Means,%20not%20an%20End/index.md)
+ - [Money is a means, not an end](Money%20is%20a%20means,%20not%20an%20end/index.md)
     
  - [Most religions have great values](Most%20religions%20have%20great%20values/index.md)
     

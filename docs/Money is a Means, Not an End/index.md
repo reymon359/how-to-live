@@ -1,4 +1,4 @@
-# Money is a Means, not an End
+# Money is a means, not an end
 
 Money alone is worthless.
 

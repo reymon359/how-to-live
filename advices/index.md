@@ -104,7 +104,7 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
     64. Ask for other opinions. See different points of view, evaluate them.
 12. Material things.
     65. Money
-        14. Money is a Means, not an End.
+        14. Money is a means, not an end.
         15. Time is more valuable than money. When doing things to obtain money like for example selling an item you no longer use, always think if the time you are going to spend on selling it is less valuable than the money you are going to obtain from selling it. If it is not just give it away or share it with others. Related #1 Time #13.1 Give and share with others. 
     66. don't get attached to material things.
     67. Optimize your stuff. If you have 2 items that accomplish the same thing get rid of one of them.

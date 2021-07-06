@@ -1,8 +1,8 @@
 ---
-name: 'Money is a Means, not an End'
+name: 'Money is a means, not an end'
 Categories: ['Material things', 'Money']
 ---
-# Money is a Means, not an End
+# Money is a means, not an end
 
 Money alone is worthless.
 
