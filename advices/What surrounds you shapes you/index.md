@@ -1,36 +1,42 @@
 ---
 name: 'What surrounds you shapes you'
-Categories: ['Respect', 'Communication', 'Happiness', 'Problems', 'Solutions', 'Integrity']
+Categories: ['Travel', 'Networking', 'Communication', 'Growing', 'Success']
 ---
 # What surrounds you shapes you
-Currier offers a checklist to determine where you want to live:
 
-Are the people in this city like me?
+Surround yourself with what you want to be and how you want to be.
 
-How long can you see yourself staying there?
+There are multiple studies that certify that what surrounds us shapes our behavior.
 
-How important is your career to you?
+Our network, the people we interact with, the places we visit, the location we live, all shape us and determine who we are and will be.
 
-How much do you enjoy a fast pace of life?
+Think about what aspect of your life you want to improve, and surround yourself with inputs that favor it.
 
-How much do you enjoy or value meeting new people?
+Step outside the comfort zone to change your surroundings or even where you live little by little. Try new places at the beginning and see what works for you.
 
-Are the core parts of your network topology filled in?
-
-It doesn't have to be only about your career, but the characteristics of where you live should align with your priorities.
-
-It might be a good time to reassess where you wa
-surround yourself of what you want to be and how you want to be
 ## Quotes
 
+> Environment is the invisible hand that shapes human behavior. ― James Clear
+
+> What shows up on your life dashboard is put there by your network. And your network is the result of just a few crossroads moment decisions in your life. ― James Currier
+
+> Live and work in environments that are filled with productive cues and devoid of unproductive ones. ― James Clear
+
+> Become the architect of your life. Be the designer of your world and not merely the consumer of it. ― James Clear
+
+> Where you live largely determines who you know. Who you know largely determines the richness of your life and your access to wealth and information. Your network is a form of wealth. It brings you friends, career opportunities, or a spouse. ― James Currier
+
+> If you want behaviors that are stable and predictable, you need an environment that is stable and predictable. ― James Clear
+
 ## Resources and credits
 
-atomic habits, your surroundings chapter
+James Clear book Atomic habits explains how the environment shapes our habits in chapter 6 Motivation is Overrated; Environment Often Matters More
 
-https://mythirdbrain.substack.com/p/where-you-live-is-who-you-are
-
-## Resources and credits
-
+I enjoyed reading this article from Kenta Nagamine about this topic: [Where you live is who you are](https://mythirdbrain.substack.com/p/where-you-live-is-who-you-are)
 
 ## Related advices
 
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+- [Try new things](../Try%20new%20things/index.md)
+- [Eating an elephant](../Eating%20an%20elephant/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
