@@ -16,6 +16,8 @@ Just realize about it, don't worry, and let things flow. Enjoy the moment you ar
 
 ## Quotes
 
+> Every next level of your life will demand a different you. ― Leonardo DiCaprio
+
 > “Moving on will show you a lot about who you are, what you truly want, & what you have no desire to waste your time on.” ― April Mae Monterrosa
 
 > “The only way to get everything you want in life is to be very clever about what you want.” ― George Hammond
