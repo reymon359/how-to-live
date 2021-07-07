@@ -1,4 +1,4 @@
-# What you want, is constantly changing
+# What you want is constantly changing
 
 ## Quotes
 

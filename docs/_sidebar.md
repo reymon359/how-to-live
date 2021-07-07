@@ -256,7 +256,7 @@
         
      - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
         
-     - [What you want, is constantly changing](What%20you%20want,%20is%20constantly%20changing/index.md)
+     - [What you want is constantly changing](What%20you%20want%20is%20constantly%20changing/index.md)
         
      - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
         
