@@ -6,13 +6,41 @@ name: 'How to live'
 
 // TODO: Update this index file properly
 
-## Ramón Morcillo 24-08-2020
-
-These last months I have expressed my thought with a lot of people and most of them have told me they like the way I think and some things I said. I learned all these things from myself, Software Development, books, and other people. The more you live and learn about life you start seeing connections and realizing that everything is related and connected with everything. This is why all the related tags. I want to create a visual map of all of this, maybe using UML. 
-
-Life is complicated and awesome at the same time.This doc tries to help at it and make it better. Is hard to try to document all of this list. Maybe adding tags
 
 
+
+21 consejos para un joven de 21 años (no tienen ningun orden particular):
+
+
+haz networking: buscar relacionarte con personas que puedan - en un futuro- ayudarte a crecer laboralmente. Tipo encontrar trabajo, fundar una compañia, etc. Pero ojo una relacion de networking no es una relacion de amistad, a veces, pueden ser excluyentes.
+
+Se detallista: En el sentido de se cuidado con todo lo que haces, en todo lo que haga presta atencion hasta el mas minimo detalle. No puedes darte el lujo que las cosas funcionen al azar. Funciona o no funciona.
+
+
+Mantente enfocado: en el mundo moderno con tantas distracciones y con tantas cosas por hacer es facil perder el foco. Cuando pierdas foco, preguntante: ¿En que deberia estar pensado o haciendo en este momento? Cuando tengas la respuesta haz lo que tienes que hacer enfocado y bien.
+No busque excusas ante las dificultades: muchas veces nuestra mente perezosa ante un problema lo primero que pensamos es una “excusa” para evadir el problema. Ahora evadir, no es solucionar. Cuando tu primer pensamiento es “no se puede hacer”, sacudete y hazte la pregunta ¡¿Como puedo hacerlo?.
+Enfocate en la solucion, no en el problema: ante una situacion adversa nos enfocamos en la situacion, no como resolver la situacion. Esto nos paraliza, nos impides implementar la solucion. Por ello, enfocate en la solucion y como implementarlo.
+Busca la excelencia: siempre debes dar el 110% de ti en todo lo que hagas. Si eres estudiante tiene que obtener las maximas notas y los mejores trabajos. No importa el empleo, si eres barrendero tu deber es ser el mejor barrandero. Si te comprometes a tener un noviazgo, debes ser el mejor novio(a) posible y mas.
+Aprende algo nuevo cada dia: Con el internet tienes acceso a toda la informacion disponible del planeta. Aprende una cosa nueva cada dia y vera como tu nivel de cultura se expande de forma exponencial.
+Parate derecho y con los hombros hacia atras: Jordan Peterson tiene razon en muchas cosas, sobre todo cuando habla de que las posiciones corporales pueden influir en nuestro estado de animo. Pararse derecho y con los hombres hacia atras es una postura poder, no solo aparentaras ser poderoso, sino que empezaras a sentirse poderoso.
+La frustracion es una señal: si te sientes frustrado es una indicacion que estas en una situacion en la cual no quieres estar o que podrias estar haciendo mas de lo que haces. Usa la frustracion para ir hacia la situacion en que desearias estar.
+Hazte siempre esta pregunta, ¿Que puedo hacer mañana que pueda mejorar mi vida?: Hazte pregunta, cuando sepas la respuesta, la anotas y la aplicas al dia siguiente. Asi veras que poco a poco tu vida ira mejorando.
+El mundo no te debe nada: TU solo mereces lo que hayas trabajado, lo que hayas conseguido por tu propio esfuerzo. Con 21 años tus padres no son responsables de ti, ni el gobierno, ni la sociedad, ni tus amigos. Solo tu eres responsable de ti y a la unica persona que le puedes pedir cuentas eres tu.
+Imagen tu “yo” ideal: cada cierto tiempo sientate, toma lapiz y papel escribe el tipo de persona que te gustaria ser, que te gustaria que las personas dijeran de ti, en tu funeral que te gustaria que dijera tu familia y amigos de ti. Luego apunta toda tu vida a convertirte en esa persona.
+No te compares con los demas, comparate con la personas que fuiste ayer y con la persona que eres hoy: no sabes la realidad que vive la gente al tu alrededor, ni sus ventajas o desventajas. Debes enfocarte tan solo en ser una mejor version de ti mismo, mejorar cada detalle en ti.
+Se listo: ante cualquier problema que se te presente busca la solucion mas optima a tu alcance. Muchos problemas tienen una solucion sencilla que al principio no vemos, por eso usamos la opcion dificil. Detente por un segundo y pienso la solucion mas sencilla del problema.
+Planifica, planifica, planifica: El 50% de los problemas y falta de tiempo se puede solucionar planificando tus actividades (asignándoles fecha y hora) en una agenda. Obviamente, hay que cumplir con la agenda.
+Vive la vida: esto implica no temas a vivir. Si tienes la oportunidad de irte de viaje, toma esa oportunidad. Si tienes la oportunidad de conversar con alguien, toma la oportunidad. Si tienes la oportunidad de lanzarte de paracaidas desde un avion, hazlo. Porque la triste realidad, cuando seas mayor lamentaras lo que no hiciste, lo que no viviste, lo que no experimentaste.
+
+## First attempt
+
+This was my rough first attempt to represent what I had in my mind.
+
+Ramón Morcillo 24-08-2020
+
+These last months I have expressed my thought with a lot of people and most of them have told me they like the way I think and some things I said. I learned all these things from myself, Software Development, books, and other people. The more you live and learn about life you start seeing connections and realizing that everything is related and connected with everything. This is why all the related tags. I want to create a visual map of all of this, maybe using UML.
+
+Life is complicated and awesome at the same time. This doc tries to help at it and make it better. Is hard to try to document all of this list. Maybe adding tags
 
 1. Time 
     1. Time management.
@@ -105,7 +133,7 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
 12. Material things.
     65. Money
         14. Money is a means, not an end.
-        15. Time is more valuable than money. When doing things to obtain money like for example selling an item you no longer use, always think if the time you are going to spend on selling it is less valuable than the money you are going to obtain from selling it. If it is not just give it away or share it with others. Related #1 Time #13.1 Give and share with others. 
+        15. Time is more valuable than money. When doing things to obtain money like for example selling an item you no longer use, always think if the time you are going to spend on selling it is less valuable than the money you are going to obtain from selling it. If it is not just give it away or share it with others. Related #1 Time #13.1 Give and share with others.
     66. don't get attached to material things.
     67. Optimize your stuff. If you have 2 items that accomplish the same thing get rid of one of them.
     68. Useless things. If you are not using something anymore just get rid of it, give it away.
@@ -144,6 +172,8 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
     91. Smile
     92. Be grateful
     93. The little things. Enjoy the little moments of life, those that seem to mean the least usually are the most important ones, the ones that fill us the most
+
+Each advice sections   
 *   Id
 *   Title
 *   Description
@@ -154,78 +184,3 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
 *   Related advices
 *   Topics
 *   Tags
-
-Other tips 
-
-
-
-*   The rule of holes, when you are in one stop digging the clean coder
-*   Regret what you have done, not what you have not
-*   DRY. dont repeat yourself. Bank accounts.
-*   Do not see mobile when waking up Neither when going to bed
-*   
-*   
-
-
-change donts by avoid
-
-take responsibility
-
-pay atention and mindfulness together
-if you want to accomplish something remind it to yourself
-
-some of them contradict, dont take anything here too serious, let it flow, adapt, etc
-
-How to live choose your problems javier sunco
-
-Don't hurry up changing things, change them when they need to be changed.
-
-todo lo que hay aqui es lo que opinon ahora pero puede cambiar en el futuro, mi manera de ver la vida y sacar lo mejor de ella
-
-quotes are because we are not the first to see this. other important people in the past.
-How to live description
-Contents
-1	The 7 Habits
-1.1	Independence
-1.1.1	1 - Be proactive
-1.1.2	2 - Begin with the end in mind
-1.1.3	3 - First things first
-1.2	Interdependence
-1.2.1	4 - Think win-win
-1.2.2	5 - Seek first to understand, then to be understood
-1.2.3	6 - Synergies
-1.3	Continual improvement
-1.3.1	7 - Sharpen the Saw; Growth
-https://github.com/reymon359/how-to-live/blob/master/docs/Categories/index.md
-
-We teach others how to treat us. For example if we respect ourselves we teach others to test us with respect.
-
-dont feel guilty neither worry
-
-
-1 Taking Charge of Yourself
-2 First Love
-3 You Don’t Need Their Approval
-4 Breaking Free From the Past
-5 The Useless Emotions — Guilt and Worry
-6 Exploring the Unknown
-7 Breaking the Barrier of Convention
-8 The Justice Trap
-9 Putting An End to Procrastination — Now
-10 Declare Your Independence
-11 Farewell to Anger
-12 Portrait of a Person Who has Eliminated all Erroneous Zones
-
-Most people spend their lives complaining about things they don’t like.
-So, you’re adding power to it.
-You’re giving it chi.
-We’re supposed to focus on what it is that we’re wanting to move towards instead of away from.
-
-You don’t have to lie when something is bad.
-You know, if you have a cold and someone says, “Are you sick?” that doesn’t mean say, “No.”
-It means say, “I’m getting better minute by minute.”
-
-- The Midnight Gospel (1x03)
-
-
-Say that the quotes are there to reach the authors of them and keep reading about them

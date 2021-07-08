@@ -14,6 +14,8 @@ Don't be afraid of big goals. You will reach them if you are constant. Little by
 
 Maybe the goals are not clear. however, is better to have an idea of them than not having goals at all.
 
+If you want to accomplish something, try to remind yourself, set up reminders.
+
 ## Quotes
 
 > “It’s harder to stay on top than it is to make the climb. Continue to seek new goals.” – Pat Summitt

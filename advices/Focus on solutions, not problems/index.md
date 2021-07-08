@@ -24,6 +24,8 @@ Looking for a solution is being proactive, taking action instead of waiting for 
 
 > “Do not blame the world. Find a solution.” ― Sri Chinmoy
 
+> Most people spend their lives complaining about things they don’t like. So, you’re adding power to it. You’re giving it chi. We’re supposed to focus on what it is that we’re wanting to move towards instead of away from. You don’t have to lie when something is bad. You know, if you have a cold and someone says, “Are you sick?” that doesn’t mean say, “No.” It means say, “I’m getting better minute by minute.” - The Midnight Gospel (1x03)
+
 ## Related advices
 
 - [Be proactive](../Be%20proactive/index.md)
