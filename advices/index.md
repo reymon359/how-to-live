@@ -7,8 +7,6 @@ name: 'How to live'
 // TODO: Update this index file properly
 
 
-
-
 21 consejos para un joven de 21 años (no tienen ningun orden particular):
 
 
@@ -18,18 +16,32 @@ Se detallista: En el sentido de se cuidado con todo lo que haces, en todo lo que
 
 
 Mantente enfocado: en el mundo moderno con tantas distracciones y con tantas cosas por hacer es facil perder el foco. Cuando pierdas foco, preguntante: ¿En que deberia estar pensado o haciendo en este momento? Cuando tengas la respuesta haz lo que tienes que hacer enfocado y bien.
+
 No busque excusas ante las dificultades: muchas veces nuestra mente perezosa ante un problema lo primero que pensamos es una “excusa” para evadir el problema. Ahora evadir, no es solucionar. Cuando tu primer pensamiento es “no se puede hacer”, sacudete y hazte la pregunta ¡¿Como puedo hacerlo?.
+
 Enfocate en la solucion, no en el problema: ante una situacion adversa nos enfocamos en la situacion, no como resolver la situacion. Esto nos paraliza, nos impides implementar la solucion. Por ello, enfocate en la solucion y como implementarlo.
+
 Busca la excelencia: siempre debes dar el 110% de ti en todo lo que hagas. Si eres estudiante tiene que obtener las maximas notas y los mejores trabajos. No importa el empleo, si eres barrendero tu deber es ser el mejor barrandero. Si te comprometes a tener un noviazgo, debes ser el mejor novio(a) posible y mas.
+
 Aprende algo nuevo cada dia: Con el internet tienes acceso a toda la informacion disponible del planeta. Aprende una cosa nueva cada dia y vera como tu nivel de cultura se expande de forma exponencial.
-Parate derecho y con los hombros hacia atras: Jordan Peterson tiene razon en muchas cosas, sobre todo cuando habla de que las posiciones corporales pueden influir en nuestro estado de animo. Pararse derecho y con los hombres hacia atras es una postura poder, no solo aparentaras ser poderoso, sino que empezaras a sentirse poderoso.
+
+Parate derecho y con los hombros hacia atras: Jordan Peterson tiene razon en muchas cosas, sobre todo cuando habla de que las posiciones corporales pueden influir en nuestro estado de animo. 
+Pararse derecho y con los hombres hacia atras es una postura poder, no solo aparentaras ser poderoso, sino que empezaras a sentirse poderoso.
+
 La frustracion es una señal: si te sientes frustrado es una indicacion que estas en una situacion en la cual no quieres estar o que podrias estar haciendo mas de lo que haces. Usa la frustracion para ir hacia la situacion en que desearias estar.
+
 Hazte siempre esta pregunta, ¿Que puedo hacer mañana que pueda mejorar mi vida?: Hazte pregunta, cuando sepas la respuesta, la anotas y la aplicas al dia siguiente. Asi veras que poco a poco tu vida ira mejorando.
+
 El mundo no te debe nada: TU solo mereces lo que hayas trabajado, lo que hayas conseguido por tu propio esfuerzo. Con 21 años tus padres no son responsables de ti, ni el gobierno, ni la sociedad, ni tus amigos. Solo tu eres responsable de ti y a la unica persona que le puedes pedir cuentas eres tu.
+
 Imagen tu “yo” ideal: cada cierto tiempo sientate, toma lapiz y papel escribe el tipo de persona que te gustaria ser, que te gustaria que las personas dijeran de ti, en tu funeral que te gustaria que dijera tu familia y amigos de ti. Luego apunta toda tu vida a convertirte en esa persona.
+
 No te compares con los demas, comparate con la personas que fuiste ayer y con la persona que eres hoy: no sabes la realidad que vive la gente al tu alrededor, ni sus ventajas o desventajas. Debes enfocarte tan solo en ser una mejor version de ti mismo, mejorar cada detalle en ti.
+
 Se listo: ante cualquier problema que se te presente busca la solucion mas optima a tu alcance. Muchos problemas tienen una solucion sencilla que al principio no vemos, por eso usamos la opcion dificil. Detente por un segundo y pienso la solucion mas sencilla del problema.
+
 Planifica, planifica, planifica: El 50% de los problemas y falta de tiempo se puede solucionar planificando tus actividades (asignándoles fecha y hora) en una agenda. Obviamente, hay que cumplir con la agenda.
+
 Vive la vida: esto implica no temas a vivir. Si tienes la oportunidad de irte de viaje, toma esa oportunidad. Si tienes la oportunidad de conversar con alguien, toma la oportunidad. Si tienes la oportunidad de lanzarte de paracaidas desde un avion, hazlo. Porque la triste realidad, cuando seas mayor lamentaras lo que no hiciste, lo que no viviste, lo que no experimentaste.
 
 ## First attempt
