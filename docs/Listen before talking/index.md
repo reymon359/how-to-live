@@ -32,4 +32,4 @@ This topic is referenced in the chapter "5 - Seek first to understand, then to b
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Ask questions](../Ask%20questions/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Empathic listening](../Empathic%20Listening/index.md)<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Listening](../Categories/Listening.md) [Asking](../Categories/Asking.md)
+- [Emphathic listening](../Emphathic%20listening/index.md)<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Listening](../Categories/Listening.md) [Asking](../Categories/Asking.md)

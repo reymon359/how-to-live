@@ -76,7 +76,7 @@
         
      - [Embrace minimalism](Embrace%20minimalism/index.md)
         
-     - [Empathic Listening](Empathic%20Listening/index.md)
+     - [Emphathic listening](Emphathic%20listening/index.md)
         
      - [Enjoy nature music](Enjoy%20nature%20music/index.md)
         

@@ -25,6 +25,6 @@ Everyone needs help at something. Just ask and listen to other people to know ho
 ## Related advices
 
 - [Offer your help](../Offer%20your%20help/index.md)
-- [Empathic Listening](../Empathic%20Listening/index.md)
-- [Be empathic](../Be%20empathetic/index.md)
+- [Emphathic listening](../Emphathic%20listening/index.md)
+- [Be Emphathic](../Be%20empathetic/index.md)
 <br/>[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)

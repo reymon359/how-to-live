@@ -34,6 +34,8 @@ Adapt to the situation. Sometimes things suddenly change in the short term. For 
 
 > In our personal and professional lives, we are constantly hit with one adversity after the other, most of which we have no control over. But the four things we have total control over is how we react, how we adapt, how we breathe, and how we take action. ― Diamond Dallas Page
 
+> "When you're finished changing, you're finished." ― Ben Franklin
+
 ## Related advices
 
 - [Avoid complaining](../Avoid%20complaining/index.md)

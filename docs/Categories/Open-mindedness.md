@@ -7,7 +7,7 @@
     
  - [Embrace growing](../Embrace%20growing/index.md)
     
- - [Empathic Listening](../Empathic%20Listening/index.md)
+ - [Emphathic listening](../Emphathic%20listening/index.md)
     
  - [Give second chances](../Give%20second%20chances/index.md)
     

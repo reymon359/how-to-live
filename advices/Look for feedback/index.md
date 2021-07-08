@@ -38,7 +38,7 @@ I have experienced this in software development when getting feedback from users
 
 ## Related advices
 
-- [Empathic listening](../Empathic%20Listening/index.md)
+- [Emphathic listening](../Emphathic%20listening/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Ask questions](../Ask%20questions/index.md)
 - [Be grateful](../Be%20grateful/index.md)
