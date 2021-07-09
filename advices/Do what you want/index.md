@@ -16,6 +16,9 @@ The more you know yourself, the easier to it is to know what you really want.
 
 Be open-minded and understand that other people also want to do what they want. No matter how different it is from what you want.
 
+Pay attention to frustration, if you feel frustrated it may mean you are in a situation you do not want to be or that you are doing something you don't want to do. Use that frustration, learn from it and move toward the situation you want to be in.
+
+
 ## Quotes
 
 > You can’t let the fear of what people might say or think stop you from doing what you want to do or else we would never do anything. ― Jennifer Lopez

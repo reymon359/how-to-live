@@ -10,23 +10,6 @@ name: 'How to live'
 21 consejos para un joven de 21 años (no tienen ningun orden particular):
 
 
-haz networking: buscar relacionarte con personas que puedan - en un futuro- ayudarte a crecer laboralmente. Tipo encontrar trabajo, fundar una compañia, etc. Pero ojo una relacion de networking no es una relacion de amistad, a veces, pueden ser excluyentes.
-
-Se detallista: En el sentido de se cuidado con todo lo que haces, en todo lo que haga presta atencion hasta el mas minimo detalle. No puedes darte el lujo que las cosas funcionen al azar. Funciona o no funciona.
-
-
-Mantente enfocado: en el mundo moderno con tantas distracciones y con tantas cosas por hacer es facil perder el foco. Cuando pierdas foco, preguntante: ¿En que deberia estar pensado o haciendo en este momento? Cuando tengas la respuesta haz lo que tienes que hacer enfocado y bien.
-
-No busque excusas ante las dificultades: muchas veces nuestra mente perezosa ante un problema lo primero que pensamos es una “excusa” para evadir el problema. Ahora evadir, no es solucionar. Cuando tu primer pensamiento es “no se puede hacer”, sacudete y hazte la pregunta ¡¿Como puedo hacerlo?.
-
-Enfocate en la solucion, no en el problema: ante una situacion adversa nos enfocamos en la situacion, no como resolver la situacion. Esto nos paraliza, nos impides implementar la solucion. Por ello, enfocate en la solucion y como implementarlo.
-
-Busca la excelencia: siempre debes dar el 110% de ti en todo lo que hagas. Si eres estudiante tiene que obtener las maximas notas y los mejores trabajos. No importa el empleo, si eres barrendero tu deber es ser el mejor barrandero. Si te comprometes a tener un noviazgo, debes ser el mejor novio(a) posible y mas.
-
-Aprende algo nuevo cada dia: Con el internet tienes acceso a toda la informacion disponible del planeta. Aprende una cosa nueva cada dia y vera como tu nivel de cultura se expande de forma exponencial.
-
-Parate derecho y con los hombros hacia atras: Jordan Peterson tiene razon en muchas cosas, sobre todo cuando habla de que las posiciones corporales pueden influir en nuestro estado de animo. 
-Pararse derecho y con los hombres hacia atras es una postura poder, no solo aparentaras ser poderoso, sino que empezaras a sentirse poderoso.
 
 La frustracion es una señal: si te sientes frustrado es una indicacion que estas en una situacion en la cual no quieres estar o que podrias estar haciendo mas de lo que haces. Usa la frustracion para ir hacia la situacion en que desearias estar.
 

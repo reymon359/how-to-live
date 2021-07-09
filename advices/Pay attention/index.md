@@ -13,6 +13,9 @@ When you are doing something, pay attention to it to experience it in its fullne
 Open your mind, be careful with the social media world and where they try to move your attention.
 
 Exercise Mindfulness. It is the practice of purposely bringing one's attention to the present moment.
+
+Pay attention to the smallest details. Be careful with what you do and try not to leave things to chance.
+
 ## Quotes
 
 > The simple act of paying attention can take you a long way. ― Keanu Reeves

@@ -16,6 +16,8 @@ Research the internet to find the best resources to learn what you want to learn
 
 If you want to learn something that other people think is useless or not worth it, listen to their arguments. However, if in the end you want to learn it just do it, you don't need their approval.
 
+Try to learn something new every day. With the internet you have access to all the information available on the planet.
+
 ## Quotes
 
 > Continuous learning is the minimum requirement for success in any field. ― Brian Tracy

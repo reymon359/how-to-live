@@ -16,6 +16,8 @@ Happiness means no complaining about the things over which you can do nothing.
 
 Complaining is the refuge of those who have no self-reliance.
 
+Do not look for excuses in the face of difficulties to avoid the problem. Evading is not solving. Change your thought "it can't be done", to "How can I do it?".
+
 ## Quotes
 
 > “When you complain, you make yourself a victim. Leave the situation, change the situation, or accept it. All else is madness.” ― Eckhart Tolle
