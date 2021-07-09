@@ -12,6 +12,8 @@ Everyone is on a different path, and there are people who are better or worse of
 
 By comparing yourself to others, you are holding yourself back.
 
+Compare yourself with the person you were yesterday and with the person you are today. Focus on being a better version of yourself.
+
 ## Quotes
 
 > “Be yourself; everyone else is already taken.” ― Oscar Wilde

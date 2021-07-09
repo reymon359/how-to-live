@@ -10,6 +10,8 @@ Take responsibility for your reaction to your experiences, take the initiative t
 
 Don't sit and wait in a reactive mode, waiting for problems to happen and be solved by themselves instead of taking action.
 
+The world owes you nothing, you only deserve what you have worked for and achieved by your own effort.
+
 ## Quotes
 
 > I believe that everyone chooses how to approach life. If you’re proactive, you focus on preparing. If you’re reactive, you end up focusing on repairing. 

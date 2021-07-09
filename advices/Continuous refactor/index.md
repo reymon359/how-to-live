@@ -8,6 +8,8 @@ Refactoring is a systematic process of improving code without creating new funct
 
 In a continuous way, refactor your life mercilessly. Every time think of what can you improve in your life. This way, little by little, you get better and better.
 
+Each day think what can you do tomorrow that can improve your life? Then write it down and apply it the next day. Improve your life little by little.
+
 ## Quotes
 
 > "The only way to prove that your software is easy to change is to make easy changes to it. And when you find that the changes aren’t as easy as you thought, you refine the design so that the next change is easier. When do you make these easy changes? All the time!... ...This philosophy is sometimes called merciless refactoring." ― The Clean Coder

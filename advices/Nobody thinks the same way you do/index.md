@@ -22,6 +22,8 @@ However, no matter their opinion and if you agree or not with it, you have to re
 
 > “Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.” ― Oscar Wilde
 
+> “It is not our differences that divide us. It is our inability to recognize, accept, and celebrate those differences” - Audre Lorde
+
 ## Related advices
 
 - [Respect others opinion](../Respect%20others%20opinion/index.md)

@@ -12,6 +12,8 @@ However, don't feel guilty about not having done something. Life is about choice
 
 In the end, this one is about not getting old and having done nothing. If you have the chance to do something that you feel you will step outside your comfort zone, don't be afraid of doing it, or you may regret it in the future.
 
+Don't be afraid to live. If you have the opportunity to go on a trip, chat with someone, parachute from an airplane, do it. Don't regret what you did not experience.
+
 ## Quotes
 
 > “It's better to regret what you have done than what you haven't.” ― Paul Arden

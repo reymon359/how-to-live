@@ -14,6 +14,8 @@ To be effective you need to act based on principles and constantly review your m
 
 Do not just act; think first: Is this how I want it to go, and are these the correct consequences?
 
+Most of the problems and lack of time can be solved by planning your activities (assigning a date and time).
+
 ## Quotes
 
 > “By Failing to prepare, you are preparing to fail.” – Benjamin Franklin
