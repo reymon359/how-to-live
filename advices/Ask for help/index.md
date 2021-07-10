@@ -6,9 +6,15 @@ Categories: ['Communication', 'Help', 'Problems', 'Solutions', 'Honesty', 'Modes
 
 When you can not do something, ask for help. There is nothing wrong with recognizing our limits.
 
+Be proactive. At first, look for yourself if you can solve the problem you face. If not, ask for help.
+
 Be honest. Better to ask for help on time than not to comply with what you promise.
 
-If someone else raises their hand, offer your help to them.
+If someone else needs it, offer your help to them.
+
+Don't be afraid of feeling weak for it. You are brave when you ask for help.
+
+If you are stuck and need help on a task, update others about it.
 
 ## Quotes
 
@@ -24,10 +30,11 @@ If someone else raises their hand, offer your help to them.
 
 ## Resources and credits
 
-The more I am in team situations, the better I get at this. I learned soon that it is much better to ask for help and keep your teammates updated about your limitations and problems than to wait and let the "ball of poo" get bigger and bigger.
+The more I work in team situations, the better I get at this. It is much better to ask for help and keep others updated about how you are doing than to wait and let the "ball of poo" get bigger and bigger until, surprise, it explodes.
 
 ## Related advices
 
 - [Offer your help](../Offer%20your%20help/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
+- [Research to understand better](../Research%20to%20understand%20better/index.md)
+- [Be proactive](../Be%20proactive/index.md)
