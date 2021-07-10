@@ -1,8 +1,6 @@
 # Health
 
 
- - [Avoid the phone when going to sleep](../Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
-    
  - [Book leisure time](../Book%20leisure%20time/index.md)
     
  - [Drink enough water](../Drink%20enough%20water/index.md)

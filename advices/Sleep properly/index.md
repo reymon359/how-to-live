@@ -10,6 +10,12 @@ Try to sleep what is enough for you, which commonly is around 8 hours.
 
 Listen to your body if you need more or less sleep.
 
+Avoid using the phne right before going to sleep.
+
+Is easy to fall in to the trap of browsing social media before going to sleep and waste sleeping time on it.
+
+When waking up try not to grab the phone as the first thing.
+
 Here are some tips about Sleep Optimization:
 
 - Stop watching blue-light devices like your smartphone for at least 1-hour before going to bed. Your mind will not be that excited when you try to sleep.
@@ -40,3 +46,4 @@ Thanks to Treasa Spragg for the tips she gave me at Sun&Co about sleep optimizat
 
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
 - [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
+- [Put your phone down](../Put%20your%20phone%20down/index.md)

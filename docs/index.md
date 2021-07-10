@@ -332,8 +332,6 @@ Each advice sections
     
  - [Avoid complaining](Avoid%20complaining/index.md)
     
- - [Avoid the phone when going to sleep](Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
-    
  - [Be empathetic](Be%20empathetic/index.md)
     
  - [Be grateful](Be%20grateful/index.md)
