@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Regret](../Categories/Regret.md) [Guilt](../Categories/Guilt.md)
 # Regret what you have done, not what you have not
 
 If you want to do something, just do it. If you can do something, and you don't, you may regret not having done it.
@@ -34,5 +33,4 @@ Little, by little, life teaches you about this with the choices you make.
 - [Be proactive](../Be%20proactive/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-
-[Categories:](../Categories/index.md) [Regret](../Categories/Regret.md) [Guilt](../Categories/Guilt.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Regret](../Categories/Regret.md) [Guilt](../Categories/Guilt.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md)
 # Give credit
 
 Always give credit. 
@@ -28,5 +27,4 @@ Include an acknowledgements section in a report if you need to credit someone.
 - [Be grateful](../Be%20grateful/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-
-[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md)

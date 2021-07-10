@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
 # Do what brings you joy
 
 It is never too late to amend the mistakes of the past.
@@ -22,5 +21,4 @@ Having a talk with my friend, Pablo Llorca, made me realize this in a deep way.
 
 ## Related advices
 
-- do what you want
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+- do what you want<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

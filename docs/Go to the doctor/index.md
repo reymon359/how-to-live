@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Help](../Categories/Help.md)
 # Go to the doctor
 
 From time to time we get ill. It just happens. If you feel bad, don't wait things to get worse. Go to the doctor and ask for help.
@@ -18,5 +17,4 @@ Tell the truth to the doctor, don't feel embarrassed or afraid of your symptoms.
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
 - [Respect yourself](../Respect%20yourself/index.md)
 - [Be honest](../Be%20honest/index.md)
-
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Help](../Categories/Help.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Help](../Categories/Help.md)

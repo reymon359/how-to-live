@@ -1,4 +1,3 @@
-
 # Don't worry
 
 When you worry about something you are just wasting your present time. I learned this on the chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your Erroneous Zones.
@@ -60,4 +59,4 @@ Don't worry what people say or what people think. Be yourself.
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [You Don’t Need Their Approval](../You%20don't%20need%20their%20approval/index.md)
+- [You Don’t Need Their Approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>

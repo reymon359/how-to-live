@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)
 # Avoid complaining
 
 To complain is a waste of time. If you don't like something, do something to change that situation.
@@ -36,5 +35,4 @@ Do not look for excuses in the face of difficulties to avoid the problem. Evadin
 
 - [Take action](../Take%20action/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)

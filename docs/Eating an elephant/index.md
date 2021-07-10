@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md) [Time](../Categories/Time.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md)
 # Eating an elephant
 
 This is probably one of my favourites advice.
@@ -29,5 +28,4 @@ Plan the steps and book time for them.
 - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md) [Time](../Categories/Time.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Little by little](../Categories/Little%20by%20little.md) [Time](../Categories/Time.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md)

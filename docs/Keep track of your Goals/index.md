@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improving](../Categories/Improving.md) [Feedback](../Categories/Feedback.md)
 # Keep track of your Goals
 
 Keep track of the progress of your goals.
@@ -34,5 +33,4 @@ Review them from time to time. Remind yourself to do so.
 - [Look for feedback](../Look%20for%20feedback/index.md)
 - [Set up Goals](../Set%20up%20Goals/index.md)
 - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
-
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improving](../Categories/Improving.md) [Feedback](../Categories/Feedback.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improving](../Categories/Improving.md) [Feedback](../Categories/Feedback.md)

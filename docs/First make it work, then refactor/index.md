@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Software](../Categories/Software.md)
 # First make it work, then refactor
 
 I love this one.
@@ -22,5 +21,4 @@ Whenever you are hesitating how to accomplish something, just do it, no matter t
 
 - [Continuous refactor](../Continuous%20refactor/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
-
-[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Software](../Categories/Software.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Software](../Categories/Software.md)

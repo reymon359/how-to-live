@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md) [Balance](../Categories/Balance.md)
 # Learn to be alone
 
 Sometimes, you need to be alone. Not to be lonely. Enjoy your free time being yourself and doing what makes you happy.
@@ -48,5 +47,4 @@ But, through love and friendship, socializing with others, we are capable of cre
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Find balance](../Find%20balance/index.md)
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md) [Balance](../Categories/Balance.md)
+- [Find balance](../Find%20balance/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Learning](../Categories/Learning.md) [Balance](../Categories/Balance.md)

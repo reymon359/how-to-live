@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Priority](../Categories/Priority.md) [Procrastination](../Categories/Procrastination.md)
 # The 2 minutes rule
 
 This rule is pretty easy, basically:
@@ -30,5 +29,4 @@ In the Atomic Habits book from James Clear talked about it, although he focuses 
 - [Set up reminders](../Set%20up%20reminders/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Take action](../Take%20action/index.md)
-- [Don't procrastinate](../Don't%20procrastinate/index.md)
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Priority](../Categories/Priority.md) [Procrastination](../Categories/Procrastination.md)
+- [Don't procrastinate](../Don't%20procrastinate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Priority](../Categories/Priority.md) [Procrastination](../Categories/Procrastination.md)

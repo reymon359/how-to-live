@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open mindedness](../Categories/Open%20mindedness.md) [Listening](../Categories/Listening.md)
 # Respect others opinion
 
 Nobody thinks as you do. We all live in different cultures, social situations, experiences, etc.
@@ -36,5 +35,4 @@ There are two great books I read that discussed this topic in some chapters:
 - [respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Emphathic listening](../Emphathic%20listening/index.md)
-
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open mindedness](../Categories/Open%20mindedness.md) [Listening](../Categories/Listening.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open mindedness](../Categories/Open%20mindedness.md) [Listening](../Categories/Listening.md)

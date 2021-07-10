@@ -1,4 +1,3 @@
-
 # Don't interrupt
 
 If someone is focused in doing something let them finish and don't interrupt them.
@@ -21,4 +20,4 @@ Don't feel the urge to communicate your opinion.
 
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-
+<hr/><br/>

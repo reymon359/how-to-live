@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Improvise](../Categories/Improvise.md) [Practice](../Categories/Practice.md) [Time](../Categories/Time.md) [Comfort-zone](../Categories/Comfort-zone.md) [Unknown](../Categories/Unknown.md)
 # Learn step by step
 
 Learn little by little.
@@ -32,5 +31,4 @@ To learn something is to Step outside the comfort zone. Is to explore the unknow
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Improvise](../Categories/Improvise.md) [Practice](../Categories/Practice.md) [Time](../Categories/Time.md) [Comfort-zone](../Categories/Comfort-zone.md) [Unknown](../Categories/Unknown.md)
+- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Improvise](../Categories/Improvise.md) [Practice](../Categories/Practice.md) [Time](../Categories/Time.md) [Comfort-zone](../Categories/Comfort-zone.md) [Unknown](../Categories/Unknown.md)

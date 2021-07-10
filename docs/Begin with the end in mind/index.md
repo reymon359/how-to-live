@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)
 # Begin with the end in mind
 
 Picture your ideal self, the type of person you would like to be. Once you have a clear idea about it, aim your life to reach it. When you are going to do something, think if doing it will help you become that person.
@@ -24,5 +23,4 @@ When you do something think if it will contributte to the goals you want to acco
 ## Related advices
 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
-
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Open mindedness](../Categories/Open%20mindedness.md) [Freedom](../Categories/Freedom.md)
 # Be independent
 
 Try to depend as little as possible on other people and things.
@@ -37,5 +36,4 @@ of those determined to be free.
 ## Related advices
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Open mindedness](../Categories/Open%20mindedness.md) [Freedom](../Categories/Freedom.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Open mindedness](../Categories/Open%20mindedness.md) [Freedom](../Categories/Freedom.md)

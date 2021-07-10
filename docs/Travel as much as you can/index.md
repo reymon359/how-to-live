@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md) [Travel](../Categories/Travel.md) [Adventures](../Categories/Adventures.md)
 # Travel as much as you can
 
 Few things will help you to open your mind, grow and learn in a way like traveling. If you have any opportunity to do it, go for it.
@@ -64,5 +63,4 @@ My own experience as a Digital Nomad. I feel how I grow and learn the more I tra
 - [Try new things](../Try%20new%20things/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Regret what you have done, not what you have not](../Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
-- [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md) [Travel](../Categories/Travel.md) [Adventures](../Categories/Adventures.md)
+- [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md) [Travel](../Categories/Travel.md) [Adventures](../Categories/Adventures.md)

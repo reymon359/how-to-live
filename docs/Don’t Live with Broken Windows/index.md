@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Software development](../Categories/Software%20development.md)
 # Don’t Live with Broken Windows
 
 Don’t Live with Broken Windows. Fix bad designs, wrong decisions, and poor code when you see them.
@@ -37,5 +36,4 @@ The problem is to make a mistake or doing something wrong and keep doing it whil
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
 - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
 - [Inbox zero](../Inbox%20zero/index.md)
-- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Software development](../Categories/Software%20development.md)
+- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Software development](../Categories/Software%20development.md)

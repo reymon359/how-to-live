@@ -1,4 +1,3 @@
-
 # You don't need their approval
 
 Think for yourself, what you want to do and what makes you happy.
@@ -42,4 +41,4 @@ I decided to use the name of Wayne Dyer's book Your Erroneous Zones's chapter 3 
 - [Dn't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
 - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
 
-
+<hr/><br/>

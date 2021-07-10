@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Growing](../Categories/Growing.md)
 # Create your own opinion of things
 
 The best way to know about something is to try it. This way you create your own opinion of it based on your experiences.
@@ -27,5 +26,4 @@ Never judge someone by the opinion of others.
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Growing](../Categories/Growing.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Growing](../Categories/Growing.md)

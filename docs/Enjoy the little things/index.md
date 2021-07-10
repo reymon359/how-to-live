@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Love](../Categories/Love.md) [Gratitude](../Categories/Gratitude.md)
 # Enjoy the little things
 
 Life is made by those little things and moments from day by day. A walk in the morning, a talk with a friend, a hug, a meal, a nap, etc.
@@ -24,5 +23,4 @@ Enjoy those details, they can seem meaningless, however, are the most important 
 - [Enjoy nature music](../Enjoy%20nature%20music/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Smile](../Smile/index.md)
-- [Pay attention](../Pay%20attention/index.md)
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Love](../Categories/Love.md) [Gratitude](../Categories/Gratitude.md)
+- [Pay attention](../Pay%20attention/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Love](../Categories/Love.md) [Gratitude](../Categories/Gratitude.md)

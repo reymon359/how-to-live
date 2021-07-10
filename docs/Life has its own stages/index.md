@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)
 # Life has its own stages
 
 You are not the same person as yesterday. And you can not expect to be the same as you were in the past or will be in the future. The things you do and like when you are 15 are not the same when you are 30. There are life stages and as we grow we pass through them.
@@ -27,5 +26,4 @@ A deep chat with a good friend (Pablo Llorca) made me realize about this.
 - [Embrace growing](../Embrace%20growing/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Be grateful](../Be%20grateful/index.md)
-- [Look for feedback](../Look%20for%20feedback/index.md)
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)
+- [Look for feedback](../Look%20for%20feedback/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)

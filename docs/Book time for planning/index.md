@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
 # Book time for planning
 
 Book time to plan. Try to plan your week before begining it booking time for it in the weekend. Even expend some minutes each evening to plan the next day.
@@ -32,5 +31,4 @@ Most of the problems and lack of time can be solved by planning your activities 
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-
-[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

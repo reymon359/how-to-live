@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open mindedness](../Categories/Open%20mindedness.md) [Help](../Categories/Help.md) [Empathy](../Categories/Empathy.md) [Communication](../Categories/Communication.md)
 # Practice empathy
 
 Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference, that is, the capacity to place oneself in another's position.
@@ -33,5 +32,4 @@ To understand others better, listen to them properly.
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md) 
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Emphathic listening](../Emphathic%20listening/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open mindedness](../Categories/Open%20mindedness.md) [Help](../Categories/Help.md) [Empathy](../Categories/Empathy.md) [Communication](../Categories/Communication.md)
+- [Respect others opinion](../Respect%20others%20opinion/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open mindedness](../Categories/Open%20mindedness.md) [Help](../Categories/Help.md) [Empathy](../Categories/Empathy.md) [Communication](../Categories/Communication.md)

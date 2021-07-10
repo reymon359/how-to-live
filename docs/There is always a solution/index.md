@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
 # There is always a solution
 
 There is always a solution or a better state of things to any problem.
@@ -17,5 +16,4 @@ Once you have a solution that works, try to improve it. Refactor it.
 
 - [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-- [Continuous refactor](../Continuous%20refactor/index.md)
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
+- [Continuous refactor](../Continuous%20refactor/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)

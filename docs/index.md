@@ -632,3 +632,4 @@ Each advice sections
 
  - [Categories](Categories/index.md)
     
+<br/><br/><br/><sub>Made with [Collman](https://github.com/reymon359/collman)<sub>

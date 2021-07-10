@@ -1,6 +1,8 @@
 # Respect
 
 
+ - [Amend](../Amend/index.md)
+    
  - [Apologize](../Apologize/index.md)
     
  - [Be empathetic](../Be%20empathetic/index.md)

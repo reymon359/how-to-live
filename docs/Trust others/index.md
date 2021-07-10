@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md) [Kindness](../Categories/Kindness.md)
 # Trust others
 
 When you don't know someone, trust them by default. Generally speaking, people won't do harm to you.
@@ -37,5 +36,4 @@ Throughout my travels, I have found myself in situations where local people open
 - [Learn to delegate](../Learn%20to%20delegate/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Give second chances](../Give%20second%20chances/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md) [Kindness](../Categories/Kindness.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md) [Kindness](../Categories/Kindness.md)

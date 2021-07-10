@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Openmindedness](../Categories/Openmindedness.md)
 # Nobody thinks the same way you do
 
 How boring would a world be where we all think the same way.
@@ -24,5 +23,4 @@ However, no matter their opinion and if you agree or not with it, you have to re
 ## Related advices
 
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Openmindedness](../Categories/Openmindedness.md)
+- [Open your mind](../Open%20your%20mind/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Openmindedness](../Categories/Openmindedness.md)

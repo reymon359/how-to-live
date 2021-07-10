@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md)
 # What you want is constantly changing
 
 It may sound pretty obvious, but sometimes it is hard to realize that we are constantly changing and growing, and our interests change as we do so.
@@ -37,5 +36,4 @@ Having a talk with my friend, Pablo Llorca, made me realize this in a deep way.
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Don't worry](../Don't%20worry/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md)

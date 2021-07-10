@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Read](../Categories/Read.md) [Attention](../Categories/Attention.md)
 # Read books
 
 Spend time reading books.
@@ -43,5 +42,4 @@ The act of reading is awesome, if you think about it, you are traveling to other
 - [Continuous learning](../Continuous%20learning/index.md)
 - [Try new things](../Try%20new%20things/index.md)
 - [Pay attention](../Pay%20attention/index.md)
-- [Put your phone down](../Put%20your%20phone%20down/index.md)
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Read](../Categories/Read.md) [Attention](../Categories/Attention.md)
+- [Put your phone down](../Put%20your%20phone%20down/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Read](../Categories/Read.md) [Attention](../Categories/Attention.md)

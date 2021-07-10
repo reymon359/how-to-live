@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md) [Integrity](../Categories/Integrity.md)
 # Take responsibility
 
 Take responsibility for what you do and what you commit to doing.
@@ -42,5 +41,4 @@ In addition, some books I read discussed responsibility and blaming, for example
 - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
-
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md) [Integrity](../Categories/Integrity.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md) [Integrity](../Categories/Integrity.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Choices](../Categories/Choices.md) [Open mindedness](../Categories/Open%20mindedness.md)
 # There is no black or white
 
 When making a decision, we tend to look for the good option because we don't want to fail or be wrong. However, the reality is that life is no black or white, there are no good or bad choices, just choices.
@@ -29,5 +28,4 @@ Wayne Dyer discuss this in The Right vs. Wrong Trap, from his book Your Erroneou
 
 - [Don't overthink](../Don't%20overthink/index.md)
 - [Take action](../Take%20action/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Choices](../Categories/Choices.md) [Open mindedness](../Categories/Open%20mindedness.md)
+- [Open your mind](../Open%20your%20mind/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Choices](../Categories/Choices.md) [Open mindedness](../Categories/Open%20mindedness.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Adaptation](../Categories/Adaptation.md) [Technology](../Categories/Technology.md) [Solutions](../Categories/Solutions.md)
 # Learn to adapt
 
 Life is continuously changing. Our environment, the people we interact with, even ourselves.
@@ -38,5 +37,4 @@ Adapt to the situation. Sometimes things suddenly change in the short term. For 
 - [Avoid complaining](../Avoid%20complaining/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Adaptation](../Categories/Adaptation.md) [Technology](../Categories/Technology.md) [Solutions](../Categories/Solutions.md)
+- [Be proactive](../Be%20proactive/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Adaptation](../Categories/Adaptation.md) [Technology](../Categories/Technology.md) [Solutions](../Categories/Solutions.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md) [Happiness](../Categories/Happiness.md)
 # Give and share with others
 
 Yes, sharing is caring. Have a look at what you have and be grateful for having it. Then share it with others that don't have it. It will make you and them happier.
@@ -31,5 +30,4 @@ Don't give and share just material things, you can share knowledge, stories, tim
 
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
 - [Offer your help](../Offer%20your%20help/index.md)
-
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md) [Happiness](../Categories/Happiness.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md) [Happiness](../Categories/Happiness.md)

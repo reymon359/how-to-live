@@ -1,4 +1,3 @@
-
 # Don't compare yourself with others
 
 Don't compare yourself with others, just with yourself.
@@ -34,4 +33,4 @@ Compare yourself with the person you were yesterday and with the person you are 
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
+- [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)<hr/><br/>

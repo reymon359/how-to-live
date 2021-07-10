@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Comfort zone](../Categories/Comfort%20zone.md) [Curiosity](../Categories/Curiosity.md) [Technology](../Categories/Technology.md) [Knowledge](../Categories/Knowledge.md) [Unknown](../Categories/Unknown.md)
 # Research to understand better
 
 When you don't understand something fully, research it.
@@ -37,5 +36,4 @@ When you don't have time to research something, note it down to do it later.
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Take notes](../Take%20notes/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Comfort zone](../Categories/Comfort%20zone.md) [Curiosity](../Categories/Curiosity.md) [Technology](../Categories/Technology.md) [Knowledge](../Categories/Knowledge.md) [Unknown](../Categories/Unknown.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Comfort zone](../Categories/Comfort%20zone.md) [Curiosity](../Categories/Curiosity.md) [Technology](../Categories/Technology.md) [Knowledge](../Categories/Knowledge.md) [Unknown](../Categories/Unknown.md)

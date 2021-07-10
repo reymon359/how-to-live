@@ -1,4 +1,3 @@
-
 # Don't give more importance to things than they already have
 
 This one is related to cause something unimportant to seem important.
@@ -23,4 +22,4 @@ Try to not overthink things and let them flow.
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
 - [Don't worry](../Don't%20worry/index.md)
 - [Fail with success](../Fail%20with%20success/index.md)
-
+<hr/><br/>

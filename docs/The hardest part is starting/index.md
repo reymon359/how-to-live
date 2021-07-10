@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md) [Motivation](../Categories/Motivation.md)
 # The hardest part is starting
 
 There is a big difference between planning and actually getting started with something.
@@ -36,5 +35,4 @@ Do not wait for motivation to do things. Take action, and the motivation will co
 - [Be proactive](../Be%20proactive/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
-- [Take action](../Take%20action/index.md)
-[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md) [Motivation](../Categories/Motivation.md)
+- [Take action](../Take%20action/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md) [Motivation](../Categories/Motivation.md)

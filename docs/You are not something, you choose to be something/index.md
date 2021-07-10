@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Proactivity](../Categories/Proactivity.md) [Goals](../Categories/Goals.md)
 # You are not something, you choose to be something
 
 Take the initiative and responsibility to change and improve the situation.
@@ -35,5 +34,4 @@ Also, Wayne Dyer did too in Your Erroneous Zones's chapter 4 Breaking Free From 
 
 - [Be proactive](../Be%20proactive/index.md)
 - [Take action](../Take%20action/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-[Categories:](../Categories/index.md) [Proactivity](../Categories/Proactivity.md) [Goals](../Categories/Goals.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Proactivity](../Categories/Proactivity.md) [Goals](../Categories/Goals.md)

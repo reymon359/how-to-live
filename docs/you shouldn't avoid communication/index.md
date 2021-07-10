@@ -1,4 +1,3 @@
-
 # You shouldn't avoid communication
 
 We, as humans, need to communicate with each other to understand ourselves.
@@ -39,4 +38,4 @@ Stephen Covey’s book The 7 Habits of Highly Effective People discuss the commu
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Emphatic listening](../Emphathic%20listening/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)
+- [Continuous learning](../Continuous%20learning/index.md)<hr/><br/>

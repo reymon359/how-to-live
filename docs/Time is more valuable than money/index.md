@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md) [Time](../Categories/Time.md) [Happiness](../Categories/Happiness.md)
 # Time is more valuable than money
 
 Always think if the time you are going to spend doing something is worth the money you will get from it.
@@ -26,5 +25,4 @@ Sometimes trying to sell something is not worth the time you will get from the i
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
 
 
-
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md) [Time](../Categories/Time.md) [Happiness](../Categories/Happiness.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md) [Time](../Categories/Time.md) [Happiness](../Categories/Happiness.md)

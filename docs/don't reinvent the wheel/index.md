@@ -1,4 +1,3 @@
-
 # Don't reinvent the wheel
 
 The first thing you should do when you have an idea or are looking for a solution is research. Check if that idea or a similar one already exists. Research and ask for help to see if there is already a solution for your issue.
@@ -16,4 +15,4 @@ You will save an enormous quantity of time and effort.
 ## Related advices
 
 - [Don't overthink](../Don't%20overthink/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
+- [Research to understand better](../Research%20to%20understand%20better/index.md)<hr/><br/>

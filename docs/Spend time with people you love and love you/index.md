@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)
 # Spend time with people you love and love you
 
 Family, friends, loved ones. In the end, the time we spend with them is the most enjoyable
@@ -33,5 +32,4 @@ Take care of your relationship with them. Spend time in person or in the distanc
 - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
 - [Book leisure time](../Book%20leisure%20time/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)

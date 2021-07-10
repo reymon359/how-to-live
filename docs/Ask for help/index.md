@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Help](../Categories/Help.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Honesty](../Categories/Honesty.md) [Modesty](../Categories/Modesty.md) [Integrity](../Categories/Integrity.md)
 # Ask for help
 
 When you can not do something, ask for help. There is nothing wrong with recognizing our limits.
@@ -28,5 +27,4 @@ The more I am in team situations, the better I get at this. I learned soon that 
 - [Offer your help](../Offer%20your%20help/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
-
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Help](../Categories/Help.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Honesty](../Categories/Honesty.md) [Modesty](../Categories/Modesty.md) [Integrity](../Categories/Integrity.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Help](../Categories/Help.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Honesty](../Categories/Honesty.md) [Modesty](../Categories/Modesty.md) [Integrity](../Categories/Integrity.md)

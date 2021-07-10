@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Exercise](../Categories/Exercise.md) [Little things](../Categories/Little%20things.md)
 # Exercise frequently
  
 Your body is your only way to communicate with the world. Take care of it to enjoy life fully.
@@ -45,5 +44,4 @@ This topic is referenced in the chapter "7 - Sharpen the Saw" from the Stephen R
 - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
 - [Listen to our body](../Listen%20to%20your%20body/index.md)
 - [Eat healthy](../Eat%20healthy/index.md)
-- [Drink enough water](../Drink%20enough%20water/index.md)
-[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Exercise](../Categories/Exercise.md) [Little things](../Categories/Little%20things.md)
+- [Drink enough water](../Drink%20enough%20water/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Exercise](../Categories/Exercise.md) [Little things](../Categories/Little%20things.md)

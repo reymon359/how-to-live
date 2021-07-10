@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Optimization](../Categories/Optimization.md) [Improvement](../Categories/Improvement.md) [Minimalism](../Categories/Minimalism.md)
 # Optimize your stuff
 
 Optimizing your stuff means that what you have is what you need. No extra stuff or unnecessary items.
@@ -23,5 +22,4 @@ Don't only focus on things, but on goals, habits, work, etc.
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
 - [Continuous refactor](../Continuous%20refactor/index.md)
 
-
-[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Optimization](../Categories/Optimization.md) [Improvement](../Categories/Improvement.md) [Minimalism](../Categories/Minimalism.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Optimization](../Categories/Optimization.md) [Improvement](../Categories/Improvement.md) [Minimalism](../Categories/Minimalism.md)

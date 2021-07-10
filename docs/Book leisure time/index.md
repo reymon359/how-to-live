@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Leisure](../Categories/Leisure.md) [Happiness](../Categories/Happiness.md) [Stress](../Categories/Stress.md) [Health](../Categories/Health.md)
 # Book leisure time
 
 Book leisure time to relax and do things alone or with friends.
@@ -37,5 +36,4 @@ Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effect
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
-
-[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Leisure](../Categories/Leisure.md) [Happiness](../Categories/Happiness.md) [Stress](../Categories/Stress.md) [Health](../Categories/Health.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Leisure](../Categories/Leisure.md) [Happiness](../Categories/Happiness.md) [Stress](../Categories/Stress.md) [Health](../Categories/Health.md)

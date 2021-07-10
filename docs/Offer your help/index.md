@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)
 # Offer your help
 
 Always offer to help others. Be there for them.
@@ -28,5 +27,4 @@ When I help someone and see how they are better after something I did, that make
 ## Related advices
 
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
-
-[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)

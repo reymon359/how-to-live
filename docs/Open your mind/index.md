@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)
 # Open your mind
 
 This one is one of the most important ones in my opinion.
@@ -36,5 +35,4 @@ Traveling will help you too to open your mind. Experiencing different cultures a
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
 - [Step outside the comfort ozone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Respect others opinion](../Respect%20others%20opinion/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)

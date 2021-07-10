@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Time management](../Categories/Time%20management.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Goals](../Categories/Goals.md)
 # Manage the time you have
 
 Time is the only resource finite we have. It is probably the most valuable one. Take advantage of it, managing it properly. Some priorities and benefits would be:
@@ -42,5 +41,4 @@ Spend time planning your time, forgive the redundancy. Book a bit of time each d
 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Time is more valuable than money](../Time%20is%20more%20valuable%20than%20money/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-[Categories:](../Categories/index.md) [Time management](../Categories/Time%20management.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Goals](../Categories/Goals.md)
+- [Book leisure time](../Book%20leisure%20time/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time management](../Categories/Time%20management.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Goals](../Categories/Goals.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md)
 # Have ownership of what you do
 
 If you do or create something take care of it. If it goes well make sure it keeps going that way and improve it. If it goes bad be resposible and solve it.
@@ -23,5 +22,4 @@ If you commit to something be responsible with that commitment and fulfill it.
 
 ## Related advices
 
--[Take responsibility](../Take%20responsibility/index.md) 
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md)
+-[Take responsibility](../Take%20responsibility/index.md) <hr/><br/>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md)

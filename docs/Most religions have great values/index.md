@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open minded](../Categories/Open%20minded.md)
 # Most religions have great values
 
 No matter in what you believe, respect what others believe in.
@@ -26,5 +25,4 @@ You don't need to believe in some religion, just be open-minded and respect it. 
 - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
-
-[Categories:](../Categories/index.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open minded](../Categories/Open%20minded.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open minded](../Categories/Open%20minded.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
 # Don’t feel bad about making mistakes
  
 Learn from mistakes. Don’t feel bad about making them, instead, feel good because the next time you will know better how to act in that situation.
@@ -37,5 +36,4 @@ There is always a solution. Find the best one and apply it.
 - [Fail with success](../Fail%20with%20success/index.md)
 - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
 - [There is always a solution](../../docs/There%20is%20always%20a%20solution/index.md)
-
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md)

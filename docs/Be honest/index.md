@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)
 # Be honest
 
 Always go with the truth.
@@ -39,5 +38,4 @@ When you are honest with someone you build trust with them.
 
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [you shouldn't avoid communication](you%20shouldn't%20avoid%20communication/index.md)
-
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md)

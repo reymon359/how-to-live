@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Success](../Categories/Success.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Growing](../Categories/Growing.md)
 # Fail with success
 
 Each failure is an opportunity to learn from the mistakes made, leading to success. Society expects us not to fail, however, we have to fail to succeed.
@@ -31,5 +30,4 @@ Be responsible for what you have done, even if it was a mistake. If you did some
 - [Don't worry](../Don't%20worry/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Have owner](../Have%20ownership%20of%20what%20you%20do/index.md)
-
-[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Success](../Categories/Success.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Growing](../Categories/Growing.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Success](../Categories/Success.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Growing](../Categories/Growing.md)

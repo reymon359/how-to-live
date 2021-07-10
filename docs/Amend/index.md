@@ -1,11 +1,12 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)
 # Amend
 
-It is never too late to amend the mistakes of the past.
+It is never too late to amend a mistake from the past.
 
 There is always a way to amend wrong things.
 
-If you do something wrong to someone, apologize and try to amend it.
+If you do something wrong to someone, apologize and try to amend it the best way possible.
+
+We all make mistakes, it's ok. Just learn from them and amend what can be amended.
 
 ## Quotes
 
@@ -19,4 +20,4 @@ If you do something wrong to someone, apologize and try to amend it.
 
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Apologize](../Apologize/index.md)
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)
+- [There is always a solution](../There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md) [Respect](../Categories/Respect.md)

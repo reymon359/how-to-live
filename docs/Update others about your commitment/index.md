@@ -1,4 +1,3 @@
-
 ---
 name: 'Update others about your commitment'
 Categories: ['Respect', 'Communication','Integrity', 'Truth', 'Trust', 'Honesty']
@@ -35,4 +34,4 @@ The Clean Coder by Robert C. Martin discusses this topic.
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Be honest](../Be%20honest/index.md)
-
+<hr/><br/>

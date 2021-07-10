@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
 # Continuous refactor
 
 Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design.
@@ -25,5 +24,4 @@ Each day think what can you do tomorrow that can improve your life? Then write i
 - [Review your Goals](../Review%20your%20Goals/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [First make it work, then refactor](../First%20make%20it%20work,%20then%20refactor/index.md)
-
-[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)

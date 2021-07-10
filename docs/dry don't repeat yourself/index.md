@@ -1,4 +1,3 @@
-
 # DRY Don't repeat yourself
 
 This one comes from Software Development.
@@ -29,4 +28,4 @@ This also works in life too, for example do not have extra items if you do not n
 
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-
+<hr/><br/>

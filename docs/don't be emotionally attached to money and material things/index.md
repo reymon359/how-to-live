@@ -1,4 +1,3 @@
-
 # Don't be emotionally attached to money and material things
 
 When money is your ideal, of course you won’t like spending it — it’s the thing you’re working for!  But when money is not your ultimate goal, you recognize that money is easily replaceable.  A dollar I make today is the same as a dollar I make tomorrow.
@@ -23,4 +22,4 @@ The less attached emotionally to things you are, the happier you will be.
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
 - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
+- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)<hr/><br/>

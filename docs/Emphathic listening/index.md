@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md) [Open-mindedness](../Categories/Open-mindedness.md)
 # Emphathic listening
 
 Emphathic listening is about listening with your eyes and with your heart. Listen to understand not only what is being said but the feelings and meaning of it.
@@ -36,5 +35,4 @@ It is also called active listening or reflective listening.
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Ask questions](../Ask%20questions/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md) [Open-mindedness](../Categories/Open-mindedness.md)

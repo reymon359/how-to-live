@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)
 # Respect others beliefs
 
 We all live in the same planet but have born in different societies with different religions and cultures.
@@ -33,5 +32,4 @@ Traveling and living in other ocuntries made me grow a lot in this aspect.
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Don't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
 - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Standards](../Categories/Standards.md) [Community](../Categories/Community.md) [Open-mindedness](../Categories/Open-mindedness.md)
 # When in doubt, follow standards
 
 The society we live nowadays has not been always like this. Not so long ago, in human history, the world was much unsafe. It still is in some parts of it. Thanks to civilization and having standards, humanity has reached the stability with which most of us currently live.
@@ -24,5 +23,4 @@ We had a great discussion with my Master's Degree teacher Luis Fernandez Muñoz 
 ## Related advices
 
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
-[Categories:](../Categories/index.md) [Standards](../Categories/Standards.md) [Community](../Categories/Community.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Research to understand better](../Research%20to%20understand%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Standards](../Categories/Standards.md) [Community](../Categories/Community.md) [Open-mindedness](../Categories/Open-mindedness.md)

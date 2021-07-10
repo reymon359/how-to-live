@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Open mindedness'](../Categories/Open%20mindedness'.md)
 # The rule of holes
 
 The Rule of Holes simply states that: When you are in one, stop digging.
@@ -26,5 +25,4 @@ I read about this rule on the Clean Coder from Robert C. Martin. Among other top
 Almost every bad habit that should be avoided is related to this one.
 
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
-- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)
-[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Open mindedness'](../Categories/Open%20mindedness'.md)
+- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Open mindedness'](../Categories/Open%20mindedness'.md)

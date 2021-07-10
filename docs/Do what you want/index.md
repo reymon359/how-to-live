@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)
 # Do what you want
 
 If you really want to do something, just do it.
@@ -42,5 +41,4 @@ Pay attention to frustration, if you feel frustrated it may mean you are in a si
 - [Respect others opinion](../Respect%20others%20pinion/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)

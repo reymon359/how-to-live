@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md) [Simplicity](../Categories/Simplicity.md) [Dependencies](../Categories/Dependencies.md) [Minimalism](../Categories/Minimalism.md)
 # The simpler the better
 
 When you are facing a problem, look for the simplest solution for it.
@@ -42,5 +41,4 @@ Learning software development, I came across the  KISS principle — Keep It Sim
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Remove dependencies](../Remove%20dependencies/index.md)
-- [Don't overthink](../Don't%20overthink/index.md)
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md) [Simplicity](../Categories/Simplicity.md) [Dependencies](../Categories/Dependencies.md) [Minimalism](../Categories/Minimalism.md)
+- [Don't overthink](../Don't%20overthink/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md) [Simplicity](../Categories/Simplicity.md) [Dependencies](../Categories/Dependencies.md) [Minimalism](../Categories/Minimalism.md)

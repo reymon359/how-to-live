@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
 # Focus on solutions, not problems
 
 When you have a problem in life, don't get blocked by it. Avoid complaining about it and blaming people. Don't look for someone to blame, look for a solution.
@@ -31,5 +30,4 @@ Looking for a solution is being proactive, taking action instead of waiting for 
 - [Avoid complaining](../Avoid%20complaining/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
 - [Don't worry](../Don't%20worry/index.md)
-
-[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)

@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
 # Actions speak louder than words
 
 What you do and how you act is more important than what you say.
@@ -25,5 +24,4 @@ I think the first time thought about this was when I saw it as a child printed i
 ## Related advices
 
 - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
-- [Be honest](../Be%20honest/index.md)
-[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+- [Be honest](../Be%20honest/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

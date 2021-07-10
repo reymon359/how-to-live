@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
 # Smile
 
 Just smile.
@@ -38,5 +37,4 @@ Smile and be grateful for what you have.
 ## Related advices
 
 - [Be grateful](../Be%20grateful/index.md)
-
-[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

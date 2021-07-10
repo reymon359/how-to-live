@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Helping](../Categories/Helping.md)
 # Give second chances
 
 Giving a second chance means to forgive.
@@ -29,5 +28,4 @@ If you get a second chance for something, do not waste it.
 
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
-
-[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Helping](../Categories/Helping.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Helping](../Categories/Helping.md)

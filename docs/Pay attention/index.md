@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Social Media](../Categories/Social%20Media.md)
 # Pay attention
 
 What you pay attention to is what will you grow about. If you pay attention to football watching matches or reading news about it you will grow in football. Your knowledge will increase, you will reach to other people interested in the topic, you will look for more info about it and will spend more and more time on the topic.
@@ -35,5 +34,4 @@ This article really made me think about this topic https://mythirdbrain.substack
 
 - [Practice Mindfulness](../Practice%20Mindfulness/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
-- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)
-[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Social Media](../Categories/Social%20Media.md)
+- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Social Media](../Categories/Social%20Media.md)

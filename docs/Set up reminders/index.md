@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
 # Set up reminders
 
 We have a memory limit. We can not remember everything we have to do and all the important things, It's impossible.
@@ -33,5 +32,4 @@ I learned this by myself. I can say I am addicted to set up reminders to keep up
 
 - [Review your goals](../Review%20your%20Goals/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)
-[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

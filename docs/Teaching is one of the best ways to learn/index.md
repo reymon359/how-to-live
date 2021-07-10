@@ -1,4 +1,3 @@
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Help](../Categories/Help.md) [Communication](../Categories/Communication.md) [Education](../Categories/Education.md)
 # Teaching is one of the best ways to learn
 
 When you are teaching, you get to help others while you improve yourself.
@@ -47,5 +46,4 @@ When I began writing articles, making tutorials, giving talks, or just explainin
 
 - [Offer your help](../Offer%20your%20help/index.md)
 - [Continuous learning](../Continuous%20learning/index.md)
-
-[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Help](../Categories/Help.md) [Communication](../Categories/Communication.md) [Education](../Categories/Education.md)
+<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Help](../Categories/Help.md) [Communication](../Categories/Communication.md) [Education](../Categories/Education.md)
