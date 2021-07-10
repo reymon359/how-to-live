@@ -9,6 +9,8 @@
     
  - [Ask for help](../Ask%20for%20help/index.md)
     
+ - [Avoid complaining](../Avoid%20complaining/index.md)
+    
  - [Be honest](../Be%20honest/index.md)
     
  - [Be punctual](../Be%20punctual/index.md)

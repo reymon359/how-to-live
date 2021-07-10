@@ -1,18 +1,18 @@
 # Avoid complaining
 
-To complain is a waste of time. If you don't like something, do something to change that situation.
+To complain is a waste of time. If you don't like your situation, do something to change it. Adapt to it.
 
-Just complaining won't make things better. When you complain, you look for people’s attention by feeling pity and making others worry about you.
+Just complaining won't make things better. When you complain, sometimes you are just looking for people’s attention by feeling pity and making others worry about you.
 
-Self-love means accepting yourself as a worthy person because you choose to do so. Acceptance also means an absence of complaint.
+Self-love means accepting yourself as a worthy person because you choose to do so. Acceptance also means an absence of complaining.
 
-Fully functioning people never complain.
-
-Happiness means no complaining about the things over which you can do nothing.
+One of the meanings of happiness it to not complain about the things you can do nothing about.
 
 Complaining is the refuge of those who have no self-reliance.
 
 Do not look for excuses in the face of difficulties to avoid the problem. Evading is not solving. Change your thought "it can't be done", to "How can I do it?".
+
+To complain is to be reactive. Instead, be proactive.
 
 ## Quotes
 
@@ -27,12 +27,14 @@ Do not look for excuses in the face of difficulties to avoid the problem. Evadin
 > “If you have time to whine and complain about something then you have the time to do something about it.” ―  Anthony J. D’Angelo
 
 > If you want the world to change, don’t complain about it. Do something. ― Wayne Dyer
+
 ## Resources and credits
 
-- Your Erroneous Zones. Wayne Dyer - 1976
+Your Erroneous Zones from Wayne Dyer discussed this topic.
 
 ## Related advices
 
 - [Take action](../Take%20action/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+- [Learn to adapt](../Learn%20to%20adapt/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md)

@@ -4,7 +4,7 @@ Asking questions is the best way to communicate and get to know someone.
 
 The more you ask, the more you will know about an issue. Ask questions until you have no doubts and everything is clear. This way you will find a solution easier.
 
-Don’t be afraid to ask questions when you don’t understand something. There is nothing to be ashamed of.
+Don’t be afraid to ask questions when you don’t understand something.
 
 Listen properly to the answer. This mean to pay as much attention you can to it. The better you listen, the more you will understand. Don't be afraid to ask more than once if you didn't understand something.
 
@@ -22,7 +22,7 @@ Listen properly to the answer. This mean to pay as much attention you can to it.
 
 ## Resources and credits
 
-Stephen Covey’s book The 7 Habits of Highly Effective People discusses the communication topic, asking questions and listening.
+Stephen Covey’s book The 7 Habits of Highly Effective People discuss the communication topic, asking questions and listening.
 
 ## Related advices
 
