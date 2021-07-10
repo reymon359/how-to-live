@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Happiness](../Categories/Happiness.md) [Planning](../Categories/Planning.md) [Mental health](../Categories/Mental%20health.md)
 # Let it flow
 
 This one is about feeling calm and not worrying. It is key when facing most problems in life. There are things that we can not control or predict, and it is not worth it to worry about them.
@@ -35,4 +36,5 @@ Moroccan people that taught me _Insha'Allah_
 - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Be grateful](../Be%20grateful/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Happiness](../Categories/Happiness.md) [Planning](../Categories/Planning.md) [Mental health](../Categories/Mental%20health.md)
+- [Learn to adapt](../Learn%20to%20adapt/index.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Happiness](../Categories/Happiness.md) [Planning](../Categories/Planning.md) [Mental health](../Categories/Mental%20health.md)

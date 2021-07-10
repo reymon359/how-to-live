@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)
 # Set up Social Goals too
 
 Don't focus only in career goals.
@@ -30,4 +31,5 @@ The Stephen R. Covey book: The 7 Habits of Highly Effective People speak about t
 
 - [Set up reminders](../Set%20up%20reminders/index.md)
 - [Set up goals](../Set%20up%20Goals/index.md)
-- [Review your Goals](../Review%20your%20Goals/index.md)<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)
+- [Review your Goals](../Review%20your%20Goals/index.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)

@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
 # If you commit to something or someone, fulfill it
 
 When you commit to something, you are making a promise. A promise that you will do it.
@@ -34,4 +35,5 @@ Communicate, update often the other person about your commitment. No matter if i
 - [Be honest](../Be%20honest/index.md)
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
-<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

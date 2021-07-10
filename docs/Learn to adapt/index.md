@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Adaptation](../Categories/Adaptation.md) [Technology](../Categories/Technology.md) [Solutions](../Categories/Solutions.md)
 # Learn to adapt
 
 Life is continuously changing. Our environment, the people we interact with, even ourselves.
@@ -30,9 +31,12 @@ Adapt to the situation. Sometimes things suddenly change in the short term. For 
 
 > In our personal and professional lives, we are constantly hit with one adversity after the other, most of which we have no control over. But the four things we have total control over is how we react, how we adapt, how we breathe, and how we take action. ― Diamond Dallas Page
 
+> "When you're finished changing, you're finished." ― Ben Franklin
+
 ## Related advices
 
 - [Avoid complaining](../Avoid%20complaining/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
-- [Be proactive](../Be%20proactive/index.md)<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Adaptation](../Categories/Adaptation.md) [Technology](../Categories/Technology.md) [Solutions](../Categories/Solutions.md)
+- [Be proactive](../Be%20proactive/index.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Adaptation](../Categories/Adaptation.md) [Technology](../Categories/Technology.md) [Solutions](../Categories/Solutions.md)

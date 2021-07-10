@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)
 # Say thank you to everything
 
 TODO: Pass translator again here
@@ -34,4 +35,5 @@ Adrian Ferrera inspired me to do this. He always thanked back anyone. No matter 
 ## Related advices
 
 - [Be grateful](../Be%20grateful/index.md)
-<br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)
+
+[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)

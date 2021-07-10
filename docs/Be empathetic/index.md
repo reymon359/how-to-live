@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Help](../Categories/Help.md)
 # Be empathetic
 
 Empathy is the ability to understand and share the feelings of another person.
@@ -21,4 +22,5 @@ Show care and concern. Try to understand how they may be feeling. Be kind to the
 - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
 - [Offer your help](../Offer%20your%20help/index.md)  
 - [Open your mind](../Open%20your%20mind/index.md)
-<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Help](../Categories/Help.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Help](../Categories/Help.md)

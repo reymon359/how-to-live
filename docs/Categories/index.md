@@ -3,6 +3,8 @@
 
  - [Adaptation](../Categories/Adaptation.md)
     
+ - [Adventures](../Categories/Adventures.md)
+    
  - [Asking](../Categories/Asking.md)
     
  - [Attention](../Categories/Attention.md)
@@ -12,6 +14,8 @@
  - [Believing](../Categories/Believing.md)
     
  - [Change](../Categories/Change.md)
+    
+ - [Choices](../Categories/Choices.md)
     
  - [Comfort zone](../Categories/Comfort%20zone.md)
     
@@ -24,6 +28,8 @@
  - [Curiosity](../Categories/Curiosity.md)
     
  - [Dependencies](../Categories/Dependencies.md)
+    
+ - [Distractions](../Categories/Distractions.md)
     
  - [Education](../Categories/Education.md)
     
@@ -67,6 +73,10 @@
     
  - [Integrity](../Categories/Integrity.md)
     
+ - [Justice](../Categories/Justice.md)
+    
+ - [Kindness](../Categories/Kindness.md)
+    
  - [Knowledge](../Categories/Knowledge.md)
     
  - [Learning](../Categories/Learning.md)
@@ -102,6 +112,8 @@
  - [Music](../Categories/Music.md)
     
  - [Nature](../Categories/Nature.md)
+    
+ - [Networking](../Categories/Networking.md)
     
  - [Nutrition](../Categories/Nutrition.md)
     
@@ -155,11 +167,15 @@
     
  - [Responsibility](../Categories/Responsibility.md)
     
+ - [Simplicity](../Categories/Simplicity.md)
+    
  - [Sleep](../Categories/Sleep.md)
     
  - [Social](../Categories/Social.md)
     
  - [Social Media](../Categories/Social%20Media.md)
+    
+ - [Social media](../Categories/Social%20media.md)
     
  - [Software](../Categories/Software.md)
     

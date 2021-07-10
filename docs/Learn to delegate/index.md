@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Growing](../Categories/Growing.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
 # Learn to delegate
 
 Sometimes in life, you will find some things that need to be done. If you are not responsible for doing something, delegate it to whom is.
@@ -29,4 +30,5 @@ When you delegate, make sure the person that will be in charge understands the s
 - [Be honest](../Be%20honest/index.md)
 - [Trust others](../Trust%20others/index.md)
 - [Offer your help](../Offer%20your%20help/index.md)
-<br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Growing](../Categories/Growing.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Growing](../Categories/Growing.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

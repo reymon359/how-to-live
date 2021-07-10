@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mindfulness](../Categories/Mindfulness.md)
 # Listen to your body
 
 Our bodies have evolved to give us signals to take care of it. If you are hungry, eat. If you are tired, rest. And the opposite, for example if you are no longer hungry don't keep eating.
@@ -18,4 +19,5 @@ Your mind is part of your body, therefore listen to it too.
 
 - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
 - [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
-- [Be kind to yourself](../Be%20kind%20to%20yourself%20and%20others/index.md)<br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mindfulness](../Categories/Mindfulness.md)
+- [Be kind to yourself](../Be%20kind%20to%20yourself%20and%20others/index.md)
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mindfulness](../Categories/Mindfulness.md)

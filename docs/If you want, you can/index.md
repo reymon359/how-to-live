@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)
 # If you want, you can
 
 If you really want to do something, there is always a way.
@@ -36,4 +37,5 @@ When talking to people, they sometimes tell me about something they want to do o
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
-<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)
+
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)

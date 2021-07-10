@@ -1,3 +1,4 @@
+
 # Don't judge the whole by the part
 
 You cannot judge a group by one person from it.
@@ -18,4 +19,4 @@ This also goes with other things, just because you have visited a city from a co
 
 - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)<br/>
+- [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)

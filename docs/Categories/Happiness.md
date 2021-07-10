@@ -19,6 +19,8 @@
     
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
+ - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
+    
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
  - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -61,5 +63,5 @@
     
  - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
     
- - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
+ - [Time is more valuable than money](../Time%20is%20more%20valuable%20than%20money/index.md)
     

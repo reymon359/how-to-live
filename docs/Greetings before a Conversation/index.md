@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)
 # Greetings before a Conversation
 
 Always begin a conversation greeting the participants.
@@ -26,4 +27,5 @@ When you ask about how the other feels, listen emphatically to them. Understand 
 - [Ask questions](../Ask%20questions/index.md)
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Emphatic Listening](../Emphathic%20listening/index.md)
-<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)
+
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Respect](../Categories/Respect.md)

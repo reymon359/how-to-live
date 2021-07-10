@@ -1,7 +1,5 @@
 
  - Content: advices
-     - [ Keep in touch with people that matter to you](Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
-        
      - [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)
         
      - [Amend](Amend/index.md)
@@ -42,6 +40,8 @@
         
      - [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
         
+     - [Choose your problems](Choose%20your%20problems/index.md)
+        
      - [Connect with others](Connect%20with%20others/index.md)
         
      - [Continuous learning](Continuous%20learning/index.md)
@@ -52,9 +52,13 @@
         
      - [Discover new music](Discover%20new%20music/index.md)
         
+     - [Do networking](Do%20networking/index.md)
+        
      - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
         
      - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
+        
+     - [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
         
      - [Do what you want](Do%20what%20you%20want/index.md)
         
@@ -123,6 +127,10 @@
      - [If you want, you can](If%20you%20want,%20you%20can/index.md)
         
      - [Inbox zero](Inbox%20zero/index.md)
+        
+     - [Keep in touch with people that matter to you](Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
+        
+     - [Keep the focus](Keep%20the%20focus/index.md)
         
      - [Keep track of your Goals](Keep%20track%20of%20your%20Goals/index.md)
         
@@ -252,7 +260,7 @@
         
      - [Try new things](Try%20new%20things/index.md)
         
-     - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+     - [We teach others how to treat us. ](We%20teach%20others%20how%20to%20treat%20us./index.md)
         
      - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
         
@@ -294,6 +302,8 @@
         
      - [relativize, don't generalize](relativize,%20don't%20generalize/index.md)
         
+     - [update others about your commitment](update%20others%20about%20your%20commitment/index.md)
+        
      - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
         
      - [you shouldn't avoid communication](you%20shouldn't%20avoid%20communication/index.md)
@@ -303,6 +313,8 @@
 
  - Categories
      - [Adaptation](../Categories/Adaptation.md)
+        
+     - [Adventures](../Categories/Adventures.md)
         
      - [All](Categories/index.md)
         
@@ -316,6 +328,8 @@
         
      - [Change](../Categories/Change.md)
         
+     - [Choices](../Categories/Choices.md)
+        
      - [Comfort zone](../Categories/Comfort%20zone.md)
         
      - [Comfort-zone](../Categories/Comfort-zone.md)
@@ -327,6 +341,8 @@
      - [Curiosity](../Categories/Curiosity.md)
         
      - [Dependencies](../Categories/Dependencies.md)
+        
+     - [Distractions](../Categories/Distractions.md)
         
      - [Education](../Categories/Education.md)
         
@@ -370,6 +386,10 @@
         
      - [Integrity](../Categories/Integrity.md)
         
+     - [Justice](../Categories/Justice.md)
+        
+     - [Kindness](../Categories/Kindness.md)
+        
      - [Knowledge](../Categories/Knowledge.md)
         
      - [Learning](../Categories/Learning.md)
@@ -405,6 +425,8 @@
      - [Music](../Categories/Music.md)
         
      - [Nature](../Categories/Nature.md)
+        
+     - [Networking](../Categories/Networking.md)
         
      - [Nutrition](../Categories/Nutrition.md)
         
@@ -458,11 +480,15 @@
         
      - [Responsibility](../Categories/Responsibility.md)
         
+     - [Simplicity](../Categories/Simplicity.md)
+        
      - [Sleep](../Categories/Sleep.md)
         
      - [Social](../Categories/Social.md)
         
      - [Social Media](../Categories/Social%20Media.md)
+        
+     - [Social media](../Categories/Social%20media.md)
         
      - [Software](../Categories/Software.md)
         

@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)
 # Money is a means, not an end
 
 Money alone is worthless.
@@ -38,4 +39,5 @@ Money often costs too much. - Ralph Waldo Emerson
 
 - [Don't be emotionally attached to money and material things](../Don't%20be%20emotionally%20attached%20to%20money%20and%20material%20things/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-<br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)
+
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md)

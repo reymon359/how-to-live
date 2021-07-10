@@ -1,3 +1,4 @@
+
 # Don't waste time on social media
 
 You don't have to avoid all social media. When used the right way, social media is a nice way to keep in contact with the people we love.
@@ -23,4 +24,4 @@ The issue is when you waste your time browsing stuff that doesn't bring you anyt
 - [Avoid the phone when going to sleep](../Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
 - [Put your phone down](../Put%20your%20phone%20down/index.md)
-<br/>
+

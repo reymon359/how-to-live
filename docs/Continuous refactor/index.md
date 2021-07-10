@@ -1,8 +1,11 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
 # Continuous refactor
 
 Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design.
 
 In a continuous way, refactor your life mercilessly. Every time think of what can you improve in your life. This way, little by little, you get better and better.
+
+Each day think what can you do tomorrow that can improve your life? Then write it down and apply it the next day. Improve your life little by little.
 
 ## Quotes
 
@@ -22,4 +25,5 @@ In a continuous way, refactor your life mercilessly. Every time think of what ca
 - [Review your Goals](../Review%20your%20Goals/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [First make it work, then refactor](../First%20make%20it%20work,%20then%20refactor/index.md)
-<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Refactor](../Categories/Refactor.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)

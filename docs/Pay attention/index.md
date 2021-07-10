@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Social Media](../Categories/Social%20Media.md)
 # Pay attention
 
 What you pay attention to is what will you grow about. If you pay attention to football watching matches or reading news about it you will grow in football. Your knowledge will increase, you will reach to other people interested in the topic, you will look for more info about it and will spend more and more time on the topic.
@@ -7,6 +8,10 @@ Be careful about what you decide to pay attention to.
 When you are doing something, pay attention to it to experience it in its fullness. For example, if you are eating something, pay attention to its taste and textures.
 
 Open your mind, be careful with the social media world and where they try to move your attention.
+
+Exercise Mindfulness. It is the practice of purposely bringing one's attention to the present moment.
+
+Pay attention to the smallest details. Be careful with what you do and try not to leave things to chance.
 
 ## Quotes
 
@@ -30,4 +35,5 @@ This article really made me think about this topic https://mythirdbrain.substack
 
 - [Practice Mindfulness](../Practice%20Mindfulness/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
-- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)<br/>[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Social Media](../Categories/Social%20Media.md)
+- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)
+[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Social Media](../Categories/Social%20Media.md)

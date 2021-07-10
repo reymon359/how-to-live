@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Open-mindness](../Categories/Open-mindness.md)
 # Discover new music
 
 Explore new music.
@@ -24,4 +25,5 @@ You may listen things you didn't even imagine.
 ## Related advices
 
 - [Listen to music](../Listen%20to%20music/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Open-mindness](../Categories/Open-mindness.md)
+- [Open your mind](../Open%20your%20mind/index.md)
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Open-mindness](../Categories/Open-mindness.md)

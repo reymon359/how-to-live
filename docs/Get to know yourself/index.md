@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md)
 # Get to know yourself
 
 This one is a tough one. Therefore, don't expect to achieve it in an easy way. It will take a lot of time.
@@ -36,4 +37,5 @@ One of the best ways to get to know yourself is to spend time alone. Book time f
 - [Respect yourself](../Respect%20yourself/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Book leisure time](../Book%20leisure%20time/index.md)
-<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md)

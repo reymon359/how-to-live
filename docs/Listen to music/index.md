@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Gratitude](../Categories/Gratitude.md)
 # Listen to music
 
 Music is one of those gifts from life. Be grateful for it.
@@ -27,4 +28,5 @@ Sing and dance. Do not close yourself just to listen, enjoy the music in its ful
 - [Discover new music](../Discover%20new%20music/index.md)
 - [Sing](../Sing/index.md)
 - [Enjoy nature music](../Enjoy%20nature%20music/index.md)
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Gratitude](../Categories/Gratitude.md)
+
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Gratitude](../Categories/Gratitude.md)

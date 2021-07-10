@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)
 # Helping makes you happy
 
 Probably the easiest way to happiness is through helping others. I think it is in human nature. 
@@ -27,4 +28,5 @@ Everyone needs help at something. Just ask and listen to other people to know ho
 - [Offer your help](../Offer%20your%20help/index.md)
 - [Emphathic listening](../Emphathic%20listening/index.md)
 - [Be Emphathic](../Be%20empathetic/index.md)
-<br/>[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)
+
+[Categories:](../Categories/index.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md)

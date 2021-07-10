@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)
 # Drink enough water
 
 This one sounds simple, however not drinking enough water can cause a lot of illness and issues.
@@ -25,4 +26,5 @@ Try to drink more water than other not-so-healthy drinks.
 
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
 - [Eat healthy](../Eat%20healthy/index.md)
-<br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)
+
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)

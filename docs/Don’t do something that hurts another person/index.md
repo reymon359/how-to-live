@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Problems](../Categories/Problems.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md) [Mistakes](../Categories/Mistakes.md)
 # Don’t do something that hurts another person
 
 Not just physically but mentally too. Just be kind, try to help them instead.
@@ -29,4 +30,5 @@ In addition, don't do things that hurt nature.
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
 - [Apologize](../Apologize/index.md)
 - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
-- [Respect nature](../Respect%20nature/index.md)<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Problems](../Categories/Problems.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md) [Mistakes](../Categories/Mistakes.md)
+- [Respect nature](../Respect%20nature/index.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Problems](../Categories/Problems.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md) [Mistakes](../Categories/Mistakes.md)

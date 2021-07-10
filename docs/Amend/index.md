@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)
 # Amend
 
 It is never too late to amend the mistakes of the past.
@@ -17,4 +18,5 @@ If you do something wrong to someone, apologize and try to amend it.
 ## Related advices
 
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Apologize](../Apologize/index.md)<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)
+- [Apologize](../Apologize/index.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)

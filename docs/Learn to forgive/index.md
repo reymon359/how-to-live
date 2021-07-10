@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Love](../Categories/Love.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Freedom](../Categories/Freedom.md)
 # Learn to forgive
 
 To forgive is to change the negative feelings that you have about a fact for positive ones.
@@ -32,4 +33,5 @@ Forgive a second time if necessary, however, be carefull forgiving the same mist
 - [Give second chances](../Give%20second%20chances/index.md)
 - [Be empathetic](../Be%20empathetic/index.md)
 - [Offer your help](../Offer%20your%20help/index.md)
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Love](../Categories/Love.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Freedom](../Categories/Freedom.md)
+
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Love](../Categories/Love.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Freedom](../Categories/Freedom.md)

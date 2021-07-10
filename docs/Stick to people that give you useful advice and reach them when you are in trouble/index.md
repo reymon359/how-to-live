@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Relationship](../Categories/Relationship.md) [Community](../Categories/Community.md)
 # Stick to people that give you useful advice and reach them when you are in trouble
 
 The more you live, the more you realize that only certain people's advice really helps you in the tough moments. Only with some people you can really count and grow.
@@ -32,4 +33,5 @@ I learned this by myself. Meeting people in life whom advice helped me to grow. 
 - [Offer your help](../Offer%20your%20help/index.md)
 - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
 - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
-- [Surround yourself of people that sum and remove from your life the negative ones](../Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Relationship](../Categories/Relationship.md) [Community](../Categories/Community.md)
+- [Surround yourself of people that sum and remove from your life the negative ones](../Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Relationship](../Categories/Relationship.md) [Community](../Categories/Community.md)

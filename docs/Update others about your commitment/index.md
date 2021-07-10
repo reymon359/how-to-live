@@ -1,22 +1,38 @@
+
+---
+name: 'Update others about your commitment'
+Categories: ['Respect', 'Communication','Integrity', 'Truth', 'Trust', 'Honesty']
+---
 # Update others about your commitment
 
-Keep others updated of the status of your commitment. 
+Communicate as much as you can to keep things clear. Keep others updated on the status of your commitment to avoid surprises and misunderstandings.
 
-either if you are going good or bad
+No matter if the commitment is going good or bad. It is better to be updated about a bad commitment than to find it later.
 
-you will have less issues avoiding surprises
+If you commit to meet someone at a certain hour, update them if you won't be able to attend it.
 
-raise hand for help if you are not going to make it or need help
+Avoiding this kind of surprise will help you have fewer issues.
+
+If you need help to complete it, ask for it.
+
+Keeping up your commitments is related to your honesty and integrity. It means you can be trusted.
 
 ## Quotes
 
-## Resources and credits
+> Commitment is about certainty. Other people are going to accept your commitments and make plans based upon them... ...Missing a commitment is an act of dishonesty only slightly less onerous than an overt lie. ― Robert C. Martin
+
+> If you can’t make your commitment, the most important thing is to raise a red flag as soon as possible to whoever you committed to. ― Robert C. Martin
+
+> Creating a language of commitment may sound a bit scary, but it can help solve many of the communication problems programmers face today—estimations, deadlines, and face-to-face communication mishaps. You’ll be taken as a serious developer who lives up to their word, and that’s one of the best things you can hope for in our industry. ― Robert C. Martin
 
 ## Resources and credits
+
+The Clean Coder by Robert C. Martin discusses this topic.
 
 ## Related advices
 
-- be punctual
-- integrity
-- ask for help
-<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+- [Be punctual](../Be%20punctual/index.md)
+- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
+- [Ask for help](../Ask%20for%20help/index.md)
+- [Be honest](../Be%20honest/index.md)
+

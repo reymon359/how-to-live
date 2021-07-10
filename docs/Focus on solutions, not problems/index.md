@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
 # Focus on solutions, not problems
 
 When you have a problem in life, don't get blocked by it. Avoid complaining about it and blaming people. Don't look for someone to blame, look for a solution.
@@ -20,6 +21,8 @@ Looking for a solution is being proactive, taking action instead of waiting for 
 
 > “Do not blame the world. Find a solution.” ― Sri Chinmoy
 
+> Most people spend their lives complaining about things they don’t like. So, you’re adding power to it. You’re giving it chi. We’re supposed to focus on what it is that we’re wanting to move towards instead of away from. You don’t have to lie when something is bad. You know, if you have a cold and someone says, “Are you sick?” that doesn’t mean say, “No.” It means say, “I’m getting better minute by minute.” - The Midnight Gospel (1x03)
+
 ## Related advices
 
 - [Be proactive](../Be%20proactive/index.md)
@@ -28,4 +31,5 @@ Looking for a solution is being proactive, taking action instead of waiting for 
 - [Avoid complaining](../Avoid%20complaining/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
 - [Don't worry](../Don't%20worry/index.md)
-<br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
+
+[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)

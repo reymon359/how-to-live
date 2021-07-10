@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Communication](../Categories/Communication.md)
 # Connect with others
 
 Connect and communicate with other people. The ones you already know and new ones.
@@ -21,4 +22,5 @@ We born and die alone, and we need to learn to be alone. However, as humans we l
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-<br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Communication](../Categories/Communication.md)
+
+[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Communication](../Categories/Communication.md)

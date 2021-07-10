@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
 # Continuous learning
 
 Never stop learning. Never. Have a list of all things you want to learn. Review it from time to time and once you learn something head to the next thing.
@@ -11,6 +12,8 @@ Book time and plan when to learn and what to learn.
 Research the internet to find the best resources to learn what you want to learn.
 
 If you want to learn something that other people think is useless or not worth it, listen to their arguments. However, if in the end you want to learn it just do it, you don't need their approval.
+
+Try to learn something new every day. With the internet you have access to all the information available on the planet.
 
 ## Quotes
 
@@ -30,4 +33,5 @@ If you want to learn something that other people think is useless or not worth i
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Take Notes](../Take%20notes/index.md)<br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
+- [Take Notes](../Take%20notes/index.md)
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)

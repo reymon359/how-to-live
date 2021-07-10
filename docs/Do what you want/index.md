@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)
 # Do what you want
 
 If you really want to do something, just do it.
@@ -11,6 +12,9 @@ Of course, do it respecting others and doing no harm to anyone.
 The more you know yourself, the easier to it is to know what you really want.
 
 Be open-minded and understand that other people also want to do what they want. No matter how different it is from what you want.
+
+Pay attention to frustration, if you feel frustrated it may mean you are in a situation you do not want to be or that you are doing something you don't want to do. Use that frustration, learn from it and move toward the situation you want to be in.
+
 
 ## Quotes
 
@@ -38,4 +42,5 @@ Be open-minded and understand that other people also want to do what they want. 
 - [Respect others opinion](../Respect%20others%20pinion/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)
+
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Respect](../Categories/Respect.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md)

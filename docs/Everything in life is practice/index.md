@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md) [Growing](../Categories/Growing.md)
 # Everything in life is practice
  
 This image describes very well what I mean with "everything in life is practice."
@@ -28,4 +29,5 @@ Plan and book time to practice.
  
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md) [Growing](../Categories/Growing.md)
+- [Book time for planning](../Book%20time%20for%20planning/index.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md) [Growing](../Categories/Growing.md)

@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Future](../Categories/Future.md) [Improving](../Categories/Improving.md)
 # Embrace growing
 
 Life is about growing. Live things are the ones that grow.
@@ -39,4 +40,5 @@ Growing is about getting to know yourself better. Spend time alone to accomplish
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Don't feel bad about making mistakes](../Don’t%20feel%20bad%20about%20making%20mistakes/index.md)
 - [Fail with success](../Fail%20with%20success/index.md)
-- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Future](../Categories/Future.md) [Improving](../Categories/Improving.md)
+- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Future](../Categories/Future.md) [Improving](../Categories/Improving.md)

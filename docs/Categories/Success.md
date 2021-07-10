@@ -7,6 +7,8 @@
     
  - [Continuous refactor](../Continuous%20refactor/index.md)
     
+ - [Do networking](../Do%20networking/index.md)
+    
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
@@ -24,4 +26,8 @@
  - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
     
  - [Take action](../Take%20action/index.md)
+    
+ - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
+    
+ - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     

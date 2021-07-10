@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)
 # Sing
 
 A simple one. 
@@ -42,4 +43,5 @@ A lot of times I have left my house and headed to the street singing. You would 
 
 - [Discover new music](../Discover%20new%20music/index.md)
 - [Listen to music](../Listen%20to%20music/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)

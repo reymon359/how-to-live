@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Balance](../Categories/Balance.md)
 # Find balance
 
 Moderation and balance is the key point to enjoy life.
@@ -21,4 +22,5 @@ The more you know yourself, the easier to find the balance in things you need.
 ## Related advices
 
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Balance](../Categories/Balance.md)
+
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Balance](../Categories/Balance.md)

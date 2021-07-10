@@ -1,3 +1,4 @@
+
 # Don't bad-mouth
 
 Don't talk bad of people at their back.
@@ -30,4 +31,4 @@ It will bring you more problems than sollutions.
 - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
-<br/>
+

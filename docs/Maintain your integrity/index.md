@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)
 # Maintain your integrity
 
 What is integrity?
@@ -41,4 +42,5 @@ Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effect
 - [Respect yourself](../Respect%20yourself/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Be honest](../Be%20honest/index.md)
-<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)
+
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)

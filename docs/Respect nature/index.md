@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Nature](../Categories/Nature.md)
 # Respect nature
 
 Nature is truly beautiful. We all live and share the same world. Let's respect this beauty we all share.
@@ -37,4 +38,5 @@ When I was little, we had a saying in the Scouts when going camping. It was abou
 
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Enjoy nature music](../Enjoy%20nature%20music/index.md) <br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Nature](../Categories/Nature.md)
+- [Enjoy nature music](../Enjoy%20nature%20music/index.md) 
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Nature](../Categories/Nature.md)

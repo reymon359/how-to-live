@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)
 # Enjoy the moment
 
 When you are doing something, stop and think about it. Pay attention to what surrounds you and the people you are having the moment with if you are not alone.
@@ -30,4 +31,5 @@ Remember to enjoy every moment of life because you don’t know what will happen
 - [Pay attention](../Pay%20attention/index.md)
 - [Don't worry](../Don't%20worry/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)
+
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)

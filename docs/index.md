@@ -11,19 +11,23 @@
 
 
 
-## Ramón Morcillo 24-08-2020
+## First attempt
 
 
 
-These last months I have expressed my thought with a lot of people and most of them have told me they like the way I think and some things I said. I learned all these things from myself, Software Development, books, and other people. The more you live and learn about life you start seeing connections and realizing that everything is related and connected with everything. This is why all the related tags. I want to create a visual map of all of this, maybe using UML. 
+This was my rough first attempt to represent what I had in my mind.
 
 
 
-Life is complicated and awesome at the same time.This doc tries to help at it and make it better. Is hard to try to document all of this list. Maybe adding tags
+Ramón Morcillo 24-08-2020
 
 
 
+These last months I have expressed my thought with a lot of people and most of them have told me they like the way I think and some things I said. I learned all these things from myself, Software Development, books, and other people. The more you live and learn about life you start seeing connections and realizing that everything is related and connected with everything. This is why all the related tags. I want to create a visual map of all of this, maybe using UML.
 
+
+
+Life is complicated and awesome at the same time. This doc tries to help at it and make it better. Is hard to try to document all of this list. Maybe adding tags
 
 
 
@@ -209,7 +213,7 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
 
         14. Money is a means, not an end.
 
-        15. Time is more valuable than money. When doing things to obtain money like for example selling an item you no longer use, always think if the time you are going to spend on selling it is less valuable than the money you are going to obtain from selling it. If it is not just give it away or share it with others. Related #1 Time #13.1 Give and share with others. 
+        15. Time is more valuable than money. When doing things to obtain money like for example selling an item you no longer use, always think if the time you are going to spend on selling it is less valuable than the money you are going to obtain from selling it. If it is not just give it away or share it with others. Related #1 Time #13.1 Give and share with others.
 
     66. don't get attached to material things.
 
@@ -287,6 +291,10 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
 
     93. The little things. Enjoy the little moments of life, those that seem to mean the least usually are the most important ones, the ones that fill us the most
 
+
+
+Each advice sections   
+
 *   Id
 
 *   Title
@@ -307,161 +315,9 @@ Life is complicated and awesome at the same time.This doc tries to help at it an
 
 *   Tags
 
-
-
-Other tips 
-
-
-
-
-
-
-
-*   The rule of holes, when you are in one stop digging the clean coder
-
-*   Regret what you have done, not what you have not
-
-*   DRY. dont repeat yourself. Bank accounts.
-
-*   Do not see mobile when waking up Neither when going to bed
-
-*   
-
-*   
-
-
-
-
-
-change donts by avoid
-
-
-
-take responsibility
-
-
-
-pay atention and mindfulness together
-
-if you want to accomplish something remind it to yourself
-
-
-
-some of them contradict, dont take anything here too serious, let it flow, adapt, etc
-
-
-
-How to live choose your problems javier sunco
-
-
-
-Don't hurry up changing things, change them when they need to be changed.
-
-
-
-todo lo que hay aqui es lo que opinon ahora pero puede cambiar en el futuro, mi manera de ver la vida y sacar lo mejor de ella
-
-
-
-quotes are because we are not the first to see this. other important people in the past.
-
-How to live description
-
-Contents
-
-1	The 7 Habits
-
-1.1	Independence
-
-1.1.1	1 - Be proactive
-
-1.1.2	2 - Begin with the end in mind
-
-1.1.3	3 - First things first
-
-1.2	Interdependence
-
-1.2.1	4 - Think win-win
-
-1.2.2	5 - Seek first to understand, then to be understood
-
-1.2.3	6 - Synergies
-
-1.3	Continual improvement
-
-1.3.1	7 - Sharpen the Saw; Growth
-
-https://github.com/reymon359/how-to-live/blob/master/docs/Categories/index.md
-
-
-
-We teach others how to treat us. For example if we respect ourselves we teach others to test us with respect.
-
-
-
-dont feel guilty neither worry
-
-
-
-
-
-1 Taking Charge of Yourself
-
-2 First Love
-
-3 You Don’t Need Their Approval
-
-4 Breaking Free From the Past
-
-5 The Useless Emotions — Guilt and Worry
-
-6 Exploring the Unknown
-
-7 Breaking the Barrier of Convention
-
-8 The Justice Trap
-
-9 Putting An End to Procrastination — Now
-
-10 Declare Your Independence
-
-11 Farewell to Anger
-
-12 Portrait of a Person Who has Eliminated all Erroneous Zones
-
-
-
-Most people spend their lives complaining about things they don’t like.
-
-So, you’re adding power to it.
-
-You’re giving it chi.
-
-We’re supposed to focus on what it is that we’re wanting to move towards instead of away from.
-
-
-
-You don’t have to lie when something is bad.
-
-You know, if you have a cold and someone says, “Are you sick?” that doesn’t mean say, “No.”
-
-It means say, “I’m getting better minute by minute.”
-
-
-
-- The Midnight Gospel (1x03)
-
-
-
-
-
-Say that the quotes are there to reach the authors of them and keep reading about them
-
 ## Content: advices
 
 
- - [ Keep in touch with people that matter to you](Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
-    
  - [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)
     
  - [Amend](Amend/index.md)
@@ -502,6 +358,8 @@ Say that the quotes are there to reach the authors of them and keep reading abou
     
  - [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
     
+ - [Choose your problems](Choose%20your%20problems/index.md)
+    
  - [Connect with others](Connect%20with%20others/index.md)
     
  - [Continuous learning](Continuous%20learning/index.md)
@@ -512,9 +370,13 @@ Say that the quotes are there to reach the authors of them and keep reading abou
     
  - [Discover new music](Discover%20new%20music/index.md)
     
+ - [Do networking](Do%20networking/index.md)
+    
  - [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
     
  - [Do one thing and do it well](Do%20one%20thing%20and%20do%20it%20well/index.md)
+    
+ - [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
     
  - [Do what you want](Do%20what%20you%20want/index.md)
     
@@ -583,6 +445,10 @@ Say that the quotes are there to reach the authors of them and keep reading abou
  - [If you want, you can](If%20you%20want,%20you%20can/index.md)
     
  - [Inbox zero](Inbox%20zero/index.md)
+    
+ - [Keep in touch with people that matter to you](Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
+    
+ - [Keep the focus](Keep%20the%20focus/index.md)
     
  - [Keep track of your Goals](Keep%20track%20of%20your%20Goals/index.md)
     
@@ -712,7 +578,7 @@ Say that the quotes are there to reach the authors of them and keep reading abou
     
  - [Try new things](Try%20new%20things/index.md)
     
- - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+ - [We teach others how to treat us. ](We%20teach%20others%20how%20to%20treat%20us./index.md)
     
  - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
     
@@ -754,6 +620,8 @@ Say that the quotes are there to reach the authors of them and keep reading abou
     
  - [relativize, don't generalize](relativize,%20don't%20generalize/index.md)
     
+ - [update others about your commitment](update%20others%20about%20your%20commitment/index.md)
+    
  - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
     
  - [you shouldn't avoid communication](you%20shouldn't%20avoid%20communication/index.md)
@@ -764,4 +632,3 @@ Say that the quotes are there to reach the authors of them and keep reading abou
 
  - [Categories](Categories/index.md)
     
-<br/><br/><br/><sub>Made with [Collman](https://github.com/reymon359/collman)<sub>

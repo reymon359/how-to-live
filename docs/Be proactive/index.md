@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md)
 # Be proactive
 
 If you want to do something just do it, don't wait for it to happen by itself. Don't make up excuses to don't do it.
@@ -5,6 +6,8 @@ If you want to do something just do it, don't wait for it to happen by itself. D
 Take responsibility for your reaction to your experiences, take the initiative to respond positively, and improve the situation. 
 
 Don't sit and wait in a reactive mode, waiting for problems to happen and be solved by themselves instead of taking action.
+
+The world owes you nothing, you only deserve what you have worked for and achieved by your own effort.
 
 ## Quotes
 
@@ -40,4 +43,5 @@ The first chapter (first habit) from Stephen R. Covey, The 7 Habits of Highly Ef
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permissio/index.md)
-<br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md)
+
+[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md)

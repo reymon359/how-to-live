@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Procrastination](../Categories/Procrastination.md) [Leisure](../Categories/Leisure.md)
 # Learn the difference between procrastination and leisure time
 
 Sometimes you can feel bad in your free time thinking that you are procrastinating.
@@ -25,4 +26,5 @@ I read about this in some book but can't remember the name now.
 - [Don't Procrastinate](../Don't%20procrastinate)
 - [Book leisure time](../Book%20leisure%20time/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
-<br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Procrastination](../Categories/Procrastination.md) [Leisure](../Categories/Leisure.md)
+
+[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Procrastination](../Categories/Procrastination.md) [Leisure](../Categories/Leisure.md)

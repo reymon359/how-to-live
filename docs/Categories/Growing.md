@@ -9,6 +9,8 @@
     
  - [Be proactive](../Be%20proactive/index.md)
     
+ - [Choose your problems](../Choose%20your%20problems/index.md)
+    
  - [Continuous learning](../Continuous%20learning/index.md)
     
  - [Continuous refactor](../Continuous%20refactor/index.md)
@@ -40,6 +42,10 @@
  - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
     
  - [Trust others](../Trust%20others/index.md)
+    
+ - [We teach others how to treat us. ](../We%20teach%20others%20how%20to%20treat%20us./index.md)
+    
+ - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     
  - [What you want is constantly changing](../What%20you%20want%20is%20constantly%20changing/index.md)
     

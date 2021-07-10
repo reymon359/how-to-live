@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Solutions](../Categories/Solutions.md) [Little things](../Categories/Little%20things.md)
 # Find a way to get the milk without buying the cow
 
 This is not related to the topic of men who don't want to get married, when they can get all the benefits of marriage without getting married.
@@ -22,4 +23,5 @@ I learned it on The Clean Architecture from Robert C. Martin. Here it was relate
 
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [The simpler the better](../The%20simpler%20the%20better/index.md)
-<br/>[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Solutions](../Categories/Solutions.md) [Little things](../Categories/Little%20things.md)
+
+[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Solutions](../Categories/Solutions.md) [Little things](../Categories/Little%20things.md)

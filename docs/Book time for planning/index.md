@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
 # Book time for planning
 
 Book time to plan. Try to plan your week before begining it booking time for it in the weekend. Even expend some minutes each evening to plan the next day.
@@ -9,6 +10,8 @@ Envision what you want in the future so you can work and plan towards it.
 To be effective you need to act based on principles and constantly review your mission statements.
 
 Do not just act; think first: Is this how I want it to go, and are these the correct consequences?
+
+Most of the problems and lack of time can be solved by planning your activities (assigning a date and time).
 
 ## Quotes
 
@@ -29,4 +32,5 @@ Do not just act; think first: Is this how I want it to go, and are these the cor
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-<br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+
+[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

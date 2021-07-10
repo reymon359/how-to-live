@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md)
 # Respect yourself
 
 To effectively respect others, we first have to respect ourselves.
@@ -39,4 +40,5 @@ Respecting yourself and loving yourself go hand in hand.
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
 - [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
-- [Exercise frequently](../Exercise%20frequently/index.md)<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md)
+- [Exercise frequently](../Exercise%20frequently/index.md)
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md)

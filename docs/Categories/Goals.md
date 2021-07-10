@@ -9,6 +9,8 @@
     
  - [Continuous learning](../Continuous%20learning/index.md)
     
+ - [Do networking](../Do%20networking/index.md)
+    
  - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
@@ -27,6 +29,8 @@
     
  - [Inbox zero](../Inbox%20zero/index.md)
     
+ - [Keep the focus](../Keep%20the%20focus/index.md)
+    
  - [Keep track of your Goals](../Keep%20track%20of%20your%20Goals/index.md)
     
  - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
@@ -42,4 +46,6 @@
  - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
     
  - [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
+    
+ - [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
     

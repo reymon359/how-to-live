@@ -1,8 +1,6 @@
 # Communication
 
 
- - [ Keep in touch with people that matter to you](../Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
-    
  - [Apologize](../Apologize/index.md)
     
  - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
@@ -17,6 +15,8 @@
     
  - [Connect with others](../Connect%20with%20others/index.md)
     
+ - [Do networking](../Do%20networking/index.md)
+    
  - [Embrace communication](../Embrace%20communication/index.md)
     
  - [Emphathic listening](../Emphathic%20listening/index.md)
@@ -24,6 +24,8 @@
  - [Greetings before a Conversation](../Greetings%20before%20a%20Conversation/index.md)
     
  - [Grow with others](../Grow%20with%20others/index.md)
+    
+ - [Keep in touch with people that matter to you](../Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
     
  - [Listen before talking](../Listen%20before%20talking/index.md)
     

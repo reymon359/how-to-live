@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Nature](../Categories/Nature.md)
 # Enjoy nature music
 
 When you go outside pay attention to the music of the wild. Enjoy the sounds made by the wind, plants, animals, water, etc.
@@ -20,4 +21,5 @@ Enjoy that moment, you will connect with yourself and the world.
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Respect nature](../Respect%20nature/index.md)
-- [Pay attention](../Pay%20attention/index.md)<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Nature](../Categories/Nature.md)
+- [Pay attention](../Pay%20attention/index.md)
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md) [Nature](../Categories/Nature.md)

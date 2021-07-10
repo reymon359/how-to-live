@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md)
 # Ask for forgiveness, not permission
 
 Sometimes is better to take the initiative and do it instead of await for permission.
@@ -19,4 +20,5 @@ It's not about doing things that are illegal or immoral. It is about not waiting
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
-<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md)
+
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md)

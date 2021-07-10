@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md)
 # Be punctual
 
 The most important concept here is that when you agree to meet someone at a certain time you are making a promise.
@@ -44,4 +45,5 @@ If you are not going to make it on time, update the other person about it to avo
 - [Be proactive](../Be%20proactive/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
 
-<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md)

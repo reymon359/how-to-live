@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Solutions](../Categories/Solutions.md) [Success](../Categories/Success.md)
 # Look for feedback
 
 In software development, getting feedback from users is one of the most valuable things for a project to grow.
@@ -37,4 +38,5 @@ I have experienced this in software development when getting feedback from users
 - [Emphathic listening](../Emphathic%20listening/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Ask questions](../Ask%20questions/index.md)
-- [Be grateful](../Be%20grateful/index.md)<br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Solutions](../Categories/Solutions.md) [Success](../Categories/Success.md)
+- [Be grateful](../Be%20grateful/index.md)
+[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Solutions](../Categories/Solutions.md) [Success](../Categories/Success.md)

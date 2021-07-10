@@ -1,3 +1,4 @@
+
 # Don't overthink
 
 To overthink is to think about something you have already thought. It is a waste of time and energy. It immobilizes you.
@@ -23,4 +24,4 @@ When we overthink too much about doing something, or we plan it without taking a
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Don't worry](../Don't%20worry/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-<br/>
+

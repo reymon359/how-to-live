@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
 # Embrace minimalism
 
 Minimalism is all about living with less. It is about getting rid of excess stuff and living life based on experiences rather than worldly possessions. Having less stuff will also free up your life financially.
@@ -34,4 +35,5 @@ Minimalism can be applied not only to physical things but also digital ones or e
 
 - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)<br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)
+[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)

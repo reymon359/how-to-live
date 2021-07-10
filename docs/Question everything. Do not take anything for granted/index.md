@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Asking](../Categories/Asking.md) [Truth](../Categories/Truth.md) [Communication](../Categories/Communication.md)
 # Question everything. Do not take anything for granted
 
 Do not accept a "this is like this because it is like this" as an answer. Question it. Do not take it for granted.
@@ -26,4 +27,5 @@ Don’t be afraid of finding out the truth beneath the obvious.
 
 - [Ask questions](../Ask%20questions/index.md)
 - [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)<br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Asking](../Categories/Asking.md) [Truth](../Categories/Truth.md) [Communication](../Categories/Communication.md)
+- [Continuous learning](../Continuous%20learning/index.md)
+[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Asking](../Categories/Asking.md) [Truth](../Categories/Truth.md) [Communication](../Categories/Communication.md)

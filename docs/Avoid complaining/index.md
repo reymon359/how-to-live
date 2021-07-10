@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)
 # Avoid complaining
 
 To complain is a waste of time. If you don't like something, do something to change that situation.
@@ -11,6 +12,8 @@ Fully functioning people never complain.
 Happiness means no complaining about the things over which you can do nothing.
 
 Complaining is the refuge of those who have no self-reliance.
+
+Do not look for excuses in the face of difficulties to avoid the problem. Evading is not solving. Change your thought "it can't be done", to "How can I do it?".
 
 ## Quotes
 
@@ -33,4 +36,5 @@ Complaining is the refuge of those who have no self-reliance.
 
 - [Take action](../Take%20action/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-<br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)
+
+[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md)

@@ -1,3 +1,4 @@
+
 # Relativize, don't generalize
 
 Always, like never, doesn't exist. 
@@ -28,4 +29,4 @@ I heard the sentence "Always, like never, doesn't exist." in a podcast, that I n
 
 - [Don't judge the whole by the part](../Don't%20judge%20the%20whole%20by%20the%20part/index.md)
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Give second chances](../Give%20second%20chances/index.md)<br/>
+- [Give second chances](../Give%20second%20chances/index.md)

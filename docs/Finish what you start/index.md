@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Planning](../Categories/Planning.md)
 # Finish what you start
 
 If you start something, finish it.
@@ -24,4 +25,5 @@ To finish things, you need to work on them constantly. Don't give things up. Pla
 
 - [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [Eating an elephant](../Eating%20an%20elephant/index.md)<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Planning](../Categories/Planning.md)
+- [Eating an elephant](../Eating%20an%20elephant/index.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Planning](../Categories/Planning.md)

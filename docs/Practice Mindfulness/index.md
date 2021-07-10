@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Mindfulness](../Categories/Mindfulness.md) [Mental health](../Categories/Mental%20health.md)
 # Practice Mindfulness
 
 Mindfulness is the basic human ability to be fully present, aware of where we are and what we’re doing, and not overly reactive or overwhelmed by what’s going on around us.
@@ -28,4 +29,5 @@ The more you are aware of what is happening at the moment, the more fully you wi
 - [Be proactive](../Be%20proactive/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
-<br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Mindfulness](../Categories/Mindfulness.md) [Mental health](../Categories/Mental%20health.md)
+
+[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Mindfulness](../Categories/Mindfulness.md) [Mental health](../Categories/Mental%20health.md)

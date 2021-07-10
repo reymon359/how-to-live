@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)
 # Eat healthy
 
 Take care of your body. The foods you eat have big effects on your health and quality of life. Have a healthy diet to avoid health issues.
@@ -28,4 +29,5 @@ If you don't know how to eat healthy or what should you eat, ask for help. Go to
 - [Drink enough water](../Drink%20enough%20water/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
-<br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)
+
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)

@@ -1,3 +1,4 @@
+
 # Question what you don't understand
 
 Don't fear to question or ask for help about things you do not understand.
@@ -22,4 +23,4 @@ Don't feel embarrassed for what other people will think. Better to ask than say 
 
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Question everything. Do not take nothing for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<br/>
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)

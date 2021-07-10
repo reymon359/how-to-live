@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md) [Open mindedness](../Categories/Open%20mindedness.md) [Growing](../Categories/Growing.md) [Proactivity](../Categories/Proactivity.md)
 # Step outside the comfort zone
 
 One of the most important ones.
@@ -55,4 +56,5 @@ I have talked about this topic with a lot of people. Also, read many books that 
 - [Don't procastinate](../Don't%20procrastinate/index.md)
 - [Take action](../Take%20action/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-<br/>[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md) [Open mindedness](../Categories/Open%20mindedness.md) [Growing](../Categories/Growing.md) [Proactivity](../Categories/Proactivity.md)
+
+[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md) [Open mindedness](../Categories/Open%20mindedness.md) [Growing](../Categories/Growing.md) [Proactivity](../Categories/Proactivity.md)

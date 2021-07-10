@@ -1,5 +1,5 @@
 ---
-name: ' Keep in touch with people that matter to you'
+name: 'Keep in touch with people that matter to you'
 Categories: ['Communication', 'Reminders', 'Relationship']
 ---
 # Keep in touch with people that matter to you
@@ -24,7 +24,6 @@ Set a reminder to contact them from time to time if needed.
 
 ## Resources and credits
 
-## Resources and credits
 
 ## Related advices
 

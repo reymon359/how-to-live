@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md) [Mental health](../Categories/Mental%20health.md)
 # Sleep properly
 
 We need to rest properly at night to be ready for the next day.
@@ -35,4 +36,5 @@ Thanks to Treasa Spragg for the tips she gave me at Sun&Co about sleep optimizat
 ## Related advices
 
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)<br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md) [Mental health](../Categories/Mental%20health.md)
+- [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Sleep](../Categories/Sleep.md) [Mental health](../Categories/Mental%20health.md)

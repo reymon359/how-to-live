@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md)
 # Take action
 
 To take action is to be proactive. Taking the initiative.
@@ -39,4 +40,5 @@ Your Erroneous Zones from Wayne Dyer discussed this topic.
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
 - [Don't overthink](../Don't%20overthink/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md) <br/>[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md)
+- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md) 
+[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md)

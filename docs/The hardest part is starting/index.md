@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md) [Motivation](../Categories/Motivation.md)
 # The hardest part is starting
 
 There is a big difference between planning and actually getting started with something.
@@ -5,6 +6,8 @@ There is a big difference between planning and actually getting started with som
 Starting with something means to challenge the unknown of it and step outside our comfort zone, which is always hard.
 
 Split the goal in smaller parts to help you begin with. Then go step by step.
+
+Do not wait for motivation to do things. Take action, and the motivation will come. Many have the idea that you have to be motivated to get things done. It is true that being motivated helps, however, many times you have to keep moving despite the lack of it. Keep moving will help motivation to appear.
 
 ## Quotes
 
@@ -32,4 +35,6 @@ Split the goal in smaller parts to help you begin with. Then go step by step.
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)<br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md)
+- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
+- [Take action](../Take%20action/index.md)
+[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md) [Motivation](../Categories/Motivation.md)

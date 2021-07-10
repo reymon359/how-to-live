@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)
 # Take care of mental health
 
 Take care of your body and your mind.
@@ -35,4 +36,5 @@ Mental health is no joke. Offer your help to those that are struggling with it.
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
 - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)<br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)
+- [Offer your help](../Offer%20your%20help/index.md)
+[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md)

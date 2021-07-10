@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Happiness](../Categories/Happiness.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)
 # Embrace communication
 
 I believe the majority of problems are due to a lack of communication, which means a lack of information.
@@ -33,4 +34,5 @@ If you have a problem with someone or need help from them, just talk to them. Te
 - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
 - [Listening before talking](../Listen%20before%20talking/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-<br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Happiness](../Categories/Happiness.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)
+
+[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Happiness](../Categories/Happiness.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)

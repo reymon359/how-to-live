@@ -1,3 +1,4 @@
+[Categories:](../Categories/index.md) [Dependencies](../Categories/Dependencies.md) [Software development](../Categories/Software%20development.md) [Minimalism](../Categories/Minimalism.md) [Independence](../Categories/Independence.md) [Freedom](../Categories/Freedom.md)
 # Remove dependencies
 
 In life, like in software development, the fewer dependencies you have the better.
@@ -34,4 +35,5 @@ I learned this one doing software development and reading books like The Pragmat
 
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Be independent](../Be%20independent/index.md)
-<br/>[Categories:](../Categories/index.md) [Dependencies](../Categories/Dependencies.md) [Software development](../Categories/Software%20development.md) [Minimalism](../Categories/Minimalism.md) [Independence](../Categories/Independence.md) [Freedom](../Categories/Freedom.md)
+
+[Categories:](../Categories/index.md) [Dependencies](../Categories/Dependencies.md) [Software development](../Categories/Software%20development.md) [Minimalism](../Categories/Minimalism.md) [Independence](../Categories/Independence.md) [Freedom](../Categories/Freedom.md)
