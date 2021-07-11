@@ -123,10 +123,6 @@
     
  - [Open minded](../Categories/Open%20minded.md)
     
- - [Open mindedness](../Categories/Open%20mindedness.md)
-    
- - [Open mindedness'](../Categories/Open%20mindedness'.md)
-    
  - [Open-mindedness](../Categories/Open-mindedness.md)
     
  - [Open-mindness](../Categories/Open-mindness.md)

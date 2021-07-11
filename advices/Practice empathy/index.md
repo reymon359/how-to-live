@@ -1,6 +1,6 @@
 ---
 name: 'Practice empathy'
-Categories: ['Respect', 'Open mindedness', 'Help', 'Empathy', 'Communication']
+Categories: ['Respect', 'Open-mindedness', 'Help', 'Empathy', 'Communication']
 ---
 # Practice empathy
 

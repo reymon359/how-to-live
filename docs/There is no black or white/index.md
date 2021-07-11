@@ -28,4 +28,4 @@ Wayne Dyer discuss this in The Right vs. Wrong Trap, from his book Your Erroneou
 
 - [Don't overthink](../Don't%20overthink/index.md)
 - [Take action](../Take%20action/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Choices](../Categories/Choices.md) [Open mindedness](../Categories/Open%20mindedness.md)
+- [Open your mind](../Open%20your%20mind/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Choices](../Categories/Choices.md) [Open-mindedness](../Categories/Open-mindedness.md)
