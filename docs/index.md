@@ -11,6 +11,10 @@
 
 
 
+This is how I see life at this moment. It can change.
+
+
+
 ## First attempt
 
 
