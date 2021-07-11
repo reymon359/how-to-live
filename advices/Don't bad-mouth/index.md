@@ -1,5 +1,5 @@
 ---
-name: 'Don't bad-mouth
+name: 'Don't bad-mouth'
 Categories: ['Respect', 'Integrity', 'Problems', 'Honesty', 'Truth']
 ---
 # Don't bad-mouth

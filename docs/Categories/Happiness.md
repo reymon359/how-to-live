@@ -9,7 +9,7 @@
     
  - [Be independent](../Be%20independent/index.md)
     
- - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+ - [Be kind](../Be%20kind/index.md)
     
  - [Book leisure time](../Book%20leisure%20time/index.md)
     

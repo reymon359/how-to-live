@@ -13,6 +13,8 @@
     
  - [Be honest](../Be%20honest/index.md)
     
+ - [Be kind](../Be%20kind/index.md)
+    
  - [Be punctual](../Be%20punctual/index.md)
     
  - [Give credit](../Give%20credit/index.md)

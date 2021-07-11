@@ -9,7 +9,7 @@
     
  - [Be honest](../Be%20honest/index.md)
     
- - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+ - [Be kind](../Be%20kind/index.md)
     
  - [Be punctual](../Be%20punctual/index.md)
     

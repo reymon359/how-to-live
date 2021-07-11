@@ -5,6 +5,8 @@
     
  - [Be honest](../Be%20honest/index.md)
     
+ - [Be kind](../Be%20kind/index.md)
+    
  - [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     
  - [Learn to delegate](../Learn%20to%20delegate/index.md)
