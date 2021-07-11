@@ -45,7 +45,7 @@
     
  - [Freedom](../Categories/Freedom.md)
     
- - [Friendhip](../Categories/Friendhip.md)
+ - [Friendship](../Categories/Friendship.md)
     
  - [Future](../Categories/Future.md)
     
