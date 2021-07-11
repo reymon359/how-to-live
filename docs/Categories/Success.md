@@ -3,6 +3,8 @@
 
  - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
     
+ - [Be proactive](../Be%20proactive/index.md)
+    
  - [Continuous learning](../Continuous%20learning/index.md)
     
  - [Continuous refactor](../Continuous%20refactor/index.md)
