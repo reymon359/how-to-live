@@ -18,7 +18,7 @@
         
      - [Be grateful](Be%20grateful/index.md)
         
-     - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
+     - [Be grateful to the people that take care of you](Be%20grateful%20to%20the%20people%20that%20take%20care%20of%20you/index.md)
         
      - [Be honest](Be%20honest/index.md)
         
@@ -348,11 +348,15 @@
         
      - [Exercise](../Categories/Exercise.md)
         
+     - [Family](../Categories/Family.md)
+        
      - [Feedback](../Categories/Feedback.md)
         
      - [Focus](../Categories/Focus.md)
         
      - [Freedom](../Categories/Freedom.md)
+        
+     - [Friendhip](../Categories/Friendhip.md)
         
      - [Future](../Categories/Future.md)
         

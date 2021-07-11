@@ -137,7 +137,7 @@ Life is complicated and awesome at the same time. This doc tries to help at it a
 
     35. Be always grateful for what you are, have, do.
 
-    36. Be grateful to the people that have taken care of you, family, teachers,
+    36. Be grateful to the people that take care of you, family, teachers,
 
     37. When someone says thank you thank them back. Fallback/Default: Story bejo song "To you for existing"
 
@@ -340,7 +340,7 @@ Each advice sections
     
  - [Be grateful](Be%20grateful/index.md)
     
- - [Be grateful to the people that have taken care of you](Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
+ - [Be grateful to the people that take care of you](Be%20grateful%20to%20the%20people%20that%20take%20care%20of%20you/index.md)
     
  - [Be honest](Be%20honest/index.md)
     

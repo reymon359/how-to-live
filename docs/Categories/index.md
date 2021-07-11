@@ -37,11 +37,15 @@
     
  - [Exercise](../Categories/Exercise.md)
     
+ - [Family](../Categories/Family.md)
+    
  - [Feedback](../Categories/Feedback.md)
     
  - [Focus](../Categories/Focus.md)
     
  - [Freedom](../Categories/Freedom.md)
+    
+ - [Friendhip](../Categories/Friendhip.md)
     
  - [Future](../Categories/Future.md)
     

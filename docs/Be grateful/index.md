@@ -26,5 +26,5 @@ Every morning, try to think of three things from the day before you are grateful
 ## Related advices
 
 - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)
-- [Be grateful to the people that have taken care of you](../Be%20grateful%20to%20the%20people%20that%20have%20taken%20care%20of%20you/index.md)
+- [Be grateful to the people that take care of you](../Be%20grateful%20to%20the%20people%20that%20take%20care%20of%20you/index.md)
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)

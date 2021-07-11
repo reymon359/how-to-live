@@ -69,7 +69,7 @@ Life is complicated and awesome at the same time. This doc tries to help at it a
     34. Most religions have good things or are based in good values. Get the best from them.
 6. Gratitude
     35. Be always grateful for what you are, have, do.
-    36. Be grateful to the people that have taken care of you, family, teachers,
+    36. Be grateful to the people that take care of you, family, teachers,
     37. When someone says thank you thank them back. Fallback/Default: Story bejo song "To you for existing"
 7. Open your mind
     38. Opening your mind, see other things, understand, respect.  
