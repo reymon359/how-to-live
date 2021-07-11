@@ -9,6 +9,8 @@
     
  - [Ask questions](../Ask%20questions/index.md)
     
+ - [Be empathetic](../Be%20empathetic/index.md)
+    
  - [Be honest](../Be%20honest/index.md)
     
  - [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)

@@ -1,6 +1,6 @@
 ---
 name: 'Stick to people that give you useful advice and reach them when you are in trouble'
-Categories: ['Communication', 'Relationship', 'Community']
+Categories: ['Communication', 'Relationships', 'Community']
 ---
 # Stick to people that give you useful advice and reach them when you are in trouble
 

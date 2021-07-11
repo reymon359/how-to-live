@@ -25,4 +25,4 @@ Set a reminder to contact them from time to time if needed.
 
 - [Embrace communication](../Embrace%20communication/index.md)
 - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
-- [Surround yourself of people that sum and remove from your life the negative ones](../Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Reminders](../Categories/Reminders.md) [Relationship](../Categories/Relationship.md)
+- [Surround yourself of people that sum and remove from your life the negative ones](../Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Reminders](../Categories/Reminders.md) [Relationships](../Categories/Relationships.md)

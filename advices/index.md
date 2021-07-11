@@ -6,6 +6,8 @@ name: 'How to live'
 
 // TODO: Update this index file properly
 
+This is how I see life at this moment. It can change.
+
 ## First attempt
 
 This was my rough first attempt to represent what I had in my mind.

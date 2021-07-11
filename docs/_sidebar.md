@@ -466,8 +466,6 @@
         
      - [Regret](../Categories/Regret.md)
         
-     - [Relationship](../Categories/Relationship.md)
-        
      - [Relationships](../Categories/Relationships.md)
         
      - [Religion](../Categories/Religion.md)
