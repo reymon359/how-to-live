@@ -28,5 +28,5 @@ In addition, don't do things that hurt nature.
 
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
 - [Apologize](../Apologize/index.md)
-- [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+- [Be kind](../Be%20kind/index.md)
 - [Respect nature](../Respect%20nature/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Problems](../Categories/Problems.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md) [Mistakes](../Categories/Mistakes.md)

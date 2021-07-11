@@ -16,7 +16,7 @@ Be proactive. It's not about doing things that are illegal or immoral. It is abo
 
 - [Apologize](../Apologize/index.md)
 - [Amend](../Amend/index.md)
-- [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+- [Be kind](../Be%20kind/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md)

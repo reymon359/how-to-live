@@ -27,5 +27,5 @@ I think the first time thought about this was when I saw it as a child printed i
 
 ## Related advices
 
-- [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+- [Be kind](../Be%20kind/index.md)
 - [Be honest](../Be%20honest/index.md)

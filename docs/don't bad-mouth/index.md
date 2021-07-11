@@ -26,7 +26,7 @@ It will bring you more problems than sollutions.
 ## Related advices
 
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Be kind to yourself and others](../Be%20kind%20to%20yourself%20and%20others/index.md)
+- [Be kind](../Be%20kind/index.md)
 - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
