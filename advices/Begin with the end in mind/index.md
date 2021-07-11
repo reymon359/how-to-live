@@ -4,11 +4,13 @@ Categories: ['Goals']
 ---
 # Begin with the end in mind
 
-Picture your ideal self, the type of person you would like to be. Once you have a clear idea about it, aim your life to reach it. When you are going to do something, think if doing it will help you become that person.
+Picture your ideal self, the type of person you would like to be. Once you have a clear idea about it, aim your life to reach it.
+
+When you do something, think if it will contribute to the goals you want to accomplish,  to the person you want to be.
 
 To begin with the end in mind is to visualize your life, career, or a specific project the way that you want it to end up being before you actually begin pursuing it. When you make this conscious effort, you take much greater control over your life and circumstances.
 
-When you do something think if it will contributte to the goals you want to accomplish,  to the person you want to be.
+There is no need to have a clear idea of it. You never know how your life will change and probably what you want right now won't be the same later.
 
 ## Quotes
 
@@ -18,12 +20,9 @@ When you do something think if it will contributte to the goals you want to acco
 
 ## Resources and credits
 
-- Stephen R. Covey, The 7 Habits of Highly Effective People
-
-## Resources and credits
-
-- The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People
+The chapter with the same name from Stephen R. Covey's book The 7 Habits of Highly Effective People.
 
 ## Related advices
 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
+- [What you want, is constantly changing](../What%20you%20want,%20is%20constantly%20changing/index.md)

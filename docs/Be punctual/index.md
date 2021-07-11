@@ -1,6 +1,6 @@
 # Be punctual
 
-The most important concept here is that when you agree to meet someone at a certain time you are making a promise.
+The most important concept here is that when you agree to meet someone at a certain time, you are making a promise.
 
 If you are not in time is like lying to the other person. You were not honest.
 
@@ -14,28 +14,19 @@ If you are not going to make it on time, update the other person about it to avo
 
 ## Quotes
 
-> Managing lateness. The trick to managing lateness is early detection and transparency... ...regularly measure your progress against your goal... ...Be as honest as you can about all dates. Do not incorporate hope into your estimates! 
-> ― The Clean Coder
+> Managing lateness. The trick to managing lateness is early detection and transparency... ...regularly measure your progress against your goal... ...Be as honest as you can about all dates. Do not incorporate hope into your estimates!  ― The Clean Coder
 
-> If you're early, you're on time. If you're on time, you're late.
-> ― Lik Hock Yap Ivan
+> If you're early, you're on time. If you're on time, you're late. ― Lik Hock Yap Ivan
 
-> Better three hours too soon than a minute too late.
-> ― William Shakespeare
+> Better three hours too soon than a minute too late. ― William Shakespeare
 
-> Arriving late was a way of saying that your own time was more valuable than the time of the person who waited for you.
-> ― Karen Joy Fowler, The Jane Austen Book Club
+> Arriving late was a way of saying that your own time was more valuable than the time of the person who waited for you. ― Karen Joy Fowler, The Jane Austen Book Club
 
-> If I have made an appointment with you, I owe you punctuality, I have no right to throw away your time, if I do my own.
-> ― Richard Cecil
+> If I have made an appointment with you, I owe you punctuality, I have no right to throw away your time, if I do my own. ― Richard Cecil
 
 ## Resources and credits
 
-- Robert C. Martin, The Clean Coder.
-
-## Resources and credits
-
-- Robert C. Martin, The Clean Coder. The part where he talks about estimating.
+Robert C. Martin gives some good tips about managing lateness on The Clean Coder.
 
 ## Related advices
 
@@ -43,5 +34,5 @@ If you are not going to make it on time, update the other person about it to avo
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-
-<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md)
+- [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
+- [Actions speak louder than words](../Actions%20speak%20louder%20than%20words/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md) [Honesty](../Categories/Honesty.md) [Trust](../Categories/Trust.md)
