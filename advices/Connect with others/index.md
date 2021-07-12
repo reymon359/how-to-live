@@ -1,6 +1,6 @@
 ---
 name: 'Connect with others'
-Categories: ['Open-mindedness', 'Comfort zone', 'Communication']
+Categories: ['Open-mindedness', 'Comfort zone', 'Communication', 'Relationships']
 ---
 # Connect with others
 
@@ -8,7 +8,10 @@ Connect and communicate with other people. The ones you already know and new one
 
 Open your mind to meet new people that can offer you new points of view and experiences.
 
-We born and die alone, and we need to learn to be alone. However, as humans we like social interaction and crave for it. Is in our nature. Connecting with other people and stablishing communities make us grow.
+We are born and die alone, and we need to learn to be alone. 
+However, as humans, we like social interaction, and it is in our nature to look for it. Connecting with other people and establishing communities make us grow.
+
+Travel to new places to meet new people.
 
 ## Quotes
 
@@ -25,3 +28,6 @@ We born and die alone, and we need to learn to be alone. However, as humans we l
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
+- [Do networking](../Do%20networking/index.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
