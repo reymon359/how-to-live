@@ -1,6 +1,6 @@
 ---
 name: 'Create your own opinion of things'
-Categories: ['Open-mindedness', 'Growing']
+Categories: ['Open-mindedness', 'Growing', 'Personality', 'Unknown']
 ---
 # Create your own opinion of things
 
@@ -11,6 +11,8 @@ Other people opinions are good to help you make a choice however, the best one w
 Some opinions that you already have may come from the society. Don't be afraid to do something because of traditions or other people opinions about it.
 
 Never judge someone by the opinion of others.
+
+There is only one way of having an opinion about something and is trying.
 
 ## Quotes
 
@@ -30,3 +32,5 @@ Never judge someone by the opinion of others.
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+- [Try new things](../Try%20new%20things/index.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)

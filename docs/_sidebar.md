@@ -48,6 +48,8 @@
         
      - [Create your own opinion of things](Create%20your%20own%20opinion%20of%20things/index.md)
         
+     - [Create your own opinion of things](Create%20your%20own%20opinion%20of%20things/index.md)
+        
      - [Discover new music](Discover%20new%20music/index.md)
         
      - [Do networking](Do%20networking/index.md)
@@ -256,8 +258,6 @@
         
      - [Trust others](Trust%20others/index.md)
         
-     - [Try new things](Try%20new%20things/index.md)
-        
      - [We teach others how to treat us. ](We%20teach%20others%20how%20to%20treat%20us./index.md)
         
      - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
@@ -443,6 +443,8 @@
      - [Openmindedness](../Categories/Openmindedness.md)
         
      - [Optimization](../Categories/Optimization.md)
+        
+     - [Personality](../Categories/Personality.md)
         
      - [Planning](../Categories/Planning.md)
         

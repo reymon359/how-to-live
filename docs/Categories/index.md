@@ -133,6 +133,8 @@
     
  - [Optimization](../Categories/Optimization.md)
     
+ - [Personality](../Categories/Personality.md)
+    
  - [Planning](../Categories/Planning.md)
     
  - [Practice](../Categories/Practice.md)

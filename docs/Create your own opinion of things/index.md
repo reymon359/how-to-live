@@ -2,9 +2,9 @@
 
 The best way to know about something is to try it. This way you create your own opinion of it based on your experiences.
 
-Other people opinions are good to help you make a choice however, the best one will be your own.
+Other people's opinions are good to help you make a choice, however, the best one will be your own.
 
-Some opinions that you already have may come from the society. Don't be afraid to do something because of traditions or other people opinions about it.
+Some opinions that you already have may come from society. Don't be afraid to do something just because it is different from your cultural traditions or what other people may think about it.
 
 Never judge someone by the opinion of others.
 
@@ -20,10 +20,12 @@ Never judge someone by the opinion of others.
 
 ## Resources and credits
 
-- Chapter 3 You Don’t Need Their Approval from Your Erroneous Zones. Wayne Dyer - 1976
+There are some interesting chapters about others' opinions and exploring the unknown in the book: Your Erroneous Zones from Wayne Dyer.
 
 ## Related advices
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Growing](../Categories/Growing.md)
+- [Try new things](../Try%20new%20things/index.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Growing](../Categories/Growing.md) [Personality](../Categories/Personality.md) [Unknown](../Categories/Unknown.md)

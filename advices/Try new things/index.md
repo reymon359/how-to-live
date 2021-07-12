@@ -1,50 +1,35 @@
 ---
-name: 'Try new things'
-Categories: ['Open-mindedness', 'Comfort zone', 'Unknown']
+name: 'Create your own opinion of things'
+Categories: ['Open-mindedness', 'Growing', 'Personality', 'Unknown']
 ---
-# Try new things
+# Create your own opinion of things
 
-Don't be afraid to try new things such as food, sports, activities, routines, whatever comes to your mind.
+The best way to know about something is to try it. This way you create your own opinion of it based on your experiences.
 
-You may discover new things you like or discard them for future occasions.
+Other people's opinions are good to help you make a choice, however, the best one will be your own.
 
-Have an open mind when doing something new.
+Some opinions that you already have may come from society. Don't be afraid to do something just because it is different from your cultural traditions or what other people may think about it.
 
-Don't over plan and let things flow. Be open to new experiences you were not supposed to have.
-
-The more things you try, the more you go outside your comfort zone and learn and grow.
+Never judge someone by the opinion of others.
 
 ## Quotes
 
-> “You never know what you can do until you try, and very few try unless they have to.” – C.S. Lewis
+> A wise man makes his own decisions, an ignorant man follows the public opinion. ― Grantland Rice
 
-> “Just try new things. Don’t be afraid. Step out of your comfort zones and soar, all right?” – Michelle Obama'
+> Don't let someone else's opinion of you become your reality. ― Les Brown
 
-> “You will enrich your life immeasurably if you approach it with a sense of wonder and discovery, and always challenge yourself to try new things.” – Nate Berkus
+> “Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.” ― Oscar Wilde
 
-> “Only those who will risk going too far can possibly find out how far one can go.” – T.S. Eliot
-
-> “I’m ever-changing and always evolving, always trying new things.” – Thomas Rhett'
-
-> “We keep moving forward, opening new doors, and doing new things, because we’re curious and curiosity keeps leading us down new paths.” – Walt Disney
-
-> “Life is worthwhile if you try. It doesn’t mean you can do everything, but there are a lot of things you can do, if you just try.” – Jim Rohn
-
-> “Make a habit of trying new things.” – Anonymous
-
-> “Life is about taking chances, trying new things, having fun, making mistakes and learning from it.” – Anonymous
-
-> “I’m always trying new things and learning new things.” – Morgan Freeman
-
-> “Unless you open yourself up to trying new things, you can’t find what you love.” – Anonymous
+> “Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.” ― Isaac Asimov
 
 ## Resources and credits
 
-- Chapter 6 "Exploring the unknown" from Wayne Dyer's Your Erroneous Zones speaks about this topic. I collected some sentences from it in my [book sentences project.](
-https://github.com/reymon359/book-sentences/blob/feature/atomic-habits/books/your-erroneous-zones/README.md#6-exploring-the-unknown)
+There are some interesting chapters about others' opinions and exploring the unknown in the book: Your Erroneous Zones from Wayne Dyer.
 
 ## Related advices
 
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Embrace growing](../Embrace%20growing/index.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+- [Try new things](../Try%20new%20things/index.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
