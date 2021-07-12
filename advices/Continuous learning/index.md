@@ -4,19 +4,21 @@ Categories: ['Learning', 'Growing', 'Goals', 'Success', 'Improving']
 ---
 # Continuous learning
 
-Never stop learning. Never. Have a list of all things you want to learn. Review it from time to time and once you learn something head to the next thing.
+Never stop learning. Never. 
 
-Have and open mind and don't be afraid to learn things that are very different to what you are used to.
+Have an open mind and don't be afraid to learn things that are very different from what you are used to.
 
-Learning something new will be hard at the beginning. You have to step outside of comfort zone to learn.
+Learning something new will be hard at the beginning. You have to step outside your comfort zone to learn.
 
 Book time and plan when to learn and what to learn.
 
 Research the internet to find the best resources to learn what you want to learn.
 
-If you want to learn something that other people think is useless or not worth it, listen to their arguments. However, if in the end you want to learn it just do it, you don't need their approval.
+Keep a list of all the things you want to learn. Review it from time to time and once you learn something head to the next thing.
 
-Try to learn something new every day. With the internet you have access to all the information available on the planet.
+If you want to learn something that other people think is useless or not worth it, listen to their arguments. However, if you want to learn it just do it, you don't need their approval.
+
+Try to learn something new every day. With the internet, you have access to all the information available on the planet.
 
 ## Quotes
 
@@ -37,3 +39,4 @@ Try to learn something new every day. With the internet you have access to all t
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
 - [Take Notes](../Take%20notes/index.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)

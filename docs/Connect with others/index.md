@@ -7,6 +7,8 @@ Open your mind to meet new people that can offer you new points of view and expe
 We are born and die alone, and we need to learn to be alone. 
 However, as humans, we like social interaction, and it is in our nature to look for it. Connecting with other people and establishing communities make us grow.
 
+Travel to new places to meet new people.
+
 ## Quotes
 
 > “A dream you dream alone is only a dream. A dream you dream together is reality.” ― John Lennon
@@ -23,4 +25,5 @@ However, as humans, we like social interaction, and it is in our nature to look 
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
 - [Do networking](../Do%20networking/index.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
 - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Communication](../Categories/Communication.md) [Relationships](../Categories/Relationships.md)
