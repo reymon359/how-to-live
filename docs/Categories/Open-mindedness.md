@@ -7,6 +7,8 @@
     
  - [Create your own opinion of things](../Create%20your%20own%20opinion%20of%20things/index.md)
     
+ - [Discover new music](../Discover%20new%20music/index.md)
+    
  - [Embrace growing](../Embrace%20growing/index.md)
     
  - [Emphathic listening](../Emphathic%20listening/index.md)

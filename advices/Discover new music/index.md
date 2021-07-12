@@ -1,16 +1,16 @@
 ---
 name: 'Discover new music'
-Categories: ['Happiness', 'Music', 'Open-mindness']
+Categories: ['Happiness', 'Music', 'Open-mindedness']
 ---
 # Discover new music
 
 Explore new music.
 
-Get inspired by other people and cultures.
+Travel. Get inspired by other people and cultures.
 
-Open your mind to new melodies and songs and genres.
+Open your mind to new melodies, songs, and genres.
 
-You may listen things you didn't even imagine.
+You may end up liking songs you didn't even imagine would exist.
 
 ## Quotes
 
@@ -22,10 +22,11 @@ You may listen things you didn't even imagine.
 
 ## Resources and credits
 
-- Apps where you can listen to music
-- Listen to different world radios http://radio.garden/
+When I travel and drive abroad, I like to listen to the radio from there and save the songs I end up liking.
 
 ## Related advices
 
 - [Listen to music](../Listen%20to%20music/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
+- [Try new things](../Try%20new%20things/index.md)
+- [Travel as much as you can](../../docs/Travel%20as%20much%20as%20you%20can/index.md)

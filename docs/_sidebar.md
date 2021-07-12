@@ -438,8 +438,6 @@
         
      - [Open-mindedness](../Categories/Open-mindedness.md)
         
-     - [Open-mindness](../Categories/Open-mindness.md)
-        
      - [Openmindedness](../Categories/Openmindedness.md)
         
      - [Optimization](../Categories/Optimization.md)
