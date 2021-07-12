@@ -7,8 +7,6 @@
     
  - [Create your own opinion of things](../Create%20your%20own%20opinion%20of%20things/index.md)
     
- - [Create your own opinion of things](../Create%20your%20own%20opinion%20of%20things/index.md)
-    
  - [Embrace growing](../Embrace%20growing/index.md)
     
  - [Emphathic listening](../Emphathic%20listening/index.md)
@@ -34,6 +32,8 @@
  - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
     
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+    
+ - [Try new things](../Try%20new%20things/index.md)
     
  - [When in doubt, follow standards](../When%20in%20doubt,%20follow%20standards/index.md)
     

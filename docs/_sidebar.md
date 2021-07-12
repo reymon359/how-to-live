@@ -48,8 +48,6 @@
         
      - [Create your own opinion of things](Create%20your%20own%20opinion%20of%20things/index.md)
         
-     - [Create your own opinion of things](Create%20your%20own%20opinion%20of%20things/index.md)
-        
      - [Discover new music](Discover%20new%20music/index.md)
         
      - [Do networking](Do%20networking/index.md)
@@ -257,6 +255,8 @@
      - [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
         
      - [Trust others](Trust%20others/index.md)
+        
+     - [Try new things](Try%20new%20things/index.md)
         
      - [We teach others how to treat us. ](We%20teach%20others%20how%20to%20treat%20us./index.md)
         

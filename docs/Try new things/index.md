@@ -1,7 +1,3 @@
----
-name: 'Try new things'
-Categories: ['Open-mindedness', 'Comfort zone', 'Unknown']
----
 # Try new things
 
 Don't be afraid to try new things such as food, sports, activities, routines, whatever comes to your mind.
@@ -47,4 +43,4 @@ https://github.com/reymon359/book-sentences/blob/feature/atomic-habits/books/you
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Embrace growing](../Embrace%20growing/index.md)
+- [Embrace growing](../Embrace%20growing/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Comfort zone](../Categories/Comfort%20zone.md) [Unknown](../Categories/Unknown.md)

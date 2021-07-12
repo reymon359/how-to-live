@@ -2,9 +2,9 @@
 
 The best way to know about something is to try it. This way you create your own opinion of it based on your experiences.
 
-Other people's opinions are good to help you make a choice, however, the best one will be your own.
+Other people opinions are good to help you make a choice however, the best one will be your own.
 
-Some opinions that you already have may come from society. Don't be afraid to do something just because it is different from your cultural traditions or what other people may think about it.
+Some opinions that you already have may come from the society. Don't be afraid to do something because of traditions or other people opinions about it.
 
 Never judge someone by the opinion of others.
 

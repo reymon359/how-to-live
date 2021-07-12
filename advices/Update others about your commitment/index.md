@@ -1,18 +1,18 @@
 ---
 name: 'Update others about your commitment'
-Categories: ['Respect', 'Communication','Integrity', 'Truth', 'Trust', 'Honesty']
+Categories: ['Respect', 'Communication', 'Commitment','Integrity', 'Truth', 'Trust', 'Honesty']
 ---
-# Update others about your commitment
+# Update others about your commitment (Already Reviewed, remove this)
 
 Communicate as much as you can to keep things clear. Keep others updated on the status of your commitment to avoid surprises and misunderstandings.
 
-No matter if the commitment is going good or bad. It is better to be updated about a bad commitment than to find it later.
+No matter if the commitment is going good or bad. It is better to be updated about a bad commitment than to find problems about it later.
 
-If you commit to meet someone at a certain hour, update them if you won't be able to attend it.
+Be punctual. If you commit to meet someone at a certain hour, update them if you won't be able to attend it.
 
-Avoiding this kind of surprise will help you have fewer issues.
+Avoiding surprises will help you have fewer issues.
 
-If you need help to complete it, ask for it.
+If you need help to complete a commitment, ask for it.
 
 Keeping up your commitments is related to your honesty and integrity. It means you can be trusted.
 
