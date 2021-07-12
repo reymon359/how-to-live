@@ -1,6 +1,6 @@
 ---
 name: 'Choose your problems'
-Categories: ['Growing', 'Problems']
+Categories: ['Growing', 'Problems', 'Commitment']
 ---
 # Choose your problems
 
@@ -12,6 +12,8 @@ For example, you can choose the problem to not enjoy smoking instead of the prob
 
 Sometimes making an extra effort can be a problem, however, it will prevent future ones.
 
+Before committing to something, think about the problems related to it and if you will be able to bear them.
+
 ## Resources and credits
 
 I had a nice deep talk about this with Javier Deblas at Sun&Co, Javea.
@@ -19,3 +21,4 @@ I had a nice deep talk about this with Javier Deblas at Sun&Co, Javea.
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
+- [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)

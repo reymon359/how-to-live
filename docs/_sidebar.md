@@ -332,6 +332,8 @@
         
      - [Comfort-zone](../Categories/Comfort-zone.md)
         
+     - [Commitment](../Categories/Commitment.md)
+        
      - [Communication](../Categories/Communication.md)
         
      - [Community](../Categories/Community.md)
