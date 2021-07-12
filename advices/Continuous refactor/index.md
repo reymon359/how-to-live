@@ -4,11 +4,9 @@ Categories: ['Growing', 'Refactor', 'Success', 'Improving']
 ---
 # Continuous refactor
 
-Refactoring is a systematic process of improving code without creating new functionality that can transform a mess into clean code and simple design.
+Refactoring is a systematic process of improving code without creating new functionality. It aims to transform a mess into clean code and simple design.
 
-In a continuous way, refactor your life mercilessly. Every time think of what can you improve in your life. This way, little by little, you get better and better.
-
-Each day think what can you do tomorrow that can improve your life? Then write it down and apply it the next day. Improve your life little by little.
+Refactor your life. Each day, think about what can you do tomorrow that can improve your life? Then write it down and apply it the next day. Improve your life little by little.
 
 ## Quotes
 
@@ -19,6 +17,8 @@ Each day think what can you do tomorrow that can improve your life? Then write i
 > “I’ve found that refactoring helps me write fast software. It slows the software in the short term while I’m refactoring, but it makes the software easier to tune during optimization. I end up well ahead.” ― Martin Fowler
 
 ## Resources and credits
+
+Some great books about good practices in software development I read
 
 - The Pragmatic Programmer from Andy Hunt and Dave Thomas
 - The Clean Coder, and The Clean Architecture from Robert C. Martin
