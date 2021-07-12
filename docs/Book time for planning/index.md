@@ -1,16 +1,14 @@
 # Book time for planning
 
-Book time to plan. Try to plan your week before begining it booking time for it in the weekend. Even expend some minutes each evening to plan the next day.
+Most of the problems and lack of time can be solved by planning your activities (assigning a date and time).
 
-When planning review your goals and split them into smaller objectives. Book time for those objectives.
+Try to plan your week on the weekend before beginning it. Even try to expend some minutes each evening to plan the next day.
+
+Split your tasks and goals into smaller objectives. Book, then time for those objectives.
 
 Envision what you want in the future so you can work and plan towards it.
 
-To be effective you need to act based on principles and constantly review your mission statements.
-
-Do not just act; think first: Is this how I want it to go, and are these the correct consequences?
-
-Most of the problems and lack of time can be solved by planning your activities (assigning a date and time).
+Use methods like the Eisenhower Matrix to review your tasks and assign them a priority.
 
 ## Quotes
 
@@ -22,13 +20,9 @@ Most of the problems and lack of time can be solved by planning your activities 
 
 ## Resources and credits
 
-- Stephen R. Covey, The 7 Habits of Highly Effective People
-
-## Resources and credits
-
-- The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People
+The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People.
 
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

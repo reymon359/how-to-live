@@ -12,6 +12,8 @@ To begin with the end in mind is to visualize your life, career, or a specific p
 
 There is no need to have a clear idea of it. You never know how your life will change and probably what you want right now won't be the same later.
 
+Do not just act; think first: Is this how I want it to go, and are these the correct consequences?
+
 ## Quotes
 
 > To begin with the end in mind means to start with a clear understanding of your destination. It means to know where you're going so that you better understand where you are now and so that the steps you take are always in the right direction. – Stephen R. Covey
