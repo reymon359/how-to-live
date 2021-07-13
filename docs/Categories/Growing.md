@@ -17,6 +17,8 @@
     
  - [Create your own opinion of things](../Create%20your%20own%20opinion%20of%20things/index.md)
     
+ - [Do networking](../Do%20networking/index.md)
+    
  - [Embrace growing](../Embrace%20growing/index.md)
     
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
