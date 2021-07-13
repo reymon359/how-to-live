@@ -13,6 +13,8 @@
     
  - [Do networking](../Do%20networking/index.md)
     
+ - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
+    
  - [Don’t Live with Broken Windows](../Don’t%20Live%20with%20Broken%20Windows/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)

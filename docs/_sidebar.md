@@ -66,6 +66,8 @@
         
      - [Don't compare yourself with others](Don't%20compare%20yourself%20with%20others/index.md)
         
+     - [Don't feel guilty](Don't%20feel%20guilty/index.md)
+        
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
      - [Don’t do something that hurts another person](Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -273,8 +275,6 @@
      - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-        
-     - [don't feel guilty](don't%20feel%20guilty/index.md)
         
      - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
         

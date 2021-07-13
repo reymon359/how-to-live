@@ -3,6 +3,8 @@
 
  - [Avoid complaining](../Avoid%20complaining/index.md)
     
+ - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
+    
  - [Exercise frequently](../Exercise%20frequently/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
