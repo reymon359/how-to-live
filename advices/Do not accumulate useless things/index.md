@@ -4,13 +4,14 @@ Categories: ['Material things', 'Minimalism', 'Happiness', 'Dependencies']
 ---
 # Do not accumulate useless things
 
-If aren't going to use something anymore don't keep it. Give it to someone else or just remove it from your life.
+If you aren't going to use something anymore, don't keep it. Give it to someone else, or just remove it from your life.
 
-If you keep it you will have to take care of it. You will be dependent of it.
+If you keep it, you will have to take care of it. You will be dependent on it.
 
 Review from time to time what you have and if there are things you no longer use.
 
 Have a minimalist mentality.
+
 ## Quotes
 
 > The greatest legacy one can pass on to one's children and grandchildren is not money or other material things accumulated in one's life, but rather a legacy of character and faith. - Billy Graham

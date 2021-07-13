@@ -1,12 +1,13 @@
 # Do not accumulate useless things
 
-If aren't going to use something anymore don't keep it. Give it to someone else or just remove it from your life.
+If you aren't going to use something anymore, don't keep it. Give it to someone else, or just remove it from your life.
 
-If you keep it you will have to take care of it. You will be dependent of it.
+If you keep it, you will have to take care of it. You will be dependent on it.
 
 Review from time to time what you have and if there are things you no longer use.
 
 Have a minimalist mentality.
+
 ## Quotes
 
 > The greatest legacy one can pass on to one's children and grandchildren is not money or other material things accumulated in one's life, but rather a legacy of character and faith. - Billy Graham
@@ -24,5 +25,4 @@ Have a minimalist mentality.
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.m)
-<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
+- [Buy just what you need](../Buy%20just%20what%20you%20need/index.m)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
