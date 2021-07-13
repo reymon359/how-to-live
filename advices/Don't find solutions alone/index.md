@@ -1,20 +1,21 @@
 ---
-name: 'Don't find solutions alone'
-Categories: ['Solutions', 'Communication']
+name: "Don't find solutions alone"
+Categories: ['Solutions', 'Communication', 'Help']
 ---
 # Don't find solutions alone
 
-If you are looking for a solution you will find it easier with the help of others.
+If you are looking for a solution, you will find it easier with the help of others.
 
 Ask for other people opinions and points of view, then evaluate them.
 
-Be grateful to the others that help you find that solution.
+Be grateful to others when they help you find a solution.
 
-You will solve the problem faster working as a team.
+You will solve any problem faster working as a team.
 
 ## Quotes
 
 > "Four eyes see more than two" ― Unknown
+
 > “Focus on the solution, not on the problem.” ― Jim Rohn
 
 > “If you define the problem correctly, you almost have the solution.” ― Steve Jobs

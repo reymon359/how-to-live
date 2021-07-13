@@ -68,6 +68,8 @@
         
      - [Don't feel guilty](Don't%20feel%20guilty/index.md)
         
+     - [Don't find solutions alone](Don't%20find%20solutions%20alone/index.md)
+        
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
      - [Don’t do something that hurts another person](Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -275,8 +277,6 @@
      - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-        
-     - [don't find solutions alone](don't%20find%20solutions%20alone/index.md)
         
      - [don't give more importance to things than they already have](don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
         
