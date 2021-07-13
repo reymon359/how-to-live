@@ -15,6 +15,8 @@
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
+ - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
+    
  - [Eating an elephant](../Eating%20an%20elephant/index.md)
     
  - [Embrace growing](../Embrace%20growing/index.md)

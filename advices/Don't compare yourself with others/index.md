@@ -1,18 +1,16 @@
 ---
-name: 'Don't compare yourself with others'
-Categories: ['Growing', 'Goals', 'Happiness', 'Integrity']
+name: "Don't compare yourself with others"
+Categories: ['Growing', 'Goals', 'Happiness', 'Integrity', 'Personality']
 ---
 # Don't compare yourself with others
 
-Don't compare yourself with others, just with yourself.
+Don't compare yourself with others, just with yourself. Compare yourself with the person you were yesterday and with the person you are today. Focus on being a better version of yourself.
 
 People often compare themselves to others to determine how well they are doing in life and base their personal value on that.
 
-Everyone is on a different path, and there are people who are better or worse off than you.
+Open your mind. Everyone is on a different path, and there are people who are doing better or worse off than you.
 
 By comparing yourself to others, you are holding yourself back.
-
-Compare yourself with the person you were yesterday and with the person you are today. Focus on being a better version of yourself.
 
 ## Quotes
 

@@ -19,6 +19,8 @@
     
  - [Do networking](../Do%20networking/index.md)
     
+ - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
+    
  - [Embrace growing](../Embrace%20growing/index.md)
     
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)

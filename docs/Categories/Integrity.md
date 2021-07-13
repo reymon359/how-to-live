@@ -19,6 +19,8 @@
     
  - [Don't bad-mouth](../Don't%20bad-mouth/index.md)
     
+ - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
+    
  - [Give credit](../Give%20credit/index.md)
     
  - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
