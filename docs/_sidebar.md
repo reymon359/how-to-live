@@ -60,6 +60,8 @@
         
      - [Do what you want](Do%20what%20you%20want/index.md)
         
+     - [Don't bad-mouth](Don't%20bad-mouth/index.md)
+        
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
      - [Don’t do something that hurts another person](Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -268,8 +270,6 @@
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
         
-     - [don't bad-mouth](don't%20bad-mouth/index.md)
-        
      - [don't be emotionally attached to money and material things](don't%20be%20emotionally%20attached%20to%20money%20and%20material%20things/index.md)
         
      - [don't compare yourself with others](don't%20compare%20yourself%20with%20others/index.md)
@@ -357,6 +357,8 @@
      - [Focus](../Categories/Focus.md)
         
      - [Freedom](../Categories/Freedom.md)
+        
+     - [Friendhips](../Categories/Friendhips.md)
         
      - [Friendship](../Categories/Friendship.md)
         

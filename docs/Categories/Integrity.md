@@ -17,6 +17,8 @@
     
  - [Be punctual](../Be%20punctual/index.md)
     
+ - [Don't bad-mouth](../Don't%20bad-mouth/index.md)
+    
  - [Give credit](../Give%20credit/index.md)
     
  - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
