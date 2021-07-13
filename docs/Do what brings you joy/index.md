@@ -1,24 +1,27 @@
 # Do what brings you joy
 
-It is never too late to amend the mistakes of the past.
+When you are not sure if you are going in the right direction in life or worried about your future, focus on what brings you joy.
 
-There is always a way to amend wrong things.
+Pay attention to the things you are doing in your day by day and embrace those that bring you joy.
 
-If you do something wrong to someone, apologize and try to amend it.
+We tend to think too much about the future and where we want to be, sometimes it is better to focus on the present moment and the things that make us happy.
+
+Maybe you have to step outside your comfort zone and change some aspects of your life to do what you want and bring you joy.
 
 ## Quotes
 
-> The real fault is to have faults and not amend them. ― Confucius
+> “Do what makes YOU happy. Focus on what brings YOU joy. Appreciate and do more things that make YOU smile. Live your life for yourself. You matter! You count! You’re deserving of true happiness! This is YOUR life. Live it to the fullest! Live life with no regrets.” ― Stephanie Lahart
 
-> The justice of our cause must be reflected in the manner in which we Amend the crimes of the past. ― Jalal Talabani
+> “If you fail, you will be criticized, and if you succeed you will be criticized, you can’t make everyone happy. So you may as well do what makes you happy.” ― Senora Roy
 
-> “Every night, we should make it a point to take some time to recall our day before sleeping. When we don’t do this, we are unable to make amends for the things that we did wrong.” ― Dr Prem Jagyasi
+> I think, whatever makes you happy in life, you gotta do it. You can’t plan in life too much. ― Tyga
 
 ## Resources and credits
 
-Having a talk with my friend, Pablo Llorca, made me realize this in a deep way.
-
+This one is heavily inspired by a great talk I had with Jean-Philippe at Chateau Coliving about finding your path and purpose in life.
 
 ## Related advices
 
-- do what you want<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
+- [Enjoy the moment](../Enjoy%20the%20moment/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)

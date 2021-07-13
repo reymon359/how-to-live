@@ -14,6 +14,8 @@ Smile and be grateful for what you have.
 
 ## Quotes
 
+> “Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.” – Thich Nhat Hanh
+
 > A simple smile. That’s the start of opening your heart and being compassionate to others. – Dalai Lama
 
 > Because of your smile, you make life more beautiful. – Thich Nhat Hanh
