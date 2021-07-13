@@ -1,14 +1,16 @@
 ---
-name: 'Don't be emotionally attached to money and material things'
+name: "Don't be emotionally attached to money and material things"
 Categories: ['Material things', 'Money', 'Happiness', 'Minimalism']
 ---
 # Don't be emotionally attached to money and material things
 
-When money is your ideal, of course you won’t like spending it — it’s the thing you’re working for!  But when money is not your ultimate goal, you recognize that money is easily replaceable.  A dollar I make today is the same as a dollar I make tomorrow.
+When money is your ideal, you won’t like spending it because it’s the thing you’re working for!  But when money is not your ultimate goal, you recognize that money is easily replaceable.  A dollar made today is the same as a dollar made tomorrow.
 
 Material things come and go. If you get attached to them emotionally, you will suffer when they are no longer there.
 
 The less attached emotionally to things you are, the happier you will be.
+
+Follow a minimalism lifestyle. The fewer things you have, the fewer attachments.
 
 ## Quotes
 

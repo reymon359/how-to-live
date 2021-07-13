@@ -23,6 +23,8 @@
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
+ - [Don't be emotionally attached to money and material things](../Don't%20be%20emotionally%20attached%20to%20money%20and%20material%20things/index.md)
+    
  - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)
