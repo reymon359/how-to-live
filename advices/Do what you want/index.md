@@ -6,18 +6,17 @@ Categories: ['Happiness', 'Respect', 'Goals', 'Success']
 
 If you really want to do something, just do it.
 
-If you are happy doing something that's the important.
-
 Other people may tell you that they wouldn't do it.
 
-Of course, do it respecting others and doing no harm to anyone.
+Do what you want while respecting others and doing no harm to anyone.
 
-The more you know yourself, the easier to it is to know what you really want.
+If you are happy doing something, that's what matters.
+
+The more you know yourself, the easier it is to know what you really want.
 
 Be open-minded and understand that other people also want to do what they want. No matter how different it is from what you want.
 
-Pay attention to frustration, if you feel frustrated it may mean you are in a situation you do not want to be or that you are doing something you don't want to do. Use that frustration, learn from it and move toward the situation you want to be in.
-
+Pay attention to frustration, if you feel frustrated it may mean you are in a situation you do not want to be, or you may be doing something you don't want to do. Use that frustration, learn from it, and move toward the situation you want to be in.
 
 ## Quotes
 
@@ -35,7 +34,7 @@ Pay attention to frustration, if you feel frustrated it may mean you are in a si
 
 ## Resources and credits
 
-- Your Erroneous Zones. Wayne Dyer - 1976
+Learned from experiences, although Your Erroneous Zones from Wayne Dyer discussed this topic nicely.
 
 ## Related advices
 
@@ -45,3 +44,4 @@ Pay attention to frustration, if you feel frustrated it may mean you are in a si
 - [Respect others opinion](../Respect%20others%20pinion/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
