@@ -1,14 +1,16 @@
 ---
 name: 'Do one thing and do it well'
-Categories: ['Goals', 'Productivity', 'Minimalism']
+Categories: ['Goals', 'Productivity', 'Focus']
 ---
 # Do one thing and do it well
 
 Do not try to do many things, focus on one and dedicate your effort to it.
 
-When you try to do a lot of things you end up doing nothing, or at least nothing well done.
+When you try to do a lot of things, you end up doing nothing, or at least nothing well done.
 
-Pay attention to the details. Seek excellence on what you are doing.
+Pay attention to the details. Seek excellence in what you are doing.
+
+Avoid distractions and pay attention to what you are doing. Use techniques like the Pomodoro timer.
 
 ## Quotes
 
@@ -16,5 +18,5 @@ Pay attention to the details. Seek excellence on what you are doing.
 
 ## Related advices
 
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Pay attention](../Pay%20attention/index.md)
+- [Finish what you start](../Finish%20what%20you%20start/index.md)
