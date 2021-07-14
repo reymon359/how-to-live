@@ -17,6 +17,8 @@
     
  - [Discover new music](../Discover%20new%20music/index.md)
     
+ - [Do no harm](../Do%20no%20harm/index.md)
+    
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
     
  - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
@@ -28,8 +30,6 @@
  - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
     
  - [Don't worry](../Don't%20worry/index.md)
-    
- - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)
     

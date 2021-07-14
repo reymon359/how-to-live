@@ -34,5 +34,5 @@ Traveling and living in other ocuntries made me grow a lot in this aspect.
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Most religions have great values](../Most%20religions%20have%20great%20values/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Don't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
+- [Don't do something that hurts another person](../Do%20no%20harm/index.md)
 - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)

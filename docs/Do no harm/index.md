@@ -1,16 +1,14 @@
----
-name: 'Don’t do something that hurts another person'
-Categories: ['Respect', 'Problems', 'Help', 'Happiness', 'Mistakes']
----
-# Don’t do something that hurts another person
+# Do no harm
 
-Not just physically but mentally too. Just be kind, try to help them instead.
+Just be kind, try to help them instead of doing harm. 
+
+Not just physically, but mentally too.
 
 If you end up doing something harmful to another person, apologize and help them solve it.
 
-We all make mistakes, and sometimes we can end up doing not on purpose. Don't worry or feel pity, it won't solve it. Just apologize and help them.
+We all make mistakes, and sometimes we can end up doing something we didn't intend to. Feeling worried or guilty won't solve it. Just apologize and help them.
 
-In addition, don't do things that hurt nature.
+Don't harm nature, either. Respect the world we all live on.
 
 ## Quotes
 
@@ -33,4 +31,4 @@ In addition, don't do things that hurt nature.
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
 - [Apologize](../Apologize/index.md)
 - [Be kind](../Be%20kind/index.md)
-- [Respect nature](../Respect%20nature/index.md)
+- [Respect nature](../Respect%20nature/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Problems](../Categories/Problems.md) [Help](../Categories/Help.md) [Happiness](../Categories/Happiness.md) [Mistakes](../Categories/Mistakes.md)

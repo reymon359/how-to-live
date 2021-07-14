@@ -38,7 +38,7 @@ I decided to use the name of Wayne Dyer's book Your Erroneous Zones's chapter 3 
 
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
-- [Dn't do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
+- [Dn't do something that hurts another person](../Do%20no%20harm/index.md)
 - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
 
 <hr/><br/>

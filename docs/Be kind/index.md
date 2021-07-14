@@ -22,4 +22,4 @@ If you act with kindness, you will get that back. People will treat you in a kin
 
 - [Helping others makes you happy](../Helping%20makes%20you%20happy/index.md)
 - [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
-- [Don't do something that hurt another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)
+- [Don't do something that hurt another person](../Do%20no%20harm/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)
