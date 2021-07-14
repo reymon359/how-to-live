@@ -1,6 +1,8 @@
 # Procrastination
 
 
+ - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
+    
  - [Keep the focus](../Keep%20the%20focus/index.md)
     
  - [Learn the difference between procrastination and leisure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)

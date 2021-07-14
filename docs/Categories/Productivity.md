@@ -1,6 +1,8 @@
 # Productivity
 
 
+ - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
+    
  - [Be proactive](../Be%20proactive/index.md)
     
  - [Book time for planning](../Book%20time%20for%20planning/index.md)

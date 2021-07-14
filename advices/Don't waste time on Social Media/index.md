@@ -25,5 +25,5 @@ The issue is when you waste your time browsing stuff that doesn't bring you anyt
 ## Related advices
 
 - [Avoid the phone when going to sleep](../Avoid%20the%20phone%20when%20going%20to%20sleep/index.md)
-- [Don't procrastinate](../Don't%20procrastinate/index.md)
+- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
 - [Put your phone down](../Put%20your%20phone%20down/index.md)

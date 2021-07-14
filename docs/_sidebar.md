@@ -16,6 +16,8 @@
         
      - [Avoid overthinking](Avoid%20overthinking/index.md)
         
+     - [Avoid procrastinating](Avoid%20procrastinating/index.md)
+        
      - [Be empathetic](Be%20empathetic/index.md)
         
      - [Be grateful](Be%20grateful/index.md)
@@ -285,8 +287,6 @@
      - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-        
-     - [don't procrastinate](don't%20procrastinate/index.md)
         
      - [don't reinvent the wheel](don't%20reinvent%20the%20wheel/index.md)
         

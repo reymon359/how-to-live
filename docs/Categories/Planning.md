@@ -1,6 +1,8 @@
 # Planning
 
 
+ - [Avoid overthinking](../Avoid%20overthinking/index.md)
+    
  - [Book leisure time](../Book%20leisure%20time/index.md)
     
  - [Book time for planning](../Book%20time%20for%20planning/index.md)

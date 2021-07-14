@@ -39,4 +39,4 @@ When talking to people, they sometimes tell me about something they want to do o
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Don't procrastinate](../Don't%20procrastinate/index.md)
+- [Avoid procrastinating](../Avoid%20procrastinating/index.md)

@@ -22,4 +22,4 @@ Sometimes we overthink about what doesn't depend on us. If you need to, ask for 
 - [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Don't worry](../Don't%20worry/index.md)
-- [Don't feel guilty](../Don't%20feel%20guilty/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md)
+- [Don't feel guilty](../Don't%20feel%20guilty/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md) [Focus](../Categories/Focus.md) [Planning](../Categories/Planning.md)

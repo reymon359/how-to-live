@@ -14,5 +14,5 @@ Although there is a book with the same title, I haven't read it. Therefore, I do
 
 ## Related advices
 
-- [Don't procrastinate](../Don't%20procrastinate/index.md)
+- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
 <hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Focus](../Categories/Focus.md)

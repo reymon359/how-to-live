@@ -35,7 +35,7 @@ Do not wait for motivation to do things. Take action, and the motivation will co
 ## Related advices
 
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Don't procrastinate](../Don't%20procrastinate/index.md)
+- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [The 2 minutes rule](../The%202%20minutes%20rule/index.md)

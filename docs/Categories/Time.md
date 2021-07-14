@@ -1,6 +1,8 @@
 # Time
 
 
+ - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
+    
  - [Be punctual](../Be%20punctual/index.md)
     
  - [Book leisure time](../Book%20leisure%20time/index.md)

@@ -28,7 +28,7 @@ Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effect
 
 ## Related advices
 
-- [Don't Procrastinate](../Don't%20procrastinate/index.md)
+- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)

@@ -16,7 +16,7 @@ Don't be afraid of the unknown.
 
 You only live once, don't fall into a routine you don't enjoy. Be proactive and open-minded. Be willing to try new things. No matter how hard they seem to be.
 
-If you want to do something, just do it. No matter how hard it is or what other people think about it. Don't procrastinate and make up excuses, step outside your comfort zone and go for it.
+If you want to do something, just do it. No matter how hard it is or what other people think about it. Avoid procrastinating and make up excuses, step outside your comfort zone and go for it.
 
 ## Quotes
 
@@ -56,6 +56,6 @@ I have talked about this topic with a lot of people. Also, read many books that 
 - [Be proactive](../Be%20proactive/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Don't procastinate](../Don't%20procrastinate/index.md)
+- [Don't procastinate](../Avoid%20procrastinating/index.md)
 - [Take action](../Take%20action/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)

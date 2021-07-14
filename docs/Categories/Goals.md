@@ -1,6 +1,8 @@
 # Goals
 
 
+ - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
+    
  - [Be proactive](../Be%20proactive/index.md)
     
  - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)

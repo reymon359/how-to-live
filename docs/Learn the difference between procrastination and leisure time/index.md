@@ -22,7 +22,7 @@ I read about this in some book but can't remember the name now.
 
 ## Related advices
 
-- [Don't Procrastinate](../Don't%20procrastinate)
+- [Avoid procrastinating](../Avoid%20procrastinating)
 - [Book leisure time](../Book%20leisure%20time/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
 <hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Procrastination](../Categories/Procrastination.md) [Leisure](../Categories/Leisure.md)
