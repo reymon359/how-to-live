@@ -21,6 +21,8 @@
     
  - [Don't find solutions alone](../Don't%20find%20solutions%20alone/index.md)
     
+ - [Don't interrupt](../Don't%20interrupt/index.md)
+    
  - [Embrace communication](../Embrace%20communication/index.md)
     
  - [Emphathic listening](../Emphathic%20listening/index.md)

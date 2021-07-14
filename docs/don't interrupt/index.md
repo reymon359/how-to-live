@@ -1,12 +1,12 @@
 # Don't interrupt
 
-If someone is focused in doing something let them finish and don't interrupt them.
+If someone is focused on doing something, let them finish and don't interrupt them.
 
-Don't interrupt someone when they are talking.
+Don't interrupt someone when they are talking. Be respectful.
 
-Listen to them properly, wait for them to finish, and then say whatever you wanted to say.
+Listen to them properly, wait for them to finish, and then say whatever you needed to say. Most times you won't need to say it anymore.
 
-Don't feel the urge to communicate your opinion.
+Avoid the urge to communicate your opinion.
 
 ## Quotes
 
@@ -20,4 +20,5 @@ Don't feel the urge to communicate your opinion.
 
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-<hr/><br/>
+- [Empathic listening](../Empathic%20Listening/index.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md) [Respect](../Categories/Respect.md)
