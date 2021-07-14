@@ -17,6 +17,8 @@
     
  - [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
     
+ - [Don't worry](../Don't%20worry/index.md)
+    
  - [Don’t Live with Broken Windows](../Don’t%20Live%20with%20Broken%20Windows/index.md)
     
  - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)

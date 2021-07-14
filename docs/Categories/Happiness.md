@@ -27,6 +27,8 @@
     
  - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
     
+ - [Don't worry](../Don't%20worry/index.md)
+    
  - [Don’t do something that hurts another person](../Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)

@@ -21,6 +21,8 @@
     
  - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)
     
+ - [Don't worry](../Don't%20worry/index.md)
+    
  - [Don’t Live with Broken Windows](../Don’t%20Live%20with%20Broken%20Windows/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)

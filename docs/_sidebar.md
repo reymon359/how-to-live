@@ -84,6 +84,8 @@
         
      - [Don't waste time on social media](Don't%20waste%20time%20on%20social%20media/index.md)
         
+     - [Don't worry](Don't%20worry/index.md)
+        
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
      - [Don’t do something that hurts another person](Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -291,8 +293,6 @@
      - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-        
-     - [don't worry](don't%20worry/index.md)
         
      - [dry don't repeat yourself](dry%20don't%20repeat%20yourself/index.md)
         

@@ -11,6 +11,8 @@
     
  - [Don't waste time on social media](../Don't%20waste%20time%20on%20social%20media/index.md)
     
+ - [Don't worry](../Don't%20worry/index.md)
+    
  - [Exercise frequently](../Exercise%20frequently/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)

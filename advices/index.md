@@ -8,6 +8,8 @@ name: 'How to live'
 
 This is how I see life at this moment. It can change.
 
+most of the books references blabla book sentences
+
 ## First attempt
 
 This was my rough first attempt to represent what I had in my mind.
