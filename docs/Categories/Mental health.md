@@ -5,6 +5,8 @@
     
  - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
     
+ - [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
+    
  - [Exercise frequently](../Exercise%20frequently/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
