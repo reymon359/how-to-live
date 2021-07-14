@@ -29,7 +29,7 @@ Little, by little, life teaches you about this with the choices you make.
 ## Related advices
 
 - [Don't worry](../Don't%20worry/index.md)
-- [Don't overthink](../Don't%20overthink/index.md)
+- [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)

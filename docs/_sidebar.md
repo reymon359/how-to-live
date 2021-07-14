@@ -14,6 +14,8 @@
         
      - [Avoid complaining](Avoid%20complaining/index.md)
         
+     - [Avoid overthinking](Avoid%20overthinking/index.md)
+        
      - [Be empathetic](Be%20empathetic/index.md)
         
      - [Be grateful](Be%20grateful/index.md)
@@ -284,8 +286,6 @@
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
         
-     - [don't overthink](don't%20overthink/index.md)
-        
      - [don't procrastinate](don't%20procrastinate/index.md)
         
      - [don't reinvent the wheel](don't%20reinvent%20the%20wheel/index.md)
@@ -360,7 +360,7 @@
         
      - [Friendhips](../Categories/Friendhips.md)
         
-     - [Friendship](../Categories/Friendship.md)
+     - [Friendships](../Categories/Friendships.md)
         
      - [Future](../Categories/Future.md)
         

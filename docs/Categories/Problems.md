@@ -7,6 +7,8 @@
     
  - [Ask for help](../Ask%20for%20help/index.md)
     
+ - [Avoid overthinking](../Avoid%20overthinking/index.md)
+    
  - [Choose your problems](../Choose%20your%20problems/index.md)
     
  - [Don't bad-mouth](../Don't%20bad-mouth/index.md)

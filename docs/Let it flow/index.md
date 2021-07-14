@@ -4,7 +4,7 @@ This one is about feeling calm and not worrying. It is key when facing most prob
 
 When I was in Morocco my favorite saying was _Insha'Allah_ which means "if God wills" or "God willing". It was a religious way of saying _let it flow_ and sounded so good.
 
-Don't overthink or over plan things. Plan a bit and let them flow. Nothing ends up being as planned, so just plan the necessary and then adapt to the situation.
+Avoid overthinking or over plan things. Plan a bit and let them flow. Nothing ends up being as planned, so just plan the necessary and then adapt to the situation.
 
 Let each one do what they want. Let plans flow and open your mind to other people's likes and opinions. You will learn and grow.
 
@@ -31,7 +31,7 @@ Moroccan people that taught me _Insha'Allah_
 ## Related advices
 
 - [Don't worry](../Don't%20worry/index.md)
-- [Don't overthink](../Don't%20overthink/index.md)
+- [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Be grateful](../Be%20grateful/index.md)

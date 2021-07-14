@@ -336,6 +336,8 @@ Each advice sections
     
  - [Avoid complaining](Avoid%20complaining/index.md)
     
+ - [Avoid overthinking](Avoid%20overthinking/index.md)
+    
  - [Be empathetic](Be%20empathetic/index.md)
     
  - [Be grateful](Be%20grateful/index.md)
@@ -605,8 +607,6 @@ Each advice sections
  - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
     
  - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-    
- - [don't overthink](don't%20overthink/index.md)
     
  - [don't procrastinate](don't%20procrastinate/index.md)
     

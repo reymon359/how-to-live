@@ -1,14 +1,14 @@
 ---
-name: 'Don't overthink
-Categories: ['Health', 'Mental health', 'Problems']
+name: 'Avoid overthinking'
+Categories: ['Health', 'Mental health', 'Problems', 'Focus', 'Planning']
 ---
-# Don't overthink
+# Avoid overthinking
 
-To overthink is to think about something you have already thought. It is a waste of time and energy. It immobilizes you.
-
-Sometimes we overthink about things that don't depend on us. Try to communicate with the people those things depend on to solve them. Ask for help if you need to.
+To overthink is to think about something more than necessary. It is a waste of time and energy. It immobilizes you.
 
 When we overthink too much about doing something, or we plan it without taking action, we are suffering _Analysis Paralysis._
+
+Sometimes we overthink about what doesn't depend on us. If you need to, ask for help. Communicate with the people those things depend on to solve them.
 
 ## Quotes
 

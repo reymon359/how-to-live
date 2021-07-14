@@ -36,7 +36,7 @@ There is always a solution. Find the best one and apply it.
 
 - [Don't worry](../Don't%20worry/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Don't overthink](../Don't%20overthink/index.md)
+- [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Fail with success](../Fail%20with%20success/index.md)
 - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
 - [There is always a solution](../../docs/There%20is%20always%20a%20solution/index.md)

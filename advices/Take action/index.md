@@ -41,6 +41,6 @@ Your Erroneous Zones from Wayne Dyer discussed this topic.
 - [Be proactive](../Be%20proactive/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Don't procrastinate](../Don't%20procrastinate/index.md)
-- [Don't overthink](../Don't%20overthink/index.md)
+- [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md) 

@@ -6,7 +6,7 @@ Categories: ['Growing', 'Choices', 'Open-mindedness']
 
 When making a decision, we tend to look for the good option because we don't want to fail or be wrong. However, the reality is that life is no black or white, there are no good or bad choices, just choices.
 
-Therefore, don't overthink when making a choice. Take action and make one.
+Therefore, Avoid overthinking when making a choice. Take action and make one.
 
 There is no right and wrong. Be open-minded. People are different and each one see things from their perspectives.
 
@@ -30,6 +30,6 @@ Wayne Dyer discuss this in The Right vs. Wrong Trap, from his book Your Erroneou
 
 ## Related advices
 
-- [Don't overthink](../Don't%20overthink/index.md)
+- [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Take action](../Take%20action/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)

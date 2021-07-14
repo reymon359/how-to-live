@@ -49,7 +49,7 @@
     
  - [Friendhips](../Categories/Friendhips.md)
     
- - [Friendship](../Categories/Friendship.md)
+ - [Friendships](../Categories/Friendships.md)
     
  - [Future](../Categories/Future.md)
     
