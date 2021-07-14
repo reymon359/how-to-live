@@ -1,12 +1,14 @@
 ---
-name: 'Don't reinvent the wheel'
+name: "Don't reinvent the wheel"
 Categories: ['Productivity', 'Time', 'Solutions', 'Ideas']
 ---
 # Don't reinvent the wheel
 
-The first thing you should do when you have an idea or are looking for a solution is research. Check if that idea or a similar one already exists. Research and ask for help to see if there is already a solution for your issue.
+Check the _state of the art_ of that idea before deep diving into it.
 
-Check the _state of the art_ of that idea before deep diving in to it.
+The first thing you should do when you have an idea or are looking for a solution is research. Check if that idea or a similar one already exists.
+
+Research and ask for help to see if there is already a solution for your issue.
 
 You will save an enormous quantity of time and effort.
 

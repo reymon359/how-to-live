@@ -71,6 +71,8 @@
     
  - [Honesty](../Categories/Honesty.md)
     
+ - [Ideas](../Categories/Ideas.md)
+    
  - [Improvement](../Categories/Improvement.md)
     
  - [Improving](../Categories/Improving.md)

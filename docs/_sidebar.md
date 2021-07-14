@@ -80,6 +80,8 @@
         
      - [Don't judge the whole by the part](Don't%20judge%20the%20whole%20by%20the%20part/index.md)
         
+     - [Don't reinvent the wheel](Don't%20reinvent%20the%20wheel/index.md)
+        
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
      - [Don’t do something that hurts another person](Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -288,8 +290,6 @@
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
         
-     - [don't reinvent the wheel](don't%20reinvent%20the%20wheel/index.md)
-        
      - [don't waste time on social media](don't%20waste%20time%20on%20social%20media/index.md)
         
      - [don't worry](don't%20worry/index.md)
@@ -381,6 +381,8 @@
      - [Helping](../Categories/Helping.md)
         
      - [Honesty](../Categories/Honesty.md)
+        
+     - [Ideas](../Categories/Ideas.md)
         
      - [Improvement](../Categories/Improvement.md)
         

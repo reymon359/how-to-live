@@ -9,6 +9,8 @@
     
  - [Book time for planning](../Book%20time%20for%20planning/index.md)
     
+ - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)
+    
  - [Eating an elephant](../Eating%20an%20elephant/index.md)
     
  - [Learn step by step](../Learn%20step%20by%20step/index.md)

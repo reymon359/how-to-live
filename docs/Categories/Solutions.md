@@ -19,6 +19,8 @@
     
  - [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
     
+ - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)
+    
  - [Don’t Live with Broken Windows](../Don’t%20Live%20with%20Broken%20Windows/index.md)
     
  - [Embrace communication](../Embrace%20communication/index.md)
