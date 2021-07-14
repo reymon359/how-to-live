@@ -1,6 +1,6 @@
 ---
 name: 'Nobody thinks the same way you do'
-Categories: ['Communication', 'Respect', 'Openmindedness']
+Categories: ['Communication', 'Respect', 'Open-mindedness']
 ---
 # Nobody thinks the same way you do
 

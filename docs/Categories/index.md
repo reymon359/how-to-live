@@ -129,8 +129,6 @@
     
  - [Open-mindedness](../Categories/Open-mindedness.md)
     
- - [Openmindedness](../Categories/Openmindedness.md)
-    
  - [Optimization](../Categories/Optimization.md)
     
  - [Personality](../Categories/Personality.md)

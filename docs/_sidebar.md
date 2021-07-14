@@ -74,6 +74,8 @@
         
      - [Don't interrupt](Don't%20interrupt/index.md)
         
+     - [Don't judge the whole by the part](Don't%20judge%20the%20whole%20by%20the%20part/index.md)
+        
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
      - [Don’t do something that hurts another person](Don’t%20do%20something%20that%20hurts%20another%20person/index.md)
@@ -282,8 +284,6 @@
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
         
-     - [don't judge the whole by the part](don't%20judge%20the%20whole%20by%20the%20part/index.md)
-        
      - [don't overthink](don't%20overthink/index.md)
         
      - [don't procrastinate](don't%20procrastinate/index.md)
@@ -439,8 +439,6 @@
      - [Open minded](../Categories/Open%20minded.md)
         
      - [Open-mindedness](../Categories/Open-mindedness.md)
-        
-     - [Openmindedness](../Categories/Openmindedness.md)
         
      - [Optimization](../Categories/Optimization.md)
         

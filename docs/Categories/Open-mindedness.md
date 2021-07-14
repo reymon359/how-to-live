@@ -9,6 +9,8 @@
     
  - [Discover new music](../Discover%20new%20music/index.md)
     
+ - [Don't judge the whole by the part](../Don't%20judge%20the%20whole%20by%20the%20part/index.md)
+    
  - [Embrace growing](../Embrace%20growing/index.md)
     
  - [Emphathic listening](../Emphathic%20listening/index.md)
@@ -18,6 +20,8 @@
  - [Let it flow](../Let%20it%20flow/index.md)
     
  - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
+    
+ - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
     
  - [Open your mind](../Open%20your%20mind/index.md)
     
@@ -30,6 +34,8 @@
  - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
     
  - [The rule of holes](../The%20rule%20of%20holes/index.md)
+    
+ - [The world is not fair](../The%20world%20is%20not%20fair/index.md)
     
  - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
     

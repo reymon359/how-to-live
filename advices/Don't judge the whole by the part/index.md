@@ -1,14 +1,16 @@
 ---
-name: 'Don't judge the whole by the part'
-Categories: ['Respect', 'Community', 'Relationships', 'Open mindness']
+name: "Don't judge the whole by the part"
+Categories: ['Respect', 'Community', 'Relationships', 'Open-mindedness']
 ---
 # Don't judge the whole by the part
 
-You cannot judge a group by one person from it.
+You cannot judge a group of people by one person from it.
 
 The same goes by judging a person just for being part of a country, group, community, ... All of us are different and have different opinions and beliefs.
 
-This also goes with other things, just because you have visited a city from a country you can not judge the whole country. Or just because you tried a local food you didn't like from a country you can not say you dislike the whole country's food.
+This applies to not just people. Just because you have visited a city from a country, you can not judge the whole country. Or, just because you tried a meal from a country, you shouldn't dislike the whole country's food.
+
+Try new things and look for new experiences to open your mind.
 
 ## Quotes
 
@@ -23,3 +25,5 @@ This also goes with other things, just because you have visited a city from a co
 - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
+- [Open your mind](../Open%20your%20mind/index.md)
+- [Try new things](../Try%20new%20things/index.md)
