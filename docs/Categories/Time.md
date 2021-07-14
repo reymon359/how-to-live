@@ -11,6 +11,8 @@
     
  - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)
     
+ - [Don't waste time on social media](../Don't%20waste%20time%20on%20social%20media/index.md)
+    
  - [Eating an elephant](../Eating%20an%20elephant/index.md)
     
  - [Learn step by step](../Learn%20step%20by%20step/index.md)

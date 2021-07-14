@@ -9,6 +9,8 @@
     
  - [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
     
+ - [Don't waste time on social media](../Don't%20waste%20time%20on%20social%20media/index.md)
+    
  - [Exercise frequently](../Exercise%20frequently/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
