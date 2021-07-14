@@ -90,8 +90,6 @@
         
      - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
         
-     - [Don’t feel bad about making mistakes](Don’t%20feel%20bad%20about%20making%20mistakes/index.md)
-        
      - [Drink enough water](Drink%20enough%20water/index.md)
         
      - [Eat healthy](Eat%20healthy/index.md)
@@ -283,6 +281,8 @@
      - [Trust others](Trust%20others/index.md)
         
      - [Try new things](Try%20new%20things/index.md)
+        
+     - [We all make mistakes](We%20all%20make%20mistakes/index.md)
         
      - [We teach others how to treat us. ](We%20teach%20others%20how%20to%20treat%20us./index.md)
         

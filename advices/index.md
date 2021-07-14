@@ -98,7 +98,7 @@ Life is complicated and awesome at the same time. This doc tries to help at it a
     54. Teaching is one of the best ways to learn, this can be done talking with others, writing a post, giving a talk. Related Helping
     55. Question everything. do not take anything for granted, do not accept a "this is so because it is so" as an answer
 10. Mistakes
-    56. Don’t feel bad about making mistakes, instead, feel good because next time you will know better how to act in that situation. Every time I make a mistake, I do not overthink it, I just say to myself that Its ok and that the next time I will do better.
+    56. We all make mistakes, instead, feel good because next time you will know better how to act in that situation. Every time I make a mistake, I do not overthink it, I just say to myself that Its ok and that the next time I will do better.
     57. Broken windows.
     58. The problem is to make a mistake or doing something wrong and keep doing it while you know it is wrong. 
 11. Solutions

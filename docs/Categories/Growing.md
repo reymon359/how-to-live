@@ -47,6 +47,8 @@
     
  - [Trust others](../Trust%20others/index.md)
     
+ - [We all make mistakes](../We%20all%20make%20mistakes/index.md)
+    
  - [We teach others how to treat us. ](../We%20teach%20others%20how%20to%20treat%20us./index.md)
     
  - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)

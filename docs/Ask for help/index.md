@@ -6,11 +6,15 @@ Be proactive. At first, look for yourself if you can solve the problem you face.
 
 Be honest. Better to ask for help on time than not to comply with what you promise.
 
-If someone else needs it, offer your help to them.
+If someone else needs help, offer yours to them.
 
 Don't be afraid of feeling weak for it. You are brave when you ask for help.
 
 If you are stuck and need help on a task, update others about it.
+
+Use nowadays technology. Ask for help on the internet if people around you can not help you.
+
+Take care of your health. If you don't feel good, ask for medical help. Go to the doctor.
 
 ## Quotes
 
@@ -26,11 +30,13 @@ If you are stuck and need help on a task, update others about it.
 
 ## Resources and credits
 
-The more I work in team situations, the better I get at this. It is much better to ask for help and keep others updated about how you are doing than to wait and let the "ball of poo" get bigger and bigger until, surprise, it explodes.
+Working in team situations made me realize it is much better to ask for help and keep others updated about how you are doing than to wait and let the "ball of poo" get bigger and bigger until it explodes.
 
 ## Related advices
 
 - [Offer your help](../Offer%20your%20help/index.md)
 - [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Be proactive](../Be%20proactive/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Help](../Categories/Help.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Honesty](../Categories/Honesty.md) [Modesty](../Categories/Modesty.md) [Integrity](../Categories/Integrity.md)
+- [Be proactive](../Be%20proactive/index.md)
+- [Learn to adapt](../Learn%20to%20adapt/index.md)
+- [Go to the doctor](../Go%20to%20the%20doctor/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Help](../Categories/Help.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Honesty](../Categories/Honesty.md) [Modesty](../Categories/Modesty.md) [Integrity](../Categories/Integrity.md)

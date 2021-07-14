@@ -41,6 +41,6 @@ Growing is about getting to know yourself better. Spend time alone to accomplish
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
 - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Don't feel bad about making mistakes](../Don’t%20feel%20bad%20about%20making%20mistakes/index.md)
+- [Don't feel bad about making mistakes](../We%20all%20make%20mistakes/index.md)
 - [Fail with success](../Fail%20with%20success/index.md)
 - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
