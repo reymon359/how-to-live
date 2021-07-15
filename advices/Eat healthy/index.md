@@ -4,13 +4,13 @@ Categories: ['Health', 'Nutrition']
 ---
 # Eat healthy
 
-Take care of your body. The foods you eat have big effects on your health and quality of life. Have a healthy diet to avoid health issues.
+Take care of your body. What you eat has big effects on your health and quality of life. Have a healthy diet to avoid health issues.
 
-Don't be afraid of trying new diets. Open your mind to new foods that will surprise you, and you may end up liking.
+Don't be afraid of trying new diets. Open your mind to new healthy foods that will surprise you, and you may end up liking them.
 
-Don't follow a very strict diet, enjoy unhealthy food if you want. Just try to do it in sporadic moments.
+Don't follow a very strict diet, enjoy unhealthy food if you want. Just try to do it with less frequency.
 
-If you don't know how to eat healthy or what should you eat, ask for help. Go to the doctor and research about having a good diet.
+If you don't know how to eat healthy or what you should eat, ask for help. Go to the doctor and research about keeping a healthy diet.
 
 ## Quotes
 
@@ -32,3 +32,4 @@ If you don't know how to eat healthy or what should you eat, ask for help. Go to
 - [Drink enough water](../Drink%20enough%20water/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
+- [Try new things](../Try%20new%20things/index.md)
