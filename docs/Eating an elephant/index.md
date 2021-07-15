@@ -1,14 +1,14 @@
 # Eating an elephant
 
-This is probably one of my favourites advice.
+Desmond Tutu said that “there is only one way to eat an elephant: a bite at a time.” 
 
-> How do you eat an elephant? One bite at a time!
+Everything in life that seems overwhelming or even impossible can be accomplished gradually by doing just a little at a time.
 
-There is no other way. The same applies with whatever you want to accomplish in life, you do it one step at a time. Little by little.
+It can be applied to whatever you want to accomplish in life, you do it one step at a time. Little by little.
 
-You don't have to worry. You have to plan and work on it constantly. If you want to get better at something you need to practice regularly
+You don't have to worry. Plan and work on it constantly. If you want to get better at something, you need to practice regularly
 
-Remember there is no need to hurry, no matter how big the goal is, if you are constant and want to achieve you will do it. Enjoy the way to accomplish it.
+There is no need to hurry, no matter how big the goal is, if you are constant and want to achieve you will do it. 
 
 Plan the steps and book time for them.
 
