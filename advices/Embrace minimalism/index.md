@@ -4,13 +4,15 @@ Categories: ['Material things', 'Minimalism', 'Happiness', 'Dependencies']
 ---
 # Embrace minimalism
 
-Minimalism is all about living with less. It is about getting rid of excess stuff and living life based on experiences rather than worldly possessions. Having less stuff will also free up your life financially.
+Having a minimalism lifestyle means living with what you really need. Focusing on the simple things and removing anything that distracts you from living with intentionality and freedom.
+
+Is also about getting rid of excess stuff and living life based on experiences rather than worldly possessions. Having less things will also free up your life financially.
  
-Just have what you need to live, if you don't need it, get rid of it, sell it or give it away.
+Try to just have what you need to live, if you don't need it, get rid of it, sell it or give it away.
  
-If you follow this mindset, you will probably throw away most of your stuff. However, if you want to have some of them because they make you happy, just do it.
+If you follow this mindset, you may probably throw away most of your stuff. If some stuff makes you happy, and what to keep them, just do it.
  
-Minimalism can be applied not only to physical things but also digital ones or even topics like communication or work. In all of them the point is the same: Get rid of excess and focus on the important.
+Minimalism can be applied not only to the physical world, but also the digital one or even topics like communication or work. In all of them, the point is the same: Keep things simple, get rid of excess and focus on the important.
 
 ## Quotes
 
@@ -32,10 +34,13 @@ Minimalism can be applied not only to physical things but also digital ones or e
 
 ## Resources and credits
 
-- I like my friend's Verekia [Zeronalist](https://verekia.com/zeromalist/)
+I like my friend's Jonathan Verekia [Zeronalist](https://verekia.com/zeromalist/)
 
 ## Related advices
 
 - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
+- [Give and share with others](../Give%20and%20share%20with%20others/index.md)
+- [Remove dependencies](../Remove%20dependencies/index.md)
