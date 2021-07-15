@@ -25,7 +25,7 @@ Show care and concern. Try to understand how they may be feeling. Be kind to the
 ## Related advices
 
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Emphatic listening](../Emphathic%20listening/index.md)
+- [Emphatic listening](../Empathic%20listening/index.md)
 - [Be kind](../Be%20kind/index.md)
 - [Offer your help](../Offer%20your%20help/index.md)  
 - [Open your mind](../Open%20your%20mind/index.md)

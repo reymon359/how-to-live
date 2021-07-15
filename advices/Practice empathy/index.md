@@ -35,5 +35,5 @@ To understand others better, listen to them properly.
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md) 
 - [Listen before talking](../Listen%20before%20talking/index.md)
-- [Emphathic listening](../Emphathic%20listening/index.md)
+- [Empathic listening](../Empathic%20listening/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)

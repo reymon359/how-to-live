@@ -25,7 +25,7 @@ If you are at a festival, don't be recording the whole performance. Make a small
 
 ## Related advices
 
-- [Emphathic listening](../Emphathic%20listening/index.md)
+- [Empathic listening](../Empathic%20listening/index.md)
 - [Don't waste time on social media](../Don't%20waste%20time%20on%20Social%20Media)
 - [Pay attention](../Pay%20attention/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md)

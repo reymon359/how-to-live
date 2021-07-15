@@ -104,7 +104,7 @@
         
      - [Embrace minimalism](Embrace%20minimalism/index.md)
         
-     - [Emphathic listening](Emphathic%20listening/index.md)
+     - [Empathic listening](Empathic%20listening/index.md)
         
      - [Enjoy nature music](Enjoy%20nature%20music/index.md)
         

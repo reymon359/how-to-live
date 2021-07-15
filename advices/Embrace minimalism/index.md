@@ -34,7 +34,7 @@ Minimalism can be applied not only to the physical world, but also the digital o
 
 ## Resources and credits
 
-I like my friend's Jonathan Verekia [Zeronalist](https://verekia.com/zeromalist/)
+I like my friend's Jonathan Verrecchia [Zeronalist](https://verekia.com/zeromalist/)
 
 ## Related advices
 

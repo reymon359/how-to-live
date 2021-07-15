@@ -36,6 +36,6 @@ Stephen Covey’s book The 7 Habits of Highly Effective People discuss the commu
 
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
-- [Emphatic listening](../Emphathic%20listening/index.md)
+- [Emphatic listening](../Empathic%20listening/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
 - [Continuous learning](../Continuous%20learning/index.md)<hr/><br/>

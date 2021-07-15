@@ -25,7 +25,7 @@
     
  - [Embrace communication](../Embrace%20communication/index.md)
     
- - [Emphathic listening](../Emphathic%20listening/index.md)
+ - [Empathic listening](../Empathic%20listening/index.md)
     
  - [Greetings before a Conversation](../Greetings%20before%20a%20Conversation/index.md)
     

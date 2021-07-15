@@ -38,4 +38,4 @@ There are two great books I read that discussed this topic in some chapters:
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
 - [respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Emphathic listening](../Emphathic%20listening/index.md)
+- [Empathic listening](../Empathic%20listening/index.md)

@@ -1,10 +1,10 @@
 ---
-name: 'Emphathic listening'
+name: 'Empathic listening'
 Categories: ['Communication', 'Listening', 'Open-mindedness']
 ---
-# Emphathic listening
+# Empathic listening
 
-Emphathic listening is about listening with your eyes and with your heart. Listen to understand not only what is being said but the feelings and meaning of it.
+Empathic listening is about listening with your eyes and with your heart. Listen to understand not only what is being said but the feelings and meaning of it.
 You listen the behavior and feel the same way as the speaker.
 
 Try to listen this way when you are communicating with someone.
@@ -27,11 +27,7 @@ It is also called active listening or reflective listening.
 
 ## Resources and credits
 
-- Stephen R. Covey, The 7 Habits of Highly Effective People
-
-## Resources and credits
-
-- Stephen R. Covey, The 7 Habits of Highly Effective People
+This topic is discussed in Stephen Covey's book The 7 Habits of Highly Effective People.
 
 ## Related advices
 
