@@ -378,6 +378,8 @@ Each advice sections
     
  - [Create your own opinion of things](Create%20your%20own%20opinion%20of%20things/index.md)
     
+ - [DRY Don't repeat yourself](DRY%20Don't%20repeat%20yourself/index.md)
+    
  - [Discover new music](Discover%20new%20music/index.md)
     
  - [Do networking](Do%20networking/index.md)
@@ -619,8 +621,6 @@ Each advice sections
  - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
     
  - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-    
- - [dry don't repeat yourself](dry%20don't%20repeat%20yourself/index.md)
     
  - [question what you don't understand](question%20what%20you%20don't%20understand/index.md)
     

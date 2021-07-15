@@ -7,6 +7,8 @@
     
  - [Book time for planning](../Book%20time%20for%20planning/index.md)
     
+ - [DRY Don't repeat yourself](../DRY%20Don't%20repeat%20yourself/index.md)
+    
  - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
     
  - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)

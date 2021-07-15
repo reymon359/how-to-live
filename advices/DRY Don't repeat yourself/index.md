@@ -1,20 +1,16 @@
 ---
-name: 'DRY Don't repeat yourself
+name: "DRY Don't repeat yourself"
 Categories: ['Material things', 'Software development', 'Productivity']
 ---
 # DRY Don't repeat yourself
 
-This one comes from Software Development.
+Don't repeat yourself (DRY, or sometimes do not repeat yourself) is a principle of software development aimed at reducing repetition of software patterns, replacing them with abstractions, or using data normalization to avoid redundancy.
 
-DRY is about the duplication of knowledge, of intent. It’s about expressing the same thing in two different places, possibly in two totally different ways.
+The DRY principle is stated as "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system."
 
-Don't repeat yourself (DRY, or sometimes do not repeat yourself) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
-
-The DRY principle is stated as "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
-
-Duplication is waste. Adding additional, unnecessary code to a codebase increases the amount of work required to extend and maintain the software in the future.
+Duplication is a waste. Adding additional, unnecessary code to a codebase increases the amount of work required to extend and maintain the software in the future.
  
-This also works in life too, for example do not have extra items if you do not need them or already have one that fulfills that purpose.
+Applied to life, this would be related to not having extra items if you do not need them or already have one that fulfills that purpose.
 
 ## Quotes
 
@@ -22,13 +18,10 @@ This also works in life too, for example do not have extra items if you do not n
 
 ## Resources and credits
 
-- The Pragmatic Programmer from Andy Hunt and Dave Thomas
-
-## Resources and credits
-
-- The Pragmatic Programmer from Andy Hunt and Dave Thomas
+The Pragmatic Programmer from Andy Hunt and Dave Thomas
 
 ## Related advices
 
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
+- [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
