@@ -1,16 +1,18 @@
 # Embrace growing
 
-Life is about growing. Live things are the ones that grow.
+Life is about growing. Live things are the ones able to grow.
 
-As a fruit, growing means that you will get more mature. However, never leave the child inside yourself. Keep being curious and eager to do fun things. Be yourself.
+Stepping out of your comfort zone will make you grow faster.
 
-Accomplish goals and objectives to grow, it will motivate you and make you happier.
+Be motivated to grow, learn and accomplish goals.
 
-Stepping out of the comfort zone will make you grow faster.
+Not all of us grow at the same pace or the same subjects. Don't worry and think other people are growing faster. You may have grown more in different topics. Be open-minded and respect other people's pace of life.
 
-Not all of us grow at the same pace and in the same subjects. Don't worry and think other people are growing faster. Maybe you have grown more in different things than them. Be open-minded and respect other people at all time.
+Growing is also about getting to know yourself better. Spend time alone and interact with other people. Try to find your balance between both. 
 
-Growing is about getting to know yourself better. Spend time alone to accomplish it. However, remember that interacting with other people, getting to know new places and having new experiences will make you grow too. Try to find your balance between both.
+Getting to know new places and having new experiences will make you grow, too.
+
+While growing, never leave the child inside yourself. Keep being curious and eager to do fun things.
 
 ## Quotes
 
@@ -28,7 +30,7 @@ Growing is about getting to know yourself better. Spend time alone to accomplish
 
 > If we don't change, we don't grow. If we don't grow, we aren't really living. - Gail Sheehy
 
-> Every child is an artist. The problem is how to remain an artist once we grow up. - Pablo Picass
+> Every child is an artist. The problem is how to remain an artist once we grow up. - Pablo Picasso
 
 ## Related advices
 
