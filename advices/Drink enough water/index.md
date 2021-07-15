@@ -4,11 +4,11 @@ Categories: ['Health', 'Nutrition']
 ---
 # Drink enough water
 
-This one sounds simple, however not drinking enough water can cause a lot of illness and issues.
+This one sounds simple, however, not drinking enough water can cause many illnesses and health issues.
 
-Is just about taking care of yourself and your body.
+Take care of yourself and your body.
 
-Try to have always some water near you.
+Try to have always some water around you.
 
 Always listening to your body when you are thirsty and drink.
 
@@ -23,7 +23,6 @@ Try to drink more water than other not-so-healthy drinks.
 > “Thousands have lived without love, not one without water.” ― W. H. Auden
 
 > Pure water is the world’s first and foremost medicine.” ― Slovakian Proverb
-
 
 ## Related advices
 
