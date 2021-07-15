@@ -4,9 +4,9 @@ Categories: ['Happiness', 'Music', 'Nature']
 ---
 # Enjoy nature music
 
-When you go outside pay attention to the music of the wild. Enjoy the sounds made by the wind, plants, animals, water, etc.
+When you go to the wild, pay attention to the music of that surrounds you. Enjoy the sounds made by the wind, plants, animals, water, etc.
  
-Just stop for a moment and do nothing but listen. Close your eyes if you need to.
+Just stop for a moment and do nothing but listen. Try to close your eyes to listen better to it
  
 Enjoy that moment, you will connect with yourself and the world.
 
