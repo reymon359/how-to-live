@@ -35,4 +35,4 @@ Try to learn something new every day. With the internet, you have access to all 
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
 - [Take Notes](../Take%20notes/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Success](../Categories/Success.md) [Improving](../Categories/Improving.md) [Knowledge](../Categories/Knowledge.md)

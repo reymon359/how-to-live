@@ -5,6 +5,8 @@
     
  - [Continuous learning](../Continuous%20learning/index.md)
     
+ - [Embrace communication](../Embrace%20communication/index.md)
+    
  - [Learn step by step](../Learn%20step%20by%20step/index.md)
     
  - [Learn to be alone](../Learn%20to%20be%20alone/index.md)

@@ -31,8 +31,6 @@
     
  - [Don't worry](../Don't%20worry/index.md)
     
- - [Embrace communication](../Embrace%20communication/index.md)
-    
  - [Embrace growing](../Embrace%20growing/index.md)
     
  - [Embrace minimalism](../Embrace%20minimalism/index.md)
