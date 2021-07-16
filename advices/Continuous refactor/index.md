@@ -27,4 +27,4 @@ Some great books about good practices in software development I read
 
 - [Review your goals](../Review%20your%20goals/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [First make it work, then refactor](../First%20make%20it%20work,%20then%20refactor/index.md)
+- [First, make it work](../First,%20make%20it%20work/index.md)

@@ -450,7 +450,7 @@ Each advice sections
     
  - [Finish what you start](Finish%20what%20you%20start/index.md)
     
- - [First make it work, then refactor](First%20make%20it%20work,%20then%20refactor/index.md)
+ - [First, make it work](First,%20make%20it%20work/index.md)
     
  - [Focus on solutions, not problems](Focus%20on%20solutions,%20not%20problems/index.md)
     

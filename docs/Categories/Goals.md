@@ -27,7 +27,7 @@
     
  - [Finish what you start](../Finish%20what%20you%20start/index.md)
     
- - [First make it work, then refactor](../First%20make%20it%20work,%20then%20refactor/index.md)
+ - [First, make it work](../First,%20make%20it%20work/index.md)
     
  - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
     

@@ -1,8 +1,4 @@
----
-name: 'First make it work, then refactor'
-Categories: ['Productivity', 'Goals', 'Software']
----
-# First make it work, then refactor
+# First, make it work
 
 I love this one.
  
@@ -18,10 +14,10 @@ Whenever you are hesitating how to accomplish something, just do it, no matter t
 
 ## Resources and credits
 
-- The Pragmatic Programmer from Andy Hunt and Dave Thomas
-- The Clean Coder, and The Clean Architecture from Robert C. Martin
+I learned this one doing software development and reading books like The Pragmatic Programmer from Andy Hunt and Dave Thomas and The Clean Coder, or The Clean Architecture from Robert C. Martin
 
 ## Related advices
 
 - [Continuous refactor](../Continuous%20refactor/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
+- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Software](../Categories/Software.md) [Refactor](../Categories/Refactor.md)
