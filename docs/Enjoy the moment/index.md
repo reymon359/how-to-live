@@ -28,6 +28,4 @@ Remember to enjoy every moment of life because you don’t know what will happen
 
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
 - [Pay attention](../Pay%20attention/index.md)
-- [Don't worry](../Don't%20worry/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)
+- [Let it flow](../Let%20it%20flow/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)

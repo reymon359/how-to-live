@@ -32,5 +32,4 @@ Remember to enjoy every moment of life because you don’t know what will happen
 
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
 - [Pay attention](../Pay%20attention/index.md)
-- [Don't worry](../Don't%20worry/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
