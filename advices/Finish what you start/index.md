@@ -4,15 +4,15 @@ Categories: ['Goals', 'Success', 'Planning']
 ---
 # Finish what you start
 
-If you start something, finish it.
+If you start something, try to finish it. Avoid leaving unfinished things.
  
 When what you want to do is too big, split it into smaller goals to accomplish it.
  
-When you don't finish the things you start, you never get motivation and the feeling of accomplishment that leads you to make other things.
+When you don't finish the things you start, It's harder to get motivation and the feeling of accomplishment that leads you to make other things.
  
-This is more important if you are about to finish something. It is the last effort you have to make, so don't give up!
+If you are about to finish something, it is the last effort you have to make, so don't give up!
  
-To finish things, you need to work on them constantly. Don't give things up. Plan time to work on them. Set up reminders.
+To finish long-term things, you need to work on them constantly. Don't give up, and plan time to work on them. Set up reminders.
 
 ## Quotes
 
@@ -29,3 +29,4 @@ To finish things, you need to work on them constantly. Don't give things up. Pla
 - [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
+- [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
