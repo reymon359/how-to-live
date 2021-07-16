@@ -1,8 +1,8 @@
 ---
-name: 'Keep track of your Goals'
+name: 'Keep track of your goals'
 Categories: ['Goals', 'Tracking', 'Motivation', 'Improving', 'Feedback']
 ---
-# Keep track of your Goals
+# Keep track of your goals
 
 Keep track of the progress of your goals.
 
@@ -35,5 +35,5 @@ Review them from time to time. Remind yourself to do so.
 ## Related advices
 
 - [Look for feedback](../Look%20for%20feedback/index.md)
-- [Set up Goals](../Set%20up%20Goals/index.md)
+- [Set up goals](../Set%20up%20goals/index.md)
 - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)

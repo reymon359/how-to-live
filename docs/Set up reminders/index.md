@@ -30,6 +30,6 @@ I learned this by myself. I can say I am addicted to set up reminders to keep up
 
 ## Related advices
 
-- [Review your goals](../Review%20your%20Goals/index.md)
+- [Review your goals](../Review%20your%20goals/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)

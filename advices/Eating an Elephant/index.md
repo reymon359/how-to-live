@@ -28,7 +28,7 @@ Plan the steps and book time for them.
 
 ## Related advices
 
-- [Set up Goals](../Set%20up%20Goals/index.md)
+- [Set up goals](../Set%20up%20goals/index.md)
 - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)

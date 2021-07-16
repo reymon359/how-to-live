@@ -1,4 +1,4 @@
-# Set up Goals
+# Set up goals
 
 From time to time, think about your future. Think about what you want to achieve in life, where you want to be, how you want to be.
 
@@ -34,7 +34,7 @@ The Stephen R. Covey book: The 7 Habits of Highly Effective People has a chapter
 
 ## Related advices
 
-- [Review your Goals](../Review%20your%20Goals)
+- [Review your goals](../Review%20your%20goals)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Be proactive](../Be%20proactive/index.md)

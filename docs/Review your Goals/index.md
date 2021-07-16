@@ -1,4 +1,4 @@
-# Review your Goals
+# Review your goals
 
 Setting up goals is as important as reviewing them from time to time.
 
@@ -26,7 +26,7 @@ If you want to pursue new goals, just do it, however, don't abandon every goal y
 
 ## Related advices
 
-- [Set up Goals](../Set%20up%20Goals)
+- [Set up goals](../Set%20up%20goals)
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Embrace growing](../Embrace%20growing/index.md)
