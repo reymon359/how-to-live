@@ -340,6 +340,8 @@ Each advice sections
     
  - [Avoid complaining](Avoid%20complaining/index.md)
     
+ - [Avoid overengineering](Avoid%20overengineering/index.md)
+    
  - [Avoid overthinking](Avoid%20overthinking/index.md)
     
  - [Avoid procrastinating](Avoid%20procrastinating/index.md)
@@ -443,8 +445,6 @@ Each advice sections
  - [Exercise frequently](Exercise%20frequently/index.md)
     
  - [Fail with success](Fail%20with%20success/index.md)
-    
- - [Find a way to get the milk without buying the cow](Find%20a%20way%20to%20get%20the%20milk%20without%20buying%20the%20cow/index.md)
     
  - [Find balance](Find%20balance/index.md)
     

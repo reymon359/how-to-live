@@ -97,8 +97,6 @@
     
  - [Little by little](../Categories/Little%20by%20little.md)
     
- - [Little things](../Categories/Little%20things.md)
-    
  - [Love](../Categories/Love.md)
     
  - [Material things](../Categories/Material%20things.md)
@@ -180,6 +178,8 @@
  - [Social media](../Categories/Social%20media.md)
     
  - [Software](../Categories/Software.md)
+    
+ - [Software Development](../Categories/Software%20Development.md)
     
  - [Software development](../Categories/Software%20development.md)
     
