@@ -1,14 +1,14 @@
 # Enjoy the moment
 
-When you are doing something, stop and think about it. Pay attention to what surrounds you and the people you are having the moment with if you are not alone.
+Remember to enjoy every moment of life because you certainly don’t know what will happen tomorrow.
 
-Don't think on the past or future, focus on the present moment and what is happening around you without judgment.
+When you are doing something, stop and think about it. Pay attention to what surrounds you and the people you are spending that moment with if you are not alone.
+
+Don't think about the past or future, focus on the present moment and what is happening around you without judgment.
 
 Avoid distractions to focus better on it.
 
-Don't force it, let the moment flow by itself.
-
-Remember to enjoy every moment of life because you don’t know what will happen tomorrow.
+Maybe the moment is not how you want it to be. Try not to force it, let the moment flow by itself.
 
 ## Quotes
 
@@ -28,4 +28,5 @@ Remember to enjoy every moment of life because you don’t know what will happen
 
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
 - [Pay attention](../Pay%20attention/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)
+- [Let it flow](../Let%20it%20flow/index.md)
+- [Embrace minimalism](../Embrace%20minimalism/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md)
