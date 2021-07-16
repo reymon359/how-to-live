@@ -4,15 +4,15 @@ Each failure is an opportunity to learn from the mistakes made, leading to succe
  
 If you fail at something, just get the best of it.
  
-Apologize if you have to, look to solutions and ways to do it better, improve.
+Apologize if you have to, look for solutions and ways to do it better, improve.
  
 Mistakes happen. How you fight them is the key. Each mistake is a chance to learn something new. Think this way and success will follow.
  
 Don't feel guilty and worry about failing.
+
+Stepping outside your comfort zone is full of mistakes and learning. Don't be afraid of it.
  
-To successfully step out of the comfort zone, you will have to fail. Don't be afraid of it.
- 
-Be responsible for what you have done, even if it was a mistake. If you did something, have the ownership of it to solve it.
+Be responsible for what you have done, even if it was not intended. Have ownership of it and try to solve it.
 
 ## Quotes
 
@@ -29,5 +29,4 @@ Be responsible for what you have done, even if it was a mistake. If you did some
 - [Apologize](../Apologize/index.md)
 - [Don't worry](../Don't%20worry/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Have owner](../Have%20ownership%20of%20what%20you%20do/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Success](../Categories/Success.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Growing](../Categories/Growing.md)
+- [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Success](../Categories/Success.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Growing](../Categories/Growing.md)
