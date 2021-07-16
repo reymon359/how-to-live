@@ -1,10 +1,10 @@
 # Focus on solutions, not problems
 
-When you have a problem in life, don't get blocked by it. Avoid complaining about it and blaming people. Don't look for someone to blame, look for a solution.
+When you have a problem in life, don't get blocked by it. Avoid complaining about it and looking for someone to blame, look for a solution.
 
 If you are the one that created the problem, don't feel guilty or worry about it. Feeling guilty or worrying about it won't solve it. Just look for a solution and learn from it.
 
-Looking for a solution is being proactive, taking action instead of waiting for the problem to be solved by itself.
+When you focus on a solution, you are being proactive. You are taking action instead of waiting for the problem to be solved by itself.
 
 ## Quotes
 
@@ -29,5 +29,4 @@ Looking for a solution is being proactive, taking action instead of waiting for 
 - [Take action](../Take%20action/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Don't worry](../Don't%20worry/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
+- [Don't worry](../Don't%20worry/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
