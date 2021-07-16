@@ -2,9 +2,11 @@
 
 Moderation and balance is the key point to enjoy life.
 
-In almost every topic you find you have to balance it. For example, doing exercise: You have to do it in order to be healthy. However, you have to moderate the way you do so. You should not exercise too much that will hurt you, neither don't exercise at all. You have to find the balance between both that better suits your needs.
+In almost every life topic, you have to balance it. For example, doing exercise or eating. Too many of them are unhealthy, but the same goes for too few. You have to find the balance between both that better suits your needs.
 
-The more you know yourself, the easier to find the balance in things you need.
+The more you know yourself, the easier it is to find the balance in things you need.
+
+You won't find the balance on the first try. Give it time and keep trying little by little.
 
 ## Quotes
 
@@ -21,4 +23,5 @@ The more you know yourself, the easier to find the balance in things you need.
 ## Related advices
 
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Balance](../Categories/Balance.md)
+- [Listen to your body](../Listen%20to%20your%20body/index.md)
+- [Eating an elephant](../Eating%20an%20elephant/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Balance](../Categories/Balance.md)
