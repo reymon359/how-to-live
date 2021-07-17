@@ -1,20 +1,18 @@
 ---
 name: 'Give credit'
-Categories: ['Gratitude', 'Truth', 'Honesty', 'Integrity']
+Categories: ['Gratitude', 'Truth', 'Trust', 'Honesty', 'Integrity']
 ---
 # Give credit
 
-Always give credit. 
+Try to give always credit.
 
-When you use something that it's not yours, to its original author.
-
-When someone helped you with something.
-
-It is about being honest and keeping your integrity.
- 
 When you give credit to others, you are showing them respect and being grateful.
 
-Include an acknowledgements section in a report if you need to credit someone.
+When you do something with help from others, give them credit.
+
+Be honest and preserve your integrity.
+ 
+Include an acknowledgments section in a report if you need to credit someone.
 
 ## Quotes
 

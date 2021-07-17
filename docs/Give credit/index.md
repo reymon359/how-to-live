@@ -1,16 +1,14 @@
 # Give credit
 
-Always give credit. 
+Try to give always credit.
 
-When you use something that it's not yours, to its original author.
-
-When someone helped you with something.
-
-It is about being honest and keeping your integrity.
- 
 When you give credit to others, you are showing them respect and being grateful.
 
-Include an acknowledgements section in a report if you need to credit someone.
+When you do something with help from others, give them credit.
+
+Be honest and preserve your integrity.
+ 
+Include an acknowledgments section in a report if you need to credit someone.
 
 ## Quotes
 
@@ -26,5 +24,4 @@ Include an acknowledgements section in a report if you need to credit someone.
 
 - [Be grateful](../Be%20grateful/index.md)
 - [Be honest](../Be%20honest/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md)
+- [Maintain your integrity](../Maintain%20your%20integrity/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md)
