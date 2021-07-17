@@ -1,10 +1,12 @@
 # Have ownership of what you do
 
-If you do or create something take care of it. If it goes well make sure it keeps going that way and improve it. If it goes bad be resposible and solve it.
+When you do or create something, take care of it. If it goes well, make sure it keeps going that way and improve it. If it goes bad, be responsible and try to solve it.
 
 This is more important when other people depend on what you do.
 
-If you commit to something be responsible with that commitment and fulfill it.
+If you commit to doing something, be responsible for that commitment and fulfill it.
+
+You are responsible and dependent on your actions. Be aware of it before doing something.
 
 ## Quotes
 
@@ -18,8 +20,9 @@ If you commit to something be responsible with that commitment and fulfill it.
 
 ## Resources and credits
 
-- I learnt this doing Software Development. Creating things that you have to be responsible of them later.
+When you do Software Development, you are constantly creating things that you have to be responsible for them later. You have to focus on the maintainability of what you do.
 
 ## Related advices
 
--[Take responsibility](../Take%20responsibility/index.md) <hr/><br/>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md)
+- [Take responsibility](../Take%20responsibility/index.md) 
+- [Remove dependencies](../Remove%20dependencies/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Integrity](../Categories/Integrity.md) [Responsibility](../Categories/Responsibility.md) [Dependencies](../Categories/Dependencies.md) [Software development](../Categories/Software%20development.md)
