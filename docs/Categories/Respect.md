@@ -25,7 +25,7 @@
     
  - [Give second chances](../Give%20second%20chances/index.md)
     
- - [Greetings before a Conversation](../Greetings%20before%20a%20Conversation/index.md)
+ - [Greetings before a conversation](../Greetings%20before%20a%20conversation/index.md)
     
  - [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     

@@ -464,7 +464,7 @@ Each advice sections
     
  - [Go to the doctor](Go%20to%20the%20doctor/index.md)
     
- - [Greetings before a Conversation](Greetings%20before%20a%20Conversation/index.md)
+ - [Greetings before a conversation](Greetings%20before%20a%20conversation/index.md)
     
  - [Grow with others](Grow%20with%20others/index.md)
     

@@ -1,18 +1,16 @@
 ---
-name: 'Greetings before a Conversation'
-Categories: ['Communication', 'Respect']
+name: 'Greetings before a conversation'
+Categories: ['Communication', 'Respect', 'Empathy']
 ---
-# Greetings before a Conversation
+# Greetings before a conversation
 
-Always begin a conversation greeting the participants.
+Try to always begin a conversation by greeting the participants.
  
-If you don't know what to say, a simple "hello, how are you?" is good enough.
+If you don't know what to say, a simple “hello, how are you?” normally is good enough.
  
-This way, the other person will see some respect and interest from your side and will interact in a better way with you.
+The other person will see some respect and interest from your side. Normally, they will interact in a better mood with you.
  
-When you are greeting someone, you are showing some respect.
- 
-When you ask about how the other feels, listen emphatically to them. Understand how they really feel.
+When you ask about how others feel, listen emphatically to them.
 
 ## Quotes
 
