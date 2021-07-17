@@ -1,10 +1,10 @@
-# If you commit to something or someone, fulfill it
+# Fulfill your commitments
 
 When you commit to something, you are making a promise. A promise that you will do it.
 
-If you make a promise, you should fulfill it. It is a matter of being honest with yourself and with the other person you have committed to.
+If you make a promise, you should keep it. It is a matter of being honest with yourself and the other person you have committed to.
 
-Communicate, update often the other person about your commitment. No matter if it is going well or bad. The important thing is to avoid surprises about it.
+Communicate, update often about the status of your commitment. No matter if it is going well or bad. Try to avoid surprises later.
 
 ## Quotes
 
@@ -26,12 +26,10 @@ Communicate, update often the other person about your commitment. No matter if i
 
 > Commitment is an act, not a word.” ― Jean-Paul Sartre
 
-
 ## Related advices
 
 - [Be punctual](../Be%20punctual/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

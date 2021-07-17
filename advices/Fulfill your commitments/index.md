@@ -1,14 +1,14 @@
 ---
-name: 'If you commit to something or someone, fulfill it'
+name: 'Fulfill your commitments'
 Categories: ['Respect', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
-# If you commit to something or someone, fulfill it
+# Fulfill your commitments
 
 When you commit to something, you are making a promise. A promise that you will do it.
 
-If you make a promise, you should fulfill it. It is a matter of being honest with yourself and with the other person you have committed to.
+If you make a promise, you should keep it. It is a matter of being honest with yourself and the other person you have committed to.
 
-Communicate, update often the other person about your commitment. No matter if it is going well or bad. The important thing is to avoid surprises about it.
+Communicate, update often about the status of your commitment. No matter if it is going well or bad. Try to avoid surprises later.
 
 ## Quotes
 
@@ -29,7 +29,6 @@ Communicate, update often the other person about your commitment. No matter if i
 > Most people fail not because of a lack of desire but because of a lack of commitment.” ― Vince Lombardi
 
 > Commitment is an act, not a word.” ― Jean-Paul Sartre
-
 
 ## Related advices
 

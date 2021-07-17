@@ -23,11 +23,11 @@
     
  - [Don't judge the whole by the part](../Don't%20judge%20the%20whole%20by%20the%20part/index.md)
     
+ - [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)
+    
  - [Give second chances](../Give%20second%20chances/index.md)
     
  - [Greetings before a conversation](../Greetings%20before%20a%20conversation/index.md)
-    
- - [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     
  - [Let it flow](../Let%20it%20flow/index.md)
     

@@ -21,11 +21,11 @@
     
  - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
     
+ - [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)
+    
  - [Give credit](../Give%20credit/index.md)
     
  - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
-    
- - [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     
  - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
     

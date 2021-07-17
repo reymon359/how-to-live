@@ -454,6 +454,8 @@ Each advice sections
     
  - [Focus on solutions, not problems](Focus%20on%20solutions,%20not%20problems/index.md)
     
+ - [Fulfill your commitments](Fulfill%20your%20commitments/index.md)
+    
  - [Get to know yourself](Get%20to%20know%20yourself/index.md)
     
  - [Give and share with others](Give%20and%20share%20with%20others/index.md)
@@ -471,8 +473,6 @@ Each advice sections
  - [Have ownership of what you do](Have%20ownership%20of%20what%20you%20do/index.md)
     
  - [Helping makes you happy](Helping%20makes%20you%20happy/index.md)
-    
- - [If you commit to something or someone, fulfill it](If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)
     
  - [If you want, you can](If%20you%20want,%20you%20can/index.md)
     

@@ -17,4 +17,4 @@ I had a nice deep talk about this with Javier Deblas at Sun&Co, Javea.
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-- [If you commit to something or someone, fulfill it](../If%20you%20commit%20to%20something%20or%20someone,%20fulfill%20it/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Commitment](../Categories/Commitment.md)
+- [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Commitment](../Categories/Commitment.md)
