@@ -1,14 +1,14 @@
 ---
 name: 'Helping makes you happy'
-Categories: ['Help', 'Happiness']
+Categories: ['Help', 'Happiness', 'Community']
 ---
 # Helping makes you happy
 
-Probably the easiest way to happiness is through helping others. I think it is in human nature. 
+Helping other people, in any way, makes us happier. I guess it is in human nature,  being this way, favors living in communities.
 
-The simple and honest gesture of helping others without receiving anything in return. That brings you closer to happiness.
+Simple and honest gestures to help without expecting anything in return. Those bring you closer to happiness.
 
-Everyone needs help at something. Just ask and listen to other people to know how you can help them the best way.
+All of us need help with something. Communicate, ask and listen to other people to know the best way to help them.
 
 ## Quotes
 
@@ -31,3 +31,4 @@ Everyone needs help at something. Just ask and listen to other people to know ho
 - [Offer your help](../Offer%20your%20help/index.md)
 - [Empathic listening](../Empathic%20listening/index.md)
 - [Be Empathic](../Be%20empathetic/index.md)
+- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
