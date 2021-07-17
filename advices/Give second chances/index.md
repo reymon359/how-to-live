@@ -3,16 +3,16 @@ name: 'Give second chances'
 Categories: ['Respect', 'Open-mindedness', 'Helping']
 ---
 # Give second chances
+ 
+Give second chances not just to people, but to ideas, trips, places, foods, … anything.
+ 
+Maybe the first time you try something, you don't like it, or it doesn't work as you planned. However, a lot of things can change the second time you try it, and it may end up being a success.
+ 
+Be careful when you give third, fourth, and more chances. If something doesn't work after a certain number of chances, the probability of working gets smaller.
+ 
+And in the other way around, If you get a second chance at something, try not to waste it.
 
-Giving a second chance means to forgive.
- 
-Not just to people, but to ideas, trips, places, foods, ... everything.
- 
-Maybe the first time you are trying something, at that moment you don't like it, or it doesn't work as you planned. However, who knows, a lot of things can change the second time you try it, and it may end up being a success.
- 
-Be careful with third, fourth and more chances.
- 
-If you get a second chance for something, do not waste it.
+When you forgive someone, in some way, you are giving them a second chance.
 
 ## Quotes
 
@@ -32,3 +32,4 @@ If you get a second chance for something, do not waste it.
 
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
+- [Try new things](../Try%20new%20things/index.md)
