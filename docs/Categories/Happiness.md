@@ -49,6 +49,8 @@
     
  - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
     
+ - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
+    
  - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)

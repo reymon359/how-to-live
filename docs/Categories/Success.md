@@ -19,6 +19,8 @@
     
  - [Finish what you start](../Finish%20what%20you%20start/index.md)
     
+ - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
+    
  - [Learn to delegate](../Learn%20to%20delegate/index.md)
     
  - [Look for feedback](../Look%20for%20feedback/index.md)
