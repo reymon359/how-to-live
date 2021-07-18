@@ -1,14 +1,14 @@
 # Learn to be alone
 
-Sometimes, you need to be alone. Not to be lonely. Enjoy your free time being yourself and doing what makes you happy.
+Enjoy your free time being yourself and doing what makes you happy.
+
+Sometimes, you need to be alone. Not to be lonely, it's not the same. 
 
 Being alone helps you get to know yourself. And the more you know yourself, the better you are when you are alone.
 
 Being too much time alone is not a good thing.  As humans, we need to socialize. Find the balance between both, being alone and not.
 
-Too much time alone can make you lose touch with reality and lead to things like Ivory tower Syndrome.
-
-Date yourself. Some plans like going to the movies or having dinner alone are frowned upon by some societies. Do them if you want to, you don't need other people's approval.
+Date yourself. Some plans like going to the movies or having dinner alone are not well seen by some societies. You don't need other people's approval. Do them if you want to.
 
 In the end, is your life, no matter how much you share it with others. What you live is up to you and just for yourself.
 
@@ -26,19 +26,19 @@ In the end, is your life, no matter how much you share it with others. What you 
 
 ## Resources and credits
 
-Browsing Reddit I found an ELI5 about The true meaning behind Orson Welles' famous quote "We're born alone, we live alone, we die alone."
+Browsing Reddit, I found an ELI5 post about The true meaning behind Orson Welles' famous quote “We're born alone, we live alone, we die alone.”
 
 The comment made by the user u/neubourn made me think deeply about the 'being alone' topic. Here is what he commented:
 
-Its important to include the next part of the quote:
-
-> Only through our love and friendship can we create the illusion for the moment that we're not alone
-
-Like any quote, the interpretation is ultimately up to the reader, i would suggest in this case, Orson was illustrating that ultimately, we are truly alone in this universe, from the moment we are born, to the moment we die. We view and experience the world through our own eyes, and we are only privy to our own thoughts and experiences.
-
-People can share their thoughts and experiences with others, but ultimately, you can only understand them vicariously, through your own eyes, as it were, we can not TRULY understand what its like to live as someone else.
-
-But, through love and friendship, socializing with others, we are capable of creating a momentary illusion that we are not alone, but that is all it is: an illusion, because at the end of the day, you are still stuck within your own mind and see the world through your eyes.
+> It's important to include the next part of the quote:
+> 
+> > Only through our love and friendship can we create the illusion for the moment that we're not alone
+>
+> Like any quote, the interpretation is ultimately up to the reader, I would suggest in this case, Orson was illustrating that ultimately, we are truly alone in this universe, from the moment we are born, to the moment we die. We view and experience the world through our own eyes, and we are only privy to our own thoughts and experiences.
+>
+> People can share their thoughts and experiences with others, but ultimately, you can only understand them vicariously, through your own eyes, as it were, we can not TRULY understand what its like to live as someone else.
+>
+> But, through love and friendship, socializing with others, we are capable of creating a momentary illusion that we are not alone, but that is all it is: an illusion, because at the end of the day, you are still stuck within your own mind and see the world through your eyes.
 
 [Link to the Reddit post](https://www.reddit.com/r/explainlikeimfive/comments/1kfvr2/eli5the_true_meaning_behind_orson_welles_famous/)
 
