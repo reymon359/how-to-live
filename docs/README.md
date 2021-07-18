@@ -484,8 +484,6 @@ Each advice sections
     
  - [Keep track of your goals](Keep%20track%20of%20your%20goals/index.md)
     
- - [Learn step by step](Learn%20step%20by%20step/index.md)
-    
  - [Learn the difference between procrastination and leisure time](Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
     
  - [Learn to adapt](Learn%20to%20adapt/index.md)

@@ -19,8 +19,6 @@
     
  - [Comfort zone](../Categories/Comfort%20zone.md)
     
- - [Comfort-zone](../Categories/Comfort-zone.md)
-    
  - [Commitment](../Categories/Commitment.md)
     
  - [Communication](../Categories/Communication.md)
@@ -74,8 +72,6 @@
  - [Improvement](../Categories/Improvement.md)
     
  - [Improving](../Categories/Improving.md)
-    
- - [Improvise](../Categories/Improvise.md)
     
  - [Independence](../Categories/Independence.md)
     

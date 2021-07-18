@@ -15,8 +15,6 @@
     
  - [Eating an elephant](../Eating%20an%20elephant/index.md)
     
- - [Learn step by step](../Learn%20step%20by%20step/index.md)
-    
  - [Learn the difference between procrastination and leisure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
     
  - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)

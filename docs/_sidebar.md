@@ -158,8 +158,6 @@
         
      - [Keep track of your goals](Keep%20track%20of%20your%20goals/index.md)
         
-     - [Learn step by step](Learn%20step%20by%20step/index.md)
-        
      - [Learn the difference between procrastination and leisure time](Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
         
      - [Learn to adapt](Learn%20to%20adapt/index.md)
@@ -330,8 +328,6 @@
         
      - [Comfort zone](../Categories/Comfort%20zone.md)
         
-     - [Comfort-zone](../Categories/Comfort-zone.md)
-        
      - [Commitment](../Categories/Commitment.md)
         
      - [Communication](../Categories/Communication.md)
@@ -385,8 +381,6 @@
      - [Improvement](../Categories/Improvement.md)
         
      - [Improving](../Categories/Improving.md)
-        
-     - [Improvise](../Categories/Improvise.md)
         
      - [Independence](../Categories/Independence.md)
         
