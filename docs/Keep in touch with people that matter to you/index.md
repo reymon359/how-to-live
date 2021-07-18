@@ -1,12 +1,12 @@
 # Keep in touch with people that matter to you
 
-As humans, we tend and need to socialize. We want and need to communicate with other people. 
+As humans, we tend and need to socialize. We feel the urge to communicate with other people. 
 
-Of all the people we interact with, some of them are more united to us. The ones we have a closer relationship with and feel are more important to us.
+Of all the people we interact with, some of them are more connected to us. The ones we have a closer relationship with are the most important.
 
-Don't forget to keep in touch with them. Even if you can not see each other, at least keep the contact in the distance. 
+Don't forget to keep in touch with them. Keep the contact in the distance, even if you can not see each other.
 
-Set a reminder to contact them from time to time if needed.
+Set a reminder to contact them from time to time if you need to.
 
 ## Quotes
 
@@ -18,11 +18,9 @@ Set a reminder to contact them from time to time if needed.
 
 > “Time is everlasting, but people aren’t. Keep in touch with people whom you love.” – Anonymous
 
-## Resources and credits
-
-
 ## Related advices
 
 - [Embrace communication](../Embrace%20communication/index.md)
 - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
-- [Surround yourself of people that sum and remove from your life the negative ones](../Surround%20yourself%20of%20people%20that%20sum%20and%20remove%20from%20your%20life%20the%20negative%20ones/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Reminders](../Categories/Reminders.md) [Relationships](../Categories/Relationships.md)
+- [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
+- [Stick to people that give you useful advice and reach them when you are in trouble](../Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Reminders](../Categories/Reminders.md) [Relationships](../Categories/Relationships.md) [Friendship](../Categories/Friendship.md)

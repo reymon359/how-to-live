@@ -358,9 +358,7 @@
         
      - [Freedom](../Categories/Freedom.md)
         
-     - [Friendhips](../Categories/Friendhips.md)
-        
-     - [Friendships](../Categories/Friendships.md)
+     - [Friendship](../Categories/Friendship.md)
         
      - [Future](../Categories/Future.md)
         
