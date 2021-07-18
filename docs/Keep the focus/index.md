@@ -1,15 +1,21 @@
 # Keep the focus
 
-Stay focused and avoid distractions. Nowadays, with so may things to do and inputs from different sources is easy to lose focus on the important things.
+Stay focused and avoid distractions. Nowadays, with so many things to do and stimulations from different sources, it is easy to lose focus on the important things.
 
-If you feel distracted or unfocused just ask yourself what you should be doing right now. Once you have an answer go for it.
+If you feel distracted or unfocused, ask yourself what you should be doing right now. Once you have an answer, just do it.
 
 ## Quotes
 
-## Resources and credits
+> “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” ― Zig Ziglar
+
+> “What you stay focused on will grow.” ― Roy T. Bennett
+
+> “Where your attention goes, your time goes” ― Idowu Koyenikan,
 
 ## Related advices
-take action
-avoid procrastination
 
-<hr/><br/>[Categories:](../Categories/index.md) [Focus](../Categories/Focus.md) [Social media](../Categories/Social%20media.md) [Distractions](../Categories/Distractions.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Goals](../Categories/Goals.md) [Procrastination](../Categories/Procrastination.md)
+- [Take action](../Take%20action/index.md)
+- [Avoid procrastination](../Avoid%20procrastinating/index.md)
+- [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
+- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
+- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Focus](../Categories/Focus.md) [Social media](../Categories/Social%20media.md) [Distractions](../Categories/Distractions.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Goals](../Categories/Goals.md) [Procrastination](../Categories/Procrastination.md)
