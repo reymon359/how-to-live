@@ -1,14 +1,12 @@
 # Keep track of your goals
 
-Keep track of the progress of your goals.
+Keep track of the progress of your goals. This way you will see where you are, how much you improved, and what is left to accomplish them.
 
-See where you are and how much you improved at them.
+It will keep you motivated to pursue them and new ones.
 
-This will keep you motivated to pursue them and new ones. It will also remind you to check if you are going in the right direction.
+When you do so, you are getting self-feedback on how you are doing. It helps you see if you are going in the right direction.
 
-When you do so, you are getting self-feedback on how you are doing.
-
-Review them from time to time. Remind yourself to do so.
+Review them from time to time. Remind yourself to do so if needed.
 
 ## Quotes
 
@@ -24,13 +22,9 @@ Review them from time to time. Remind yourself to do so.
 
 > Measure your progress towards achieving your goals. – Jerry Bruckner
 
-## Resources and credits
-
-## Resources and credits
-
 ## Related advices
 
 - [Look for feedback](../Look%20for%20feedback/index.md)
 - [Set up goals](../Set%20up%20goals/index.md)
 - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improving](../Categories/Improving.md) [Feedback](../Categories/Feedback.md)
+- [Set up reminders](../Set%20up%20reminders/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improving](../Categories/Improving.md) [Feedback](../Categories/Feedback.md)
