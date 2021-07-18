@@ -1,6 +1,6 @@
 # Learn to delegate
 
-Sometimes in life, you will find some things that need to be done. If you are not responsible for doing something, delegate it to whom is.
+In your life, there are always things that have to be done. If you are not responsible for doing something, delegate it to whom is. They will probably do it better, and you can do other things you are responsible for in the meanwhile.
 
 Successful delegation is a matter of trust. There needs to be a good trust relationship between you and the people you are delegating.
 
@@ -8,7 +8,7 @@ Be honest when you are not able to do something and delegate it.
 
 Offer your help to the person you are delegating a task to if they need it.
 
-When you delegate, make sure the person that will be in charge understands the scope of what it has to do.
+When you delegate, make sure the person that will be in charge understands what has to be done.
 
 ## Quotes
 
@@ -28,5 +28,4 @@ When you delegate, make sure the person that will be in charge understands the s
 
 - [Be honest](../Be%20honest/index.md)
 - [Trust others](../Trust%20others/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Growing](../Categories/Growing.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Growing](../Categories/Growing.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

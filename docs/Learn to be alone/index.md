@@ -28,7 +28,7 @@ In the end, is your life, no matter how much you share it with others. What you 
 
 Browsing Reddit, I found an ELI5 post about The true meaning behind Orson Welles' famous quote “We're born alone, we live alone, we die alone.”
 
-The comment made by the user u/neubourn made me think deeply about the 'being alone' topic. Here is what he commented:
+A comment made by the user u/neubourn made me think deeply about the 'being alone' topic. Here is what he commented:
 
 > It's important to include the next part of the quote:
 > 
