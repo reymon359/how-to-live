@@ -1,15 +1,12 @@
 # If you want, you can
 
-If you really want to do something, there is always a way.
+If you really want to do something, you will find a way to do it.
  
-No matter how hard it is to accomplish. If you want to do it, you will find a way. It may require sacrificing something in exchange. Don't let that stop you from it.
+No matter how hard it is to accomplish. It may require sacrificing something in exchange. Don't let that stop you from doing it if you really want to.
  
-Avoid procrastination. Don't make up excuses. You will never do what you really want if you only see the bad things and impediments of doing it.
+Avoid procrastination. Don't make up excuses. You will never do what you really want if you only focus on the problems about doing it.
  
-It will be hard sometimes. You will have to step outside your comfort zone to accomplish. However, don't give up. Plan how to do it and work on it little by little, day by day.
- 
-When talking to people, they sometimes tell me about something they want to do or have. When I told them to just go after it, there are two types of answers/people: The ones that are already on it and the ones that just give me all kind of excuses. I always try to help the late ones to see that those excuses are just that, excuses. However, it is becoming increasingly clear to me that this vision has to come from themselves.
-
+You may have to step outside your comfort zone to accomplish. Don't give up. Plan how to do it and work on it day by day.
 
 ## Quotes
 
@@ -36,4 +33,5 @@ When talking to people, they sometimes tell me about something they want to do o
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Willpower](../Categories/Willpower.md) [Comfort zone](../Categories/Comfort%20zone.md)
