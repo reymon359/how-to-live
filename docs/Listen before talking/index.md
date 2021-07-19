@@ -1,12 +1,12 @@
 # Listen before talking
 
-In a conversation, always listen before speaking, in fact, just speak if it is totally necessary.
+In a conversation, try to always listen before speaking. In fact, just speak if it is totally necessary.
 
-Always respect what you are listening. Open your mind because nobody thinks like you.
+Respect what other people are saying. Open your mind. Nobody thinks the same way as you.
 
-The best way to listen is by asking. Therefore, ask the questions you have.
+The best way to listen is by asking.
 
-Make sure that you truly understand the topic of the conversation and the other participants feelings about the topic before talking.
+While listening, make sure you truly understand the topic and the other participants' feelings about it before giving your opinion.
 
 ## Quotes
 
