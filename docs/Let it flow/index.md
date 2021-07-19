@@ -1,14 +1,12 @@
 # Let it flow
 
-This one is about feeling calm and not worrying. It is key when facing most problems in life. There are things that we can not control or predict, and it is not worth it to worry about them.
+This one is central when facing most problems in life. There are things that we can not control or predict, and it is not worth it to worry about them. Therefore, let things flow and adapt to them. Focus on the present.
 
-When I was in Morocco my favorite saying was _Insha'Allah_ which means "if God wills" or "God willing". It was a religious way of saying _let it flow_ and sounded so good.
+Avoid overthinking or over plan things. Plan the minimum required and then let them flow. When the situation changes, adapt to it.
 
-Avoid overthinking or over plan things. Plan a bit and let them flow. Nothing ends up being as planned, so just plan the necessary and then adapt to the situation.
+Let each one do what they want. Open your mind to other people's likes and opinions. Learn from others' behaviors and experiences.
 
-Let each one do what they want. Let plans flow and open your mind to other people's likes and opinions. You will learn and grow.
-
-The Lion King's classic saying "Hakuna Matata" is another way to express this.
+The Lion King's "Hakuna Matata" is another way to express this.
 
 ## Quotes
 
@@ -23,10 +21,9 @@ The Lion King's classic saying "Hakuna Matata" is another way to express this.
 
 > You can have a plan, but you have to be flexible. Every day is unpredictable, and you just have to go with the flow. - Jane Krakowski
 
-
 ## Resources and credits
 
-Moroccan people that taught me _Insha'Allah_
+When I was living in Morocco, the people there taught me a word called _Insha'Allah_ which means "if God wills" or "God willing".  My friends and I used it with the same meaning as saying _let it flow_.
 
 ## Related advices
 
