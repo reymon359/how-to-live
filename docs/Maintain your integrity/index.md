@@ -6,7 +6,7 @@ Integrity is the quality of having strong ethical principles that are followed a
 
 Focusing and maintaining your integrity will strengthen relationships with other people. They will trust you more.
 
-Is keeping up with your values and beliefs. If you don't keep up with them is because you don't truly believe in them. In that case, you need to review them.
+Keep up with your values and beliefs. If you don't keep up with them is because you don't truly believe in them. In that case, you need to review them.
 
 ## Quotes
 
@@ -31,14 +31,11 @@ Is keeping up with your values and beliefs. If you don't keep up with them is be
 
 ## Resources and credits
 
-- Stephen R. Covey, The 7 Habits of Highly Effective People.
+Stephen R. Covey focuses on this topic in his book The 7 Habits of Highly Effective People.
 
-## Resources and credits
-
-Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effective People.
 ## Related advices
 
 - [Respect yourself](../Respect%20yourself/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Be honest](../Be%20honest/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md)
+- [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Trust](../Categories/Trust.md) [Responsibility](../Categories/Responsibility.md)
