@@ -4,18 +4,18 @@ Categories: ['Time management', 'Time', 'Productivity', 'Success', 'Goals']
 ---
 # Manage the time you have
 
-Time is the only resource finite we have. It is probably the most valuable one. Take advantage of it, managing it properly. Some priorities and benefits would be:
+Time is a finite resource we have, and it is probably the most valuable one. Take advantage of it by managing it properly. Some priorities and benefits would be:
 
 - Setting priorities and goals.
 - Spending the time more consciously.
 - Reduce the time spent on non-priorities.
-- Working on an environment more productive and effective.
+- Working in an environment more productive and effective.
 
-Manage the time you spend in different categories such us work, social life, family, hobbies, personal interests, and commitments to give some examples. However, if there is a category you want or need to spend time to add it.
+Manage the time you spend in different categories such as work, social life, family, hobbies, health, personal interests, and other commitments, to give some examples.
 
-There are plenty of tools to do help us manage time more efficiently, like the "Pomodoro Technique".
+There are plenty of tools to help us manage time more efficiently, like the “Pomodoro Technique” or the “Eisenhower Matrix”
 
-Spend time planning your time, forgive the redundancy. Book a bit of time each day to plan the next day, and a bit of time each week to plan the next one.
+Book time for planning. Try to spend a bit of time each day to plan the next day, and a bit of time each week to plan the next one.
 
 ## Quotes
 
@@ -46,3 +46,4 @@ Spend time planning your time, forgive the redundancy. Book a bit of time each d
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Time is more valuable than money](../Time%20is%20more%20valuable%20than%20money/index.md)
 - [Book leisure time](../Book%20leisure%20time/index.md)
+- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
