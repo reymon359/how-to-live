@@ -4,15 +4,15 @@ Categories: ['Happiness', 'Music', 'Gratitude']
 ---
 # Listen to music
 
-Music is one of those gifts from life. Be grateful for it.
+Music is one of the gifts from life. Be grateful for it.
 
-Fill your life with music. Every moment can be improved with music. Some genres are more appropriate at some occasions. 
+Fill your life with music. Most life moments, like a road trip or a party, can be improved with the proper music. Some genres are more appropriate at some occasions. 
 
-Sometimes the best music is the silence itself, the sound that surrounds you. Enjoy it too.
+Sometimes the best music is the silence itself. The sound that surrounds you. Enjoy it too.
 
-Be open-minded about music. Listen to new music from time to time; new artists, new genres, new songs. You may enjoy the new sounds you will listen.
+Be open-minded about music. Try to listen to new music from time to time; new artists, new genres, new songs. You may discover and enjoy the new sounds.
 
-Sing and dance. Do not close yourself just to listen, enjoy the music in its fullness.
+Don't just listen, sing and dance too. Enjoy music in its fullness.
 
 ## Quotes
 
@@ -31,3 +31,4 @@ Sing and dance. Do not close yourself just to listen, enjoy the music in its ful
 - [Discover new music](../Discover%20new%20music/index.md)
 - [Sing](../Sing/index.md)
 - [Enjoy nature music](../Enjoy%20nature%20music/index.md)
+- [Try new things](../Try%20new%20things/index.md)
