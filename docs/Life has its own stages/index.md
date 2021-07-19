@@ -1,10 +1,13 @@
 # Life has its own stages
 
-You are not the same person as yesterday. And you can not expect to be the same as you were in the past or will be in the future. The things you do and like when you are 15 are not the same when you are 30. There are life stages and as we grow we pass through them.
+You can not expect to always be the same as you were in the past.
+The things you do and like when you are a teenager are not the same when you are in your thirties. You are not even the same person as yesterday. There are life stages and as we grow we pass through them.
 
 Do not expect people to do or like the same things as you just because you have a similar age. Everyone has their own stages and move at a different pace. Be open-minded about it and respect them.
 
-Learn from them. Try to get the best of what they do. Respectfully, share and provide them with your experience and advice on them.
+Learn from others. Try to get the best of how they are doing. Communicate, share experiences and advice to learn from them.
+
+No matter the stage you are at, enjoy it. Try to focus on doing what brings you joy.
 
 ## Quotes
 
@@ -18,7 +21,7 @@ Learn from them. Try to get the best of what they do. Respectfully, share and pr
 
 ## Resources and credits
 
-A deep chat with a good friend (Pablo Llorca) made me realize about this.
+A deep chat with my friend Pablo Llorca made me realize about this.
 
 ## Related advices
 
@@ -26,4 +29,8 @@ A deep chat with a good friend (Pablo Llorca) made me realize about this.
 - [Embrace growing](../Embrace%20growing/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Be grateful](../Be%20grateful/index.md)
-- [Look for feedback](../Look%20for%20feedback/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
+- [Look for feedback](../Look%20for%20feedback/index.md)
+- [Open your mind](../Open%20your%20mind/index.md)
+- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)
