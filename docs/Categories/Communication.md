@@ -35,6 +35,8 @@
     
  - [Listen before talking](../Listen%20before%20talking/index.md)
     
+ - [Look for feedback](../Look%20for%20feedback/index.md)
+    
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
     
  - [Practice empathy](../Practice%20empathy/index.md)

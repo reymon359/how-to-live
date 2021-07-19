@@ -1,14 +1,12 @@
 # Look for feedback
 
-In software development, getting feedback from users is one of the most valuable things for a project to grow.
-
 Learning from feedback is one of the best ways to grow. Look and ask for it.
 
 Treat feedback as a gift. Both, when you get it and when you give it.
 
 It is not normal for the feedback to come by itself. Ask for it. Tell to your closer ones that you want to hear what they think about you (good and bad) to improve.
 
-Be grateful with the negative feedback. Don't be afraid of it. Embrace it because it is the one you can improve the most from.
+Be grateful with the negative feedback. Don't be afraid of it. Embrace it because it is the one from you can improve the most.
 
 ## Quotes
 
@@ -28,13 +26,9 @@ Be grateful with the negative feedback. Don't be afraid of it. Embrace it becaus
 
 > I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself. – Elon Musk
 
-## Resources and credits
-
-I have experienced this in software development when getting feedback from users in a platform to make it better.
-
 ## Related advices
 
 - [Empathic listening](../Empathic%20listening/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Ask questions](../Ask%20questions/index.md)
-- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Solutions](../Categories/Solutions.md) [Success](../Categories/Success.md)
+- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Solutions](../Categories/Solutions.md) [Success](../Categories/Success.md) [Communication](../Categories/Communication.md)
