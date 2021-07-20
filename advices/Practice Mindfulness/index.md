@@ -1,14 +1,14 @@
 ---
-name: 'Practice Mindfulness'
+name: 'Practice mindfulness'
 Categories: ['Respect', 'Mindfulness', 'Mental health']
 ---
-# Practice Mindfulness
+# Practice mindfulness
 
-Mindfulness is the basic human ability to be fully present, aware of where we are and what we’re doing, and not overly reactive or overwhelmed by what’s going on around us.
+Mindfulness is the basic human ability to be fully present. To be aware of where we are and what we’re doing, and not overly overwhelmed by what’s going on around us.
 
-When you are doing something, pay full attention to it. Put all your senses into it. Your whole mind.
+When you are doing something, pay full attention to it. Put all your senses and mind into it.
 
-The more you are aware of what is happening at the moment, the more fully you will live it. And to live each moment to the fullest will make you happier.
+The more you are aware of what is happening at the moment, the deeper you live that moment. Live each moment to the fullest.
 
 ## Quotes
 
@@ -29,6 +29,5 @@ The more you are aware of what is happening at the moment, the more fully you wi
 ## Related advices
 
 - [Pay attention](../Pay%20attention/index.md) 
-- [Be proactive](../Be%20proactive/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Listen to your body](../Listen%20to%20your%20body/index.md)

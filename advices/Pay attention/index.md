@@ -36,6 +36,6 @@ Here is an interesting [article](https://mythirdbrain.substack.com/p/how-i-spend
 
 ## Related advices
 
-- [Practice Mindfulness](../Practice%20Mindfulness/index.md)
+- [Practice mindfulness](../Practice%20mindfulness/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)

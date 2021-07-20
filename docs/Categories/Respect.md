@@ -41,9 +41,9 @@
     
  - [Open your mind](../Open%20your%20mind/index.md)
     
- - [Practice Mindfulness](../Practice%20Mindfulness/index.md)
-    
  - [Practice empathy](../Practice%20empathy/index.md)
+    
+ - [Practice mindfulness](../Practice%20mindfulness/index.md)
     
  - [Put your phone down](../Put%20your%20phone%20down/index.md)
     

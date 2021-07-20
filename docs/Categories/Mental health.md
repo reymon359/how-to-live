@@ -21,7 +21,7 @@
     
  - [Let it flow](../Let%20it%20flow/index.md)
     
- - [Practice Mindfulness](../Practice%20Mindfulness/index.md)
+ - [Practice mindfulness](../Practice%20mindfulness/index.md)
     
  - [Respect yourself](../Respect%20yourself/index.md)
     

@@ -7,5 +7,5 @@
     
  - [Pay attention](../Pay%20attention/index.md)
     
- - [Practice Mindfulness](../Practice%20Mindfulness/index.md)
+ - [Practice mindfulness](../Practice%20mindfulness/index.md)
     
