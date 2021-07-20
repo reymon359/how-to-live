@@ -534,6 +534,8 @@ Each advice sections
     
  - [Question everything. Do not take anything for granted](Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
     
+ - [Question what you don't understand](Question%20what%20you%20don't%20understand/index.md)
+    
  - [Read books](Read%20books/index.md)
     
  - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
@@ -619,8 +621,6 @@ Each advice sections
  - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
     
  - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-    
- - [question what you don't understand](question%20what%20you%20don't%20understand/index.md)
     
  - [relativize, don't generalize](relativize,%20don't%20generalize/index.md)
     

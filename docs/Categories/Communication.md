@@ -45,6 +45,8 @@
     
  - [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
     
+ - [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
+    
  - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
     
  - [Stick to people that give you useful advice and reach them when you are in trouble](../Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)
