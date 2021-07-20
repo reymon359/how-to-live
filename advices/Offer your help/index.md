@@ -1,18 +1,16 @@
 ---
 name: 'Offer your help'
-Categories: ['Help', 'Happiness']
+Categories: ['Help', 'Happiness', 'Community', 'Relationships']
 ---
 # Offer your help
 
-Always offer to help others. Be there for them.
+Always try to offer to help others. Be there for them.
 
-If you really can do something to help someone, just do it.
+If you can do something to help someone, just do it.
 
-Help as much as you can, always taking care of yourself too. If you end up in a bad position, you will not be able to help anymore.
+Take care of yourself, too. It's not worth helping if you end up in a situation where you can not help anymore.
 
 Helping others will make you feel fulfilled and happier.
-
-When I help someone and see how they are better after something I did, that makes me feel really happy.
 
 ## Quotes
 
