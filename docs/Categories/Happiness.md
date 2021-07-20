@@ -59,6 +59,8 @@
     
  - [Listen to music](../Listen%20to%20music/index.md)
     
+ - [Money is a means, not an end](../Money%20is%20a%20means,%20not%20an%20end/index.md)
+    
  - [Offer your help](../Offer%20your%20help/index.md)
     
  - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)

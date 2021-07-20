@@ -39,6 +39,8 @@
     
  - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
     
+ - [Money is a means, not an end](../Money%20is%20a%20means,%20not%20an%20end/index.md)
+    
  - [Review your goals](../Review%20your%20goals/index.md)
     
  - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
