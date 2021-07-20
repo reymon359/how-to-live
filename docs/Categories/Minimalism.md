@@ -17,5 +17,5 @@
     
  - [Remove dependencies](../Remove%20dependencies/index.md)
     
- - [The simpler the better](../The%20simpler%20the%20better/index.md)
+ - [The simpler, the better](../The%20simpler,%20the%20better/index.md)
     

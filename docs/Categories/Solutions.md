@@ -45,7 +45,7 @@
     
  - [The rule of holes](../The%20rule%20of%20holes/index.md)
     
- - [The simpler the better](../The%20simpler%20the%20better/index.md)
+ - [The simpler, the better](../The%20simpler,%20the%20better/index.md)
     
  - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
     

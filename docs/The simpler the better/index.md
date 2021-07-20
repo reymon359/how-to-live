@@ -1,4 +1,4 @@
-# The simpler the better
+# The simpler, the better
 
 When you are facing a problem, look for the simplest solution for it.
 

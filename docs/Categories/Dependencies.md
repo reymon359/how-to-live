@@ -13,5 +13,5 @@
     
  - [Take responsibility](../Take%20responsibility/index.md)
     
- - [The simpler the better](../The%20simpler%20the%20better/index.md)
+ - [The simpler, the better](../The%20simpler,%20the%20better/index.md)
     

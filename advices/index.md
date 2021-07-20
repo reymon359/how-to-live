@@ -105,7 +105,7 @@ Life is complicated and awesome at the same time. This doc tries to help at it a
     59. There is always a solution or a better state of things
     60. Always find solutions not problems in life situations
     61. Clean. 
-    62. The simpler the better. Usually, the easiest sollution is the best one. Try to aim for that one.
+    62. The simpler, the better. Usually, the easiest sollution is the best one. Try to aim for that one.
     63. Talk with someone to find solutions.
     64. Ask for other opinions. See different points of view, evaluate them.
 12. Material things.

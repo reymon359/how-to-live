@@ -1,8 +1,8 @@
 ---
-name: 'The simpler the better'
+name: 'The simpler, the better'
 Categories: ['Solutions', 'Problems', 'Simplicity', 'Dependencies', 'Minimalism']
 ---
-# The simpler the better
+# The simpler, the better
 
 When you are facing a problem, look for the simplest solution for it.
 

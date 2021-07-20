@@ -209,7 +209,7 @@ Life is complicated and awesome at the same time. This doc tries to help at it a
 
     61. Clean. 
 
-    62. The simpler the better. Usually, the easiest sollution is the best one. Try to aim for that one.
+    62. The simpler, the better. Usually, the easiest sollution is the best one. Try to aim for that one.
 
     63. Talk with someone to find solutions.
 
@@ -592,7 +592,7 @@ Each advice sections
     
  - [The rule of holes](The%20rule%20of%20holes/index.md)
     
- - [The simpler the better](The%20simpler%20the%20better/index.md)
+ - [The simpler, the better](The%20simpler,%20the%20better/index.md)
     
  - [The world is not fair](The%20world%20is%20not%20fair/index.md)
     
