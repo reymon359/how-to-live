@@ -6,11 +6,11 @@ Book time for it. Try to read a bit each day or week.
 
 You will learn much more from a book than from an article.
 
-Any kind of book is good. Just start reading. Begin with one and explore new genres.
+Any kind of book is good, to begin with. Just take action and start reading. Begin with one and explore new genres.
 
 You will get better at reading with time and practice.
 
-Pay attention to what you are reading. Avoid distractions while reading.
+Pay attention to what you are reading. Try to avoid distractions while reading.
 
 ## Quotes
 
@@ -30,9 +30,9 @@ Pay attention to what you are reading. Avoid distractions while reading.
 
 ## Resources and credits
 
-The more books I read, the more I like it. I feel that reading books make you think differently.
+The more books I read, the more I like it. The act of reading is awesome, if you think about it, you are traveling to other dimensions and living new lives and adventures by just watching letters next to each other.
 
-The act of reading is awesome, if you think about it, you are traveling to other dimensions and living new lives by just watching letters next to each other.
+Thanks to my mom for encouraging and helping me to read when I was a child.
 
 ## Related advices
 
