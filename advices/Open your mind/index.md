@@ -4,15 +4,15 @@ Categories: ['Open-mindedness', 'Respect', 'Comfort zone']
 ---
 # Open your mind
 
-This one is one of the most important ones in my opinion.
+This is one of the most important ones, in my opinion.
 
 Opening your mind is about being open to new ideas and concepts. To understand and respect them.
 
 The more you open your mind, the more you will grow.
 
-Stepping outside your comfort zone will help you to open your mind.
+Stepping outside your comfort zone will help you open your mind. Actually, it will be easier the more open-minded you are.
 
-Traveling will help you too to open your mind. Experiencing different cultures and ways of living.
+Traveling as well helps you to open your mind. Experiencing new cultures and ways of living.
 
 ## Quotes
 
@@ -37,6 +37,6 @@ Traveling will help you too to open your mind. Experiencing different cultures a
 ## Related advices
 
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Step outside the comfort ozone](../Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
 - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
