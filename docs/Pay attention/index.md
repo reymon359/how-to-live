@@ -28,7 +28,7 @@ Pay attention to the smallest details. Be careful with what you do and try not t
 
 ## Resources and credits
 
-[This article](https://mythirdbrain.substack.com/p/how-i-spend-my-attention) made me think about this topic.
+Here is an interesting [article](https://mythirdbrain.substack.com/p/how-i-spend-my-attention) about the topic.
 
 ## Related advices
 
