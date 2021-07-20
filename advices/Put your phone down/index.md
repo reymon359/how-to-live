@@ -8,14 +8,13 @@ Categories: ['Health', 'Respect', 'Communication']
 
 When you are _doing something_, but you are paying attention to your phone, you are not doing it fully.
 
-When you are in a social moment like eating with friends or family, pay attention to the moment and don't be on the phone. If you decide to watch a movie, watch it, enjoy it, pay attention to the movie and the moment.
+Take some quick pictures or videos to remember the moment in the future if you want to. However, try to waste the least time doing it.
 
-Don't be looking at the phone all the time.
+If you are in a social moment like eating with friends or family, pay attention to it. Try not to be on the phone. If you decide to watch a movie, enjoy it, pay attention to it and the moment.
 
-If you are at a festival, don't be recording the whole performance. Make a small video or photo for the memories and keep the phone. Pay attention to it rather than wasting time on the phone.
+Try not to be looking at the phone all the time in public places or public transport. Pay attention to your surroundings.
 
 ## Quotes
-
 
 > “Do more things that make you forget to check your phone.” — Anonymous
 
