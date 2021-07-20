@@ -366,6 +366,8 @@
         
      - [Guilt](../Categories/Guilt.md)
         
+     - [Habits](../Categories/Habits.md)
+        
      - [Happiness](../Categories/Happiness.md)
         
      - [Health](../Categories/Health.md)
