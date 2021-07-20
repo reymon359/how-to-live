@@ -40,3 +40,4 @@ When you don't have time to research something, note it down to do it later.
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Take notes](../Take%20notes/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
+- [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)

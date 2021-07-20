@@ -6,7 +6,7 @@ When you are _doing something_, but you are paying attention to your phone, you 
 
 Take some quick pictures or videos to remember the moment in the future if you want to. However, try to waste the least time doing it.
 
-If you are in a social moment like eating with friends or family, pay attention to the moment. Try not to be on the phone. If you decide to watch a movie, enjoy it, pay attention to it and the moment.
+If you are in a social moment like eating with friends or family, pay attention to it. Try not to be on the phone. If you decide to watch a movie, enjoy it, pay attention to it and the moment.
 
 Try not to be looking at the phone all the time in public places or public transport. Pay attention to your surroundings.
 
