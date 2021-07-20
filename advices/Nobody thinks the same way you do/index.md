@@ -4,13 +4,11 @@ Categories: ['Communication', 'Respect', 'Open-mindedness']
 ---
 # Nobody thinks the same way you do
 
-How boring would a world be where we all think the same way.
-
-Not everyone thinks the same way you do, and that is totally normal.
+Not everyone thinks the same way you do, and that is totally normal. How boring would a world be where we all think the same way.
 
 We would not grow as a society if we all thought alike.
 
-However, no matter their opinion and if you agree or not with it, you have to respect it.
+No matter the other's opinion and if you agree or not with it, try to respect it.
 
 ## Quotes
 
@@ -28,3 +26,4 @@ However, no matter their opinion and if you agree or not with it, you have to re
 
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
+- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)

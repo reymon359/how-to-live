@@ -21,6 +21,8 @@
     
  - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
     
+ - [Most religions have great values](../Most%20religions%20have%20great%20values/index.md)
+    
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
     
  - [Open your mind](../Open%20your%20mind/index.md)

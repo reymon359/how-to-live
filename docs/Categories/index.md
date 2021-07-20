@@ -119,8 +119,6 @@
     
  - [Nutrition](../Categories/Nutrition.md)
     
- - [Open minded](../Categories/Open%20minded.md)
-    
  - [Open-mindedness](../Categories/Open-mindedness.md)
     
  - [Optimization](../Categories/Optimization.md)
