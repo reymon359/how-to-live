@@ -4,21 +4,15 @@ Categories: ['Happiness', 'Music']
 ---
 # Sing
 
-A simple one. 
-
 Sing. 
 
 Just sing. 
 
-Sing everywhere and whenever you want.
+Pay attention to how you feel when doing it, It should make you feel better and relaxed.
 
-Singing makes you happy.
+Try to whistle or hum the lyrics if you don't know them properly. Don't worry about what others will think. If it brings you joy, and you want to do it, just do it. 
 
 And dance too if you want. Move your body to the sound of the music.
-
-Don't worry about what others will think. If you want to do it, just do it. 
-
-Whistle too if you know how to. If not and you would like to, practice.
 
 ## Quotes
 
@@ -37,10 +31,6 @@ Whistle too if you know how to. If not and you would like to, practice.
 > As long as we live, there is never enough singing. — Martin Luther
 
 > For me, singing is the most natural thing in the world. I've grown up with it and I know I've got that gift. — Stella Mccartney
-
-## Resources and credits
-
-A lot of times I have left my house and headed to the street singing. You would be surprised by the number of people that end up singing along with me while passing.
 
 ## Related advices
 
