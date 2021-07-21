@@ -1,20 +1,18 @@
 # Respect nature
 
-Nature is truly beautiful. We all live and share the same world. Let's respect this beauty we all share.
+Nature is simply amazing. We all live and share the same world. Let's respect this beauty we all share.
 
-Respect the animals, plants, lakes, beaches, ...everything.
+Respect the animals, plants, lakes, …anything.
 
-Take care of the planet. When going to nature don't leave trash, and if you see trash pick it up.
+Keep it clean. When going to nature don't leave trash, and if you see trash try to pick it up.
 
 Practice the three Rs: Reduce, Reuse, and Recycle.
 
-- Try to reduce the things you buy.
+- Reduce the things you buy.
 - Reuse everything as much as you can.
 - Recycle the trash.
 
-Of course, enjoy it. Take pleasure in hiking, watching plants, petting animals, and listening to all its sounds.
-
-Enjoy and respect the world.
+Enjoy it. Take pleasure in hiking, watching plants, petting animals, and listening to all its sounds.
 
 ## Quotes
 
@@ -29,7 +27,7 @@ Our relationship with nature is more one of being than having.  We are nature: w
 
 ## Resources and credits
 
-When I was little, we had a saying in the Scouts when going camping. It was about trying to leave a place better than you found it. It came from a Baden-Powell's quote.
+There is a saying in the Scouts about trying to leave a place better than you found it. It comes from a Baden-Powell's quote.
 
 > Try and leave this world a little better than you found it, and when your turn comes to die, you can die happy in feeling that at any rate, you have not wasted your time but have done your best. - Robert Baden-Powell
 
