@@ -1,16 +1,8 @@
----
-name: 'Set up Social Goals too'
-Categories: ['Goals', 'Future', 'Social', 'Relationships']
----
-# Set up Social Goals too
+# Set up social goals
 
-Don't focus only in career goals.
+Set up goals to improve social relationships with others. Think about how you can improve your relationship with friends, relatives, coworkers, etc.
 
-Don't forget about family and friends.
-
-Set up goals to improve social relationships with others. For example, with the ones you care and the ones you need to collaborate together.
-
-Set up a reminder now and then to talk to the people you want to keep contact with.
+If you want to keep in contact and improve a relationship with someone, remember to talk to them and don't lose contact even in the distance. Set up reminders if needed.
 
 ## Quotes
 
@@ -34,4 +26,4 @@ The Stephen R. Covey book: The 7 Habits of Highly Effective People speak about t
 
 - [Set up reminders](../Set%20up%20reminders/index.md)
 - [Set up goals](../Set%20up%20goals/index.md)
-- [Review your goals](../Review%20your%20goals/index.md)
+- [Review your goals](../Review%20your%20goals/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md)

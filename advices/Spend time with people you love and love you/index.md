@@ -33,6 +33,6 @@ Take care of your relationship with them. Spend time in person or in the distanc
 
 ## Related advices
 
-- [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
+- [Set up social goals](../Set%20up%20social%20goals/index.md)
 - [Book leisure time](../Book%20leisure%20time/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)

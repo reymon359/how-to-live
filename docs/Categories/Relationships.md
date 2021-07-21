@@ -27,7 +27,7 @@
     
  - [Offer your help](../Offer%20your%20help/index.md)
     
- - [Set up Social Goals too](../Set%20up%20Social%20Goals%20too/index.md)
+ - [Set up social goals](../Set%20up%20social%20goals/index.md)
     
  - [Stick to people that give you useful advice and reach them when you are in trouble](../Stick%20to%20people%20that%20give%20you%20useful%20advice%20and%20reach%20them%20when%20you%20are%20in%20trouble/index.md)
     
