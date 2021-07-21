@@ -1,17 +1,14 @@
 # Respect yourself
 
-To effectively respect others, we first have to respect ourselves.
+To respect others properly, we first have to respect ourselves.
 
-Respect your feelings, what you really want, what you like, how you look, etc.
+Respect all of you: Your feelings, what you really want, what you like, how you look, etc.
 
 Respect your body. Take care of it eating healthy, exercising, and not taking harmful substances. 
 
-If you don't respect yourself, you will hardly respect others.
+If you don't love yourself, you will hardly love and respect others.
 
 The better you know yourself, the easier it will be to respect yourself.
-
-Respecting yourself and loving yourself go hand in hand.
-
 
 ## Quotes
 
