@@ -1,12 +1,12 @@
 # Respect others opinion
 
-Nobody thinks as you do. We all live in different cultures, social situations, experiences, etc.
+You should respect other people's opinions, even if you don't agree with them.
 
-You have to respect other people's opinions about something, even if you don't agree with it.
+Nobody will agree with you about everything. We all live in different cultures with different situations.
 
-Be open-minded to what other people think about things. Listen and pay attention to understand them. Try to learn from it and grow. Be emphatic when listening to them.
+Be open-minded when finding other people's opinions. Pay attention to understand them. Be emphatic when listening to them.
 
-When you have different opinions about an issue, look for a win-win. Try to reach an agreement for both, and if not possible, remember to keep respecting their opinion.
+When there are different opinions about an issue, look for a win-win. Try to reach an agreement. If it is not possible, agree to disagree and keep respecting their opinion.
 
 ## Quotes
 
@@ -24,15 +24,11 @@ When you have different opinions about an issue, look for a win-win. Try to reac
 
 ## Resources and credits
 
-There are two great books I read that discussed this topic in some chapters:
-
-- Stephen R. Covey, The 7 Habits of Highly Effective People
-- Your Erroneous Zones. Wayne Dyer - 1976
+There are two great books I read that discussed this topic: The 7 Habits of Highly Effective People by Stephen R. Covey and Your Erroneous Zones by Wayne Dyer.
 
 ## Related advices
 
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
 - [respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Empathic listening](../Empathic%20listening/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Listening](../Categories/Listening.md)
+- [Empathic listening](../Empathic%20listening/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Listening](../Categories/Listening.md) [Empathy](../Categories/Empathy.md)

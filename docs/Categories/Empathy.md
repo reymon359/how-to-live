@@ -5,3 +5,5 @@
     
  - [Practice empathy](../Practice%20empathy/index.md)
     
+ - [Respect others opinion](../Respect%20others%20opinion/index.md)
+    
