@@ -214,6 +214,8 @@
         
      - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
         
+     - [Relativize, don't generalize](Relativize,%20don't%20generalize/index.md)
+        
      - [Remove dependencies](Remove%20dependencies/index.md)
         
      - [Research to understand better](Research%20to%20understand%20better/index.md)
@@ -295,8 +297,6 @@
      - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-        
-     - [relativize, don't generalize](relativize,%20don't%20generalize/index.md)
         
      - [update others about your commitment](update%20others%20about%20your%20commitment/index.md)
         

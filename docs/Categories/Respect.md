@@ -47,6 +47,8 @@
     
  - [Put your phone down](../Put%20your%20phone%20down/index.md)
     
+ - [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
+    
  - [Respect nature](../Respect%20nature/index.md)
     
  - [Respect others beliefs](../Respect%20others%20beliefs/index.md)

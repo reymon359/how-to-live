@@ -29,6 +29,8 @@
     
  - [Practice empathy](../Practice%20empathy/index.md)
     
+ - [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
+    
  - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
     
  - [Respect others opinion](../Respect%20others%20opinion/index.md)
