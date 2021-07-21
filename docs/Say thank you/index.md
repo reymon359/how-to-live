@@ -1,18 +1,12 @@
 # Say thank you
 
-TODO: Pass translator again here
-
-Every time someone does something for you, give thanks for it.
-
-Even the smallest thing they do for you.
+Every time someone does anything for you, give thanks to them. Even the smallest thing.
 
 Even when there seems to be nothing to give thanks for, just do it.
 
 Just say it: thank you.
 
-When someone is being grateful with you, thank them back.
-
-You are being grateful back.
+When someone is being grateful to you, and you thank them back, you are being grateful back.
 
 ## Quotes
 
@@ -29,9 +23,8 @@ You are being grateful back.
 
 ## Resources and credits
 
-Adrian Ferrera inspired me to do this. He always thanked back anyone. No matter what they were talking, even when there was nothing to thank back he did it.
+My friend Adrian Ferrera inspired me on this. He always thanked back anyone no matter the topic, even when there seemed to be nothing to thank back.
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)
+- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md)

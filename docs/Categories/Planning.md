@@ -11,3 +11,5 @@
     
  - [Let it flow](../Let%20it%20flow/index.md)
     
+ - [Set up goals](../Set%20up%20goals/index.md)
+    
