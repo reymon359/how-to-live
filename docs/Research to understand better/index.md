@@ -2,15 +2,13 @@
 
 When you don't understand something fully, research it.
 
-Understand something properly before starting to interact with it.
-
-For example, read the documentation of a gadget before starting to use it. Or research about a country's culture and traditions before traveling to it.
+Understand something properly before starting to interact with it. For example, read the documentation of an item before starting to use it. Or research about a country's culture and traditions before traveling to it.
 
 Nowadays, we can easily access a lot of information thanks to the internet. Take advantage of this and don't hesitate to look for information to understand something better.
 
-It is easier to remain in the comfort zone and just knows enough to keep going. Step outside that comfort zone and research. Be curious.
+Be curious. It is easier to remain in the comfort zone and just know enough to keep going. Step outside that comfort zone and research. 
 
-If you are in a conversation and struggle to understand something, ask questions or research about the topic on the internet.
+If you are in a conversation and struggle to understand something, ask questions.
 
 When you don't have time to research something, note it down to do it later.
 
@@ -29,7 +27,6 @@ When you don't have time to research something, note it down to do it later.
 > Research is creating new knowledge. ― Neil Armstrong
 
 > After all, the ultimate goal of all research is not objectivity, but truth. ― Helene Deutsch
-
 
 ## Related advices
 
