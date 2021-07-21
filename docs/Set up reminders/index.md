@@ -1,18 +1,16 @@
 # Set up reminders
 
-We have a memory limit. We can not remember everything we have to do and all the important things, It's impossible.
+We, as humans, have a memory limit. We can not remember everything we have to do and all the important things, It simply is not possible.
 
 Thankfully, we live in an age where it is easier than ever to take notes at any moment and set up reminders to abstract ourselves from remembering the important things.
 
 If there is something important you have to do, set up a reminder for it.
 
-Even the smallest things that you think you will remember by yourself.
+Even the smallest things you think you will remember to do by yourself. Set reminders for them too. And once you have the habit of doing them, remove that reminder.
 
-A reminder can be a to-do in a to-do list, an alarm, or whatever works better for you. Adapt to the new technologies and get the advantage of them.
+A reminder can be a to-do in a to-do list, an alarm, or whatever works better for you. Try to automate them. Adapt to the new technologies and get the advantage of them.
 
-The point is to help you accomplish all those things you want to.
-
-When you set up reminders, you are delegating the remembering.
+When you set up reminders, you delegate yourself from remembering things and just focus on doing them.
 
 ## Quotes
 
@@ -26,10 +24,10 @@ When you set up reminders, you are delegating the remembering.
 
 ## Resources and credits
 
-I learned this by myself. I can say I am addicted to set up reminders to keep up with everything I have to do.
+I learned this by myself by realizing how my productivity increased just by setting up reminders to keep up with everything I have to do.
 
 ## Related advices
 
 - [Review your goals](../Review%20your%20goals/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md)
+- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Planning](../Categories/Planning.md)

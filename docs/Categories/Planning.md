@@ -13,3 +13,5 @@
     
  - [Set up goals](../Set%20up%20goals/index.md)
     
+ - [Set up reminders](../Set%20up%20reminders/index.md)
+    
