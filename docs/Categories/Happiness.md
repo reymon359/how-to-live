@@ -63,7 +63,7 @@
     
  - [Offer your help](../Offer%20your%20help/index.md)
     
- - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)
+ - [Say thank you](../Say%20thank%20you/index.md)
     
  - [Sing](../Sing/index.md)
     

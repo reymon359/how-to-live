@@ -556,7 +556,7 @@ Each advice sections
     
  - [Review your goals](Review%20your%20goals/index.md)
     
- - [Say thank you to everything](Say%20thank%20you%20to%20everything/index.md)
+ - [Say thank you](Say%20thank%20you/index.md)
     
  - [Set up Social Goals too](Set%20up%20Social%20Goals%20too/index.md)
     

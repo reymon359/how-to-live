@@ -11,5 +11,5 @@
     
  - [Listen to music](../Listen%20to%20music/index.md)
     
- - [Say thank you to everything](../Say%20thank%20you%20to%20everything/index.md)
+ - [Say thank you](../Say%20thank%20you/index.md)
     

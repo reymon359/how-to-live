@@ -1,4 +1,4 @@
-# Say thank you to everything
+# Say thank you
 
 TODO: Pass translator again here
 
