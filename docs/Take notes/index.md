@@ -1,10 +1,8 @@
 # Take notes
 
-Our brains are limited by the amount of content we can put into them.
+Our brains are limited by the amount of content we can put into them. Therefore, try to take notes. Write down those things that you don't want to forget or need to do later.
 
-To take notes is to write down those things that we don't want to forget or need to think about later.
-
-I take notes of everything. Tasks to do, things to learn, recipes to cook, places to visit, music to listen, movies to watch, etc.
+Take notes of everything. Tasks to do, things to learn, recipes to cook, places to visit, music to listen to, movies to watch, etc.
 
 Write them down for later moments when you may need to reach them.
 
