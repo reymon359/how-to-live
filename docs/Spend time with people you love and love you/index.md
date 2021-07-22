@@ -1,14 +1,14 @@
 # Spend time with people you love and love you
 
-Family, friends, loved ones. In the end, the time we spend with them is the most enjoyable
+Family, friends, loved ones. In the end, the time we spend with them is the most enjoyable.
 
-Book time to spend with them.
+Therefore, try to spend time with them. Book time for it.
 
-Times spent with them are the most valuable ones in the long term.
+The moments spent with them are the most valuable ones in the long term.
 
-Spending time with this kind of person will make you happy.
+You will be happier when spending time with the people that you love and love you.
 
-Take care of your relationship with them. Spend time in person or in the distance by calling, for example. Whatever it takes to not lose contact.
+Take care of your relationship with them. Spend time physically or if not possible by calling each other in the distance. Whatever it takes to not lose contact.
 
 ## Quotes
 
@@ -31,5 +31,4 @@ Take care of your relationship with them. Spend time in person or in the distanc
 
 - [Set up social goals](../Set%20up%20social%20goals/index.md)
 - [Book leisure time](../Book%20leisure%20time/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md)
+- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Communication](../Categories/Communication.md) [Relationships](../Categories/Relationships.md)
