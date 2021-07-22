@@ -1,14 +1,14 @@
 ---
 name: 'Take action'
-Categories: ['Success', 'Productivity']
+Categories: ['Success', 'Productivity', 'Solutions']
 ---
 # Take action
 
-To take action is to be proactive. Taking the initiative.
+To take action means to be proactive. To take the initiative.
 
 If you want to do something, take action and do it.
 
-Stop overthinking and take action. The hardest part is to begin it. However, once you have already taken action, let it flow and keep on with it.
+Stop overthinking. The hardest part is to begin it. However, once you have taken action and started, let it flow and keep on with it.
 
 One of the best ways to stop worrying is to take action. To make a choice.
 

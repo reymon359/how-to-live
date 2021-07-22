@@ -1,10 +1,10 @@
 # Take action
 
-To take action is to be proactive. Taking the initiative.
+To take action means to be proactive. To take the initiative.
 
 If you want to do something, take action and do it.
 
-Stop overthinking and take action. The hardest part is to begin it. However, once you have already taken action, let it flow and keep on with it.
+Stop overthinking. The hardest part is to begin it. However, once you have taken action and started, let it flow and keep on with it.
 
 One of the best ways to stop worrying is to take action. To make a choice.
 
@@ -39,4 +39,4 @@ Your Erroneous Zones from Wayne Dyer discussed this topic.
 - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
 - [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md) <hr/><br/>[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md)
+- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md) <hr/><br/>[Categories:](../Categories/index.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md) [Solutions](../Categories/Solutions.md)

@@ -41,6 +41,8 @@
     
  - [Look for feedback](../Look%20for%20feedback/index.md)
     
+ - [Take action](../Take%20action/index.md)
+    
  - [The five whys](../The%20five%20whys/index.md)
     
  - [The rule of holes](../The%20rule%20of%20holes/index.md)
