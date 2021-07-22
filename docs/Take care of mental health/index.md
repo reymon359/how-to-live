@@ -1,14 +1,12 @@
 # Take care of mental health
 
-Take care of your body and your mind.
+Be aware of mental health issues. Take care of yourself and other people when they're suffering them.
 
-Listen to it.
+Take care of your body and your mind. Listen to it.
 
-If you feel bad, take a rest
+Don't do things that can make you feel worse afterward.
 
-Don't do things that can make you have a headache later.
-
-If you are having mental problems, ask for help.
+If you are having mental problems, ask for help. Go to the doctor.
 
 Mental health is no joke. Offer your help to those that are struggling with it.
 
