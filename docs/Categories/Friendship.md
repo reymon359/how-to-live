@@ -7,3 +7,5 @@
     
  - [Keep in touch with people that matter to you](../Keep%20in%20touch%20with%20people%20that%20matter%20to%20you/index.md)
     
+ - [Stick to people that give you good advice](../Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)
+    
