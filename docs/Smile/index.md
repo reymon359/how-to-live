@@ -4,13 +4,13 @@ Just smile.
 
 You don't need to have a reason to smile.
 
-Smile with other people and when you are alone.
+Smile with other people, but also when you are alone.
 
 When you are introducing yourself to someone, smile at them.
 
-If you are having a difficult moment, smile as much as you can.
+If you are having a difficult moment, don't forget to smile at it.
 
-Smile and be grateful for what you have.
+Smile and be grateful.
 
 ## Quotes
 
@@ -38,5 +38,4 @@ Smile and be grateful for what you have.
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
