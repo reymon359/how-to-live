@@ -4,19 +4,17 @@ Categories: ['Comfort zone', 'Unknown', 'Open-mindedness', 'Growing', 'Proactivi
 ---
 # Step outside the comfort zone
 
-One of the most important ones.
+To step outside the comfort zone means to grow. To take risks, and learn from all of them.
 
-To Step outside the comfort zone means to grow. To take risks, fail, and learn from all of them.
+It is not an easy task. As the name says, it is not comfortable at all. You have to do it little by little, one step at a time. In the beginning, it will be hard and then, with time, it will get easier.
 
-It is not an easy task. As the name says, it is not comfortable at all. That is why you have to do it little by little, one step at a time. In the beginning, it will be hard and then, with time, it will get easier.
+It is the best way to learn about anything and yourself.
 
-It is the best way to learn about anything and about yourself.
-
-Don't be afraid of the unknown.
+Try not to be afraid of the unknown.
 
 You only live once, don't fall into a routine you don't enjoy. Be proactive and open-minded. Be willing to try new things. No matter how hard they seem to be.
 
-If you want to do something, just do it. No matter how hard it is or what other people think about it. Avoid procrastinating and make up excuses, step outside your comfort zone and go for it.
+If you want to do something, just do it. No matter how hard it is or what other people think about it. Avoid procrastinating and making up excuses. Step outside your comfort zone and go for it.
 
 ## Quotes
 
@@ -46,7 +44,7 @@ If you want to do something, just do it. No matter how hard it is or what other 
 
 ## Resources and credits
 
-I have talked about this topic with a lot of people. Also, read many books that talk about this topic or similar ones. For example, Your Erroneous Zones from Wayne Dyer or Stephen R. Covey's The 7 Habits of Highly Effective People.
+I have discussed this topic with a lot of people and have read books about it like Your Erroneous Zones from Wayne Dyer or Stephen R. Covey's The 7 Habits of Highly Effective People.
 
 ## Related advices
 
