@@ -2,11 +2,11 @@
 
 When you are teaching, you get to help others while you improve yourself.
 
-You need to know properly what you are explaining. This will make you research and learn about it.
+To teach properly, you need to understand what you are explaining. You will have to research, and it will help you learn about it.
 
 It can be done in so many ways, by communicating with others, writing articles, giving talks, etc.
 
-Share your knowledge with other people. It will help you reinforce and what you already know. And you may know something new on the topic from someone you wouldn't expect.
+Share your knowledge with other people. It will help you strengthen what you already know. And you may discover something new on the topic from someone you wouldn't expect.
 
 Take ownership of what you are teaching and explain it the best way you can.
 
@@ -36,14 +36,12 @@ Take ownership of what you are teaching and explain it the best way you can.
 
 ## Resources and credits
 
-When I began writing articles, making tutorials, giving talks, or just explaining concepts I realized two things:
+After writing articles, making tutorials, giving talks, or just explaining concepts I realized two things:
 
 - I ended up learning more than I knew on the topic.
-- The feedback I got from people who told me it was helpful for them made me happy.
-
+- It made me happy to get feedback from people who told me it was helpful for them.
 
 ## Related advices
 
 - [Offer your help](../Offer%20your%20help/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)
-<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Help](../Categories/Help.md) [Communication](../Categories/Communication.md) [Education](../Categories/Education.md)
+- [Continuous learning](../Continuous%20learning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Help](../Categories/Help.md) [Communication](../Categories/Communication.md) [Education](../Categories/Education.md)
