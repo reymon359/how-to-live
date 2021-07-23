@@ -10,7 +10,7 @@ If you agree with someone to do something, do it.
 
 The fewer dependencies you have, the fewer things you need to be responsible for.
 
-Don't blame and complain about things that are not like you want, take responsibility for them to change them.
+Try not to blame and complain about things that are not the way you want. Take responsibility and try to change them.
 
 ## Quotes
 
@@ -36,7 +36,7 @@ Don't blame and complain about things that are not like you want, take responsib
 
 ## Resources and credits
 
-I learned this while growing up. In some way, software development helped on this because It made me realize you have to be responsible and maintain whatever you create.
+Doing software development made me better at this. Realizing you have to be responsible and maintain whatever you create.
 
 In addition, some books I read discussed responsibility and blaming, for example, Your Erroneous Zones from Wayne Dyer or Stephen R. Covey's The 7 Habits of Highly Effective People.
 
@@ -45,3 +45,4 @@ In addition, some books I read discussed responsibility and blaming, for example
 - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
+- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
