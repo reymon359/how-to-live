@@ -612,9 +612,11 @@ Each advice sections
     
  - [Try new things](Try%20new%20things/index.md)
     
+ - [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+    
  - [We all make mistakes](We%20all%20make%20mistakes/index.md)
     
- - [We teach others how to treat us. ](We%20teach%20others%20how%20to%20treat%20us./index.md)
+ - [We teach others how to treat us](We%20teach%20others%20how%20to%20treat%20us/index.md)
     
  - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
     
@@ -623,8 +625,6 @@ Each advice sections
  - [When in doubt, follow standards](When%20in%20doubt,%20follow%20standards/index.md)
     
  - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-    
- - [update others about your commitment](update%20others%20about%20your%20commitment/index.md)
     
  - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
     

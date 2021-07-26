@@ -43,5 +43,5 @@
     
  - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
     
- - [We teach others how to treat us. ](../We%20teach%20others%20how%20to%20treat%20us./index.md)
+ - [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
     

@@ -57,5 +57,7 @@
     
  - [Trust others](../Trust%20others/index.md)
     
+ - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
+    
  - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     

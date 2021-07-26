@@ -1,8 +1,8 @@
 ---
 name: 'Update others about your commitment'
-Categories: ['Respect', 'Communication', 'Commitment','Integrity', 'Truth', 'Trust', 'Honesty']
+Categories: ['Respect', 'Communication', 'Commitment', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
-# Update others about your commitment (Already Reviewed, remove this)
+# Update others about your commitment
 
 Communicate as much as you can to keep things clear. Keep others updated on the status of your commitment to avoid surprises and misunderstandings.
 

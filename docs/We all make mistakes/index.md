@@ -1,4 +1,4 @@
-# We all make mistakes (updated remove this)
+# We all make mistakes
  
 Learn from mistakes. Don’t feel bad about them, instead, feel good because the next time you will know how to act in that situation.
  

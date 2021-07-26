@@ -61,3 +61,5 @@
     
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
     
+ - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
+    

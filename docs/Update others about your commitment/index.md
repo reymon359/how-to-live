@@ -1,8 +1,4 @@
----
-name: 'Update others about your commitment'
-Categories: ['Respect', 'Communication', 'Commitment','Integrity', 'Truth', 'Trust', 'Honesty']
----
-# Update others about your commitment (Already Reviewed, remove this)
+# Update others about your commitment
 
 Communicate as much as you can to keep things clear. Keep others updated on the status of your commitment to avoid surprises and misunderstandings.
 
@@ -33,4 +29,4 @@ The Clean Coder by Robert C. Martin discusses this topic.
 - [Be punctual](../Be%20punctual/index.md)
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
-- [Be honest](../Be%20honest/index.md)<hr/><br/>
+- [Be honest](../Be%20honest/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Commitment](../Categories/Commitment.md) [Integrity](../Categories/Integrity.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

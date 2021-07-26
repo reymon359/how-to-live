@@ -1,7 +1,3 @@
----
-name: 'We teach others how to treat us'
-Categories: ['Growing', 'Problems', 'Solutions', 'Integrity']
----
 # We teach others how to treat us
 
 You are the one that teaches others how to treat you by how you treat yourself.
@@ -29,4 +25,4 @@ Try to get to know yourself. The better you know yourself, the better you will t
 
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Respect yourself](../Respect%20yourself/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
+- [Get to know yourself](../Get%20to%20know%20yourself/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md)

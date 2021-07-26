@@ -33,5 +33,7 @@
     
  - [Take responsibility](../Take%20responsibility/index.md)
     
- - [We teach others how to treat us. ](../We%20teach%20others%20how%20to%20treat%20us./index.md)
+ - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
+    
+ - [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
     
