@@ -28,7 +28,7 @@ You may have to step outside your comfort zone to accomplish. Don't give up. Pla
 
 ## Related advices
 
-- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
+- [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)

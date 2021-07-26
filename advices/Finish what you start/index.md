@@ -26,7 +26,7 @@ To finish long-term things, you need to work on them constantly. Don't give up, 
 
 ## Related advices
 
-- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
+- [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)

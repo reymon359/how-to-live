@@ -83,7 +83,7 @@ Life is complicated and awesome at the same time. This doc tries to help at it a
 
     15. Get things done. 
 
-    16. The hardest part is starting. Related #8 Step outside the comfort zone
+    16. The hardest part is the beginning. Related #8 Step outside the comfort zone
 
     17. If you want you can.
 
@@ -592,7 +592,7 @@ Each advice sections
     
  - [The five whys](The%20five%20whys/index.md)
     
- - [The hardest part is starting](The%20hardest%20part%20is%20starting/index.md)
+ - [The hardest part is the beginning](The%20hardest%20part%20is%20the%20beginning/index.md)
     
  - [The rule of holes](The%20rule%20of%20holes/index.md)
     

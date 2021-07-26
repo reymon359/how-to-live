@@ -266,7 +266,7 @@
         
      - [The five whys](The%20five%20whys/index.md)
         
-     - [The hardest part is starting](The%20hardest%20part%20is%20starting/index.md)
+     - [The hardest part is the beginning](The%20hardest%20part%20is%20the%20beginning/index.md)
         
      - [The rule of holes](The%20rule%20of%20holes/index.md)
         
@@ -513,7 +513,5 @@
      - [Unknown](../Categories/Unknown.md)
         
      - [Willpower](../Categories/Willpower.md)
-        
-     - [comfort zone](../Categories/comfort%20zone.md)
         
     

@@ -43,4 +43,4 @@ Your Erroneous Zones from Wayne Dyer discussed this topic.
 - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
 - [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md) 
+- [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md) 

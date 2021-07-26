@@ -205,5 +205,3 @@
     
  - [Willpower](../Categories/Willpower.md)
     
- - [comfort zone](../Categories/comfort%20zone.md)
-    

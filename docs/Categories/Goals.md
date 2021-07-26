@@ -51,7 +51,7 @@
     
  - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
     
- - [The hardest part is starting](../The%20hardest%20part%20is%20starting/index.md)
+ - [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md)
     
  - [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
     

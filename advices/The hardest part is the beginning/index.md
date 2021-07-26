@@ -1,16 +1,20 @@
-# The hardest part is starting
+---
+name: 'The hardest part is the beginning'
+Categories: ['Goals', 'Comfort zone', 'Motivation']
+---
+# The hardest part is the beginning
 
-There is a big difference between planning and actually getting started with something.
+There is a huge difference between planning and actually getting started with something.
 
-Starting with something means to challenge the unknown of it and step outside our comfort zone, which is always hard.
+Starting something means challenging the unknown and stepping outside our comfort zone, which is always hard.
 
-Split the goal in smaller parts to help you begin with. Then go step by step.
+Try to split a goal into smaller parts to help you begin with. Then go one by one, step by step.
 
-Do not wait for motivation to do things. Take action, and the motivation will come. Many have the idea that you have to be motivated to get things done. It is true that being motivated helps, however, many times you have to keep moving despite the lack of it. Keep moving will help motivation to appear.
+Do not wait for motivation to do things. Take action, and the motivation will come. Many have the idea that you need to be motivated to get things done. It is true that being motivated helps, however, many times you have to keep moving despite the lack of it. Keep moving will help motivation to appear.
 
 ## Quotes
 
-> The hardest part is starting. Once you get that out of the way, you’ll find the rest of the journey much easier. — Simon Sinek
+> The hardest part is the beginning. Once you get that out of the way, you’ll find the rest of the journey much easier. — Simon Sinek
 
 > “The hardest part of any important task is getting started on it in the first place. Once you actually begin work on a valuable task, you seem to be naturally motivated to continue.” ― Brian Tracy, Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
 
@@ -35,4 +39,4 @@ Do not wait for motivation to do things. Take action, and the motivation will co
 - [Be proactive](../Be%20proactive/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
-- [Take action](../Take%20action/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [comfort zone](../Categories/comfort%20zone.md) [Motivation](../Categories/Motivation.md)
+- [Take action](../Take%20action/index.md)
