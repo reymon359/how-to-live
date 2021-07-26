@@ -2,13 +2,9 @@
 
 When you are facing a problem, look for the simplest solution for it.
 
-There will be more than one, however, focus on the easiest to implement.
+There will be more than one, however, focus on the easiest one to implement.
 
-Minimalism comes along simplicity. Embrace minimalism and focus on having the least dependencies. This will lead to fewer problems.
-
-This one is inspired from the Occam's razor the principle, or the principle of parsimony which states that "entities should not be multiplied without necessity", sometimes inaccurately paraphrased as "the simplest explanation is usually the best one."
-
-It is also related to the Software Development principle KISS — Keep It Simple Stupid.
+Minimalism comes along with simplicity. Embrace minimalism and focus on having the least dependencies. This will lead to fewer problems.
 
 ## Quotes
 
@@ -34,7 +30,9 @@ It is also related to the Software Development principle KISS — Keep It Simple
 
 ## Resources and credits
 
-Learning software development, I came across the  KISS principle — Keep It Simple Stupid
+This one is inspired from Occam's razor the principle, or the principle of parsimony which states that "entities should not be multiplied without necessity", sometimes inaccurately paraphrased as "the simplest explanation is usually the best one."
+
+It is also related to the software development principle KISS — Keep It Simple Stupid.
 
 ## Related advices
 
