@@ -4,13 +4,13 @@ Categories: ['Problems', 'Justice', 'Open-mindedness', 'Proactivity', 'Mental he
 ---
 # The world is not fair
 
-The world we live on is not fair.
+The world we live in is not fair. Which is not bad nor good, it's just the reality.
 
-Avoid complaining and blaming others for it. This will only stop you to do something about it.
+Avoid complaining and blaming others for it. This will only stop you to do something.
 
-Be proactive, adapt to the situation and look for a solution to our problem.
+Be proactive, adapt to the situation, and look for a solution to your problem.
 
-Don't compare yourself with others. Everyone has their own lifes with good things but also bad ones.
+Don't compare yourself with others. Everyone has their own lives with good things but also bad ones.
 
 Take care of your mental health and don't feel angry or frustrated about an injustice.
 
@@ -28,13 +28,13 @@ Take care of your mental health and don't feel angry or frustrated about an inju
 
 ## Resources and credits
 
-This one is heavily inspired from the chapter 8: The Justice Trap that appears in Wayne Dyer's book Your Erroneous Zones
+This one is heavily inspired by chapter 8: The Justice Trap from Wayne Dyer's book Your Erroneous Zones
 
 ## Related advices
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Avoid compaining](../Avoid%20complaining/index.md)
+- [Avoid complaining](../Avoid%20complaining/index.md)
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
