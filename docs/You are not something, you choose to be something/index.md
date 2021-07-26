@@ -2,13 +2,13 @@
 
 Take the initiative and responsibility to change and improve the situation.
 
-You are not a lazy person, you chose to be lazy. This applies to every "I am" that we say.
+Avoid the "I am"s. For example, "I am lazy". You are not a lazy person, you chose to be lazy.
 
-You are what you choose to be. If you eat healthily, you are a healthy person. If you regularly exercise, you are a fit person.
+You are what you choose to be. If you eat healthily, you are a healthy person. If you regularly study, you are a studious person.
 
-Take action and be proactive. Change all those behaviors that you don't like but keep doing because you think you _are_ like that and can not change.
+Take action and be proactive. Change all those behaviors that you don't like but keep doing because you think you _are_ in such a way and can not change.
 
-There is a quote I love about this topic that says: 
+There is a quote I love about this topic that states:
 
 > “We are what we do to change what we are.” — Eduardo Galeano
 
@@ -26,9 +26,7 @@ There is a quote I love about this topic that says:
 
 ## Resources and credits
 
-Stephen R. Covey discussed this topic in chapter 1 Be proactive from The 7 Habits of Highly Effective People. 
-
-Also, Wayne Dyer did too in Your Erroneous Zones's chapter 4 Breaking Free From the Past. 
+I read about this topic in Stephen R. Covey's The 7 Habits of Highly Effective People, chapter 1: Be proactive. And in Wayne Dyer's Your Erroneous Zones's chapter 4: Breaking Free From the Past. 
 
 ## Related advices
 
