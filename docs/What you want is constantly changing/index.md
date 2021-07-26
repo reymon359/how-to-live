@@ -1,14 +1,14 @@
 # What you want is constantly changing
 
-It may sound pretty obvious, but sometimes it is hard to realize that we are constantly changing and growing, and our interests change as we do so.
+It may sound pretty obvious, but sometimes it's hard to realize we are constantly changing and growing, and our interests change as we do so.
 
-You probably don't watch the same kind of movies as you did when you were younger, or eat the same kind of food and the same quantity. You may not even listen to the same music. And all of this is completely normal.
+When you were younger, the movies you watched, the music you listened to, the kind of food you ate, or the people you hanged out with were probably different from now. And all of this is completely normal.
 
-Even today, the things you want maybe are not the same as yesterday.
+Even today, the things you want may not be the same as yesterday or tomorrow.
 
-This situation sometimes makes it hard to make decisions. However, remember that no choice is wrong or right.
+This situation sometimes causes it harder to make decisions. However, remember that no choice is wrong or right.
 
-Just realize about it, don't worry, and let things flow. Enjoy the moment you are right now and focus on the things you want at that moment.
+Try to assume it. Don't worry, and let things flow. Enjoy the moment you are right now and focus on the things you want at that moment. Focus on the present.
 
 ## Quotes
 
@@ -28,7 +28,7 @@ Just realize about it, don't worry, and let things flow. Enjoy the moment you ar
 
 ## Resources and credits
 
-Having a talk with my friend, Pablo Llorca, made me realize this in a deep way.
+Having a talk with my friend, Pablo Llorca, made me realize this deeply.
 
 ## Related advices
 
@@ -36,4 +36,4 @@ Having a talk with my friend, Pablo Llorca, made me realize this in a deep way.
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Don't worry](../Don't%20worry/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md)
+- [Do what you want](../Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Choices](../Categories/Choices.md)
