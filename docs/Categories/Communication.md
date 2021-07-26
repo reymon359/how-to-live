@@ -61,3 +61,5 @@
     
  - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     
+ - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
+    

@@ -15,3 +15,5 @@
     
  - [When in doubt, follow standards](../When%20in%20doubt,%20follow%20standards/index.md)
     
+ - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
+    

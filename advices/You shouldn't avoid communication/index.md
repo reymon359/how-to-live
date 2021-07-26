@@ -1,18 +1,20 @@
 ---
-name: 'You shouldn't avoid communication'
+name: "You shouldn't avoid communication"
 Categories: ['Communication', 'Respect', 'Community']
 ---
 # You shouldn't avoid communication
 
-We, as humans, need to communicate with each other to understand ourselves.
+We, as humans, need to communicate with each other to understand ourselves and grow together.
 
-You should not avoid these situations, the opposite, you should embrace them.
+Sometimes you will find yourself in situations where you can begin a conversation but also pass without any issue. Try not to pass and avoid these communications, instead, embrace them.
+
+If you find yourself in doubt about whether to start a conversation with a stranger, think that it will only bring you positive things. Every human is a whole world and has a huge knowledge of that world. You don't know how many things you may learn from a talk with a random stranger.
+
+Don't force them, either. Sometimes the other person will not want to communicate, or the situation is not appropriate.
 
 Communicating and, especially, listening, is the best way to understand something or someone.
 
-If you find yourself in doubt about whether to start a conversation with someone unknown, think that it is only going to bring you positive things. Think about everything that person knows, and you can learn from them.
-
-The more you communicate, the more knowledge is shared and the more you will learn about an issue.
+The more you communicate, the more knowledge shared, the more you will learn.
 
 If you have a problem and need help, ask for it, communicate.
 

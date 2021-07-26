@@ -628,7 +628,7 @@ Each advice sections
     
  - [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
     
- - [you shouldn't avoid communication](you%20shouldn't%20avoid%20communication/index.md)
+ - [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)
     
 
 ## Classifications
