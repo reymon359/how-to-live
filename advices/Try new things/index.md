@@ -4,15 +4,15 @@ Categories: ['Open-mindedness', 'Comfort zone', 'Unknown']
 ---
 # Try new things
 
-Don't be afraid to try new things such as food, sports, activities, routines, whatever comes to your mind.
+Be open-minded. Don't be afraid to try new things such as food, activities, routines, music, whatever comes to your mind.
 
 You may discover new things you like or discard them for future occasions.
 
-Have an open mind when doing something new.
+Keep an open mind when doing something new.
 
-Don't over plan and let things flow. Be open to new experiences you were not supposed to have.
+Try to not over plan and let things flow. Be open to try new experiences you were not supposed to have.
 
-The more things you try, the more you go outside your comfort zone and learn and grow.
+The more things you try, the more you go outside your comfort zone and, therefore, learn and grow.
 
 ## Quotes
 
@@ -40,8 +40,7 @@ The more things you try, the more you go outside your comfort zone and learn and
 
 ## Resources and credits
 
-- Chapter 6 "Exploring the unknown" from Wayne Dyer's Your Erroneous Zones speaks about this topic. I collected some sentences from it in my [book sentences project.](
-https://github.com/reymon359/book-sentences/blob/feature/atomic-habits/books/your-erroneous-zones/README.md#6-exploring-the-unknown)
+Chapter 6 "Exploring the unknown" from Wayne Dyer's Your Erroneous Zones speaks about this topic.
 
 ## Related advices
 
