@@ -4,7 +4,7 @@ Categories: ['Travel', 'Networking', 'Communication', 'Growing', 'Success']
 ---
 # What surrounds you shapes you
 
-Surround yourself with what you want to be and how you want to be.
+Surround yourself with what you want to be and how you want to be to help yourself become it.
 
 There are multiple studies that certify that what surrounds us shapes our behavior.
 
@@ -12,7 +12,7 @@ Our network, the people we interact with, the places we visit, the location we l
 
 Think about what aspect of your life you want to improve, and surround yourself with inputs that favor it.
 
-Step outside the comfort zone to change your surroundings or even where you live little by little. Try new places at the beginning and see what works for you.
+To become what you want, you may have to step outside the comfort zone in order to change your surroundings properly or even the location you live. Do it little by little. Try new places at the beginning and see what works for you.
 
 ## Quotes
 
@@ -30,9 +30,9 @@ Step outside the comfort zone to change your surroundings or even where you live
 
 ## Resources and credits
 
-James Clear book Atomic habits explains how the environment shapes our habits in chapter 6 Motivation is Overrated; Environment Often Matters More
+James Clear book Atomic habits explain how the environment shapes our habits in chapter 6 Motivation is Overrated; Environment Often Matters More
 
-I enjoyed reading this article from Kenta Nagamine about this topic: [Where you live is who you are](https://mythirdbrain.substack.com/p/where-you-live-is-who-you-are)
+I also enjoyed reading this article from Kenta Nagamine about the topic: [Where you live is who you are](https://mythirdbrain.substack.com/p/where-you-live-is-who-you-are)
 
 ## Related advices
 

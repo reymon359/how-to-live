@@ -8,7 +8,9 @@ You are the one that teaches others how to treat you by how you treat yourself.
 
 Maintain your integrity and treat yourself well, with respect. Others will do the same then.
 
-Set boundaries as needed. Be clear from the beginning of how you want to be treated.
+Set boundaries as needed. Be clear from the beginning of how you want to be treated. 
+
+Reward the behaviours you like. Be grateful.
 
 Try to get to know yourself. The better you know yourself, the better you will treat yourself and others will treat you.
 
