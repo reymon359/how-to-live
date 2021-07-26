@@ -1,12 +1,12 @@
 ---
 name: 'There is always a solution'
-Categories: ['Solutions', 'Problems']
+Categories: ['Solutions', 'Problems', 'Proactivity']
 ---
 # There is always a solution
 
 There is always a solution or a better state of things to any problem.
 
-You have to be proactive and look for it. However, don't force yourself, let it flow too.
+Solutions rarely appear by themselves. You have to be proactive and look for them. 
 
 Once you have a solution that works, try to improve it. Refactor it.
 

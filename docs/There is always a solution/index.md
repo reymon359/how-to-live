@@ -2,7 +2,7 @@
 
 There is always a solution or a better state of things to any problem.
 
-You have to be proactive and look for it. However, don't force yourself, let it flow too.
+Solutions rarely appear by themselves. You have to be proactive and look for them. 
 
 Once you have a solution that works, try to improve it. Refactor it.
 
@@ -16,4 +16,4 @@ Once you have a solution that works, try to improve it. Refactor it.
 
 - [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-- [Continuous refactor](../Continuous%20refactor/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md)
+- [Continuous refactor](../Continuous%20refactor/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Problems](../Categories/Problems.md) [Proactivity](../Categories/Proactivity.md)

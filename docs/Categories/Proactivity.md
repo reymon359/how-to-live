@@ -9,5 +9,7 @@
     
  - [The world is not fair](../The%20world%20is%20not%20fair/index.md)
     
+ - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
+    
  - [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
     
