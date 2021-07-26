@@ -92,7 +92,7 @@
         
      - [Don't worry](Don't%20worry/index.md)
         
-     - [Don’t Live with Broken Windows](Don’t%20Live%20with%20Broken%20Windows/index.md)
+     - [Don’t live with broken windows](Don’t%20live%20with%20broken%20windows/index.md)
         
      - [Drink enough water](Drink%20enough%20water/index.md)
         

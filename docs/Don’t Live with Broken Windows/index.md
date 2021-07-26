@@ -1,4 +1,4 @@
-# Don’t Live with Broken Windows
+# Don’t live with broken windows
 
 The broken windows' theory is a criminological theory that states that visible signs of crime, anti-social behavior, and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes.
  
