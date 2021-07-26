@@ -4,13 +4,13 @@ Categories: ['Communication', 'Growing', 'Trust', 'Honesty', 'Kindness']
 ---
 # Trust others
 
-When you don't know someone, trust them by default. Generally speaking, people won't do harm to you.
+When you don't know someone, trust them by default. Generally speaking, people won't try to harm you.
 
-The more you trust others, the better you can delegate tasks to them.
-
-Anyway, always listen to your body and trust your instincts before trusting someone.
+However, always listen to your body and trust your instincts before trusting someone.
 
 Be honest and kind if you want others to trust you too.
+
+The more you trust others, the better you can delegate tasks to them.
 
 ## Quotes
 
@@ -32,7 +32,7 @@ Be honest and kind if you want others to trust you too.
 
 ## Resources and credits
 
-Throughout my travels, I have found myself in situations where local people open their hearts and houses to you, offering you food or hang out. Although I did not know them, I trusted them and I always got very good experiences in exchange.
+Throughout my travels, I have found myself in situations where local people open their hearts and houses to you, offering you food or hang out. Although I did not know them, I trusted them, and most of the time I got very good experiences in exchange.
 
 ## Related advices
 
