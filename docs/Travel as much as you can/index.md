@@ -1,10 +1,10 @@
 # Travel as much as you can
 
-Few things will help you to open your mind, grow and learn in a way like traveling. If you have any opportunity to do it, go for it.
+Few things will help you to open your mind, grow and learn in a way like traveling. If you have any opportunity to do it, go for it. You may regret not have done it.
 
-You may regret not have done it.
+When you arrive at a new place you will be exploring a new culture, music, gastronomy,... everything will be new.
 
-When you travel you explore new culture, music, gastronomy,... everything is new.
+Try to understand them. Look for the reason things are different. Research their history and ask questions. 
 
 The more distant or different the place you visit, the better.
 
@@ -16,9 +16,9 @@ Traveling is a great moment to try new things and will help you to understand yo
 
 If you can, live there for some time instead of just visiting. In my opinion, living in a different place is the best way to get to know that place.
 
-When you travel, let things flow. Plan it a bit and be open to modifying your plans with new experiences and opportunities that may appear.
+When you travel, let things flow. Plan the trip to the minimum and be open to modifying your plans with new experiences and opportunities that may appear.
 
-Be prepared to step outside your comfort zone when traveling.
+Be ready to step outside your comfort zone when traveling.
 
 ## Quotes
 
