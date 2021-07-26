@@ -73,3 +73,5 @@
     
  - [Time is more valuable than money](../Time%20is%20more%20valuable%20than%20money/index.md)
     
+ - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+    

@@ -1,14 +1,14 @@
 # You don't need their approval
 
-Think for yourself, what you want to do and what makes you happy.
-
-When getting opinions from others, listen to them. However, don't do things just to impress others or because others told you it was better. Do it, because you want to do it.
-
-If you want to do something, just do it. You will find a way.
+Think for yourself, what you want to do and what makes you happy. Then try to achieve it, even if not everyone approves it.
 
 As long as you are not hurting anyone, and you do things from a kind perspective. If someone has a problem with what you do or who you are is their issue.
 
+When getting opinions from others, listen to them. However, don't do things just to impress others or because others told you it was better. Do it, because you want to do it.
+
 Just because the society or group you are in does something, doesn't mean you have to do it too. Have integrity and be yourself. If you don't want to do it, just don't.
+
+If you want to do something, just do it. You will find a way.
 
 ## Quotes
 
@@ -32,7 +32,7 @@ Just because the society or group you are in does something, doesn't mean you ha
 
 ## Resources and credits
 
-I decided to use the name of Wayne Dyer's book Your Erroneous Zones's chapter 3 which discusses this topic too.
+I decided to name this advice the same way as chapter 3 from Wayne Dyer's book Your Erroneous Zones, which discusses this topic too.
 
 ## Related advices
 
@@ -40,5 +40,4 @@ I decided to use the name of Wayne Dyer's book Your Erroneous Zones's chapter 3 
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Dn't do something that hurts another person](../Do%20no%20harm/index.md)
 - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
-
-<hr/><br/>
+- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Integrity](../Categories/Integrity.md) [Happiness](../Categories/Happiness.md)

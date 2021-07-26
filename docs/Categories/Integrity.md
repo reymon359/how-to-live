@@ -37,3 +37,5 @@
     
  - [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
     
+ - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+    

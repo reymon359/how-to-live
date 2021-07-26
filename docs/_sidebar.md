@@ -300,7 +300,7 @@
         
      - [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
         
-     - [you don't need their approval](you%20don't%20need%20their%20approval/index.md)
+     - [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
         
      - [you shouldn't avoid communication](you%20shouldn't%20avoid%20communication/index.md)
         
