@@ -4,15 +4,15 @@ Categories: ['Problems', 'Solutions']
 ---
 # The five whys
 
-Five whys (or 5 whys) is an iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem.
+The five whys is an iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem.
 
-The primary goal of the technique is to determine the root cause of a defect or problem by repeating the question "Why?".
+The primary goal of the technique is to determine the root cause of a problem by repeating the question "Why?".
 
 ![The five whys example](./assets/the-five-whys.png)
 
-Whenever you want to understand something deeply, ask why 5 times (even more if needed).
+Whenever you want to understand the root of something, try to ask why 5 times (even more if needed).
 
-It will help you understand the problem better. Which will help you reach a solution more easily.
+It will help you understand the problem better, which will help you reach a solution more easily.
 
 ## Quotes
 
