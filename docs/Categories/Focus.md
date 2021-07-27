@@ -9,6 +9,8 @@
     
  - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
     
+ - [Finish what you start](../Finish%20what%20you%20start/index.md)
+    
  - [Inbox zero](../Inbox%20zero/index.md)
     
  - [Keep the focus](../Keep%20the%20focus/index.md)

@@ -1,6 +1,6 @@
 ---
 name: "Don't waste time on social media"
-Categories: ['Time', 'Social media', 'Mental health', 'Procrastination']
+Categories: ['Time', 'Social media', 'Distractions', 'Mental health', 'Procrastination']
 ---
 # Don't waste time on social media
 

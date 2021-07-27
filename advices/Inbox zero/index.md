@@ -1,6 +1,6 @@
 ---
 name: 'Inbox zero'
-Categories: ['Productivity', 'Goals', 'Focus', 'Procrastination']
+Categories: ['Productivity', 'Distractions', 'Goals', 'Focus', 'Procrastination']
 ---
 # Inbox zero
 

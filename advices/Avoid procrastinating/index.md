@@ -1,6 +1,6 @@
 ---
 name: 'Avoid procrastinating'
-Categories: ['Time', 'Time management', 'Commitment', 'Procrastination', 'Goals', 'Productivity']
+Categories: ['Time', 'Distractions', 'Time management', 'Commitment', 'Procrastination', 'Goals', 'Productivity']
 ---
 # Avoid procrastinating
 
