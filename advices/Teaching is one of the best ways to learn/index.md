@@ -1,6 +1,6 @@
 ---
 name: 'Teaching is one of the best ways to learn'
-Categories: ['Learning', 'Help', 'Communication', 'Education']
+Categories: ['Learning', 'Help', 'Communication']
 ---
 # Teaching is one of the best ways to learn
 

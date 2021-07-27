@@ -27,8 +27,6 @@
     
  - [Distractions](../Categories/Distractions.md)
     
- - [Education](../Categories/Education.md)
-    
  - [Empathy](../Categories/Empathy.md)
     
  - [Exercise](../Categories/Exercise.md)

@@ -1,6 +1,8 @@
 # Open-mindedness
 
 
+ - [Be empathetic](../Be%20empathetic/index.md)
+    
  - [Be independent](../Be%20independent/index.md)
     
  - [Connect with others](../Connect%20with%20others/index.md)
@@ -26,8 +28,6 @@
  - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
     
  - [Open your mind](../Open%20your%20mind/index.md)
-    
- - [Practice empathy](../Practice%20empathy/index.md)
     
  - [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
     
