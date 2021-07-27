@@ -1,6 +1,6 @@
 ---
 name: 'Choose your problems'
-Categories: ['Growing', 'Problems', 'Commitment', 'Choices']
+Categories: ['Growing', 'Problems', 'Commitment', 'Choices', 'Dependencies']
 ---
 # Choose your problems
 

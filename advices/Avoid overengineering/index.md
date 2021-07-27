@@ -1,10 +1,12 @@
 ---
 name: 'Avoid overengineering'
-Categories: ['Solutions', 'Simplicity', 'Software Development', 'Future', 'Balance', 'Change', 'Choices']
+Categories: ['Solutions', 'Simplicity', 'Dependencies', 'Software Development', 'Future', 'Balance', 'Change', 'Choices']
 ---
 # Avoid overengineering
 
 Overengineering is the act of designing a product to be more robust or have more features than often necessary for its intended use, or for a process to be unnecessarily complex or inefficient.
+
+When you overengineer, you may end up with unwanted dependencies.
 
 It is related to going for the best solution in the long term to your problem.
 
