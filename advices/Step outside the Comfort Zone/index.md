@@ -1,6 +1,6 @@
 ---
 name: 'Step outside the comfort zone'
-Categories: ['Comfort zone', 'Unknown', 'Open-mindedness', 'Growing', 'Proactivity']
+Categories: ['Comfort zone', 'Unknown', 'Open-mindedness', 'Growing', 'Proactivity', 'Adventures']
 ---
 # Step outside the comfort zone
 

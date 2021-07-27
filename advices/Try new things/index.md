@@ -1,6 +1,6 @@
 ---
 name: 'Try new things'
-Categories: ['Open-mindedness', 'Comfort zone', 'Unknown']
+Categories: ['Open-mindedness', 'Comfort zone', 'Unknown', 'Adventures']
 ---
 # Try new things
 
