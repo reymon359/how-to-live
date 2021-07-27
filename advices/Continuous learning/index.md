@@ -1,6 +1,6 @@
 ---
 name: 'Continuous learning'
-Categories: ['Learning', 'Growing', 'Goals', 'Practice', 'Success', 'Improving', 'Knowledge']
+Categories: ['Learning', 'Curiosity', 'Growing', 'Goals', 'Practice', 'Success', 'Improving', 'Knowledge']
 ---
 # Continuous learning
 

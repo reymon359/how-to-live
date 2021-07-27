@@ -27,4 +27,4 @@ Make sure a commitment is clear before committing to it
 - [Ask questions](../Ask%20questions/index.md)
 - [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
 - [Continuous learning](../Continuous%20learning/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Asking](../Categories/Asking.md) [Truth](../Categories/Truth.md) [Communication](../Categories/Communication.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Research to understand better](../Research%20to%20understand%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Curiosity](../Categories/Curiosity.md) [Asking](../Categories/Asking.md) [Truth](../Categories/Truth.md) [Communication](../Categories/Communication.md) [Comfort zone](../Categories/Comfort%20zone.md)

@@ -1,6 +1,6 @@
 ---
 name: 'Create your own opinion of things'
-Categories: ['Open-mindedness', 'Growing', 'Personality', 'Unknown']
+Categories: ['Open-mindedness', 'Curiosity', 'Growing', 'Personality', 'Unknown']
 ---
 # Create your own opinion of things
 

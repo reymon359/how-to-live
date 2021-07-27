@@ -1,6 +1,6 @@
 ---
 name: "Question what you don't understand"
-Categories: ['Learning', 'Communication', 'Asking', 'Knowledge', 'Comfort zone']
+Categories: ['Learning', 'Curiosity', 'Communication', 'Asking', 'Knowledge', 'Comfort zone']
 ---
 # Question what you don't understand
 
