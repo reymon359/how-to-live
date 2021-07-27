@@ -34,4 +34,4 @@ This topic is well discussed in Stephen Covey's book The 7 Habits of Highly Effe
 - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permissio/index.md)
 - [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
 - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Take action](../Take%20action/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md) [Proactivity](../Categories/Proactivity.md)
+- [Take action](../Take%20action/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md) [Proactivity](../Categories/Proactivity.md) [Change](../Categories/Change.md)

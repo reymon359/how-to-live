@@ -1,6 +1,6 @@
 ---
 name: 'Avoid overthinking'
-Categories: ['Health', 'Mental health', 'Problems', 'Focus', 'Planning']
+Categories: ['Health', 'Mental health', 'Problems', 'Focus', 'Planning', 'Choices']
 ---
 # Avoid overthinking
 

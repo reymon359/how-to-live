@@ -1,6 +1,6 @@
 ---
 name: 'Open your mind'
-Categories: ['Open-mindedness', 'Respect', 'Comfort zone']
+Categories: ['Open-mindedness', 'Respect', 'Comfort zone', 'Change']
 ---
 # Open your mind
 

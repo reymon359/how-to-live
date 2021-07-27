@@ -31,4 +31,4 @@ Stephen Covey’s book The 7 Habits of Highly Effective People discuss the commu
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
 - [Research to understand](../Research%20to%20understand%20better/index.md)
-- [Pay attention](../Pay%20attention/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Listening](../Categories/Listening.md) [Solutions](../Categories/Solutions.md) [Learning](../Categories/Learning.md) [Relationships](../Categories/Relationships.md)
+- [Pay attention](../Pay%20attention/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Asking](../Categories/Asking.md) [Listening](../Categories/Listening.md) [Solutions](../Categories/Solutions.md) [Learning](../Categories/Learning.md) [Relationships](../Categories/Relationships.md)

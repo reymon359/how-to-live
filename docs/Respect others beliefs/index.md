@@ -27,4 +27,4 @@ Do no harm. No matter what you believe, Do no harm.
 - [Most religions have great values](../Most%20religions%20have%20great%20values/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Do no harm](../Do%20no%20harm/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)

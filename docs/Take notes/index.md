@@ -29,4 +29,4 @@ There are multiple ways to do this, from a simple notebook to online apps. Just 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Continuous learning](../Continuous%20learning/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Set up reminders](../Set%20up%20reminders/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Learning](../Categories/Learning.md) [Memory](../Categories/Memory.md)
+- [Set up reminders](../Set%20up%20reminders/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Learning](../Categories/Learning.md) [Memory](../Categories/Memory.md) [Attention](../Categories/Attention.md)

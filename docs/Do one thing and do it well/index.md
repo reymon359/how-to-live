@@ -15,4 +15,4 @@ Avoid distractions and pay attention to what you are doing. Use techniques like 
 ## Related advices
 
 - [Pay attention](../Pay%20attention/index.md)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Productivity](../Categories/Productivity.md) [Focus](../Categories/Focus.md)
+- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Productivity](../Categories/Productivity.md) [Focus](../Categories/Focus.md) [Choices](../Categories/Choices.md)

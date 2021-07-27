@@ -1,8 +1,6 @@
 # Categories
 
 
- - [Adaptation](../Categories/Adaptation.md)
-    
  - [Adventures](../Categories/Adventures.md)
     
  - [Asking](../Categories/Asking.md)
@@ -10,8 +8,6 @@
  - [Attention](../Categories/Attention.md)
     
  - [Balance](../Categories/Balance.md)
-    
- - [Believing](../Categories/Believing.md)
     
  - [Change](../Categories/Change.md)
     

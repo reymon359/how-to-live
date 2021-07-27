@@ -1,6 +1,6 @@
 ---
 name: 'Practice mindfulness'
-Categories: ['Respect', 'Mindfulness', 'Mental health']
+Categories: ['Respect', 'Mindfulness', 'Mental health', 'Attention']
 ---
 # Practice mindfulness
 

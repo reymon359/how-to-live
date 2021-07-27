@@ -28,4 +28,4 @@ Travel to see other religions and research about them to understand them better.
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
 - [Research to understand](../Research%20to%20understand%20better/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Believing](../Categories/Believing.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Religion](../Categories/Religion.md) [Open-mindedness](../Categories/Open-mindedness.md)

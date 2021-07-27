@@ -1,6 +1,6 @@
 ---
 name: 'Eating an elephant'
-Categories: ['Practice', 'Little by little', 'Time', 'Goals', 'Comfort zone']
+Categories: ['Practice', 'Little by little', 'Time', 'Goals', 'Comfort zone', 'Change']
 ---
 # Eating an elephant
 

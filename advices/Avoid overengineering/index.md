@@ -1,6 +1,6 @@
 ---
 name: 'Avoid overengineering'
-Categories: ['Solutions', 'Simplicity', 'Software Development', 'Future']
+Categories: ['Solutions', 'Simplicity', 'Software Development', 'Future', 'Balance', 'Change', 'Choices']
 ---
 # Avoid overengineering
 
