@@ -31,4 +31,4 @@ Forgive a second time if necessary. However, be careful forgiving the same mista
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Give second chances](../Give%20second%20chances/index.md)
 - [Be empathetic](../Be%20empathetic/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Love](../Categories/Love.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Freedom](../Categories/Freedom.md) [Relationships](../Categories/Relationships.md)
+- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Empathy](../Categories/Empathy.md) [Love](../Categories/Love.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Freedom](../Categories/Freedom.md) [Relationships](../Categories/Relationships.md)

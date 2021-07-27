@@ -28,4 +28,4 @@ When you forgive someone, in some way, you are giving them a second chance.
 
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
-- [Try new things](../Try%20new%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Open-mindedness](../Categories/Open-mindedness.md) [Helping](../Categories/Helping.md) [Balance](../Categories/Balance.md)
+- [Try new things](../Try%20new%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Empathy](../Categories/Empathy.md) [Open-mindedness](../Categories/Open-mindedness.md) [Helping](../Categories/Helping.md) [Balance](../Categories/Balance.md)
