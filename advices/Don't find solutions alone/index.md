@@ -1,6 +1,6 @@
 ---
 name: "Don't find solutions alone"
-Categories: ['Solutions', 'Communication', 'Help']
+Categories: ['Solutions', 'Community', 'Communication', 'Help']
 ---
 # Don't find solutions alone
 

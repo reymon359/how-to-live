@@ -36,4 +36,4 @@ I was able to appreciate this, getting to know some Berbers in Morocco and north
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Freedom](../Categories/Freedom.md) [Dependencies](../Categories/Dependencies.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Freedom](../Categories/Freedom.md) [Dependencies](../Categories/Dependencies.md) [Comfort zone](../Categories/Comfort%20zone.md)

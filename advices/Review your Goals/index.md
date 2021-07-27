@@ -1,6 +1,6 @@
 ---
 name: 'Review your goals'
-Categories: ['Goals', 'Future', 'Productivity']
+Categories: ['Goals', 'Future', 'Commitment', 'Productivity']
 ---
 # Review your goals
 

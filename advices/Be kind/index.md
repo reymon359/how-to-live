@@ -1,6 +1,6 @@
 ---
 name: 'Be kind'
-Categories: ['Respect', 'Happiness', 'Communication', 'Integrity', 'Trust']
+Categories: ['Respect', 'Community', 'Happiness', 'Communication', 'Integrity', 'Trust']
 ---
 # Be kind
 

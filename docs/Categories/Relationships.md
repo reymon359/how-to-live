@@ -33,3 +33,5 @@
     
  - [Stick to people that give you good advice](../Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)
     
+ - [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
+    

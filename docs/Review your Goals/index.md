@@ -30,4 +30,4 @@ If you want to pursue new goals, just do it. However, try to not leave too many 
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Embrace growing](../Embrace%20growing/index.md)
-- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Productivity](../Categories/Productivity.md)
+- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Commitment](../Categories/Commitment.md) [Productivity](../Categories/Productivity.md)

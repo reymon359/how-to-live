@@ -1,6 +1,6 @@
 ---
 name: 'Do what you want'
-Categories: ['Happiness', 'Respect', 'Goals', 'Success', 'Choices']
+Categories: ['Happiness', 'Respect', 'Goals', 'Success', 'Choices', 'Comfort zone']
 ---
 # Do what you want
 

@@ -1,6 +1,6 @@
 ---
 name: 'Have ownership of what you do'
-Categories: ['Integrity', 'Responsibility', 'Dependencies', 'Software development']
+Categories: ['Integrity', 'Responsibility', 'Commitment', 'Dependencies', 'Software development']
 ---
 # Have ownership of what you do
 

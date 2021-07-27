@@ -35,4 +35,4 @@ The Stephen R. Covey book: The 7 Habits of Highly Effective People has a chapter
 - [Review your goals](../Review%20your%20goals)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Be proactive](../Be%20proactive/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Proactivity](../Categories/Proactivity.md) [Planning](../Categories/Planning.md)
+- [Be proactive](../Be%20proactive/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Proactivity](../Categories/Proactivity.md) [Commitment](../Categories/Commitment.md) [Planning](../Categories/Planning.md)

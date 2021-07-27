@@ -27,4 +27,4 @@ It will bring you more problems than solutions.
 - [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
-- [Choose your problems](../Choose%20your%20problems/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Integrity](../Categories/Integrity.md) [Friendship](../Categories/Friendship.md) [Problems](../Categories/Problems.md) [Honesty](../Categories/Honesty.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Relationships](../Categories/Relationships.md)
+- [Choose your problems](../Choose%20your%20problems/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Community](../Categories/Community.md) [Integrity](../Categories/Integrity.md) [Friendship](../Categories/Friendship.md) [Problems](../Categories/Problems.md) [Honesty](../Categories/Honesty.md) [Truth](../Categories/Truth.md) [Trust](../Categories/Trust.md) [Relationships](../Categories/Relationships.md)

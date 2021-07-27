@@ -1,6 +1,6 @@
 ---
 name: 'Take responsibility'
-Categories: ['Communication', 'Respect', 'Responsibility', 'Dependencies', 'Integrity']
+Categories: ['Communication', 'Respect', 'Responsibility', 'Commitment', 'Dependencies', 'Integrity']
 ---
 # Take responsibility
 

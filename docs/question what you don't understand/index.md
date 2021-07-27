@@ -24,4 +24,4 @@ Don't feel embarrassed about what other people will think. It is better to ask a
 
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Question everything. Do not take nothing for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Communication](../Categories/Communication.md) [Asking](../Categories/Asking.md) [Knowledge](../Categories/Knowledge.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Learning](../Categories/Learning.md) [Communication](../Categories/Communication.md) [Asking](../Categories/Asking.md) [Knowledge](../Categories/Knowledge.md) [Comfort zone](../Categories/Comfort%20zone.md)

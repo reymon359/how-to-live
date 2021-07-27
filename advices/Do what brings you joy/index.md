@@ -1,6 +1,6 @@
 ---
 name: 'Do what brings you joy'
-Categories: ['Happiness', 'Choices']
+Categories: ['Happiness', 'Choices', 'Comfort zone']
 ---
 # Do what brings you joy
 

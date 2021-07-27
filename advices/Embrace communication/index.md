@@ -1,6 +1,6 @@
 ---
 name: 'Embrace communication'
-Categories: ['Communication', 'Knowledge', 'Problems', 'Solutions', 'Learning']
+Categories: ['Communication', 'Knowledge', 'Problems', 'Solutions', 'Learning', 'Comfort zone']
 ---
 # Embrace communication
 
