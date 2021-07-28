@@ -1,6 +1,6 @@
 ---
 name: 'Amend'
-Categories: ['Growing', 'Problems', 'Solutions', 'Integrity', 'Respect']
+Categories: ['Growth', 'Problems', 'Solutions', 'Integrity', 'Respect']
 ---
 # Amend
 

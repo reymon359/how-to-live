@@ -1,6 +1,6 @@
 ---
 name: 'What you want is constantly changing'
-Categories: ['Growing', 'Change', 'Choices']
+Categories: ['Growth', 'Change', 'Choices']
 ---
 # What you want is constantly changing
 

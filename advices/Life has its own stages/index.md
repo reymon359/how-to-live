@@ -1,6 +1,6 @@
 ---
 name: 'Life has its own stages'
-Categories: ['Growing', 'Change', 'Respect']
+Categories: ['Growth', 'Change', 'Respect']
 ---
 # Life has its own stages
 

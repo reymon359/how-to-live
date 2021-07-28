@@ -1,6 +1,6 @@
 ---
 name: "We all make mistakes"
-Categories: ['Mistakes', 'Growing', 'Mental health']
+Categories: ['Mistakes', 'Growth', 'Mental health']
 ---
 # We all make mistakes
  

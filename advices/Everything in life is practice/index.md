@@ -1,6 +1,6 @@
 ---
 name: 'Everything in life is practice'
-Categories: ['Goals', 'Practice', 'Success', 'Improving', 'Growing']
+Categories: ['Goals', 'Practice', 'Success', 'Improving', 'Growth']
 ---
 # Everything in life is practice
  

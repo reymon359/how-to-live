@@ -1,6 +1,6 @@
 ---
 name: 'Embrace growing'
-Categories: ['Growing', 'Goals', 'Happiness', 'Open-mindedness', 'Future', 'Improving', 'Comfort zone']
+Categories: ['Growth', 'Goals', 'Happiness', 'Open-mindedness', 'Future', 'Improving', 'Comfort zone']
 ---
 # Embrace growing
 
