@@ -32,4 +32,4 @@ I read about this topic in Stephen R. Covey's The 7 Habits of Highly Effective P
 
 - [Be proactive](../Be%20proactive/index.md)
 - [Take action](../Take%20action/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Proactivity](../Categories/Proactivity.md) [Goals](../Categories/Goals.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Proactivity](../Categories/Proactivity.md) [Freedom](../Categories/Freedom.md) [Goals](../Categories/Goals.md)
