@@ -31,4 +31,4 @@ This topic is well discussed in Stephen Covey's book The 7 Habits of Highly Effe
 ## Related advices
 
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md) [Relationships](../Categories/Relationships.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Communication](../Categories/Communication.md) [Trust](../Categories/Trust.md) [Integrity](../Categories/Integrity.md) [Relationships](../Categories/Relationships.md) [Honesty](../Categories/Honesty.md)

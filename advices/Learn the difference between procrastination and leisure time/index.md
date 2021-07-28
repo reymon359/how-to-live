@@ -1,6 +1,6 @@
 ---
 name: 'Learn the difference between procrastination and leisure time'
-Categories: ['Time', 'Time management', 'Procrastination', 'Leisure']
+Categories: ['Time', 'Time management', 'Procrastination', 'Leisure', 'Balance']
 ---
 # Learn the difference between procrastination and leisure time
 

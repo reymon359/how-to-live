@@ -9,6 +9,8 @@
     
  - [Give second chances](../Give%20second%20chances/index.md)
     
+ - [Learn the difference between procrastination and leisure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
+    
  - [Learn to be alone](../Learn%20to%20be%20alone/index.md)
     
  - [Optimize your stuff](../Optimize%20your%20stuff/index.md)

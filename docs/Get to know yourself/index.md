@@ -42,4 +42,4 @@ Try situations that put you outside the comfort zone. Travel to unknown countrie
 - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
 - [Try new things](../Try%20new%20things/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Travel](../Categories/Travel.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Travel](../Categories/Travel.md) [Honesty](../Categories/Honesty.md)
