@@ -1,6 +1,6 @@
 ---
 name: 'Take notes'
-Categories: ['Productivity', 'Learning', 'Memory', 'Attention']
+Categories: ['Productivity', 'Knowledge', 'Memory', 'Attention']
 ---
 # Take notes
 

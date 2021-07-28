@@ -370,11 +370,7 @@
         
      - [Justice](../Categories/Justice.md)
         
-     - [Kindness](../Categories/Kindness.md)
-        
      - [Knowledge](../Categories/Knowledge.md)
-        
-     - [Learning](../Categories/Learning.md)
         
      - [Leisure](../Categories/Leisure.md)
         
@@ -443,6 +439,8 @@
      - [Religion](../Categories/Religion.md)
         
      - [Reminders](../Categories/Reminders.md)
+        
+     - [Remove Kindness](../Categories/Remove%20Kindness.md)
         
      - [Respect](../Categories/Respect.md)
         

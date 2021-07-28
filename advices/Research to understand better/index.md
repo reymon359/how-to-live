@@ -1,6 +1,6 @@
 ---
 name: 'Research to understand better'
-Categories: ['Learning', 'Comfort zone', 'Feedback', 'Curiosity', 'Technology', 'Knowledge', 'Unknown']
+Categories: ['Comfort zone', 'Feedback', 'Curiosity', 'Technology', 'Knowledge', 'Unknown']
 ---
 # Research to understand better
 

@@ -34,4 +34,4 @@ Remember, the most important part when communicating is to listen properly.
 - [Listening before talking](../Listen%20before%20talking/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
 - [Emphatic listening](../Empathic%20Listening/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Knowledge](../Categories/Knowledge.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Learning](../Categories/Learning.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Listen before talking](../Listen%20before%20talking/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Knowledge](../Categories/Knowledge.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Knowledge](../Categories/Knowledge.md) [Comfort zone](../Categories/Comfort%20zone.md)

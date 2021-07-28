@@ -1,6 +1,6 @@
 ---
 name: 'Trust others'
-Categories: ['Communication', 'Integrity', 'Friendship', 'Community', 'Growth', 'Trust', 'Honesty', 'Kindness']
+Categories: ['Communication', 'Integrity', 'Friendship', 'Community', 'Growth', 'Trust', 'Honesty', 'Remove Kindness']
 ---
 # Trust others
 

@@ -1,6 +1,6 @@
 ---
 name: 'Read books'
-Categories: ['Learning', 'Read', 'Attention']
+Categories: ['Knowledge', 'Read', 'Attention']
 ---
 # Read books
 

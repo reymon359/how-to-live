@@ -1,6 +1,6 @@
 ---
 name: 'Question everything. Do not take anything for granted'
-Categories: ['Learning', 'Curiosity', 'Asking', 'Truth', 'Communication', 'Comfort zone']
+Categories: ['Knowledge', 'Curiosity', 'Asking', 'Truth', 'Communication', 'Comfort zone']
 ---
 # Question everything. Do not take anything for granted
 
