@@ -1,6 +1,6 @@
 ---
 name: 'Listen to music'
-Categories: ['Happiness', 'Music', 'Gratitude', 'Attention']
+Categories: ['Happiness', 'Music', 'Attention']
 ---
 # Listen to music
 

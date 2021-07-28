@@ -7,9 +7,11 @@
     
  - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
     
+ - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
+    
  - [Give credit](../Give%20credit/index.md)
     
- - [Listen to music](../Listen%20to%20music/index.md)
-    
  - [Say thank you](../Say%20thank%20you/index.md)
+    
+ - [Smile](../Smile/index.md)
     

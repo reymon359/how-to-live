@@ -38,4 +38,4 @@ Smile and be grateful.
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md)
+- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Gratitude](../Categories/Gratitude.md)

@@ -1,6 +1,6 @@
 ---
 name: 'Give and share with others'
-Categories: ['Material things', 'Helping', 'Happiness', 'Relationships']
+Categories: ['Material things', 'Helping', 'Gratitude', 'Happiness', 'Relationships']
 ---
 # Give and share with others
 

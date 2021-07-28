@@ -29,4 +29,4 @@ Don't give and share just material things, you can share knowledge, advice, supp
 ## Related advices
 
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md) [Happiness](../Categories/Happiness.md) [Relationships](../Categories/Relationships.md)
+- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Helping](../Categories/Helping.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md) [Relationships](../Categories/Relationships.md)

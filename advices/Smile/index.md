@@ -1,6 +1,6 @@
 ---
 name: 'Smile'
-Categories: ['Happiness']
+Categories: ['Happiness', 'Gratitude']
 ---
 # Smile
 
