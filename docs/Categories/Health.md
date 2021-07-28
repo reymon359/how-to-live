@@ -11,6 +11,8 @@
     
  - [Exercise frequently](../Exercise%20frequently/index.md)
     
+ - [Find balance](../Find%20balance/index.md)
+    
  - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
     
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
