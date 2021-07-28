@@ -69,10 +69,6 @@
     
  - [Listening](../Categories/Listening.md)
     
- - [Little by little](../Categories/Little%20by%20little.md)
-    
- - [Love](../Categories/Love.md)
-    
  - [Material things](../Categories/Material%20things.md)
     
  - [Memory](../Categories/Memory.md)
@@ -134,6 +130,8 @@
  - [Reminders](../Categories/Reminders.md)
     
  - [Remove Kindness](../Categories/Remove%20Kindness.md)
+    
+ - [Remove Little by little](../Categories/Remove%20Little%20by%20little.md)
     
  - [Respect](../Categories/Respect.md)
     
