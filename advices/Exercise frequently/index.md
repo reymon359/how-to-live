@@ -1,6 +1,6 @@
 ---
 name: 'Exercise frequently'
-Categories: ['Health', 'Mental health', 'Comfort zone']
+Categories: ['Health', 'Mental health', 'Comfort zone', 'Future']
 ---
 # Exercise frequently
  

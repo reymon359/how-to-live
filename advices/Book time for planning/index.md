@@ -1,6 +1,6 @@
 ---
 name: 'Book time for planning'
-Categories: ['Planning', 'Time', 'Productivity', 'Goals']
+Categories: ['Planning', 'Time', 'Productivity', 'Goals', 'Future']
 ---
 # Book time for planning
 
