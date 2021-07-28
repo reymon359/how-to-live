@@ -1,6 +1,6 @@
 ---
 name: 'Be grateful'
-Categories: ['Gratitude', 'Happiness']
+Categories: ['Gratitude', 'Happiness', 'Integrity']
 ---
 # Be grateful
 

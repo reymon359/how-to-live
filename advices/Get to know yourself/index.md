@@ -1,6 +1,6 @@
 ---
 name: 'Get to know yourself'
-Categories: ['Growth', 'Happiness', 'Solitude', 'Travel', 'Honesty']
+Categories: ['Growth', 'Happiness', 'Solitude', 'Integrity', 'Travel', 'Honesty']
 ---
 # Get to know yourself
 

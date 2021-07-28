@@ -59,8 +59,6 @@
     
  - [Improvement](../Categories/Improvement.md)
     
- - [Independence](../Categories/Independence.md)
-    
  - [Integrity](../Categories/Integrity.md)
     
  - [Justice](../Categories/Justice.md)
