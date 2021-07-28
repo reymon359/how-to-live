@@ -21,4 +21,4 @@ Don't only focus on things. Optimize the way you do them. Think from time to tim
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
 - [Continuous refactor](../Continuous%20refactor/index.md)
-- [The simpler, the better](../The%20simpler,%20the%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Dependencies](../Categories/Dependencies.md) [Optimization](../Categories/Optimization.md) [Improvement](../Categories/Improvement.md) [Minimalism](../Categories/Minimalism.md) [Balance](../Categories/Balance.md)
+- [The simpler, the better](../The%20simpler,%20the%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Dependencies](../Categories/Dependencies.md) [Refactor](../Categories/Refactor.md) [Minimalism](../Categories/Minimalism.md) [Balance](../Categories/Balance.md)

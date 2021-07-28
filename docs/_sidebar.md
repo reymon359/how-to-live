@@ -364,8 +364,6 @@
         
      - [Honesty](../Categories/Honesty.md)
         
-     - [Improvement](../Categories/Improvement.md)
-        
      - [Improving](../Categories/Improving.md)
         
      - [Independence](../Categories/Independence.md)
@@ -415,8 +413,6 @@
      - [Nutrition](../Categories/Nutrition.md)
         
      - [Open-mindedness](../Categories/Open-mindedness.md)
-        
-     - [Optimization](../Categories/Optimization.md)
         
      - [Personality](../Categories/Personality.md)
         
