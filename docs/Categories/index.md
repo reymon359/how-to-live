@@ -55,8 +55,6 @@
     
  - [Help](../Categories/Help.md)
     
- - [Helping](../Categories/Helping.md)
-    
  - [Honesty](../Categories/Honesty.md)
     
  - [Ideas](../Categories/Ideas.md)
