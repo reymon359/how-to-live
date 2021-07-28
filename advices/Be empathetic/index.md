@@ -1,6 +1,6 @@
 ---
 name: 'Be empathetic'
-Categories: ['Respect', 'Open-mindedness', 'Help', 'Empathy', 'Communication']
+Categories: ['Respect', 'Open-mindedness', 'Help', 'Listening', 'Empathy', 'Communication']
 ---
 # Be empathetic
 

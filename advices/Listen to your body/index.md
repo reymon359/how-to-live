@@ -1,6 +1,6 @@
 ---
 name: 'Listen to your body'
-Categories: ['Health', 'Mindfulness', 'Attention']
+Categories: ['Health', 'Listening', 'Mindfulness', 'Attention']
 ---
 # Listen to your body
 
