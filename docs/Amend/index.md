@@ -21,4 +21,4 @@ We all make mistakes, it's ok. Just learn from them and amend what can be amende
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Apologize](../Apologize/index.md)
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [We all make mistakes](../We%20all%20make%20mistakes/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Guilt](../Categories/Guilt.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md) [Respect](../Categories/Respect.md)
+- [We all make mistakes](../We%20all%20make%20mistakes/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Guilt](../Categories/Guilt.md) [Justice](../Categories/Justice.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Integrity](../Categories/Integrity.md) [Respect](../Categories/Respect.md)

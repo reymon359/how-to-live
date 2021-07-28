@@ -1,6 +1,6 @@
 ---
 name: "Do no harm"
-Categories: ['Respect', 'Problems', 'Help', 'Happiness', 'Integrity', 'Mistakes']
+Categories: ['Respect', 'Justice', 'Problems', 'Help', 'Happiness', 'Integrity', 'Mistakes']
 ---
 # Do no harm
 

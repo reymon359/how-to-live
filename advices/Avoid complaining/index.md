@@ -1,6 +1,6 @@
 ---
 name: 'Avoid complaining'
-Categories: ['Happiness', 'Guilt', 'Solutions', 'Mental health', 'Integrity']
+Categories: ['Happiness', 'Guilt', 'Justice', 'Solutions', 'Mental health', 'Integrity']
 ---
 # Avoid complaining
 
