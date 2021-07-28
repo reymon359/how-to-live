@@ -1,6 +1,6 @@
 ---
 name: 'Continuous refactor'
-Categories: ['Growth', 'Refactor', 'Success', 'Improving']
+Categories: ['Growth', 'Refactor', 'Success', 'Improvement']
 ---
 # Continuous refactor
 

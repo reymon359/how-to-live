@@ -1,6 +1,6 @@
 ---
 name: 'The simpler, the better'
-Categories: ['Solutions', 'Problems', 'Simplicity', 'Dependencies', 'Minimalism']
+Categories: ['Solutions', 'Problems', 'Simplicity', 'Dependencies', 'Improvement', 'Minimalism']
 ---
 # The simpler, the better
 

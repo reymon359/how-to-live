@@ -364,7 +364,7 @@
         
      - [Honesty](../Categories/Honesty.md)
         
-     - [Improving](../Categories/Improving.md)
+     - [Improvement](../Categories/Improvement.md)
         
      - [Independence](../Categories/Independence.md)
         
