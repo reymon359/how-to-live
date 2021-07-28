@@ -103,4 +103,4 @@ Most of the text above comes from what I learned from Stephen Covey’s book The
 ## Related advices
 
 - [Learn to delegate](../Learn%20to%20delegate/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md)
+- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Time management](../Categories/Time%20management.md) [Focus](../Categories/Focus.md) [Goals](../Categories/Goals.md) [Prioritize](../Categories/Prioritize.md) [Success](../Categories/Success.md) [Productivity](../Categories/Productivity.md)

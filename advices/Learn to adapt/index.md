@@ -1,6 +1,6 @@
 ---
 name:  'Learn to adapt'
-Categories: ['Growing', 'Technology', 'Solutions']
+Categories: ['Growing', 'Technology', 'Freedom', 'Solutions']
 ---
 # Learn to adapt
 
