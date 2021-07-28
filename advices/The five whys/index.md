@@ -1,6 +1,6 @@
 ---
 name: 'The five whys'
-Categories: ['Problems', 'Solutions']
+Categories: ['Problems', 'Solutions', 'Feedback']
 ---
 # The five whys
 
