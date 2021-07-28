@@ -1,9 +1,11 @@
-# Growing
+# Growth
 
 
  - [Amend](../Amend/index.md)
     
  - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
+    
+ - [Ask questions](../Ask%20questions/index.md)
     
  - [Be independent](../Be%20independent/index.md)
     
@@ -41,6 +43,8 @@
     
  - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
     
+ - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
+    
  - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
     
  - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
@@ -48,8 +52,6 @@
  - [Trust others](../Trust%20others/index.md)
     
  - [We all make mistakes](../We%20all%20make%20mistakes/index.md)
-    
- - [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
     
  - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     

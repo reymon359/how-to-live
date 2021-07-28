@@ -41,4 +41,4 @@ While growing, never leave the child inside yourself. Keep being curious and eag
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Don't feel bad about making mistakes](../We%20all%20make%20mistakes/index.md)
 - [Fail with success](../Fail%20with%20success/index.md)
-- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Future](../Categories/Future.md) [Improving](../Categories/Improving.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Future](../Categories/Future.md) [Improving](../Categories/Improving.md) [Comfort zone](../Categories/Comfort%20zone.md)

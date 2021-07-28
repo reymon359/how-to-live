@@ -10,6 +10,7 @@ This is how I see life at this moment. It can change.
 
 most of the books references blabla book sentences
 
+some categories are not discussed but are related
 ## First attempt
 
 This was my rough first attempt to represent what I had in my mind.

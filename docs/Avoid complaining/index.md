@@ -40,4 +40,4 @@ Your Erroneous Zones from Wayne Dyer discussed this topic.
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
 - [Let it flow](../Let%20it%20flow/index.md)
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md)
+- [There is always a solution](../There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Guilt](../Categories/Guilt.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md)

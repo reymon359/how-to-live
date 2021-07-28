@@ -38,4 +38,4 @@ Adapt to the moment. Sometimes things change suddenly, much faster than expected
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
 - [Be proactive](../Be%20proactive/index.md)
-- [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Technology](../Categories/Technology.md) [Freedom](../Categories/Freedom.md) [Solutions](../Categories/Solutions.md)
+- [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Technology](../Categories/Technology.md) [Freedom](../Categories/Freedom.md) [Solutions](../Categories/Solutions.md)

@@ -45,11 +45,9 @@
     
  - [Gratitude](../Categories/Gratitude.md)
     
- - [Growing](../Categories/Growing.md)
+ - [Growth](../Categories/Growth.md)
     
  - [Guilt](../Categories/Guilt.md)
-    
- - [Habits](../Categories/Habits.md)
     
  - [Happiness](../Categories/Happiness.md)
     

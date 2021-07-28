@@ -1,6 +1,6 @@
 ---
 name: 'Learn to forgive'
-Categories: ['Happiness', 'Empathy', 'Love', 'Health', 'Mental health', 'Problems', 'Solutions', 'Freedom', 'Relationships']
+Categories: ['Happiness', 'Guilt', 'Empathy', 'Love', 'Health', 'Mental health', 'Problems', 'Solutions', 'Freedom', 'Relationships']
 ---
 # Learn to forgive
 

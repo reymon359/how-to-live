@@ -19,6 +19,8 @@ most of the books references blabla book sentences
 
 
 
+some categories are not discussed but are related
+
 ## First attempt
 
 

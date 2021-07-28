@@ -33,4 +33,4 @@ A deep chat with my friend Pablo Llorca made me realize about this.
 - [Look for feedback](../Look%20for%20feedback/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growing](../Categories/Growing.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)
+- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Change](../Categories/Change.md) [Respect](../Categories/Respect.md)

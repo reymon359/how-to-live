@@ -28,4 +28,4 @@ When you delegate, make sure the person that will be in charge understands what 
 
 - [Be honest](../Be%20honest/index.md)
 - [Trust others](../Trust%20others/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Freedom](../Categories/Freedom.md) [Success](../Categories/Success.md) [Growing](../Categories/Growing.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)
+- [Offer your help](../Offer%20your%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Freedom](../Categories/Freedom.md) [Success](../Categories/Success.md) [Growth](../Categories/Growth.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md) [Honesty](../Categories/Honesty.md)

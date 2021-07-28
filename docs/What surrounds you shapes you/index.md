@@ -35,4 +35,4 @@ I also enjoyed reading this article from Kenta Nagamine about the topic: [Where 
 - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
 - [Try new things](../Try%20new%20things/index.md)
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Travel](../Categories/Travel.md) [Networking](../Categories/Networking.md) [Communication](../Categories/Communication.md) [Growing](../Categories/Growing.md) [Success](../Categories/Success.md)
+- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Travel](../Categories/Travel.md) [Networking](../Categories/Networking.md) [Communication](../Categories/Communication.md) [Growth](../Categories/Growth.md) [Success](../Categories/Success.md)
