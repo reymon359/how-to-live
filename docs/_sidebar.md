@@ -336,8 +336,6 @@
         
      - [Empathy](../Categories/Empathy.md)
         
-     - [Exercise](../Categories/Exercise.md)
-        
      - [Family](../Categories/Family.md)
         
      - [Feedback](../Categories/Feedback.md)

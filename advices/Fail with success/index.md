@@ -1,6 +1,6 @@
 ---
 name: 'Fail with success'
-Categories: ['Mistakes', 'Success', 'Problems', 'Solutions', 'Growing']
+Categories: ['Mistakes', 'Feedback', 'Success', 'Problems', 'Solutions', 'Growing']
 ---
 # Fail with success
 
