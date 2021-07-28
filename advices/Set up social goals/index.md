@@ -1,6 +1,6 @@
 ---
 name: 'Set up social goals'
-Categories: ['Goals', 'Future', 'Social', 'Relationships', 'Friendship']
+Categories: ['Goals', 'Future', 'Leisure', 'Social', 'Relationships', 'Friendship']
 ---
 # Set up social goals
 

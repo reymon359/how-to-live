@@ -1,6 +1,6 @@
 ---
 name: 'Do networking'
-Categories: ['Communication', 'Improvement', 'Future', 'Help', 'Solutions', 'Success', 'Goals', 'Relationships', 'Growth']
+Categories: ['Communication', 'Leisure', 'Improvement', 'Future', 'Help', 'Solutions', 'Success', 'Goals', 'Relationships', 'Growth']
 ---
 # Do networking
 

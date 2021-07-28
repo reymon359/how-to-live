@@ -1,6 +1,6 @@
 ---
 name: 'Enjoy the moment'
-Categories: ['Happiness', 'Minimalism', 'Focus', 'Attention', 'Mindfulness']
+Categories: ['Happiness', 'Leisure', 'Minimalism', 'Focus', 'Attention', 'Mindfulness']
 ---
 # Enjoy the moment
 

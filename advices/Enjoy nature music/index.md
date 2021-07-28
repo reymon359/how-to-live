@@ -1,6 +1,6 @@
 ---
 name: 'Enjoy nature music'
-Categories: ['Happiness', 'Music', 'Nature']
+Categories: ['Happiness', 'Leisure', 'Music', 'Nature']
 ---
 # Enjoy nature music
 

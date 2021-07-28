@@ -1,6 +1,6 @@
 ---
 name: 'Time is more valuable than money'
-Categories: ['Material things', 'Money', 'Time', 'Happiness']
+Categories: ['Material things', 'Leisure', 'Money', 'Time', 'Happiness']
 ---
 # Time is more valuable than money
 
