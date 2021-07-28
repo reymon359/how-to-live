@@ -15,9 +15,13 @@
     
  - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
     
+ - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
+    
  - [Do what you want](../Do%20what%20you%20want/index.md)
     
  - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
+    
+ - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)
     
  - [Eating an elephant](../Eating%20an%20elephant/index.md)
     
