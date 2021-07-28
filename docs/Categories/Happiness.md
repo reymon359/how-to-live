@@ -15,8 +15,6 @@
     
  - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
     
- - [Discover new music](../Discover%20new%20music/index.md)
-    
  - [Do no harm](../Do%20no%20harm/index.md)
     
  - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
@@ -62,6 +60,8 @@
  - [Money is a means, not an end](../Money%20is%20a%20means,%20not%20an%20end/index.md)
     
  - [Offer your help](../Offer%20your%20help/index.md)
+    
+ - [Respect yourself](../Respect%20yourself/index.md)
     
  - [Say thank you](../Say%20thank%20you/index.md)
     
