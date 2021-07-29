@@ -1,6 +1,6 @@
 ---
 name: 'Remove dependencies'
-Categories: ['Dependencies', 'Software development', 'Minimalism', 'Freedom']
+Categories: ['Dependencies', 'Optimization', 'Software development', 'Minimalism', 'Freedom']
 ---
 # Remove dependencies
 

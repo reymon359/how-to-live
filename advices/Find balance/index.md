@@ -1,6 +1,6 @@
 ---
 name: 'Find balance'
-Categories: ['Happiness', 'Nutrition', 'Balance', 'Justice', 'Health']
+Categories: ['Happiness', 'Optimization', 'Nutrition', 'Balance', 'Justice', 'Health']
 ---
 # Find balance
 

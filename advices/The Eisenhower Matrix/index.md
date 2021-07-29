@@ -1,6 +1,6 @@
 ---
 name: 'The Eisenhower Matrix'
-Categories: ['Time', 'Time management', 'Future', 'Focus', 'Goals', 'Prioritize', 'Success', 'Productivity']
+Categories: ['Time', 'Optimization', 'Time management', 'Future', 'Focus', 'Goals', 'Prioritize', 'Success', 'Productivity']
 ---
 # The Eisenhower Matrix
 

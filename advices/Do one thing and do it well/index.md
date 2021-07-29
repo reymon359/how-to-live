@@ -1,6 +1,6 @@
 ---
 name: 'Do one thing and do it well'
-Categories: ['Goals', 'Productivity', 'Focus', 'Choices']
+Categories: ['Goals', 'Optimization', 'Productivity', 'Focus', 'Choices']
 ---
 # Do one thing and do it well
 

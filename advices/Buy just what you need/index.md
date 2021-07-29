@@ -1,6 +1,6 @@
 ---
 name: 'Buy just what you need'
-Categories: ['Material things', 'Freedom', 'Dependencies', 'Money', 'Happiness', 'Minimalism', 'Balance', 'Choices']
+Categories: ['Material things', 'Optimization',  'Freedom', 'Dependencies', 'Money', 'Happiness', 'Minimalism', 'Balance', 'Choices']
 ---
 # Buy just what you need
 

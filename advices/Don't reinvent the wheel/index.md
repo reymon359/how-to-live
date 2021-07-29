@@ -1,6 +1,6 @@
 ---
 name: "Don't reinvent the wheel"
-Categories: ['Productivity', 'Knowledge', 'Unknown', 'Time', 'Solutions', 'Goals']
+Categories: ['Productivity', 'Optimization', 'Knowledge', 'Unknown', 'Time', 'Solutions', 'Goals']
 ---
 # Don't reinvent the wheel
 
