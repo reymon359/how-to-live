@@ -1,6 +1,6 @@
 ---
 name: 'Be proactive'
-Categories: ['Productivity', 'Motivation', 'Improvement', 'Goals', 'Freedom', 'Growth', 'Success', 'Proactivity', 'Change', 'Comfort zone']
+Categories: ['Productivity', 'Personality', 'Motivation', 'Improvement', 'Goals', 'Freedom', 'Growth', 'Success', 'Proactivity', 'Change', 'Comfort zone']
 ---
 # Be proactive
 

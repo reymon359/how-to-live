@@ -1,6 +1,6 @@
 ---
 name: 'Let others do what they want'
-Categories: ['Open-mindedness', 'Freedom', 'Respect', 'Community', 'Relationships']
+Categories: ['Open-mindedness', 'Personality', 'Freedom', 'Respect', 'Community', 'Relationships']
 ---
 # Let others do what they want
 

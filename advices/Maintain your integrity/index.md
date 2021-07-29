@@ -1,6 +1,6 @@
 ---
 name: 'Maintain your integrity'
-Categories: ['Growth', 'Networking', 'Honesty', 'Integrity', 'Trust', 'Responsibility']
+Categories: ['Growth', 'Personality', 'Networking', 'Honesty', 'Integrity', 'Trust', 'Responsibility']
 ---
 # Maintain your integrity
 

@@ -1,6 +1,6 @@
 ---
 name: 'You are not something, you choose to be something'
-Categories: ['Proactivity', 'Freedom', 'Goals']
+Categories: ['Proactivity', 'Personality', 'Freedom', 'Goals']
 ---
 # You are not something, you choose to be something
 
