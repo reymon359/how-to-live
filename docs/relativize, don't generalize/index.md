@@ -25,4 +25,4 @@ Respect others and give second chances instead of ending up generalizing.
 - [Don't judge the whole by the part](../Don't%20judge%20the%20whole%20by%20the%20part/index.md)
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
 - [Give second chances](../Give%20second%20chances/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Open your mind](../Open%20your%20mind/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Open-mindedness](../Categories/Open-mindedness.md) [Mistakes](../Categories/Mistakes.md) [Respect](../Categories/Respect.md) [Comfort zone](../Categories/Comfort%20zone.md)

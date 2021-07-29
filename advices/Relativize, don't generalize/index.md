@@ -1,6 +1,6 @@
 ---
 name: "Relativize, don't generalize"
-Categories: ['Open-mindedness', 'Respect', 'Comfort zone']
+Categories: ['Open-mindedness', 'Mistakes', 'Respect', 'Comfort zone']
 ---
 # Relativize, don't generalize
 

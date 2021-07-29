@@ -1,6 +1,6 @@
 ---
 name: "Don't compare yourself with others"
-Categories: ['Growth', 'Goals', 'Justice', 'Happiness', 'Integrity', 'Personality']
+Categories: ['Growth', 'Mistakes', 'Goals', 'Justice', 'Happiness', 'Integrity', 'Personality']
 ---
 # Don't compare yourself with others
 

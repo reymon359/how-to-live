@@ -1,6 +1,6 @@
 ---
 name: 'The rule of holes'
-Categories: ['Problems', 'Solutions', 'Open-mindedness']
+Categories: ['Problems', 'Mistakes', 'Solutions', 'Open-mindedness']
 ---
 # The rule of holes
 

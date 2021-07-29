@@ -1,6 +1,6 @@
 ---
 name: "Don't feel guilty"
-Categories: ['Mental health', 'Justice', 'Guilt', 'Problems', 'Solutions', 'Regret']
+Categories: ['Mental health', 'Mistakes', 'Justice', 'Guilt', 'Problems', 'Solutions', 'Regret']
 ---
 # Don't feel guilty
 

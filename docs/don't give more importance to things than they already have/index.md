@@ -22,4 +22,4 @@ Try to not overthink and let things flow.
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
 - [Don't worry](../Don't%20worry/index.md)
 - [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
-- [Fail with success](../Fail%20with%20success/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md) [Focus](../Categories/Focus.md)
+- [Fail with success](../Fail%20with%20success/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Mistakes](../Categories/Mistakes.md) [Solutions](../Categories/Solutions.md) [Mental health](../Categories/Mental%20health.md) [Focus](../Categories/Focus.md)
