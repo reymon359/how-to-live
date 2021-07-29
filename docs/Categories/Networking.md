@@ -9,6 +9,8 @@
     
  - [Don't find solutions alone](../Don't%20find%20solutions%20alone/index.md)
     
+ - [Embrace communication](../Embrace%20communication/index.md)
+    
  - [Empathic listening](../Empathic%20listening/index.md)
     
  - [Give and share with others](../Give%20and%20share%20with%20others/index.md)

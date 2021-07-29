@@ -1,6 +1,6 @@
 ---
 name: 'Ask questions'
-Categories: ['Communication', 'Growth', 'Knowledge', 'Curiosity', 'Asking', 'Listening', 'Solutions', 'Relationships']
+Categories: ['Communication', 'Growth', 'Knowledge', 'Curiosity', 'Asking', 'Listening', 'Solutions', 'Open-mindedness', 'Relationships']
 ---
 # Ask questions
 
