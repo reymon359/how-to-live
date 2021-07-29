@@ -1,6 +1,6 @@
 ---
 name: "DRY Don't repeat yourself"
-Categories: ['Material things', 'Software development', 'Productivity']
+Categories: ['Material things', 'Software development', 'Productivity', 'Optimization']
 ---
 # DRY Don't repeat yourself
 
@@ -10,7 +10,7 @@ The DRY principle is stated as "Every piece of knowledge must have a single, una
 
 Duplication is a waste. Adding additional, unnecessary code to a codebase increases the amount of work required to extend and maintain the software in the future.
  
-Applied to life, this would be related to not having extra items if you do not need them or already have one that fulfills that purpose.
+As a lifestyle, this advice is related to avoiding any kind of repetition that you find in your day by day. If you can not avoid it, try to improve it at least. Try not to do the same thing multiple times, but just one and the right way. Also, try to not accumulate items if you do not need them or already have one that fulfills that purpose.
 
 ## Quotes
 
@@ -22,6 +22,8 @@ The Pragmatic Programmer from Andy Hunt and Dave Thomas
 
 ## Related advices
 
+- [Try new things](../Try%20new%20things/index.md)
+- [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
 - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
