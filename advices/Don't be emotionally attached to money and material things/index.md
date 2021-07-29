@@ -1,6 +1,6 @@
 ---
 name: "Don't be emotionally attached to money and material things"
-Categories: ['Material things', 'Guilt', 'Money', 'Happiness', 'Minimalism']
+Categories: ['Material things', 'Mental health', 'Guilt', 'Money', 'Happiness', 'Minimalism']
 ---
 # Don't be emotionally attached to money and material things
 

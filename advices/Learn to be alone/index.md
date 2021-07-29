@@ -1,6 +1,6 @@
 ---
 name: 'Learn to be alone'
-Categories: ['Happiness', 'Solitude', 'Freedom', 'Balance']
+Categories: ['Happiness', 'Solitude', 'Freedom', 'Balance', 'Mental health']
 ---
 # Learn to be alone
 

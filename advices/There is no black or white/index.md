@@ -1,6 +1,6 @@
 ---
 name: 'There is no black or white'
-Categories: ['Growth', 'Choices', 'Justice', 'Open-mindedness']
+Categories: ['Growth','Mental health', 'Choices', 'Justice', 'Open-mindedness']
 ---
 # There is no black or white
 
