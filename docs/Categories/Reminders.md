@@ -5,3 +5,5 @@
     
  - [Set up reminders](../Set%20up%20reminders/index.md)
     
+ - [Take notes](../Take%20notes/index.md)
+    

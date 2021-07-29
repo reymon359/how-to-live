@@ -378,8 +378,6 @@
         
      - [Material things](../Categories/Material%20things.md)
         
-     - [Memory](../Categories/Memory.md)
-        
      - [Mental health](../Categories/Mental%20health.md)
         
      - [Mindfulness](../Categories/Mindfulness.md)
@@ -441,6 +439,8 @@
      - [Remove Kindness](../Categories/Remove%20Kindness.md)
         
      - [Remove Little by little](../Categories/Remove%20Little%20by%20little.md)
+        
+     - [Remove memory](../Categories/Remove%20memory.md)
         
      - [Respect](../Categories/Respect.md)
         
