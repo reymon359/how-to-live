@@ -79,8 +79,6 @@
     
  - [Mistakes](../Categories/Mistakes.md)
     
- - [Modesty](../Categories/Modesty.md)
-    
  - [Money](../Categories/Money.md)
     
  - [Motivation](../Categories/Motivation.md)
@@ -132,6 +130,8 @@
  - [Remove Kindness](../Categories/Remove%20Kindness.md)
     
  - [Remove Little by little](../Categories/Remove%20Little%20by%20little.md)
+    
+ - [Remove Modesty](../Categories/Remove%20Modesty.md)
     
  - [Remove memory](../Categories/Remove%20memory.md)
     
