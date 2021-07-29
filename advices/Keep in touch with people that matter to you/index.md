@@ -1,6 +1,6 @@
 ---
 name: 'Keep in touch with people that matter to you'
-Categories: ['Communication', 'Reminders', 'Relationships', 'Friendship']
+Categories: ['Communication', 'Networking', 'Reminders', 'Relationships', 'Friendship']
 ---
 # Keep in touch with people that matter to you
 

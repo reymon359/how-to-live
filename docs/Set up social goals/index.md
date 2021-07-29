@@ -26,4 +26,4 @@ The Stephen R. Covey book: The 7 Habits of Highly Effective People speak about t
 
 - [Set up reminders](../Set%20up%20reminders/index.md)
 - [Set up goals](../Set%20up%20goals/index.md)
-- [Review your goals](../Review%20your%20goals/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md) [Leisure](../Categories/Leisure.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md) [Friendship](../Categories/Friendship.md)
+- [Review your goals](../Review%20your%20goals/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Networking](../Categories/Networking.md) [Future](../Categories/Future.md) [Leisure](../Categories/Leisure.md) [Social](../Categories/Social.md) [Relationships](../Categories/Relationships.md) [Friendship](../Categories/Friendship.md)

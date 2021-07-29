@@ -1,6 +1,6 @@
 ---
 name: 'Grow with others'
-Categories: ['Growth', 'Friendship', 'Communication', 'Community', 'Relationships', 'Change']
+Categories: ['Growth', 'Networking', 'Friendship', 'Communication', 'Community', 'Relationships', 'Change']
 ---
 # Grow with others
 

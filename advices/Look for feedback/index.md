@@ -1,6 +1,6 @@
 ---
 name: 'Look for feedback'
-Categories: ['Growth', 'Listening', 'Help', 'Knowledge', 'Solutions', 'Feedback', 'Success', 'Communication']
+Categories: ['Growth', 'Networking', 'Listening', 'Help', 'Knowledge', 'Solutions', 'Feedback', 'Success', 'Communication']
 ---
 # Look for feedback
 

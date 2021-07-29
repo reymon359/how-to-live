@@ -1,6 +1,6 @@
 ---
 name: 'We teach others how to treat us'
-Categories: ['Friendship', 'Relationships', 'Problems', 'Honesty', 'Solutions', 'Integrity']
+Categories: ['Friendship', 'Networking', 'Relationships', 'Problems', 'Honesty', 'Solutions', 'Integrity']
 ---
 # We teach others how to treat us
 

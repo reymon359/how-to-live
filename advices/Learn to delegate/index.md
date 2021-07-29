@@ -1,6 +1,6 @@
 ---
 name: 'Learn to delegate'
-Categories: ['Productivity', 'Help', 'Freedom', 'Success', 'Growth', 'Responsibility', 'Trust', 'Honesty']
+Categories: ['Productivity', 'Networking', 'Help', 'Freedom', 'Success', 'Growth', 'Responsibility', 'Trust', 'Honesty']
 ---
 # Learn to delegate
 

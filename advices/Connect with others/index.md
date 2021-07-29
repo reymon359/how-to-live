@@ -1,6 +1,6 @@
 ---
 name: 'Connect with others'
-Categories: ['Open-mindedness', 'Friendship', 'Empathy', 'Comfort zone', 'Communication', 'Relationships']
+Categories: ['Open-mindedness', 'Friendship', 'Networking', 'Empathy', 'Comfort zone', 'Communication', 'Relationships']
 ---
 # Connect with others
 
