@@ -27,4 +27,4 @@ Review them from time to time. Remind yourself to do so if needed.
 - [Look for feedback](../Look%20for%20feedback/index.md)
 - [Set up goals](../Set%20up%20goals/index.md)
 - [Set up social goals](../Set%20up%20social%20goals/index.md)
-- [Set up reminders](../Set%20up%20reminders/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Motivation](../Categories/Motivation.md) [Future](../Categories/Future.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improvement](../Categories/Improvement.md) [Feedback](../Categories/Feedback.md)
+- [Set up reminders](../Set%20up%20reminders/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Planning](../Categories/Planning.md) [Motivation](../Categories/Motivation.md) [Future](../Categories/Future.md) [Tracking](../Categories/Tracking.md) [Motivation](../Categories/Motivation.md) [Improvement](../Categories/Improvement.md) [Feedback](../Categories/Feedback.md)

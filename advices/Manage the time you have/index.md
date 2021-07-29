@@ -1,6 +1,6 @@
 ---
 name: 'Manage the time you have'
-Categories: ['Time management', 'Optimization', 'Growth', 'Time', 'Focus', 'Productivity', 'Success', 'Goals']
+Categories: ['Time management', 'Planning', 'Optimization', 'Growth', 'Time', 'Focus', 'Productivity', 'Success', 'Goals']
 ---
 # Manage the time you have
 

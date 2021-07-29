@@ -35,4 +35,4 @@ Robert C. Martin gives some good tips about managing lateness on The Clean Coder
 - [Be proactive](../Be%20proactive/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
 - [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-- [Actions speak louder than words](../Actions%20speak%20louder%20than%20words/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md) [Honesty](../Categories/Honesty.md) [Trust](../Categories/Trust.md)
+- [Actions speak louder than words](../Actions%20speak%20louder%20than%20words/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Planning](../Categories/Planning.md) [Punctuality](../Categories/Punctuality.md) [Integrity](../Categories/Integrity.md) [Time](../Categories/Time.md) [Honesty](../Categories/Honesty.md) [Trust](../Categories/Trust.md)

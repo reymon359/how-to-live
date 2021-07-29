@@ -1,6 +1,6 @@
 ---
 name: 'The 2 minutes rule'
-Categories: ['Time', 'Time management', 'Priority', 'Procrastination', 'Productivity']
+Categories: ['Time', 'Planning', 'Time management', 'Priority', 'Procrastination', 'Productivity']
 ---
 # The 2 minutes rule
 
