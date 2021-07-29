@@ -11,7 +11,7 @@
     
  - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
     
- - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
+ - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
     
  - [Optimize your stuff](../Optimize%20your%20stuff/index.md)
     
