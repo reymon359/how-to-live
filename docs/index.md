@@ -21,6 +21,10 @@ most of the books references blabla book sentences
 
 some categories are not discussed but are related
 
+
+
+a category or the lack of it.
+
 ## First attempt
 
 

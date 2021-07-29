@@ -1,6 +1,6 @@
 ---
 name: 'Avoid procrastinating'
-Categories: ['Time', 'Leisure', 'Mistakes', 'Guilt', 'Distractions', 'Focus', 'Time management', 'Commitment', 'Procrastination', 'Goals', 'Productivity']
+Categories: ['Time', 'Motivation', 'Leisure', 'Mistakes', 'Guilt', 'Distractions', 'Focus', 'Time management', 'Commitment', 'Procrastination', 'Goals', 'Productivity']
 ---
 # Avoid procrastinating
 

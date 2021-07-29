@@ -1,6 +1,6 @@
 ---
 name: 'Pay attention'
-Categories: ['Attention', 'Listening', 'Knowledge', 'Curiosity', 'Mindfulness', 'Focus', 'Social Media']
+Categories: ['Attention', 'Motivation', 'Listening', 'Knowledge', 'Curiosity', 'Mindfulness', 'Focus', 'Social Media']
 ---
 # Pay attention
 

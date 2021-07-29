@@ -30,4 +30,4 @@ I learned this by myself by realizing how my productivity increased just by sett
 
 - [Review your goals](../Review%20your%20goals/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Planning](../Categories/Planning.md) [Future](../Categories/Future.md)
+- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Reminders](../Categories/Reminders.md) [Motivation](../Categories/Motivation.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Planning](../Categories/Planning.md) [Future](../Categories/Future.md)
