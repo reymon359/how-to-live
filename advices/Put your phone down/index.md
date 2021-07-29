@@ -1,6 +1,6 @@
 ---
 name: 'Put your phone down'
-Categories: ['Health', 'Mental health', 'Respect', 'Communication']
+Categories: ['Health', 'Mindfulness', 'Mental health', 'Respect', 'Communication']
 ---
 # Put your phone down
 
