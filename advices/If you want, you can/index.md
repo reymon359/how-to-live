@@ -1,6 +1,6 @@
 ---
 name: 'If you want, you can'
-Categories: ['Goals', 'Motivation', 'Freedom', 'Willpower', 'Comfort zone', 'Success', 'Happiness']
+Categories: ['Goals', 'Proactivity', 'Motivation', 'Freedom', 'Willpower', 'Comfort zone', 'Success', 'Happiness']
 ---
 # If you want, you can
 

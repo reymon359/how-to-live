@@ -1,6 +1,6 @@
 ---
 name: 'Regret what you have done, not what you have not'
-Categories: ['Regret', 'Guilt', 'Adventures']
+Categories: ['Regret', 'Proactivity', 'Guilt', 'Adventures']
 ---
 # Regret what you have done, not what you have not
 

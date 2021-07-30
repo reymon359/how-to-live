@@ -1,6 +1,6 @@
 ---
 name: 'Offer your help'
-Categories: ['Help', 'Networking', 'Happiness', 'Community', 'Relationships', 'Friendship']
+Categories: ['Help', 'Proactivity', 'Networking', 'Happiness', 'Community', 'Relationships', 'Friendship']
 ---
 # Offer your help
 

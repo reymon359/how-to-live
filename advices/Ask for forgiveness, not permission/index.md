@@ -1,6 +1,6 @@
 ---
 name: 'Ask for forgiveness, not permission'
-Categories: ['Communication', 'Growth', 'Success', 'Asking']
+Categories: ['Communication', 'Proactivity', 'Growth', 'Success', 'Asking']
 ---
 # Ask for forgiveness, not permission
 

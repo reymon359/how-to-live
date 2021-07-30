@@ -1,6 +1,6 @@
 ---
 name: 'Focus on solutions, not problems'
-Categories: ['Solutions', 'Problems', 'Mental health']
+Categories: ['Solutions', 'Proactivity', 'Problems', 'Mental health']
 ---
 # Focus on solutions, not problems
 

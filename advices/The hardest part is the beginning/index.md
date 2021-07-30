@@ -1,6 +1,6 @@
 ---
 name: 'The hardest part is the beginning'
-Categories: ['Goals', 'Comfort zone', 'Motivation']
+Categories: ['Goals', 'Comfort zone', 'Proactivity', 'Motivation']
 ---
 # The hardest part is the beginning
 

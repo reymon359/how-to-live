@@ -1,6 +1,6 @@
 ---
 name: 'There is always a solution'
-Categories: ['Solutions', 'Open-mindedness', 'Problems', 'Proactivity', 'Mental health']
+Categories: ['Solutions', 'Proactivity', 'Open-mindedness', 'Problems', 'Proactivity', 'Mental health']
 ---
 # There is always a solution
 
