@@ -103,8 +103,6 @@
     
  - [Prioritize](../Categories/Prioritize.md)
     
- - [Priority](../Categories/Priority.md)
-    
  - [Proactivity](../Categories/Proactivity.md)
     
  - [Problems](../Categories/Problems.md)
@@ -148,6 +146,8 @@
  - [Social Media](../Categories/Social%20Media.md)
     
  - [Social media](../Categories/Social%20media.md)
+    
+ - [Social media'](../Categories/Social%20media'.md)
     
  - [Software](../Categories/Software.md)
     

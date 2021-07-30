@@ -30,4 +30,4 @@ In the Atomic Habits book by James Clear, he discussed it. Although, he focuses 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Take action](../Take%20action/index.md)
 - [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Planning](../Categories/Planning.md) [Time management](../Categories/Time%20management.md) [Priority](../Categories/Priority.md) [Procrastination](../Categories/Procrastination.md) [Productivity](../Categories/Productivity.md)
+- [Learn to delegate](../Learn%20to%20delegate/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Planning](../Categories/Planning.md) [Time management](../Categories/Time%20management.md) [Procrastination](../Categories/Procrastination.md) [Productivity](../Categories/Productivity.md)
