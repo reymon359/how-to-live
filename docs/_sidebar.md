@@ -418,8 +418,6 @@
         
      - [Productivity](../Categories/Productivity.md)
         
-     - [Read](../Categories/Read.md)
-        
      - [Refactor](../Categories/Refactor.md)
         
      - [Regret](../Categories/Regret.md)
@@ -435,6 +433,8 @@
      - [Remove Little by little](../Categories/Remove%20Little%20by%20little.md)
         
      - [Remove Modesty](../Categories/Remove%20Modesty.md)
+        
+     - [Remove Read](../Categories/Remove%20Read.md)
         
      - [Remove memory](../Categories/Remove%20memory.md)
         
