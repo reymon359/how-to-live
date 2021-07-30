@@ -111,8 +111,6 @@
     
  - [Productivity](../Categories/Productivity.md)
     
- - [Punctuality](../Categories/Punctuality.md)
-    
  - [Read](../Categories/Read.md)
     
  - [Refactor](../Categories/Refactor.md)
