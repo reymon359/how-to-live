@@ -29,8 +29,6 @@
     
  - [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)
     
- - [Keep the focus](../Keep%20the%20focus/index.md)
-    
  - [Learn to forgive](../Learn%20to%20forgive/index.md)
     
  - [The five whys](../The%20five%20whys/index.md)
@@ -42,6 +40,8 @@
  - [The world is not fair](../The%20world%20is%20not%20fair/index.md)
     
  - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
+    
+ - [We all make mistakes](../We%20all%20make%20mistakes/index.md)
     
  - [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
     
