@@ -7,3 +7,9 @@
     
  - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
     
+ - [Exercise frequently](../Exercise%20frequently/index.md)
+    
+ - [Practice mindfulness](../Practice%20mindfulness/index.md)
+    
+ - [Try new things](../Try%20new%20things/index.md)
+    
