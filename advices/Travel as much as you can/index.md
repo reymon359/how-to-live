@@ -1,6 +1,6 @@
 ---
 name: 'Travel as much as you can'
-Categories: ['Open-mindedness', 'Leisure', 'Curiosity', 'Respect', 'Comfort zone', 'Travel', 'Adventures']
+Categories: ['Open-mindedness', 'Religion', 'Leisure', 'Curiosity', 'Respect', 'Comfort zone', 'Travel', 'Adventures']
 ---
 # Travel as much as you can
 
