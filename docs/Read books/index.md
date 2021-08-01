@@ -42,4 +42,4 @@ Thanks to my mom for encouraging and helping me to read when I was a child.
 - [Continuous learning](../Continuous%20learning/index.md)
 - [Try new things](../Try%20new%20things/index.md)
 - [Pay attention](../Pay%20attention/index.md)
-- [Put your phone down](../Put%20your%20phone%20down/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Knowledge](../Categories/Knowledge.md) [Remove Read](../Categories/Remove%20Read.md) [Attention](../Categories/Attention.md)
+- [Put your phone down](../Put%20your%20phone%20down/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Knowledge](../Categories/Knowledge.md) [Attention](../Categories/Attention.md)

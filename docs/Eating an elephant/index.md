@@ -28,4 +28,4 @@ Plan the steps and book time for them.
 - [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Remove Little by little](../Categories/Remove%20Little%20by%20little.md) [Time](../Categories/Time.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md) [Change](../Categories/Change.md)
+- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Practice](../Categories/Practice.md) [Time](../Categories/Time.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md) [Change](../Categories/Change.md)

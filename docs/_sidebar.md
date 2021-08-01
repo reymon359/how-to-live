@@ -428,14 +428,6 @@
         
      - [Religion](../Categories/Religion.md)
         
-     - [Remove Little by little](../Categories/Remove%20Little%20by%20little.md)
-        
-     - [Remove Modesty](../Categories/Remove%20Modesty.md)
-        
-     - [Remove Read](../Categories/Remove%20Read.md)
-        
-     - [Remove memory](../Categories/Remove%20memory.md)
-        
      - [Respect](../Categories/Respect.md)
         
      - [Responsibility](../Categories/Responsibility.md)
