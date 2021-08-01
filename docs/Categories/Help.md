@@ -9,7 +9,7 @@
     
  - [Do no harm](../Do%20no%20harm/index.md)
     
- - [Don't find solutions alone](../Don't%20find%20solutions%20alone/index.md)
+ - [Don't look for solutions alone](../Don't%20look%20for%20solutions%20alone/index.md)
     
  - [Empathic listening](../Empathic%20listening/index.md)
     

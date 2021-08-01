@@ -410,13 +410,13 @@ Each advice sections
     
  - [Don't feel guilty](Don't%20feel%20guilty/index.md)
     
- - [Don't find solutions alone](Don't%20find%20solutions%20alone/index.md)
-    
  - [Don't give more importance to things than they already have](Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
     
  - [Don't interrupt](Don't%20interrupt/index.md)
     
  - [Don't judge the whole by the part](Don't%20judge%20the%20whole%20by%20the%20part/index.md)
+    
+ - [Don't look for solutions alone](Don't%20look%20for%20solutions%20alone/index.md)
     
  - [Don't reinvent the wheel](Don't%20reinvent%20the%20wheel/index.md)
     

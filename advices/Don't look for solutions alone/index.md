@@ -1,4 +1,8 @@
-# Don't find solutions alone
+---
+name: "Don't look for solutions alone"
+Categories: ['Solutions', 'Relationships', 'Productivity', 'Networking', 'Knowledge', 'Community', 'Communication', 'Help']
+---
+# Don't look for solutions alone
 
 If you are looking for a solution, you will find it easier with the help of others.
 
@@ -23,4 +27,4 @@ You will solve any problem faster working as a team.
 - [Be grateful](../Be%20grateful/index.md)
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Ask questions](../Ask%20questions/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Productivity](../Categories/Productivity.md) [Networking](../Categories/Networking.md) [Knowledge](../Categories/Knowledge.md) [Community](../Categories/Community.md) [Communication](../Categories/Communication.md) [Help](../Categories/Help.md)
+- [Ask for help](../Ask%20for%20help/index.md)

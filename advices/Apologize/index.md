@@ -1,6 +1,6 @@
 ---
 name: 'Apologize'
-Categories: ['Respect', 'Fulfillment', 'Guilt', 'Mistakes', 'Empathy', 'Community', 'Communication', 'Happiness', 'Problems', 'Solutions', 'Integrity', 'Comfort zone']
+Categories: ['Respect', 'Relationships', 'Fulfillment', 'Guilt', 'Mistakes', 'Empathy', 'Community', 'Communication', 'Happiness', 'Problems', 'Solutions', 'Integrity', 'Comfort zone']
 ---
 # Apologize
 

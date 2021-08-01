@@ -13,7 +13,7 @@
     
  - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
     
- - [Don't find solutions alone](../Don't%20find%20solutions%20alone/index.md)
+ - [Don't look for solutions alone](../Don't%20look%20for%20solutions%20alone/index.md)
     
  - [Don't reinvent the wheel](../Don't%20reinvent%20the%20wheel/index.md)
     

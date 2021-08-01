@@ -1,6 +1,6 @@
 ---
 name: 'Actions speak louder than words'
-Categories: ['Integrity', 'Trust', 'Personality', 'Proactivity', 'Honesty', 'Choices']
+Categories: ['Integrity', 'Relationships', 'Trust', 'Personality', 'Proactivity', 'Honesty', 'Choices']
 ---
 # Actions speak louder than words
 

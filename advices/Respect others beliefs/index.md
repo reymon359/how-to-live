@@ -1,6 +1,6 @@
 ---
 name: 'Respect others beliefs'
-Categories: ['Respect', 'Religion', 'Integrity', 'Open-mindedness']
+Categories: ['Respect', 'Relationships', 'Religion', 'Integrity', 'Open-mindedness']
 ---
 # Respect others beliefs
 

@@ -1,6 +1,6 @@
 ---
 name: 'Be punctual'
-Categories: ['Respect', 'Planning', 'Integrity', 'Time', 'Honesty', 'Trust']
+Categories: ['Respect', 'Relationships', 'Planning', 'Integrity', 'Time', 'Honesty', 'Trust']
 ---
 # Be punctual
 

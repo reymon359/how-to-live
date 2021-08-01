@@ -9,9 +9,9 @@
     
  - [Don't bad-mouth](../Don't%20bad-mouth/index.md)
     
- - [Don't find solutions alone](../Don't%20find%20solutions%20alone/index.md)
-    
  - [Don't judge the whole by the part](../Don't%20judge%20the%20whole%20by%20the%20part/index.md)
+    
+ - [Don't look for solutions alone](../Don't%20look%20for%20solutions%20alone/index.md)
     
  - [Grow with others](../Grow%20with%20others/index.md)
     
