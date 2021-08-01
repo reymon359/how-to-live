@@ -1,6 +1,6 @@
 ---
 name: 'Keep track of your goals'
-Categories: ['Goals', 'Planning', 'Motivation', 'Future', 'Tracking', 'Motivation', 'Improvement', 'Feedback']
+Categories: ['Goals', 'Fulfillment', 'Planning', 'Motivation', 'Future', 'Tracking', 'Motivation', 'Improvement', 'Feedback']
 ---
 # Keep track of your goals
 

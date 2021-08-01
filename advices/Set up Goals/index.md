@@ -1,6 +1,6 @@
 ---
 name: 'Set up goals'
-Categories: ['Goals', 'Future', 'Proactivity', 'Commitment', 'Planning']
+Categories: ['Goals', 'Fulfillment', 'Future', 'Proactivity', 'Commitment', 'Planning']
 ---
 # Set up goals
 

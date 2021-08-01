@@ -1,6 +1,6 @@
 ---
 name: 'Do not accumulate useless things'
-Categories: ['Material things', 'Optimization', 'Minimalism', 'Happiness', 'Dependencies']
+Categories: ['Material things', 'Fulfillment', 'Optimization', 'Minimalism', 'Happiness', 'Dependencies']
 ---
 # Do not accumulate useless things
 

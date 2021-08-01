@@ -1,6 +1,6 @@
 ---
 name: 'Helping makes you happy'
-Categories: ['Help', 'Happiness', 'Community', 'Friendship']
+Categories: ['Help', 'Fulfillment', 'Happiness', 'Community', 'Friendship']
 ---
 # Helping makes you happy
 
