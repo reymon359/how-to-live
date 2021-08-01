@@ -28,4 +28,4 @@ To make sure you will practice, plan and book a time to do so.
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
 - [Set up reminders](../Set%20up%20reminders/index.md)
-- [Set up goals](../Set%20up%20goals/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Planning](../Categories/Planning.md) [Motivation](../Categories/Motivation.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improvement](../Categories/Improvement.md) [Growth](../Categories/Growth.md)
+- [Set up goals](../Set%20up%20goals/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Productivity](../Categories/Productivity.md) [Planning](../Categories/Planning.md) [Motivation](../Categories/Motivation.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improvement](../Categories/Improvement.md) [Growth](../Categories/Growth.md)

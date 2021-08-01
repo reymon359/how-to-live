@@ -39,4 +39,4 @@ It is also related to the software development principle KISS — Keep It Simple
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Remove dependencies](../Remove%20dependencies/index.md)
-- [Avoid overthinking](../Avoid%20overthinking/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Optimization](../Categories/Optimization.md) [Problems](../Categories/Problems.md) [Simplicity](../Categories/Simplicity.md) [Dependencies](../Categories/Dependencies.md) [Improvement](../Categories/Improvement.md) [Minimalism](../Categories/Minimalism.md)
+- [Avoid overthinking](../Avoid%20overthinking/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Solutions](../Categories/Solutions.md) [Productivity](../Categories/Productivity.md) [Optimization](../Categories/Optimization.md) [Problems](../Categories/Problems.md) [Simplicity](../Categories/Simplicity.md) [Dependencies](../Categories/Dependencies.md) [Improvement](../Categories/Improvement.md) [Minimalism](../Categories/Minimalism.md)

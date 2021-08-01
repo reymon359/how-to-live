@@ -40,3 +40,4 @@ Do not wait for motivation to do things. Take action, and the motivation will co
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
 - [Take action](../Take%20action/index.md)
+- [First, make it work](../First,%20make%20it%20work/index.md)
