@@ -1,6 +1,6 @@
 ---
 name: 'Go to the doctor'
-Categories: ['Health', 'Help', 'Mental health']
+Categories: ['Health', 'Help', 'Responsibility', 'Mental health']
 ---
 # Go to the doctor
 

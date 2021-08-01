@@ -1,6 +1,6 @@
 ---
 name: 'Finish what you start'
-Categories: ['Goals', 'Fulfillment', 'Focus', 'Proactivity', 'Procrastination', 'Success', 'Distractions', 'Planning']
+Categories: ['Goals', 'Responsibility', 'Fulfillment', 'Focus', 'Proactivity', 'Procrastination', 'Success', 'Distractions', 'Planning']
 ---
 # Finish what you start
 

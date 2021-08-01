@@ -1,6 +1,6 @@
 ---
 name: 'Fulfill your commitments'
-Categories: ['Respect', 'Fulfillment', 'Proactivity', 'Integrity', 'Truth', 'Trust', 'Honesty']
+Categories: ['Respect', 'Responsibility', 'Fulfillment', 'Proactivity', 'Integrity', 'Truth', 'Trust', 'Honesty']
 ---
 # Fulfill your commitments
 

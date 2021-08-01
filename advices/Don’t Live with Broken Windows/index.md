@@ -1,6 +1,6 @@
 ---
 name: "Don’t live with broken windows"
-Categories: ['Mistakes', 'Refactor', 'Problems', 'Solutions', 'Integrity', 'Software development']
+Categories: ['Mistakes', 'Responsibility', 'Refactor', 'Problems', 'Solutions', 'Integrity', 'Software development']
 ---
 # Don’t live with broken windows
 

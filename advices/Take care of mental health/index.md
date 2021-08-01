@@ -1,6 +1,6 @@
 ---
 name: 'Take care of mental health'
-Categories: ['Health', 'Motivation', 'Mental health', 'Empathy']
+Categories: ['Health', 'Responsibility', 'Motivation', 'Mental health', 'Empathy']
 ---
 # Take care of mental health
 
