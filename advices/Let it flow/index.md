@@ -1,6 +1,6 @@
 ---
 name: 'Let it flow'
-Categories: ['Respect', 'Freedom', 'Open-mindedness', 'Happiness', 'Planning', 'Mental health']
+Categories: ['Freedom', 'Open-mindedness', 'Happiness', 'Planning', 'Mental health']
 ---
 # Let it flow
 

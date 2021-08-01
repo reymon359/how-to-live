@@ -1,6 +1,6 @@
 ---
 name: "You shouldn't avoid communication"
-Categories: ['Communication', 'Relationships', 'Networking', 'Respect', 'Community', 'Comfort zone']
+Categories: ['Communication', 'Relationships', 'Networking', 'Community', 'Comfort zone']
 ---
 # You shouldn't avoid communication
 

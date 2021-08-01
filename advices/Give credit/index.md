@@ -1,6 +1,6 @@
 ---
 name: 'Give credit'
-Categories: ['Gratitude', 'Kindness', 'Truth', 'Trust', 'Honesty', 'Integrity']
+Categories: ['Gratitude', 'Respect', 'Truth', 'Trust', 'Honesty', 'Integrity']
 ---
 # Give credit
 

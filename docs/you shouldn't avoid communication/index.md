@@ -40,4 +40,4 @@ Stephen Covey’s book The 7 Habits of Highly Effective People discuss the commu
 - [Ask for help](../Ask%20for%20help/index.md)
 - [Emphatic listening](../Empathic%20listening/index.md)
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Relationships](../Categories/Relationships.md) [Networking](../Categories/Networking.md) [Respect](../Categories/Respect.md) [Community](../Categories/Community.md) [Comfort zone](../Categories/Comfort%20zone.md)
+- [Continuous learning](../Continuous%20learning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Relationships](../Categories/Relationships.md) [Networking](../Categories/Networking.md) [Community](../Categories/Community.md) [Comfort zone](../Categories/Comfort%20zone.md)
