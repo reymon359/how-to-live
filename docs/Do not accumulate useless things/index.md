@@ -25,4 +25,4 @@ Have a minimalist mentality.
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.m)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Regret](../Categories/Regret.md) [Optimization](../Categories/Optimization.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
+- [Buy just what you need](../Buy%20just%20what%20you%20need/index.m)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Fulfillment](../Categories/Fulfillment.md) [Optimization](../Categories/Optimization.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)

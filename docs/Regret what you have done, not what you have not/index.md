@@ -37,4 +37,4 @@ Little, by little, life teaches you about this with the choices you make.
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Regret](../Categories/Regret.md) [Proactivity](../Categories/Proactivity.md) [Guilt](../Categories/Guilt.md) [Adventures](../Categories/Adventures.md)
+- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Fulfillment](../Categories/Fulfillment.md) [Proactivity](../Categories/Proactivity.md) [Guilt](../Categories/Guilt.md) [Adventures](../Categories/Adventures.md)

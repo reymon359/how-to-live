@@ -35,4 +35,4 @@ The chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your 
 - [Don't worry](../Don't%20worry/index.md)
 - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
 - [Learn to forgive](../Learn%20to%20forgive/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Mental health](../Categories/Mental%20health.md) [Mistakes](../Categories/Mistakes.md) [Justice](../Categories/Justice.md) [Guilt](../Categories/Guilt.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md) [Regret](../Categories/Regret.md)
+- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Mental health](../Categories/Mental%20health.md) [Mistakes](../Categories/Mistakes.md) [Justice](../Categories/Justice.md) [Guilt](../Categories/Guilt.md) [Problems](../Categories/Problems.md) [Solutions](../Categories/Solutions.md)

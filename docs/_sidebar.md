@@ -346,6 +346,8 @@
         
      - [Friendship](../Categories/Friendship.md)
         
+     - [Fulfillment](../Categories/Fulfillment.md)
+        
      - [Future](../Categories/Future.md)
         
      - [Goals](../Categories/Goals.md)
@@ -419,8 +421,6 @@
      - [Productivity](../Categories/Productivity.md)
         
      - [Refactor](../Categories/Refactor.md)
-        
-     - [Regret](../Categories/Regret.md)
         
      - [Relationships](../Categories/Relationships.md)
         
