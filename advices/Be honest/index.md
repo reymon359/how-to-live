@@ -1,6 +1,6 @@
 ---
 name: 'Be honest'
-Categories: ['Respect', 'Networking', 'Personality', 'Communication', 'Trust', 'Integrity', 'Relationships', 'Honesty']
+Categories: ['Respect', 'Kindness', 'Networking', 'Personality', 'Communication', 'Trust', 'Integrity', 'Relationships', 'Honesty']
 ---
 # Be honest
 

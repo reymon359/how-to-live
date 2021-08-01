@@ -1,6 +1,6 @@
 ---
 name: 'Empathic listening'
-Categories: ['Communication', 'Relationships', 'Networking', 'Mindfulness', 'Help', 'Empathy', 'Listening', 'Open-mindedness']
+Categories: ['Communication', 'Kindness', 'Relationships', 'Networking', 'Mindfulness', 'Help', 'Empathy', 'Listening', 'Open-mindedness']
 ---
 # Empathic listening
 

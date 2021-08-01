@@ -1,6 +1,6 @@
 ---
 name: 'Respect yourself'
-Categories: ['Respect', 'Personality', 'Health', 'Mental health', 'Integrity', 'Happiness']
+Categories: ['Respect', 'Kindness', 'Personality', 'Health', 'Mental health', 'Integrity', 'Happiness']
 ---
 # Respect yourself
 

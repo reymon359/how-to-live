@@ -1,6 +1,6 @@
 ---
 name: 'Respect others opinion'
-Categories: ['Respect', 'Relationships', 'Integrity', 'Open-mindedness', 'Listening', 'Empathy']
+Categories: ['Respect', 'Kindness', 'Relationships', 'Integrity', 'Open-mindedness', 'Listening', 'Empathy']
 ---
 # Respect others opinion
 

@@ -372,6 +372,8 @@
         
      - [Justice](../Categories/Justice.md)
         
+     - [Kindness](../Categories/Kindness.md)
+        
      - [Knowledge](../Categories/Knowledge.md)
         
      - [Leisure](../Categories/Leisure.md)
@@ -425,10 +427,6 @@
      - [Relationships](../Categories/Relationships.md)
         
      - [Religion](../Categories/Religion.md)
-        
-     - [Reminders](../Categories/Reminders.md)
-        
-     - [Remove Kindness](../Categories/Remove%20Kindness.md)
         
      - [Remove Little by little](../Categories/Remove%20Little%20by%20little.md)
         

@@ -1,6 +1,6 @@
 ---
 name: 'Say thank you'
-Categories: ['Gratitude', 'Community', 'Happiness']
+Categories: ['Gratitude', 'Kindness', 'Community', 'Happiness']
 ---
 # Say thank you
 
