@@ -1,6 +1,6 @@
 ---
 name: 'Optimize your stuff'
-Categories: ['Material things', 'Optimization', 'Dependencies', 'Improvement', 'Refactor', 'Minimalism', 'Balance']
+Categories: ['Material things', 'Productivity', 'Optimization', 'Dependencies', 'Improvement', 'Refactor', 'Minimalism', 'Balance']
 ---
 # Optimize your stuff
 

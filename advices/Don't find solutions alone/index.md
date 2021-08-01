@@ -1,6 +1,6 @@
 ---
 name: "Don't find solutions alone"
-Categories: ['Solutions', 'Networking', 'Knowledge', 'Community', 'Communication', 'Help']
+Categories: ['Solutions', 'Productivity', 'Networking', 'Knowledge', 'Community', 'Communication', 'Help']
 ---
 # Don't find solutions alone
 
