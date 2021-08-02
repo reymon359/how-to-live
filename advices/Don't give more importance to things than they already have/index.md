@@ -1,6 +1,6 @@
 ---
 name: "Don't give more importance to things than they already have"
-Categories: ['Problems', 'Mistakes', 'Solutions', 'Mental health', 'Focus']
+Categories: ['Problems', 'Mistakes', 'Simplicity', 'Solutions', 'Mental health', 'Focus']
 ---
 # Don't give more importance to things than they already have
 

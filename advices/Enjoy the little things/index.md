@@ -1,6 +1,6 @@
 ---
 name: 'Enjoy the little things'
-Categories: ['Happiness', 'Minimalism', 'Gratitude']
+Categories: ['Happiness', 'Simplicity', 'Minimalism', 'Gratitude']
 ---
 # Enjoy the little things
 

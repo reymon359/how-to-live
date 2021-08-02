@@ -1,6 +1,6 @@
 ---
 name: 'Embrace minimalism'
-Categories: ['Material things', 'Focus', 'Minimalism', 'Happiness', 'Dependencies']
+Categories: ['Material things', 'Focus', 'Simplicity', 'Minimalism', 'Happiness', 'Dependencies']
 ---
 # Embrace minimalism
 

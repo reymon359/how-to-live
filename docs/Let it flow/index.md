@@ -32,4 +32,4 @@ When I was living in Morocco, the people there taught me a word called _Insha'Al
 - [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Be grateful](../Be%20grateful/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Freedom](../Categories/Freedom.md) [Open-mindedness](../Categories/Open-mindedness.md) [Happiness](../Categories/Happiness.md) [Planning](../Categories/Planning.md) [Mental health](../Categories/Mental%20health.md)
+- [Learn to adapt](../Learn%20to%20adapt/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Freedom](../Categories/Freedom.md) [Simplicity](../Categories/Simplicity.md) [Open-mindedness](../Categories/Open-mindedness.md) [Happiness](../Categories/Happiness.md) [Planning](../Categories/Planning.md) [Mental health](../Categories/Mental%20health.md)

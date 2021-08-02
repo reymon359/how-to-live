@@ -1,6 +1,6 @@
 ---
 name: 'Money is a means, not an end'
-Categories: ['Material things', 'Money', 'Goals', 'Happiness']
+Categories: ['Material things', 'Simplicity', 'Money', 'Goals', 'Happiness']
 ---
 # Money is a means, not an end
 

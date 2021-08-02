@@ -1,6 +1,6 @@
 ---
 name: "DRY Don't repeat yourself"
-Categories: ['Material things', 'Software development', 'Productivity', 'Optimization']
+Categories: ['Material things', 'Simplicity', 'Software development', 'Productivity', 'Optimization']
 ---
 # DRY Don't repeat yourself
 

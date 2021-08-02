@@ -35,4 +35,4 @@ I liked [this article](https://lifeincharge.com/money-is-a-means-not-an-end) abo
 ## Related advices
 
 - [Don't be emotionally attached to money and material things](../Don't%20be%20emotionally%20attached%20to%20money%20and%20material%20things/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Money](../Categories/Money.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md)
+- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Simplicity](../Categories/Simplicity.md) [Money](../Categories/Money.md) [Goals](../Categories/Goals.md) [Happiness](../Categories/Happiness.md)
