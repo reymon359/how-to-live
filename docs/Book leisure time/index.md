@@ -33,4 +33,4 @@ Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effect
 - [Let it flow](../Let%20it%20flow/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Distractions](../Categories/Distractions.md) [Time management](../Categories/Time%20management.md) [Planning](../Categories/Planning.md) [Leisure](../Categories/Leisure.md) [Happiness](../Categories/Happiness.md) [Stress](../Categories/Stress.md) [Health](../Categories/Health.md)
+- [Enjoy the moment](../Enjoy%20the%20moment/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Time](../Categories/Time.md) [Adventures](../Categories/Adventures.md) [Distractions](../Categories/Distractions.md) [Time management](../Categories/Time%20management.md) [Planning](../Categories/Planning.md) [Leisure](../Categories/Leisure.md) [Happiness](../Categories/Happiness.md) [Stress](../Categories/Stress.md) [Health](../Categories/Health.md)
