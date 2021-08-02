@@ -1,6 +1,6 @@
 # Continuous learning
 
-Never stop learning. Never. 
+Never stop learning. Never.
 
 Have an open mind and don't be afraid to learn things that are very different from what you are used to.
 
@@ -46,4 +46,4 @@ Try to learn something new every day. With the internet, you have access to all 
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
 - [Take Notes](../Take%20notes/index.md)
 - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Knowledge](../Categories/Knowledge.md) [Motivation](../Categories/Motivation.md) [Future](../Categories/Future.md) [Curiosity](../Categories/Curiosity.md) [Growth](../Categories/Growth.md) [Goals](../Categories/Goals.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improvement](../Categories/Improvement.md) [Knowledge](../Categories/Knowledge.md)
+- [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Knowledge](../Categories/Knowledge.md) [Asking](../Categories/Asking.md) [Motivation](../Categories/Motivation.md) [Future](../Categories/Future.md) [Curiosity](../Categories/Curiosity.md) [Growth](../Categories/Growth.md) [Goals](../Categories/Goals.md) [Practice](../Categories/Practice.md) [Success](../Categories/Success.md) [Improvement](../Categories/Improvement.md) [Knowledge](../Categories/Knowledge.md)

@@ -31,4 +31,4 @@ Be grateful with the negative feedback. Don't be afraid of it. Embrace it becaus
 - [Empathic listening](../Empathic%20listening/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Ask questions](../Ask%20questions/index.md)
-- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Networking](../Categories/Networking.md) [Listening](../Categories/Listening.md) [Help](../Categories/Help.md) [Knowledge](../Categories/Knowledge.md) [Solutions](../Categories/Solutions.md) [Feedback](../Categories/Feedback.md) [Success](../Categories/Success.md) [Communication](../Categories/Communication.md)
+- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Asking](../Categories/Asking.md) [Networking](../Categories/Networking.md) [Listening](../Categories/Listening.md) [Help](../Categories/Help.md) [Knowledge](../Categories/Knowledge.md) [Solutions](../Categories/Solutions.md) [Feedback](../Categories/Feedback.md) [Success](../Categories/Success.md) [Communication](../Categories/Communication.md)

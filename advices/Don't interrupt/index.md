@@ -1,6 +1,6 @@
 ---
 name: "Don't interrupt"
-Categories: ['Communication', 'Focus', 'Distractions', 'Listening', 'Respect']
+Categories: ['Communication', 'Asking', 'Focus', 'Distractions', 'Listening', 'Respect']
 ---
 # Don't interrupt
 

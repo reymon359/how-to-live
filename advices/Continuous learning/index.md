@@ -1,10 +1,10 @@
 ---
 name: 'Continuous learning'
-Categories: ['Knowledge', 'Motivation', 'Future', 'Curiosity', 'Growth', 'Goals', 'Practice', 'Success', 'Improvement', 'Knowledge']
+Categories: ['Knowledge', 'Asking', 'Motivation', 'Future', 'Curiosity', 'Growth', 'Goals', 'Practice', 'Success', 'Improvement', 'Knowledge']
 ---
 # Continuous learning
 
-Never stop learning. Never. 
+Never stop learning. Never.
 
 Have an open mind and don't be afraid to learn things that are very different from what you are used to.
 
