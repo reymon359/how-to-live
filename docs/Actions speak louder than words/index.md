@@ -6,7 +6,6 @@ Your actions reveal more about the way you are than your words.
 
 Be conscious about this when you are doing things. The way you act and how you behave will reveal your true self.
 
-
 ## Quotes
 
 > Words are from the lips, actions are from the heart ― Rashida Costa

@@ -1,6 +1,6 @@
 ---
 name: 'Discover new music'
-Categories: ['Curiosity', 'Listening', 'Knowledge', 'Music', 'Open-mindedness']
+Categories: ['Curiosity', 'Change', 'Listening', 'Knowledge', 'Music', 'Open-mindedness']
 ---
 # Discover new music
 
