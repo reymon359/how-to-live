@@ -1,6 +1,6 @@
 ---
 name: 'Take action'
-Categories: ['Success', 'Proactivity', 'Productivity', 'Solutions']
+Categories: ['Success', 'Decisions', 'Proactivity', 'Productivity', 'Solutions']
 ---
 # Take action
 

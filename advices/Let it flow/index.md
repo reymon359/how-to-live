@@ -1,6 +1,6 @@
 ---
 name: 'Let it flow'
-Categories: ['Freedom', 'Change', 'Adventures', 'Simplicity', 'Open-mindedness', 'Happiness', 'Planning', 'Mental health']
+Categories: ['Freedom', 'Decisions', 'Change', 'Adventures', 'Simplicity', 'Open-mindedness', 'Happiness', 'Planning', 'Mental health']
 ---
 # Let it flow
 

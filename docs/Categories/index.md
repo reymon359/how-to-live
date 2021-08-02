@@ -11,8 +11,6 @@
     
  - [Change](../Categories/Change.md)
     
- - [Choices](../Categories/Choices.md)
-    
  - [Comfort zone](../Categories/Comfort%20zone.md)
     
  - [Commitment](../Categories/Commitment.md)
@@ -22,6 +20,8 @@
  - [Community](../Categories/Community.md)
     
  - [Curiosity](../Categories/Curiosity.md)
+    
+ - [Decisions](../Categories/Decisions.md)
     
  - [Dependencies](../Categories/Dependencies.md)
     

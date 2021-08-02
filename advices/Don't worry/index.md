@@ -1,6 +1,6 @@
 ---
 name: "Don't worry"
-Categories: ['Mental health', 'Future', 'Problems', 'Solutions', 'Happiness']
+Categories: ['Mental health', 'Decisions', 'Future', 'Problems', 'Solutions', 'Happiness']
 ---
 # Don't worry
 

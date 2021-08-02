@@ -1,6 +1,6 @@
 ---
 name: "You don't need their approval"
-Categories: ['Growth', 'Personality', 'Freedom', 'Integrity', 'Community', 'Happiness']
+Categories: ['Growth', 'Decisions', 'Personality', 'Freedom', 'Integrity', 'Community', 'Happiness']
 ---
 # You don't need their approval
 
