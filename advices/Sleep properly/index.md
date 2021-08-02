@@ -1,6 +1,6 @@
 ---
 name: 'Sleep properly'
-Categories: ['Health', 'Sleep', 'Mental health']
+Categories: ['Health', 'Mental health']
 ---
 # Sleep properly
 
