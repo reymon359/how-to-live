@@ -1,6 +1,6 @@
 ---
 name: 'Begin with the end in mind'
-Categories: ['Goals', 'Decisions', 'Fulfillment', 'Planning', 'Refactor', 'Future']
+Categories: ['Goals', 'Comfort zone', 'Decisions', 'Fulfillment', 'Planning', 'Refactor', 'Future']
 ---
 # Begin with the end in mind
 

@@ -36,4 +36,4 @@ All advice about avoiding or not doing something is related to this one.
 - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
 - [Don't feel guilty](../Don't%20feel%20guilty/index.md)
 - [Don't interrupt](../Don't%20interrupt/index.md)
-- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Change](../Categories/Change.md) [Mistakes](../Categories/Mistakes.md) [Solutions](../Categories/Solutions.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Problems](../Categories/Problems.md) [Comfort zone](../Categories/Comfort%20zone.md) [Change](../Categories/Change.md) [Mistakes](../Categories/Mistakes.md) [Solutions](../Categories/Solutions.md) [Open-mindedness](../Categories/Open-mindedness.md)

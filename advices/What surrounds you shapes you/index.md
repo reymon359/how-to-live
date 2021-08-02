@@ -1,6 +1,6 @@
 ---
 name: 'What surrounds you shapes you'
-Categories: ['Travel', 'Relationships', 'Networking', 'Communication', 'Growth', 'Success']
+Categories: ['Travel', 'Comfort zone', 'Relationships', 'Networking', 'Communication', 'Growth', 'Success']
 ---
 # What surrounds you shapes you
 
