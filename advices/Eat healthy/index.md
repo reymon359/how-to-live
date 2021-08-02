@@ -1,6 +1,6 @@
 ---
 name: 'Eat healthy'
-Categories: ['Health', 'Nutrition']
+Categories: ['Health', 'Balance', 'Nutrition']
 ---
 # Eat healthy
 
