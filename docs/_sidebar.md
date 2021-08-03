@@ -434,10 +434,6 @@
         
      - [Simplicity](../Categories/Simplicity.md)
         
-     - [Software](../Categories/Software.md)
-        
-     - [Software Development](../Categories/Software%20Development.md)
-        
      - [Software development](../Categories/Software%20development.md)
         
      - [Solitude](../Categories/Solitude.md)
