@@ -450,6 +450,4 @@
         
      - [Unknown](../Categories/Unknown.md)
         
-     - [Willpower](../Categories/Willpower.md)
-        
     
