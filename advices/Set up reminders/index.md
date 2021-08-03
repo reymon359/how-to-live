@@ -1,6 +1,6 @@
 ---
 name: 'Set up reminders'
-Categories: ['Motivation', 'Commitment', 'Productivity', 'Goals', 'Planning', 'Future']
+Categories: ['Motivation', 'Time management', 'Commitment', 'Productivity', 'Goals', 'Planning', 'Future']
 ---
 # Set up reminders
 
