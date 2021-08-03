@@ -141,8 +141,6 @@
     
  - [Trust](../Categories/Trust.md)
     
- - [Truth](../Categories/Truth.md)
-    
  - [Unknown](../Categories/Unknown.md)
     
  - [Willpower](../Categories/Willpower.md)

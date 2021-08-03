@@ -1,6 +1,6 @@
 ---
 name: 'Give second chances'
-Categories: ['Respect', 'Kindness', 'Guilt', 'Empathy', 'Open-mindedness', 'Balance']
+Categories: ['Respect', 'Trust', 'Kindness', 'Guilt', 'Empathy', 'Open-mindedness', 'Balance']
 ---
 # Give second chances
  
