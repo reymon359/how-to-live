@@ -440,8 +440,6 @@
         
      - [Success](../Categories/Success.md)
         
-     - [Technology](../Categories/Technology.md)
-        
      - [Time](../Categories/Time.md)
         
      - [Time management](../Categories/Time%20management.md)

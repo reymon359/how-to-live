@@ -1,6 +1,6 @@
 ---
 name: 'Learn to adapt'
-Categories: ['Growth', 'Success', 'Comfort zone', 'Change', 'Proactivity', 'Unknown', 'Technology', 'Freedom', 'Solutions']
+Categories: ['Growth', 'Success', 'Comfort zone', 'Change', 'Proactivity', 'Unknown', 'Freedom', 'Solutions']
 ---
 # Learn to adapt
 
