@@ -1,6 +1,6 @@
 ---
 name: 'Book leisure time'
-Categories: ['Time', 'Adventures', 'Balance', 'Distractions', 'Time management', 'Planning', 'Leisure', 'Happiness', 'Stress', 'Health']
+Categories: ['Time', 'Adventures', 'Balance', 'Mental health', 'Distractions', 'Time management', 'Planning', 'Leisure', 'Happiness', 'Health']
 ---
 # Book leisure time
 
