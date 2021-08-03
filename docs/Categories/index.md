@@ -127,8 +127,6 @@
     
  - [Simplicity](../Categories/Simplicity.md)
     
- - [Social](../Categories/Social.md)
-    
  - [Social Media](../Categories/Social%20Media.md)
     
  - [Social media](../Categories/Social%20media.md)

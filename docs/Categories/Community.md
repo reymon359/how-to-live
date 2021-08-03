@@ -31,6 +31,8 @@
     
  - [Say thank you](../Say%20thank%20you/index.md)
     
+ - [Set up social goals](../Set%20up%20social%20goals/index.md)
+    
  - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
     
  - [Stick to people that give you good advice](../Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)
