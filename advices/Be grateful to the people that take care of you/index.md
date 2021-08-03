@@ -1,6 +1,6 @@
 ---
 name: 'Be grateful to the people that take care of you'
-Categories: ['Gratitude', 'Respect', 'Relationships', 'Family', 'Friendship']
+Categories: ['Gratitude', 'Community', 'Respect', 'Relationships', 'Family', 'Friendship']
 ---
 # Be grateful to the people that take care of you
 

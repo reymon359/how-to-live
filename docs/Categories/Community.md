@@ -5,7 +5,13 @@
     
  - [Ask for help](../Ask%20for%20help/index.md)
     
+ - [Be grateful to the people that take care of you](../Be%20grateful%20to%20the%20people%20that%20take%20care%20of%20you/index.md)
+    
  - [Be kind](../Be%20kind/index.md)
+    
+ - [Connect with others](../Connect%20with%20others/index.md)
+    
+ - [Do networking](../Do%20networking/index.md)
     
  - [Don't bad-mouth](../Don't%20bad-mouth/index.md)
     
@@ -30,6 +36,8 @@
  - [Stick to people that give you good advice](../Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)
     
  - [Trust others](../Trust%20others/index.md)
+    
+ - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     
  - [When in doubt, follow standards](../When%20in%20doubt,%20follow%20standards/index.md)
     

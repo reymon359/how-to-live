@@ -25,4 +25,4 @@ Enjoy the moments with them.
 ## Related advices
 
 - [Be grateful](../Be%20grateful/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Respect](../Categories/Respect.md) [Relationships](../Categories/Relationships.md) [Family](../Categories/Family.md) [Friendship](../Categories/Friendship.md)
+- [Enjoy the moment](../Enjoy%20the%20moment/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Community](../Categories/Community.md) [Respect](../Categories/Respect.md) [Relationships](../Categories/Relationships.md) [Family](../Categories/Family.md) [Friendship](../Categories/Friendship.md)
