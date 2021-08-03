@@ -23,8 +23,6 @@
     
  - [Discover new music](../Discover%20new%20music/index.md)
     
- - [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
-    
  - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
     
  - [Do what you want](../Do%20what%20you%20want/index.md)
@@ -37,13 +35,9 @@
     
  - [Embrace growing](../Embrace%20growing/index.md)
     
- - [Fail with success](../Fail%20with%20success/index.md)
-    
  - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
     
  - [Learn to adapt](../Learn%20to%20adapt/index.md)
-    
- - [Let it flow](../Let%20it%20flow/index.md)
     
  - [Open your mind](../Open%20your%20mind/index.md)
     
@@ -67,15 +61,11 @@
     
  - [The rule of holes](../The%20rule%20of%20holes/index.md)
     
- - [The world is not fair](../The%20world%20is%20not%20fair/index.md)
-    
  - [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
     
  - [Try new things](../Try%20new%20things/index.md)
     
  - [We all make mistakes](../We%20all%20make%20mistakes/index.md)
-    
- - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
     
  - [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
     

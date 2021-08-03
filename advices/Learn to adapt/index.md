@@ -1,5 +1,5 @@
 ---
-name:  'Learn to adapt'
+name: 'Learn to adapt'
 Categories: ['Growth', 'Comfort zone', 'Change', 'Proactivity', 'Unknown', 'Technology', 'Freedom', 'Solutions']
 ---
 # Learn to adapt
