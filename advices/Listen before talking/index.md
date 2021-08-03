@@ -1,6 +1,6 @@
 ---
 name: 'Listen before talking'
-Categories: ['Communication', 'Kindness', 'Community', 'Respect', 'Listening', 'Asking']
+Categories: ['Communication', 'Success', 'Kindness', 'Community', 'Respect', 'Listening', 'Asking']
 ---
 # Listen before talking
 

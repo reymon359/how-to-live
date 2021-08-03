@@ -27,4 +27,4 @@ The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Hi
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
 - [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
 - [Set up reminders](../Set%20up%20reminders/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Decisions](../Categories/Decisions.md) [Fulfillment](../Categories/Fulfillment.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md)
+- [Book leisure time](../Book%20leisure%20time/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Planning](../Categories/Planning.md) [Decisions](../Categories/Decisions.md) [Success](../Categories/Success.md) [Fulfillment](../Categories/Fulfillment.md) [Time](../Categories/Time.md) [Productivity](../Categories/Productivity.md) [Goals](../Categories/Goals.md) [Future](../Categories/Future.md)

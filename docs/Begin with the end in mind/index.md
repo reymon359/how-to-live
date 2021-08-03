@@ -23,4 +23,4 @@ The chapter with the same name from Stephen R. Covey's book The 7 Habits of High
 ## Related advices
 
 - [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [What you want, is constantly changing](../What%20you%20want,%20is%20constantly%20changing/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md) [Decisions](../Categories/Decisions.md) [Fulfillment](../Categories/Fulfillment.md) [Planning](../Categories/Planning.md) [Refactor](../Categories/Refactor.md) [Future](../Categories/Future.md)
+- [What you want, is constantly changing](../What%20you%20want,%20is%20constantly%20changing/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Comfort zone](../Categories/Comfort%20zone.md) [Success](../Categories/Success.md) [Decisions](../Categories/Decisions.md) [Fulfillment](../Categories/Fulfillment.md) [Planning](../Categories/Planning.md) [Refactor](../Categories/Refactor.md) [Future](../Categories/Future.md)

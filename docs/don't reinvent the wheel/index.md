@@ -17,4 +17,4 @@ You will save an enormous quantity of time and effort.
 ## Related advices
 
 - [Avoid overthinking](../Avoid%20overthinking/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Commitment](../Categories/Commitment.md) [Decisions](../Categories/Decisions.md) [Optimization](../Categories/Optimization.md) [Knowledge](../Categories/Knowledge.md) [Unknown](../Categories/Unknown.md) [Time](../Categories/Time.md) [Solutions](../Categories/Solutions.md) [Goals](../Categories/Goals.md)
+- [Research to understand better](../Research%20to%20understand%20better/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Commitment](../Categories/Commitment.md) [Decisions](../Categories/Decisions.md) [Optimization](../Categories/Optimization.md) [Knowledge](../Categories/Knowledge.md) [Unknown](../Categories/Unknown.md) [Time](../Categories/Time.md) [Solutions](../Categories/Solutions.md) [Goals](../Categories/Goals.md)

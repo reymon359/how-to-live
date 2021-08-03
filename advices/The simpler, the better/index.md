@@ -1,6 +1,6 @@
 ---
 name: 'The simpler, the better'
-Categories: ['Solutions', 'Decisions', 'Software development', 'Productivity', 'Optimization', 'Problems', 'Simplicity', 'Dependencies', 'Improvement', 'Minimalism']
+Categories: ['Solutions', 'Success', 'Decisions', 'Software development', 'Productivity', 'Optimization', 'Problems', 'Simplicity', 'Dependencies', 'Improvement', 'Minimalism']
 ---
 # The simpler, the better
 

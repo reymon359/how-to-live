@@ -1,6 +1,6 @@
 ---
 name: 'Do what brings you joy'
-Categories: ['Happiness', 'Adventures', 'Personality', 'Motivation', 'Leisure', 'Decisions', 'Comfort zone', 'Goals']
+Categories: ['Happiness', 'Success', 'Adventures', 'Personality', 'Motivation', 'Leisure', 'Decisions', 'Comfort zone', 'Goals']
 ---
 # Do what brings you joy
 

@@ -1,6 +1,6 @@
 ---
 name: 'Stick to people that give you good advice'
-Categories: ['Communication', 'Relationships', 'Mental health', 'Community', 'Friendship']
+Categories: ['Communication', 'Success', 'Relationships', 'Mental health', 'Community', 'Friendship']
 ---
 # Stick to people that give you good advice
 

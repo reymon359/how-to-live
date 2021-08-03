@@ -1,6 +1,6 @@
 ---
 name: 'Be independent'
-Categories: ['Growth', 'Responsibility', 'Proactivity', 'Happiness', 'Personality', 'Open-mindedness', 'Freedom', 'Dependencies', 'Comfort zone']
+Categories: ['Growth', 'Success', 'Responsibility', 'Proactivity', 'Happiness', 'Personality', 'Open-mindedness', 'Freedom', 'Dependencies', 'Comfort zone']
 ---
 # Be independent
 
