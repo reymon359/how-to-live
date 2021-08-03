@@ -1,6 +1,6 @@
 ---
 name: 'Avoid complaining'
-Categories: ['Happiness', 'Comfort zone', 'Mistakes', 'Proactivity', 'Guilt', 'Justice', 'Solutions', 'Mental health', 'Integrity']
+Categories: ['Happiness', 'Comfort zone', 'Communication', 'Mistakes', 'Proactivity', 'Guilt', 'Justice', 'Solutions', 'Mental health', 'Integrity']
 ---
 # Avoid complaining
 

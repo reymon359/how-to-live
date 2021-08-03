@@ -1,6 +1,6 @@
 ---
 name: 'Spend time with people you love and love you'
-Categories: ['Happiness', 'Leisure', 'Communication', 'Friendship', 'Relationships', 'Family']
+Categories: ['Happiness', 'Leisure', 'Community', 'Friendship', 'Relationships', 'Family']
 ---
 # Spend time with people you love and love you
 

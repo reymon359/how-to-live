@@ -1,6 +1,6 @@
 ---
 name: 'Take responsibility'
-Categories: ['Communication', 'Decisions', 'Mistakes', 'Respect', 'Responsibility', 'Commitment', 'Dependencies', 'Integrity']
+Categories: ['Decisions', 'Mistakes', 'Respect', 'Responsibility', 'Commitment', 'Dependencies', 'Integrity']
 ---
 # Take responsibility
 

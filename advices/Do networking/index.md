@@ -4,7 +4,7 @@ Categories: ['Communication', 'Proactivity', 'Networking', 'Leisure', 'Improveme
 ---
 # Do networking
 
-Seek to connect with people who can - in the future - help you grow professionally.
+Seek to connect with people who can - in the future - help you grow.
 
 You don't have to force yourself to do it. Just communicate and connect with other people, you will find new opportunities if you pay attention.
 
