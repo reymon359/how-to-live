@@ -1,6 +1,6 @@
 ---
 name: "Don't bad-mouth"
-Categories: ['Respect', 'Kindness', 'Community', 'Integrity', 'Friendship', 'Problems', 'Honesty', 'Truth', 'Trust', 'Relationships']
+Categories: ['Respect', 'Kindness', 'Community', 'Integrity', 'Friendship', 'Problems', 'Honesty', 'Trust', 'Relationships']
 ---
 # Don't bad-mouth
 

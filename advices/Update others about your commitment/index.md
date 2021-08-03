@@ -1,6 +1,6 @@
 ---
 name: 'Update others about your commitment'
-Categories: ['Relationships', 'Responsibility', 'Networking', 'Future', 'Communication', 'Commitment', 'Integrity', 'Truth', 'Trust', 'Honesty']
+Categories: ['Relationships', 'Responsibility', 'Networking', 'Future', 'Communication', 'Commitment', 'Integrity', 'Trust', 'Honesty']
 ---
 # Update others about your commitment
 
