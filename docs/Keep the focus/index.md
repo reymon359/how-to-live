@@ -18,4 +18,4 @@ If you feel distracted or unfocused, ask yourself what you should be doing right
 - [Avoid procrastination](../Avoid%20procrastinating/index.md)
 - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
 - [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Distractions](../Categories/Distractions.md) [Solutions](../Categories/Solutions.md) [Goals](../Categories/Goals.md) [Procrastination](../Categories/Procrastination.md)
+- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Focus](../Categories/Focus.md) [Attention](../Categories/Attention.md) [Mindfulness](../Categories/Mindfulness.md) [Distractions](../Categories/Distractions.md) [Goals](../Categories/Goals.md) [Procrastination](../Categories/Procrastination.md)
