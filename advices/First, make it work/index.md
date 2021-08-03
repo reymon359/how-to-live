@@ -1,6 +1,6 @@
 ---
 name: 'First, make it work'
-Categories: ['Productivity', 'Goals', 'Software', 'Refactor']
+Categories: ['Productivity', 'Commitment', 'Goals', 'Software', 'Refactor']
 ---
 # First, make it work
 

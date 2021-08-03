@@ -36,4 +36,4 @@ Do not wait for motivation to do things. Take action, and the motivation will co
 - [Eating an elephant](../Eating%20an%20elephant/index.md)
 - [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
 - [Take action](../Take%20action/index.md)
-- [First, make it work](../First,%20make%20it%20work/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Change](../Categories/Change.md) [Procrastination](../Categories/Procrastination.md) [Comfort zone](../Categories/Comfort%20zone.md) [Proactivity](../Categories/Proactivity.md) [Motivation](../Categories/Motivation.md)
+- [First, make it work](../First,%20make%20it%20work/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Commitment](../Categories/Commitment.md) [Change](../Categories/Change.md) [Procrastination](../Categories/Procrastination.md) [Comfort zone](../Categories/Comfort%20zone.md) [Proactivity](../Categories/Proactivity.md) [Motivation](../Categories/Motivation.md)

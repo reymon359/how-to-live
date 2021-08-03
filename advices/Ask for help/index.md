@@ -1,6 +1,6 @@
 ---
 name: 'Ask for help'
-Categories: ['Communication', 'Mental health', 'Help', 'Community', 'Problems', 'Solutions', 'Honesty', 'Integrity', 'Asking', 'Comfort zone']
+Categories: ['Communication', 'Commitment', 'Mental health', 'Help', 'Community', 'Problems', 'Solutions', 'Honesty', 'Integrity', 'Asking', 'Comfort zone']
 ---
 # Ask for help
 

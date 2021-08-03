@@ -17,4 +17,4 @@ I had a nice deep talk about this with Javier Deblas at Sun&Co, Javea.
 ## Related advices
 
 - [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-- [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Comfort zone](../Categories/Comfort%20zone.md) [Fulfillment](../Categories/Fulfillment.md) [Mistakes](../Categories/Mistakes.md) [Future](../Categories/Future.md) [Problems](../Categories/Problems.md) [Commitment](../Categories/Commitment.md) [Decisions](../Categories/Decisions.md) [Dependencies](../Categories/Dependencies.md)
+- [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Growth](../Categories/Growth.md) [Comfort zone](../Categories/Comfort%20zone.md) [Fulfillment](../Categories/Fulfillment.md) [Mistakes](../Categories/Mistakes.md) [Future](../Categories/Future.md) [Problems](../Categories/Problems.md) [Decisions](../Categories/Decisions.md) [Dependencies](../Categories/Dependencies.md)
