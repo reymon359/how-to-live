@@ -24,4 +24,4 @@ We had a great discussion with my Master's Degree teacher Luis Fernandez Muñoz 
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Standards](../Categories/Standards.md) [Community](../Categories/Community.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Community](../Categories/Community.md) [Open-mindedness](../Categories/Open-mindedness.md) [Software development](../Categories/Software%20development.md)

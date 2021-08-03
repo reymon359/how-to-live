@@ -15,3 +15,5 @@
     
  - [The simpler, the better](../The%20simpler,%20the%20better/index.md)
     
+ - [When in doubt, follow standards](../When%20in%20doubt,%20follow%20standards/index.md)
+    

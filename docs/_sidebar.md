@@ -438,8 +438,6 @@
         
      - [Solutions](../Categories/Solutions.md)
         
-     - [Standards](../Categories/Standards.md)
-        
      - [Stress](../Categories/Stress.md)
         
      - [Success](../Categories/Success.md)

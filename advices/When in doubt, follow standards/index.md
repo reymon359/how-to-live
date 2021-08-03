@@ -1,6 +1,6 @@
 ---
 name: 'When in doubt, follow standards'
-Categories: ['Standards', 'Community', 'Open-mindedness']
+Categories: ['Community', 'Open-mindedness', 'Software development']
 ---
 # When in doubt, follow standards
 
