@@ -434,12 +434,6 @@
         
      - [Simplicity](../Categories/Simplicity.md)
         
-     - [Social Media](../Categories/Social%20Media.md)
-        
-     - [Social media](../Categories/Social%20media.md)
-        
-     - [Social media'](../Categories/Social%20media'.md)
-        
      - [Software](../Categories/Software.md)
         
      - [Software Development](../Categories/Software%20Development.md)

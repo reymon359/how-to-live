@@ -1,6 +1,6 @@
 ---
 name: 'Keep the focus'
-Categories: ['Focus', 'Attention', 'Mindfulness', Social media', 'Distractions', 'Solutions', 'Goals', 'Procrastination']
+Categories: ['Focus', 'Attention', 'Mindfulness', 'Distractions', 'Solutions', 'Goals', 'Procrastination']
 ---
 # Keep the focus
 
