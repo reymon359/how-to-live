@@ -129,8 +129,6 @@
     
  - [Software development](../Categories/Software%20development.md)
     
- - [Solitude](../Categories/Solitude.md)
-    
  - [Solutions](../Categories/Solutions.md)
     
  - [Standards](../Categories/Standards.md)

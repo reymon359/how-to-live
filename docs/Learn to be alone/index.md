@@ -47,4 +47,4 @@ A comment made by the user u/neubourn made me think deeply about the 'being alon
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Find balance](../Find%20balance/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Solitude](../Categories/Solitude.md) [Freedom](../Categories/Freedom.md) [Balance](../Categories/Balance.md) [Mental health](../Categories/Mental%20health.md)
+- [Find balance](../Find%20balance/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Freedom](../Categories/Freedom.md) [Balance](../Categories/Balance.md) [Mental health](../Categories/Mental%20health.md)
