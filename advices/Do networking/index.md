@@ -1,6 +1,6 @@
 ---
 name: 'Do networking'
-Categories: ['Communication', 'Community', 'Proactivity', 'Networking', 'Leisure', 'Improvement', 'Future', 'Help', 'Solutions', 'Success', 'Goals', 'Relationships', 'Growth']
+Categories: ['Communication', 'Travel', 'Community', 'Proactivity', 'Networking', 'Leisure', 'Improvement', 'Future', 'Help', 'Solutions', 'Success', 'Goals', 'Relationships', 'Growth']
 ---
 # Do networking
 

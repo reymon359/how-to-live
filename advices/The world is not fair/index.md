@@ -1,6 +1,6 @@
 ---
 name: 'The world is not fair'
-Categories: ['Problems', 'Guilt', 'Justice', 'Open-mindedness', 'Proactivity', 'Mental health']
+Categories: ['Problems', 'Travel', 'Guilt', 'Justice', 'Open-mindedness', 'Proactivity', 'Mental health']
 ---
 # The world is not fair
 

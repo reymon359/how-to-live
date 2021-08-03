@@ -13,5 +13,7 @@
     
  - [Remove dependencies](../Remove%20dependencies/index.md)
     
+ - [Review your goals](../Review%20your%20goals/index.md)
+    
  - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
     

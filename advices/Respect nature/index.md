@@ -1,6 +1,6 @@
 ---
 name: 'Respect nature'
-Categories: ['Respect', 'Kindness', 'Integrity', 'Nature']
+Categories: ['Respect', 'Travel', 'Kindness', 'Integrity', 'Nature']
 ---
 # Respect nature
 

@@ -1,6 +1,6 @@
 ---
 name: "Don't judge the whole by the part"
-Categories: ['Respect', 'Religion', 'Justice', 'Community', 'Relationships', 'Open-mindedness']
+Categories: ['Respect', 'Travel', 'Religion', 'Justice', 'Community', 'Relationships', 'Open-mindedness']
 ---
 # Don't judge the whole by the part
 

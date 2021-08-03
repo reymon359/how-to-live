@@ -1,6 +1,6 @@
 ---
 name: 'Continuous learning'
-Categories: ['Knowledge', 'Change', 'Comfort zone', 'Asking', 'Motivation', 'Future', 'Curiosity', 'Growth', 'Goals', 'Practice', 'Success', 'Improvement', 'Knowledge']
+Categories: ['Knowledge', 'Change', 'Travel', 'Comfort zone', 'Asking', 'Motivation', 'Future', 'Curiosity', 'Growth', 'Goals', 'Practice', 'Success', 'Improvement', 'Knowledge']
 ---
 # Continuous learning
 

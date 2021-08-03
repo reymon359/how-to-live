@@ -6,7 +6,7 @@ From time to time, review your objectives and what you want to accomplish. Set u
 
 Split your big goals into smaller ones. Then, review them in different periods. If you have a yearly goal, try to review it each month, a monthly goal each week, and so on.
 
-To review them means to check if your actions are aligned to accomplish them and to seek help if needed. You should review your motivation and if you are still interested in doing it. 
+Review everything you do. Check if your actions are aligned to what you want and how you can improve. Seek help and look for feedback if needed. You should review your motivation too and if you are still interested in doing it. 
 
 If you want to pursue new goals, just do it. However, try to not leave too many unfinished goals. Finishing your objectives will give you the motivation to move forward to new ones.
 
@@ -30,4 +30,4 @@ If you want to pursue new goals, just do it. However, try to not leave too many 
 - [Finish what you start](../Finish%20what%20you%20start/index.md)
 - [Learn to adapt](../Learn%20to%20adapt/index.md)
 - [Embrace growing](../Embrace%20growing/index.md)
-- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Time management](../Categories/Time%20management.md) [Success](../Categories/Success.md) [Planning](../Categories/Planning.md) [Future](../Categories/Future.md) [Commitment](../Categories/Commitment.md) [Productivity](../Categories/Productivity.md) [Feedback](../Categories/Feedback.md)
+- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Goals](../Categories/Goals.md) [Refactor](../Categories/Refactor.md) [Time management](../Categories/Time%20management.md) [Success](../Categories/Success.md) [Planning](../Categories/Planning.md) [Future](../Categories/Future.md) [Commitment](../Categories/Commitment.md) [Productivity](../Categories/Productivity.md) [Feedback](../Categories/Feedback.md)
