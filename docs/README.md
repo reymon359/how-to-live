@@ -83,7 +83,7 @@ In the **Resources and acknowledgments** section of some advices, I mention book
 
 
 
-Thanks to all those people whose views and advice in real life or through other ways like the internet or books have helped me to see things differently and grow.
+Thanks to all those people whose views and advice in real life or through other ways, like the internet or books, have helped me to see things differently and grow.
 
 ## Content: advices
 
