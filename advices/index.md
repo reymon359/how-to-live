@@ -2,7 +2,7 @@
 name: 'How to live'
 ---
 
-How to live is a collection of life advice. Those advices are classified into Categories and connections between them.
+How to live is a collection of life advice. Those advices are classified into Categories and connected between them.
 
 Please keep in mind this is a very subjective project. Maybe the relation of some categories or connections with each may not be as clear as with others. As more advices are related, the harder it gets to establish boundaries about which categories include them or not.
 
@@ -20,7 +20,7 @@ The more I got to these topics and points of view about life, I began seeing con
 
 At some point, I decided that I wanted to materialize, classify and represent all of them in some way. After a road trip with my brother with plenty of conversations about those topics, I began writing down most of them in a document. However, I soon realized that a simple document was not enough to represent what I had in mind. 
 
-After creating a way to make agnostic collections with classifications,  I started one containing what I wanted to share.
+After [creating a way to make agnostic collections with classifications,](https://github.com/reymon359/collman) I started one containing what I wanted to share.
 
 Since then, I have been collecting the advice and knowledge acquired from life itself (books, people, experiences, …) classifying and grouping them in the best way.
 

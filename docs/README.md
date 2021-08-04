@@ -3,7 +3,7 @@
 
 
 
-How to live is a collection of life advice. Those advices are classified into Categories and connections between them.
+How to live is a collection of life advice. Those advices are classified into Categories and connected between them.
 
 
 
@@ -39,7 +39,7 @@ At some point, I decided that I wanted to materialize, classify and represent al
 
 
 
-After creating a way to make agnostic collections with classifications,  I started one containing what I wanted to share.
+After [creating a way to make agnostic collections with classifications,](https://github.com/reymon359/collman) I started one containing what I wanted to share.
 
 
 
