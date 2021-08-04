@@ -2,9 +2,6 @@
 name: 'How to live'
 ---
 
-# How to live
-
-
 How to life is a colection of life advices. Those advices are classified in Categories and connected between them.
 
 Please keep in mind this is a very subjective project. Because of that maybe the relation of some categories or opinions with an advice may not be as clear as with others. And as more advices are related is hard to establish boundaries about which categories include them or not.
@@ -29,7 +26,7 @@ Since then I started collecting the advices and Knowledge I adquired from life i
 
 The quotes on the advices are to raise awareness on how other people has reached the same or similar conclusions in the past.
 
-They add different points of views about the topic and a way to discover new authors to read about.
+They add new points of views about the topic and are a great way to discover new authors to read about.
 
 ## Contributions
 
