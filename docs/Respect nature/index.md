@@ -25,7 +25,7 @@ Our relationship with nature is more one of being than having.  We are nature: w
 
 > I think it's really important with kids just to show them the beauty of nature and teach them a profound respect for nature. - Jack Johnson
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 There is a saying in the Scouts about trying to leave a place better than you found it. It comes from a Baden-Powell's quote.
 

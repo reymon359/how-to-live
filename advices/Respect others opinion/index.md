@@ -26,7 +26,7 @@ When there are different opinions about an issue, look for a win-win. Try to rea
 
 > Don't let someone else's opinion of you become your reality. — Les Brown
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 There are two great books I read that discussed this topic: The 7 Habits of Highly Effective People by Stephen R. Covey and Your Erroneous Zones by Wayne Dyer.
 

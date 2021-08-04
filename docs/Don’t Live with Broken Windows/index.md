@@ -16,7 +16,7 @@ The problem is to make a mistake and keep doing it while you know it is wrong.
 
 > One unrepaired broken window is a signal that no one cares, and so breaking more windows costs nothing. ― James Q. Wilson
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Learned about this while doing Software development and reading The Pragmatic Programmer from Andy Hunt and Dave Thomas.
 

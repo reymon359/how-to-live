@@ -24,7 +24,7 @@ Don't be afraid to live. If you have the opportunity to go on a trip, chat with 
 
 > “Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.” ― Mark Twain
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Little, by little, life teaches you about this with the choices you make.
 

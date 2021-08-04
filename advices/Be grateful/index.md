@@ -23,7 +23,7 @@ If someone does something to help you, show them gratitude.
 
 > Strive to find things to be thankful for, and just look for the good in who you are. — Bethany Hamilton
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Every morning, try to think of three things from the day before you are grateful.
 

@@ -24,7 +24,7 @@ Keeping up your commitments is related to your honesty and integrity. It means y
 
 > Creating a language of commitment may sound a bit scary, but it can help solve many of the communication problems programmers face today—estimations, deadlines, and face-to-face communication mishaps. You’ll be taken as a serious developer who lives up to their word, and that’s one of the best things you can hope for in our industry. ― Robert C. Martin
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 The Clean Coder by Robert C. Martin discusses this topic.
 

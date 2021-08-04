@@ -30,7 +30,7 @@ Try to assume it. Don't worry, and let things flow. Enjoy the moment you are rig
 
 > Don't aim for success if you want it; just do what you love and believe in, and it will come naturally. ― David Frost
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Having a talk with my friend, Pablo Llorca, made me realize this deeply.
 

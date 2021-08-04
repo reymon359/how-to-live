@@ -18,7 +18,7 @@ Have an open mind, the standards of your community may not be the same as other 
 
 > Without standards, there can be no improvement. — Taiichi Ohno
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I follow this advice when doing software development and I don't know enough about a topic, library, language, or framework.
 

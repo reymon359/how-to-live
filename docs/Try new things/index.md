@@ -34,7 +34,7 @@ The more things you try, the more you go outside your comfort zone and, therefor
 
 > “Unless you open yourself up to trying new things, you can’t find what you love.” – Anonymous
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Chapter 6 "Exploring the unknown" from Wayne Dyer's Your Erroneous Zones speaks about this topic.
 

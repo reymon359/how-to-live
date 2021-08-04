@@ -32,7 +32,7 @@ You don't need to practice a sport, things like going for a walk are valid too.
  
 > “All truly great thoughts are conceived while walking.” ― Friedrich Nietzsche, Twilight of the Idols
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 This topic is referenced in the Stephen R. Covey book The 7 Habits of Highly Effective People.
  

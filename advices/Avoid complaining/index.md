@@ -32,7 +32,7 @@ To complain is to be reactive. Instead, be proactive.
 
 > If you want the world to change, don’t complain about it. Do something. ― Wayne Dyer
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Your Erroneous Zones from Wayne Dyer discussed this topic.
 

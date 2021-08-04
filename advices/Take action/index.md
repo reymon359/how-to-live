@@ -32,7 +32,7 @@ One of the best ways to stop worrying is to take action. To make a choice.
 
 > Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy. – Dale Carnegie
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Your Erroneous Zones from Wayne Dyer discussed this topic.
 

@@ -18,7 +18,7 @@ If you want to keep in contact and improve a relationship with someone, remember
 
 > Don’t care for those who ignore you. Care for those who are ignoring others for you. ― Unknown
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 The Stephen R. Covey book: The 7 Habits of Highly Effective People speak about this topic.
 

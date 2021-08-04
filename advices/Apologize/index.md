@@ -30,7 +30,7 @@ It can be hard if you are not used to. In that case, just begin with an "I'm sor
 
 > Sincere apologies make deposits; repeated apologies interpreted as insincere make withdrawals. And the quality of the relationship reflects it. ― Stephen R. Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I learned this over time. I am still improving at it. Books like The 7 Habits of Highly Effective People from Stephen R. Covey helped on the way.
 

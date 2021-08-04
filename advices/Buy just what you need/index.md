@@ -24,7 +24,7 @@ Find the balance between something you need and something that makes you happy. 
 
 > "Just because you can afford it doesn't mean you should buy it." ― Suze Orman
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I remember I had a great chat with Patricia García about the difference between buying what you need and what makes you happy.
 

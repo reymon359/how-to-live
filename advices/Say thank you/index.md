@@ -25,7 +25,7 @@ When someone is being grateful to you, and you thank them back, you are being gr
 
 “Cultivate the habit of being grateful for every good thing that comes to you, and to give thanks continuously. And because all things have contributed to your advancement, you should include all things in your gratitude.” — Ralph Waldo Emerson
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 My friend Adrian Ferrera inspired me on this. He always thanked back anyone no matter the topic, even when there seemed to be nothing to thank back.
 

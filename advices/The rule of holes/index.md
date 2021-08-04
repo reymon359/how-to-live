@@ -20,7 +20,7 @@ Be open-minded about the options and solutions you have when you are stuck.
 
 > If you dig a hole and it's in the wrong place, digging it deeper isn't going to help. - Seymour Chwast
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I read about this rule on the Clean Coder from Robert C. Martin. Among other topics, he mentioned that:
 

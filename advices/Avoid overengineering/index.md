@@ -12,7 +12,7 @@ It is related to going for the best solution in the long term to your problem.
 
 It is similar to the Occam’s Razor statement that “The simplest solution is always the best”. Look for the simplest solution for the moment. However, don't rush for the first solution you come up with, spend some time thinking which one will work better in the long term.
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I learned this doing Software Development and on books like The Clean Architecture from Robert C. Martin. Here are some sentences from it:
 

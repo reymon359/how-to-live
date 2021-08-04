@@ -16,7 +16,7 @@ As a lifestyle, this advice is related to avoiding any kind of repetition that y
 
 > Foster an environment where it’s easier to find and reuse existing stuff than to write it yourself. If it isn’t easy, people won’t do it. And if you fail to reuse, you risk duplicating knowledge. ― The Pragmatic Programmer from Andy Hunt and Dave Thomas
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 The Pragmatic Programmer from Andy Hunt and Dave Thomas
 

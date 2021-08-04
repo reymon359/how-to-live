@@ -28,7 +28,7 @@ To become what you want, you may have to step outside the comfort zone in order 
 
 > If you want behaviors that are stable and predictable, you need an environment that is stable and predictable. ― James Clear
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 James Clear book Atomic habits explain how the environment shapes our habits in chapter 6 Motivation is Overrated; Environment Often Matters More
 

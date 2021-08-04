@@ -22,7 +22,7 @@ Never judge someone by the opinion of others.
 
 > “Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.” ― Isaac Asimov
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 There are some interesting chapters about others' opinions and exploring the unknown in the book: Your Erroneous Zones from Wayne Dyer.
 

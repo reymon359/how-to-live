@@ -12,7 +12,7 @@ Refactor your life. Each day, think about what can you do tomorrow that can impr
 
 > “I’ve found that refactoring helps me write fast software. It slows the software in the short term while I’m refactoring, but it makes the software easier to tune during optimization. I end up well ahead.” ― Martin Fowler
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Some great books about good practices in software development I read
 

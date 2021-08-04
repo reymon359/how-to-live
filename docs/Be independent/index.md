@@ -27,7 +27,7 @@ of those determined to be free. ― John F. Kennedy (35th President of the Unite
 
 > You have brains in your head. You have feet in your shoes. You can steer yourself in any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go.  ― Dr. Seuss
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I was able to appreciate this, getting to know some Berbers in Morocco and north of Africa. They have a word called Amazigh, which means "free people".
 

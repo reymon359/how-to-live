@@ -30,7 +30,7 @@ When communicating, keep an open mind and respect what the other is telling you.
 
 > Communication is the solvent of all problems and is the foundation for personal development. – Peter Shepherd
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Stephen Covey’s book The 7 Habits of Highly Effective People discuss the communication topic and shares useful resources.
 

@@ -18,7 +18,7 @@ It will help you understand the problem better, which will help you reach a solu
 
 > “There are no big problems, there are just a lot of little problems.” – Henry Ford
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 The technique was originally developed by Sakichi Toyoda and was used within the Toyota Motor Corporation during the evolution of its manufacturing methodologies.
 

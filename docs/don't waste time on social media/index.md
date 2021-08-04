@@ -14,7 +14,7 @@ What you should try to avoid is when you waste your time browsing stuff that doe
 
 > “If you feel the need to constantly post on social media documenting your every move, chances are you're either addicted to social networking or there is a void somewhere in your personal life.” ― Germany Kent
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 The Social Dilemma documentary from 2020 is a great resource about this topic.
 

@@ -24,7 +24,7 @@ From time to time, look at your dependencies and remove the ones you no longer n
 
 > It's not dependency that creates your future. It's independence that creates your better future. ― Jim Rohn
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I got better at this doing software development and reading books like The Pragmatic Programmer from Andy Hunt and Dave Thomas and The Clean Coder, or The Clean Architecture from Robert C. Martin
 

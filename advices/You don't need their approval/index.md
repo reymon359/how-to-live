@@ -34,7 +34,7 @@ If you want to do something, just do it. You will find a way.
 
 > Our culture teaches a child to rely on others rather than trusting his own judgment. — Wayne Dyer
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 I decided to name this advice the same way as chapter 3 from Wayne Dyer's book Your Erroneous Zones, which discusses this topic too.
 

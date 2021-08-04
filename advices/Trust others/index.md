@@ -30,7 +30,7 @@ The more you trust others, the better you can delegate tasks to them.
 
 > “I don't trust people who don't love themselves and tell me, 'I love you.' ... There is an African saying which is: Be careful when a naked person offers you a shirt.” ― Maya Angelou
 
-## Resources and acknowledgements
+## Resources and acknowledgments
 
 Throughout my travels, I have found myself in situations where local people open their hearts and houses to you, offering you food or hang out. Although I did not know them, I trusted them, and most of the time I got very good experiences in exchange.
 
