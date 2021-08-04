@@ -28,7 +28,7 @@ One of the best ways to stop worrying is to be proactive: make a decision and ta
 
 > The best antidote to worry is action. ― Wayne Dyer
 
-## Resources and credits
+## Resources and acknowledgements
 
 Chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your Erroneous Zones. Here are some sentences from it I that collected on my project [Book Sentences](https://github.com/reymon359/book-sentences)
 

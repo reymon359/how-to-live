@@ -25,7 +25,7 @@ Here are some tips about Sleep Optimization:
 
 > ”Rest when you’re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.” – Ralph Marston
 
-## Resources and credits
+## Resources and acknowledgements
 
 Thanks to Treasa Spragg for the above tips she gave me at Sun&Co about sleep optimization.
 

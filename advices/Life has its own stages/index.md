@@ -23,7 +23,7 @@ No matter the stage you are at, enjoy it. Try to focus on doing what brings you 
 
 > “Every stage of life is unique. At any age and stage of life there are obstacles and opportunities, trials and triumphs. Never allow the negative bring to you to sudden halt. Make the most of the positive opportunities and stay positive.” ― Lailah Gifty Akita
 
-## Resources and credits
+## Resources and acknowledgements
 
 A deep chat with my friend Pablo Llorca made me realize about this.
 

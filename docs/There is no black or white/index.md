@@ -20,7 +20,7 @@ There is no right and wrong. Be open-minded. People are different, and each one 
 
 > “The great thing about getting older is that you become more mellow. Things aren’t as black and white, and you become much more tolerant. You can see the good in things much more easily rather than getting enraged as you used to do when you were young.” — Maeve Binchy
 
-## Resources and credits
+## Resources and acknowledgements
 
 Wayne Dyer discusses this in The Right vs. Wrong Trap, from his book Your Erroneous Zones.
 

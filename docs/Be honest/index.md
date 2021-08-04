@@ -24,7 +24,7 @@ Good relationships are built on top of honesty.
 
 > Being honest may not get you a lot of friends but it’ll always get you the right ones. — John Lennon
 
-## Resources and credits
+## Resources and acknowledgements
 
 This topic is well discussed in Stephen Covey's book The 7 Habits of Highly Effective People.
 

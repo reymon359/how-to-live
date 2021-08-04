@@ -30,7 +30,7 @@ Try not to blame and complain about things that are not the way you want. Take r
 
 > “You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself.” – Jim Rohn
 
-## Resources and credits
+## Resources and acknowledgements
 
 Doing software development made me better at this. Realizing you have to be responsible and maintain whatever you create.
 

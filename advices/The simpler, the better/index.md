@@ -32,7 +32,7 @@ Minimalism comes along with simplicity. Embrace minimalism and focus on having t
 
 > “Don’t make the process harder than it is.“ — Jack Welch
 
-## Resources and credits
+## Resources and acknowledgements
 
 This one is inspired from Occam's razor the principle, or the principle of parsimony which states that "entities should not be multiplied without necessity", sometimes inaccurately paraphrased as "the simplest explanation is usually the best one."
 

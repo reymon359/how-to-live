@@ -96,7 +96,7 @@ If no, assess if the task fits into your life goals and treat accordingly.
 
 > “We accomplish all that we do through delegation, either to time or to other people” – Stephen Covey
 
-## Resources and credits
+## Resources and acknowledgements
 
 Most of the text above comes from what I learned from Stephen Covey’s book The 7 Habits of Highly Effective People.
 

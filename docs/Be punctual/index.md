@@ -24,7 +24,7 @@ If you are not going to make it on time, update the other person about it to avo
 
 > If I have made an appointment with you, I owe you punctuality, I have no right to throw away your time, if I do my own. ― Richard Cecil
 
-## Resources and credits
+## Resources and acknowledgements
 
 Robert C. Martin gives some good tips about managing lateness on The Clean Coder.
 

@@ -24,7 +24,7 @@ Whatever choice you made was not good or better than others. There is no black o
 
 > Negative emotions like loneliness, envy, and guilt have an important role to play in a happy life; they're big, flashing signs that something needs to change. - Gretchen Rubin
 
-## Resources and credits
+## Resources and acknowledgements
 
 The chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your Erroneous Zones.
 

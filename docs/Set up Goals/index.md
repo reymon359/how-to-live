@@ -26,7 +26,7 @@ Set up reminders. If you really want to accomplish something for the long term, 
 
 > “The greater danger for most of us isn’t that our aim is too high and miss it, but that it is too low and we reach it.” – Michelangelo
 
-## Resources and credits
+## Resources and acknowledgements
 
 The Stephen R. Covey book: The 7 Habits of Highly Effective People has a chapter related to this topic called "begin with the end on mind"
 

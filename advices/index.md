@@ -2,17 +2,49 @@
 name: 'How to live'
 ---
 
-# How to live. Tips and advice for life
+# How to live
 
-// TODO: Update this index file properly
 
-This is how I see life at this moment. It can change.
+How to life is a colection of life advices. Those advices are classified in Categories and connected between them.
 
-most of the books references blabla book sentences
+Please keep in mind this is a very subjective project. Because of that maybe the relation of some categories or opinions with an advice may not be as clear as with others. And as more advices are related is hard to establish boundaries about which categories include them or not.
 
-some categories are not discussed but are related
+Try to open your mind while reading it. Everything here is just a personal way to see and live which may change in the future the same way it changed from the past.
 
-a category or the lack of it.
+You may not agree with some advices or have a different points of view. Feel free to share it and discuss them. Have a look at the **Contributions** section below to do so. 
+
+Anyway, I hope it helps other people in some way. And as with everything you find in life, try to get the best from it.
+
+## The reason behind
+
+Over time, I have realized that many of the conversations both day-to-day and especially the deepest ones end up leading to certain topics.
+
+The more I get to these topics and points of view about life, I began seeing connections and realizing that everything is related was related.
+
+But it wasn't until a road trip with my brother full of conversations and discussions about those topics that I decided that I wanted to materialize, classify and represent all of this in some way.
+
+Since then I started collecting the advices and Knowledge I adquired from life itself (books, people, experiences,...) and tried to clasify and group them in some way.
+
+## Why quotes?
+
+The quotes on the advices are to raise awareness on how other people has reached the same or similar conclusions in the past.
+
+They add different points of views about the topic and a way to discover new authors to read about.
+
+## Contributions
+
+This is an open source colllaborative project where feedback is always welcomed. Feel free to open an issue or make a Pull Request on the [GitHub Project](https://github.com/reymon359/how-to-live) to comment on how to improve it, offer your point of view, or suggest to fix a typo.
+
+In adition you can always drop me a private message if you feel like doing so.
+
+## Resources
+
+On the **Resources and acknowledgements** section of some advices I mention books I have read. If you want, you can have a look at this project [Book sentences](https://github.com/reymon359/book-sentences) where I collected the most important parts and sentences from them.
+
+## Aknowledgements
+
+Thanks to all those people whose views and advice (in real life or through the books) helped me to see things differently and grow.
+
 ## First attempt
 
 This was my rough first attempt to represent what I had in my mind.

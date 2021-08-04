@@ -30,7 +30,7 @@ To understand others better, listen to them empathically.
 
 > “Empathy is simply listening, holding space, withholding judgment, emotionally connecting, and communicating that incredibly healing message of you’re not alone.” – Brene Brown
 
-## Resources and credits and credits
+## Resources and acknowledgements and credits
 
 Stephen R. Covey, discusses empathy in The 7 Habits of Highly Effective People.
 

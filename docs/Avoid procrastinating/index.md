@@ -22,7 +22,7 @@ By identifying why you procrastinate, you can begin to hash out a plan to avoid 
 
 > “If you put off everything till you're sure of it, you'll never get anything done." ― Peale Quotes
 
-## Resources and credits
+## Resources and acknowledgements
 
 Chapter 9: Putting An End to Procrastination — Now from Wayne Dyer's Your Erroneous Zones discusses this topic. Here is an extract from it:
 

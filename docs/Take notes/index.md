@@ -20,7 +20,7 @@ Book some time to organize them and work on them. Plan it.
 
 > You can see that there is scarcely an observable fact unworthy of mention in your notes, and yet you could easily spend more time scribbling than watching, and that would defeat the purpose. So be selective, don't be compulsive, and enjoy your note-taking. – Robert Pyle
 
-## Resources and credits
+## Resources and acknowledgements
 
 There are multiple ways to do this, from a simple notebook to online apps. Just try them and use the one that better suits you.
 

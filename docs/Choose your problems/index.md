@@ -10,7 +10,7 @@ Sometimes making an extra effort can be a problem, however, it will prevent futu
 
 Before committing to something, think about the problems related to it and if you will be able to bear them.
 
-## Resources and credits
+## Resources and acknowledgements
 
 I had a nice deep talk about this with Javier Deblas at Sun&Co, Javea.
 

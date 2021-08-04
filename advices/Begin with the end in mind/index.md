@@ -20,7 +20,7 @@ Do not just act; think first: Is this how I want it to go, and are these the cor
 
 > "Each one of us has to start out with developing his or her own definition of success. And when we have these specific expectations of ourselves, we're more likely to live up to them. Ultimately, it's not what you get or even what you give, it's what you become" - Mary Gates
 
-## Resources and credits
+## Resources and acknowledgements
 
 The chapter with the same name from Stephen R. Covey's book The 7 Habits of Highly Effective People.
 

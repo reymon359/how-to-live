@@ -34,7 +34,7 @@ Take ownership of what you are teaching and explain it the best way you can.
 
 > ‘I am not a teacher, but an awakener.’ – Robert Frost
 
-## Resources and credits
+## Resources and acknowledgements
 
 After writing articles, making tutorials, giving talks, or just explaining concepts I realized two things:
 

@@ -26,7 +26,7 @@ The world owes you nothing. You only deserve what you have worked for and achiev
 
 > Knowing is not enough. We must apply. Willing is not enough. We must do. ― Bruce Lee
 
-## Resources and credits
+## Resources and acknowledgements
 
 This topic is well discussed in Stephen Covey's book The 7 Habits of Highly Effective People first chapter.
 

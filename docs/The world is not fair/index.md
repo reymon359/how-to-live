@@ -22,7 +22,7 @@ Take care of your mental health and don't feel angry or frustrated about an inju
 
 > Be a doer, not a complainer about injustice. For every injustice you suffer, there is a resolution that does not require you to be immobilized in any way. — Wayne Dyer
 
-## Resources and credits
+## Resources and acknowledgements
 
 This one is heavily inspired by chapter 8: The Justice Trap from Wayne Dyer's book Your Erroneous Zones
 

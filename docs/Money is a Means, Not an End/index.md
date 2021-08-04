@@ -28,7 +28,7 @@ Money often costs too much. - Ralph Waldo Emerson
 
 > Everyday is a bank account, and time is our currency. No one is rich, no one is poor, we've got 24 hours each. - Christopher Rice
 
-## Resources and credits
+## Resources and acknowledgements
 
 I liked [this article](https://lifeincharge.com/money-is-a-means-not-an-end) about the topic.
 

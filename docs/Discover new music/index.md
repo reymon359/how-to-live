@@ -16,7 +16,7 @@ You may end up liking songs you didn't even imagine would exist.
 
 > “If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week.”― Charles Darwin
 
-## Resources and credits
+## Resources and acknowledgements
 
 When I travel and drive abroad, I like to listen to the radio from there and save the songs I end up liking.
 

@@ -18,7 +18,7 @@ Use methods like the Eisenhower Matrix to review your tasks and assign them a pr
 
 > “If you don’t know where you are going, you’ll end up someplace else.” – Yogi Berra
 
-## Resources and credits
+## Resources and acknowledgements
 
 The Begin with the end in mind chapter from Stephen R. Covey, The 7 Habits of Highly Effective People.
 

@@ -26,7 +26,7 @@ Pay attention to the smallest details. Be careful with what you do and try not t
 
 > Pay attention, don't let life go by you. Fall in love with the back of your cereal box. ― Jerry Seinfeld
 
-## Resources and credits
+## Resources and acknowledgements
 
 Here is an interesting [article](https://mythirdbrain.substack.com/p/how-i-spend-my-attention) about the topic.
 

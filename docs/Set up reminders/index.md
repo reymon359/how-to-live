@@ -22,7 +22,7 @@ When you set up reminders, you delegate yourself from remembering things and jus
 
 > Look at the sky; remind yourself of the cosmos. Seek vastness at every opportunity in order to see the smallness of yourself. ― Matt Haig
 
-## Resources and credits
+## Resources and acknowledgements
 
 I learned this by myself by realizing how my productivity increased just by setting up reminders to keep up with everything I have to do.
 

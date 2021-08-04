@@ -28,7 +28,7 @@ Take care of your health. If you don't feel good, ask for medical help. Go to th
 
 > “Humble people ask for help.” – Joyce Meyer
 
-## Resources and credits
+## Resources and acknowledgements
 
 Working in team situations made me realize it is much better to ask for help and keep others updated about how you are doing than to wait and let the "ball of poo" get bigger and bigger until it explodes.
 

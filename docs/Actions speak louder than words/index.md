@@ -16,7 +16,7 @@ Be conscious about this when you are doing things. The way you act and how you b
 
 > Do not be wise in words be wise in deeds. ― Jewish Proverb 
 
-## Resources and credits
+## Resources and acknowledgements
 
 I think the first time thought about this was when I saw it as a child printed in a shirt from Jack and Jones.
 

@@ -18,7 +18,7 @@ You are responsible and dependent on your actions. Be aware of it before doing s
 
 > All we have to do to create the future is to change the nature of our conversations, to go from blame to ownership, and from bargaining to commitment, and from problem solving to possibility. ― Peter Block
 
-## Resources and credits
+## Resources and acknowledgements
 
 When you do Software Development, you are constantly creating things that you have to be responsible for them later. You have to focus on the maintainability of what you do.
 

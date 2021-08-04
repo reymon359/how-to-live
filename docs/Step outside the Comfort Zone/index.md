@@ -38,7 +38,7 @@ If you want to do something, just do it. No matter how hard it is or what other 
 
 > “Don’t let fear make your decisions for you.” - Annette White
 
-## Resources and credits
+## Resources and acknowledgements
 
 I have discussed this topic with a lot of people and have read books about it like Your Erroneous Zones from Wayne Dyer or Stephen R. Covey's The 7 Habits of Highly Effective People.
 

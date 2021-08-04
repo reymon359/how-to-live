@@ -32,7 +32,7 @@ Pay attention to what you are reading. Try to avoid distractions while reading.
 
 > “A word after a word after a word is power.” – Margaret Atwood`
 
-## Resources and credits
+## Resources and acknowledgements
 
 The more books I read, the more I like it. The act of reading is awesome, if you think about it, you are traveling to other dimensions and living new lives and adventures by just watching letters next to each other.
 

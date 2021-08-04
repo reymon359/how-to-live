@@ -20,7 +20,7 @@ Be there for them, too. Offer your help to them whenever they need it.
 
 > “An advice is truly valuable when people not just give it their ears but also their obedience.” ― Amit Kalantri
 
-## Resources and credits
+## Resources and acknowledgements
 
 Credit to all those people who helped me at some moment in my life just by listening to me and giving me useful advice. Spending time with them made me realize how important it is to have this kind of people near you.
 

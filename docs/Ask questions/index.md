@@ -20,7 +20,7 @@ Listen properly to the answer. This mean to pay as much attention you can to it.
 
 > And I like asking questions, to keep learning; people with big egos might not want to look unsure. – Heston Blumenthal
 
-## Resources and credits
+## Resources and acknowledgements
 
 Stephen Covey’s book The 7 Habits of Highly Effective People discuss the communication topic, asking questions and listening.
 

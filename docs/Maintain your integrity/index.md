@@ -29,7 +29,7 @@ Keep up with your values and beliefs. If you don't keep up with them is because 
 > “Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.”
 ― Fyodor Dostoevsky
 
-## Resources and credits
+## Resources and acknowledgements
 
 Stephen R. Covey focuses on this topic in his book The 7 Habits of Highly Effective People.
 

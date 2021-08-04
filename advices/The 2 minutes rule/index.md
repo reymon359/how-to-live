@@ -20,7 +20,7 @@ Try to follow this simple rule to stop procrastinating and getting things done.
 
 > “Use 2-minute rule. The two-minute rule says that when a task will take you less than two minutes, just do it—don’t add it to your to-do list or capture it for later. It really helps to deal with small things quicker and lets your brain to be much less occupied.” — Roman Tsegelskyi
 
-## Resources and credits
+## Resources and acknowledgements
 
 As far as I know, this rule originally comes from David Allen’s book, Getting Things Done.
 

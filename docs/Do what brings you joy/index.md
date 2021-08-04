@@ -16,7 +16,7 @@ Maybe you have to step outside your comfort zone and change some aspects of your
 
 > I think, whatever makes you happy in life, you gotta do it. You can’t plan in life too much. ― Tyga
 
-## Resources and credits
+## Resources and acknowledgements
 
 This one is heavily inspired by a great talk I had with Jean-Philippe at Chateau Coliving about finding your path and purpose in life.
 

@@ -25,7 +25,7 @@ The Lion King's "Hakuna Matata" is another way to express this.
 
 > You can have a plan, but you have to be flexible. Every day is unpredictable, and you just have to go with the flow. - Jane Krakowski
 
-## Resources and credits
+## Resources and acknowledgements
 
 When I was living in Morocco, the people there taught me a word called _Insha'Allah_ which means "if God wills" or "God willing".  My friends and I used it with the same meaning as saying _let it flow_.
 

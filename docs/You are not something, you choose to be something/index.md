@@ -24,7 +24,7 @@ There is a quote I love about this topic that states:
 
 > We are what we do to change what we are — Eduardo Galeano
 
-## Resources and credits
+## Resources and acknowledgements
 
 I read about this topic in Stephen R. Covey's The 7 Habits of Highly Effective People, chapter 1: Be proactive. And in Wayne Dyer's Your Erroneous Zones's chapter 4: Breaking Free From the Past. 
 

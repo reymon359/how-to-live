@@ -46,7 +46,7 @@ Be ready to step outside your comfort zone when traveling.
 
 > “Be fearless in the pursuit of what sets your soul on fire.” – Jennifer Lee
 
-## Resources and credits
+## Resources and acknowledgements
 
 My own experience as a Digital Nomad. I feel how I grow and learn the more I travel and visit new places and cultures.
 
