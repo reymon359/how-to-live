@@ -5,7 +5,7 @@ Have a look at it! https://gist.github.com/reymon359/a0880e5b3bfcbac54f58b52b3ad
 
 <!-- Logo (with link) -->
 <p align="center">
- <a href="https://reymon359.github.io/how-to-live">
+ <a href="https://how-to-live.netlify.app/">
    <img alt="how to live" src="https://raw.githubusercontent.com/reymon359/how-to-live/master/assets/growing.png" width="100" />
  </a>
 </p>
