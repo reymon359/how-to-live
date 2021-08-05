@@ -16,7 +16,7 @@ Have a look at it! https://gist.github.com/reymon359/a0880e5b3bfcbac54f58b52b3ad
 </h1>
 
 <p align="center">
-A collection of life advices.
+A collection of life advices. [Have a look at them here.](https://how-to-live.netlify.app/)
 </p>
 
 
