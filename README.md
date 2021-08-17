@@ -5,7 +5,7 @@ Have a look at it! https://gist.github.com/reymon359/a0880e5b3bfcbac54f58b52b3ad
 
 <!-- Logo (with link) -->
 <p align="center">
- <a href="https://how-to-live.netlify.app/">
+ <a href="https://reymon359.github.io/how-to-live/">
    <img alt="how to live" src="https://raw.githubusercontent.com/reymon359/how-to-live/master/assets/growing.png" width="100" />
  </a>
 </p>
@@ -17,7 +17,7 @@ Have a look at it! https://gist.github.com/reymon359/a0880e5b3bfcbac54f58b52b3ad
 
 <p align="center">
 A collection of life advices. 
- <a href="https://how-to-live.netlify.app/">
+ <a href="https://reymon359.github.io/how-to-live/">
   Have a look at them here.
  </a>
 </p>
