@@ -24,4 +24,4 @@ Include an acknowledgments section in a report if you need to credit someone.
 
 - [Be grateful](../Be%20grateful/index.md)
 - [Be honest](../Be%20honest/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Respect](../Categories/Respect.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md)
+- [Maintain your integrity](../Maintain%20your%20integrity/index.md)<hr/><br/>[Categories:](Categories/index.md) [Gratitude](Categories/Gratitude.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Respect](Categories/Respect.md) [Responsibility](Categories/Responsibility.md) [Trust](Categories/Trust.md)

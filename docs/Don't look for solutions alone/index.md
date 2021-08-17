@@ -23,4 +23,4 @@ You will solve any problem faster working as a team.
 - [Be grateful](../Be%20grateful/index.md)
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Ask questions](../Ask%20questions/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Asking](../Categories/Asking.md) [Community](../Categories/Community.md) [Help](../Categories/Help.md) [Knowledge](../Categories/Knowledge.md) [Networking](../Categories/Networking.md) [Productivity](../Categories/Productivity.md) [Relationships](../Categories/Relationships.md) [Solutions](../Categories/Solutions.md) [Success](../Categories/Success.md)
+- [Ask for help](../Ask%20for%20help/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Community](Categories/Community.md) [Help](Categories/Help.md) [Knowledge](Categories/Knowledge.md) [Networking](Categories/Networking.md) [Productivity](Categories/Productivity.md) [Relationships](Categories/Relationships.md) [Solutions](Categories/Solutions.md) [Success](Categories/Success.md)

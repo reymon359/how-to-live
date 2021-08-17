@@ -40,4 +40,4 @@ I decided to name this advice the same way as chapter 3 from Wayne Dyer's book Y
 - [If you want, you can](../If%20you%20want,%20you%20can/index.md)
 - [Dn't do something that hurts another person](../Do%20no%20harm/index.md)
 - [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permission/index.md)
-- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Community](../Categories/Community.md) [Decisions](../Categories/Decisions.md) [Freedom](../Categories/Freedom.md) [Growth](../Categories/Growth.md) [Happiness](../Categories/Happiness.md) [Integrity](../Categories/Integrity.md) [Personality](../Categories/Personality.md)
+- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Decisions](Categories/Decisions.md) [Freedom](Categories/Freedom.md) [Growth](Categories/Growth.md) [Happiness](Categories/Happiness.md) [Integrity](Categories/Integrity.md) [Personality](Categories/Personality.md)

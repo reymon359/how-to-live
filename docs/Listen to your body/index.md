@@ -19,4 +19,4 @@ Your mind is part of your body, therefore listen to it too. If doing something g
 - [Go to the doctor](../Go%20to%20the%20doctor/index.md)
 - [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
 - [Be kind to yourself](../Be%20kind%20to%20yourself%20and%20others/index.md)
-- [Respect yourself](../Respect%20yourself/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Attention](../Categories/Attention.md) [Health](../Categories/Health.md) [Listening](../Categories/Listening.md) [Mindfulness](../Categories/Mindfulness.md) [Nutrition](../Categories/Nutrition.md)
+- [Respect yourself](../Respect%20yourself/index.md)<hr/><br/>[Categories:](Categories/index.md) [Attention](Categories/Attention.md) [Health](Categories/Health.md) [Listening](Categories/Listening.md) [Mindfulness](Categories/Mindfulness.md) [Nutrition](Categories/Nutrition.md)

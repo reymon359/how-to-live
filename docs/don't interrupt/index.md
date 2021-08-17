@@ -21,4 +21,4 @@ Avoid the urge to communicate your opinion.
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Empathic listening](../Empathic%20Listening/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Asking](../Categories/Asking.md) [Communication](../Categories/Communication.md) [Distractions](../Categories/Distractions.md) [Focus](../Categories/Focus.md) [Listening](../Categories/Listening.md) [Respect](../Categories/Respect.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Communication](Categories/Communication.md) [Distractions](Categories/Distractions.md) [Focus](Categories/Focus.md) [Listening](Categories/Listening.md) [Respect](Categories/Respect.md)

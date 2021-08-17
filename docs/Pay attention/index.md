@@ -34,4 +34,4 @@ Here is an interesting [article](https://mythirdbrain.substack.com/p/how-i-spend
 
 - [Practice mindfulness](../Practice%20mindfulness/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
-- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Asking](../Categories/Asking.md) [Attention](../Categories/Attention.md) [Curiosity](../Categories/Curiosity.md) [Focus](../Categories/Focus.md) [Knowledge](../Categories/Knowledge.md) [Listening](../Categories/Listening.md) [Mindfulness](../Categories/Mindfulness.md) [Motivation](../Categories/Motivation.md) [Procrastination](../Categories/Procrastination.md)
+- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Attention](Categories/Attention.md) [Curiosity](Categories/Curiosity.md) [Focus](Categories/Focus.md) [Knowledge](Categories/Knowledge.md) [Listening](Categories/Listening.md) [Mindfulness](Categories/Mindfulness.md) [Motivation](Categories/Motivation.md) [Procrastination](Categories/Procrastination.md)

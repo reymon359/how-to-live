@@ -34,4 +34,4 @@ This one is heavily inspired by chapter 8: The Justice Trap from Wayne Dyer's bo
 - [There is always a solution](../There%20is%20always%20a%20solution/index.md)
 - [Be proactive](../Be%20proactive/index.md)
 - [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Guilt](../Categories/Guilt.md) [Justice](../Categories/Justice.md) [Mental health](../Categories/Mental%20health.md) [Open-mindedness](../Categories/Open-mindedness.md) [Proactivity](../Categories/Proactivity.md) [Problems](../Categories/Problems.md) [Travel](../Categories/Travel.md)
+- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)<hr/><br/>[Categories:](Categories/index.md) [Guilt](Categories/Guilt.md) [Justice](Categories/Justice.md) [Mental health](Categories/Mental%20health.md) [Open-mindedness](Categories/Open-mindedness.md) [Proactivity](Categories/Proactivity.md) [Problems](Categories/Problems.md) [Travel](Categories/Travel.md)

@@ -32,4 +32,4 @@ And dance too if you want. Move your body to the sound of the music.
 
 - [Discover new music](../Discover%20new%20music/index.md)
 - [Listen to music](../Listen%20to%20music/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Music](../Categories/Music.md)
+- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)<hr/><br/>[Categories:](Categories/index.md) [Happiness](Categories/Happiness.md) [Music](Categories/Music.md)

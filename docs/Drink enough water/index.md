@@ -23,4 +23,4 @@ Try to drink more water than other not-so-healthy drinks.
 ## Related advices
 
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Eat healthy](../Eat%20healthy/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Nutrition](../Categories/Nutrition.md)
+- [Eat healthy](../Eat%20healthy/index.md)<hr/><br/>[Categories:](Categories/index.md) [Health](Categories/Health.md) [Nutrition](Categories/Nutrition.md)

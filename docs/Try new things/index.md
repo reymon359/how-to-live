@@ -42,4 +42,4 @@ Chapter 6 "Exploring the unknown" from Wayne Dyer's Your Erroneous Zones speaks 
 
 - [Open your mind](../Open%20your%20mind/index.md)
 - [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Embrace growing](../Embrace%20growing/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Adventures](../Categories/Adventures.md) [Change](../Categories/Change.md) [Comfort zone](../Categories/Comfort%20zone.md) [Curiosity](../Categories/Curiosity.md) [Leisure](../Categories/Leisure.md) [Motivation](../Categories/Motivation.md) [Open-mindedness](../Categories/Open-mindedness.md) [Practice](../Categories/Practice.md) [Unknown](../Categories/Unknown.md)
+- [Embrace growing](../Embrace%20growing/index.md)<hr/><br/>[Categories:](Categories/index.md) [Adventures](Categories/Adventures.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Curiosity](Categories/Curiosity.md) [Leisure](Categories/Leisure.md) [Motivation](Categories/Motivation.md) [Open-mindedness](Categories/Open-mindedness.md) [Practice](Categories/Practice.md) [Unknown](Categories/Unknown.md)

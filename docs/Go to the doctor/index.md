@@ -20,4 +20,4 @@ By default, the healthier your life is, the fewer times you will have to go to t
 - [Respect yourself](../Respect%20yourself/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [eat healthy](../Eat%20healthy/index.md)
-- [Exercise frequently](../Exercise%20frequently/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Health](../Categories/Health.md) [Help](../Categories/Help.md) [Mental health](../Categories/Mental%20health.md) [Responsibility](../Categories/Responsibility.md)
+- [Exercise frequently](../Exercise%20frequently/index.md)<hr/><br/>[Categories:](Categories/index.md) [Health](Categories/Health.md) [Help](Categories/Help.md) [Mental health](Categories/Mental%20health.md) [Responsibility](Categories/Responsibility.md)

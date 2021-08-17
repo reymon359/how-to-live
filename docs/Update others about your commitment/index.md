@@ -29,4 +29,4 @@ The Clean Coder by Robert C. Martin discusses this topic.
 - [Be punctual](../Be%20punctual/index.md)
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Ask for help](../Ask%20for%20help/index.md)
-- [Be honest](../Be%20honest/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Commitment](../Categories/Commitment.md) [Communication](../Categories/Communication.md) [Future](../Categories/Future.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Networking](../Categories/Networking.md) [Relationships](../Categories/Relationships.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md)
+- [Be honest](../Be%20honest/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Communication](Categories/Communication.md) [Future](Categories/Future.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Networking](Categories/Networking.md) [Relationships](Categories/Relationships.md) [Responsibility](Categories/Responsibility.md) [Trust](Categories/Trust.md)

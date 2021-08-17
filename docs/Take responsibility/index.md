@@ -41,4 +41,4 @@ In addition, some books I read discussed responsibility and blaming, for example
 - [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
 - [Remove dependencies](../Remove%20dependencies/index.md)
 - [Avoid complaining](../Avoid%20complaining/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Commitment](../Categories/Commitment.md) [Decisions](../Categories/Decisions.md) [Dependencies](../Categories/Dependencies.md) [Integrity](../Categories/Integrity.md) [Mistakes](../Categories/Mistakes.md) [Respect](../Categories/Respect.md) [Responsibility](../Categories/Responsibility.md)
+- [Maintain your integrity](../Maintain%20your%20integrity/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Decisions](Categories/Decisions.md) [Dependencies](Categories/Dependencies.md) [Integrity](Categories/Integrity.md) [Mistakes](Categories/Mistakes.md) [Respect](Categories/Respect.md) [Responsibility](Categories/Responsibility.md)

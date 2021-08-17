@@ -18,4 +18,4 @@ Open your mind. It is as easy as respecting other people's opinions.
 - [Respect others beliefs](../Respect%20others%20beliefs/index.md)
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Community](../Categories/Community.md) [Freedom](../Categories/Freedom.md) [Kindness](../Categories/Kindness.md) [Open-mindedness](../Categories/Open-mindedness.md) [Personality](../Categories/Personality.md) [Relationships](../Categories/Relationships.md) [Respect](../Categories/Respect.md)
+- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Freedom](Categories/Freedom.md) [Kindness](Categories/Kindness.md) [Open-mindedness](Categories/Open-mindedness.md) [Personality](Categories/Personality.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md)

@@ -23,4 +23,4 @@ I think the first time thought about this was when I saw it as a child printed i
 ## Related advices
 
 - [Be kind](../Be%20kind/index.md)
-- [Be honest](../Be%20honest/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Decisions](../Categories/Decisions.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Personality](../Categories/Personality.md) [Proactivity](../Categories/Proactivity.md) [Relationships](../Categories/Relationships.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md)
+- [Be honest](../Be%20honest/index.md)<hr/><br/>[Categories:](Categories/index.md) [Decisions](Categories/Decisions.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Personality](Categories/Personality.md) [Proactivity](Categories/Proactivity.md) [Relationships](Categories/Relationships.md) [Responsibility](Categories/Responsibility.md) [Trust](Categories/Trust.md)

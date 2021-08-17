@@ -32,4 +32,4 @@ Communicate, update often about the status of your commitment. No matter if it i
 - [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
 - [Be honest](../Be%20honest/index.md)
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Commitment](../Categories/Commitment.md) [Fulfillment](../Categories/Fulfillment.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Proactivity](../Categories/Proactivity.md) [Respect](../Categories/Respect.md) [Responsibility](../Categories/Responsibility.md) [Trust](../Categories/Trust.md)
+- [Finish what you start](../Finish%20what%20you%20start/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Fulfillment](Categories/Fulfillment.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Proactivity](Categories/Proactivity.md) [Respect](Categories/Respect.md) [Responsibility](Categories/Responsibility.md) [Trust](Categories/Trust.md)

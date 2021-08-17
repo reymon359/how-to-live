@@ -39,4 +39,4 @@ Stephen R. Covey, discusses empathy in The 7 Habits of Highly Effective People.
 - [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
 - [Listen before talking](../Listen%20before%20talking/index.md)
 - [Empathic listening](../Empathic%20listening/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Empathy](../Categories/Empathy.md) [Help](../Categories/Help.md) [Kindness](../Categories/Kindness.md) [Listening](../Categories/Listening.md) [Mental health](../Categories/Mental%20health.md) [Open-mindedness](../Categories/Open-mindedness.md) [Respect](../Categories/Respect.md)
+- [Respect others opinion](../Respect%20others%20opinion/index.md)<hr/><br/>[Categories:](Categories/index.md) [Communication](Categories/Communication.md) [Empathy](Categories/Empathy.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Mental health](Categories/Mental%20health.md) [Open-mindedness](Categories/Open-mindedness.md) [Respect](Categories/Respect.md)
