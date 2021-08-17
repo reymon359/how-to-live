@@ -32,4 +32,4 @@ I got better at this doing software development and reading books like The Pragm
 
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Be independent](../Be%20independent/index.md)
-- [Optimize your stuff](../Optimize%20your%20stuff/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Dependencies](../Categories/Dependencies.md) [Simplicity](../Categories/Simplicity.md) [Refactor](../Categories/Refactor.md) [Optimization](../Categories/Optimization.md) [Software development](../Categories/Software%20development.md) [Minimalism](../Categories/Minimalism.md) [Freedom](../Categories/Freedom.md)
+- [Optimize your stuff](../Optimize%20your%20stuff/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Dependencies](../Categories/Dependencies.md) [Freedom](../Categories/Freedom.md) [Minimalism](../Categories/Minimalism.md) [Optimization](../Categories/Optimization.md) [Refactor](../Categories/Refactor.md) [Simplicity](../Categories/Simplicity.md) [Software development](../Categories/Software%20development.md)

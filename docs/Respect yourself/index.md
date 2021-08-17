@@ -37,4 +37,4 @@ The better you know yourself, the easier it will be to respect yourself.
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
 - [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
 - [Exercise frequently](../Exercise%20frequently/index.md)
-- [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Kindness](../Categories/Kindness.md) [Personality](../Categories/Personality.md) [Health](../Categories/Health.md) [Mental health](../Categories/Mental%20health.md) [Integrity](../Categories/Integrity.md) [Happiness](../Categories/Happiness.md)
+- [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Health](../Categories/Health.md) [Integrity](../Categories/Integrity.md) [Kindness](../Categories/Kindness.md) [Mental health](../Categories/Mental%20health.md) [Personality](../Categories/Personality.md) [Respect](../Categories/Respect.md)

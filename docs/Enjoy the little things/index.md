@@ -23,4 +23,4 @@ Enjoy those details, they can seem meaningless, however, are the most important 
 - [Enjoy nature music](../Enjoy%20nature%20music/index.md)
 - [Enjoy the moment](../Enjoy%20the%20moment/index.md)
 - [Smile](../Smile/index.md)
-- [Pay attention](../Pay%20attention/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Simplicity](../Categories/Simplicity.md) [Minimalism](../Categories/Minimalism.md) [Gratitude](../Categories/Gratitude.md)
+- [Pay attention](../Pay%20attention/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md) [Minimalism](../Categories/Minimalism.md) [Simplicity](../Categories/Simplicity.md)

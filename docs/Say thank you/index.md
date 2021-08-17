@@ -27,4 +27,4 @@ My friend Adrian Ferrera inspired me on this. He always thanked back anyone no m
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Gratitude](../Categories/Gratitude.md) [Kindness](../Categories/Kindness.md) [Community](../Categories/Community.md) [Happiness](../Categories/Happiness.md)
+- [Be grateful](../Be%20grateful/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Community](../Categories/Community.md) [Gratitude](../Categories/Gratitude.md) [Happiness](../Categories/Happiness.md) [Kindness](../Categories/Kindness.md)

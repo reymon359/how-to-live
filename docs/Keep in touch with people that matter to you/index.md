@@ -23,4 +23,4 @@ Set a reminder to contact them from time to time if you need to.
 - [Embrace communication](../Embrace%20communication/index.md)
 - [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md)
 - [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
-- [Stick to people that give you good advice](../Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Networking](../Categories/Networking.md) [Relationships](../Categories/Relationships.md) [Friendship](../Categories/Friendship.md)
+- [Stick to people that give you good advice](../Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Communication](../Categories/Communication.md) [Friendship](../Categories/Friendship.md) [Networking](../Categories/Networking.md) [Relationships](../Categories/Relationships.md)

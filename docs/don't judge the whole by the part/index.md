@@ -22,4 +22,4 @@ Try new things and look for new experiences to open your mind.
 - [Respect others opinion](../Respect%20others%20opinion/index.md)
 - [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
 - [Open your mind](../Open%20your%20mind/index.md)
-- [Try new things](../Try%20new%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Respect](../Categories/Respect.md) [Unknown](../Categories/Unknown.md) [Travel](../Categories/Travel.md) [Trust](../Categories/Trust.md) [Religion](../Categories/Religion.md) [Justice](../Categories/Justice.md) [Community](../Categories/Community.md) [Relationships](../Categories/Relationships.md) [Open-mindedness](../Categories/Open-mindedness.md)
+- [Try new things](../Try%20new%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Community](../Categories/Community.md) [Justice](../Categories/Justice.md) [Open-mindedness](../Categories/Open-mindedness.md) [Relationships](../Categories/Relationships.md) [Religion](../Categories/Religion.md) [Respect](../Categories/Respect.md) [Travel](../Categories/Travel.md) [Trust](../Categories/Trust.md) [Unknown](../Categories/Unknown.md)

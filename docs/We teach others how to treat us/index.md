@@ -27,4 +27,4 @@ Try to get to know yourself. The better you know yourself, the better you will t
 
 - [Maintain your integrity](../Maintain%20your%20integrity/index.md)
 - [Respect yourself](../Respect%20yourself/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Friendship](../Categories/Friendship.md) [Networking](../Categories/Networking.md) [Relationships](../Categories/Relationships.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md)
+- [Get to know yourself](../Get%20to%20know%20yourself/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Friendship](../Categories/Friendship.md) [Honesty](../Categories/Honesty.md) [Integrity](../Categories/Integrity.md) [Networking](../Categories/Networking.md) [Relationships](../Categories/Relationships.md)

@@ -35,4 +35,4 @@ Your Erroneous Zones from Wayne Dyer discusses this topic.
 - [Avoid overthinking](../Avoid%20overthinking/index.md)
 - [Fail with success](../Fail%20with%20success/index.md)
 - [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
-- [There is always a solution](../../docs/There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Mistakes](../Categories/Mistakes.md) [Comfort zone](../Categories/Comfort%20zone.md) [Decisions](../Categories/Decisions.md) [Guilt](../Categories/Guilt.md) [Growth](../Categories/Growth.md) [Problems](../Categories/Problems.md) [Mental health](../Categories/Mental%20health.md)
+- [There is always a solution](../../docs/There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Comfort zone](../Categories/Comfort%20zone.md) [Decisions](../Categories/Decisions.md) [Growth](../Categories/Growth.md) [Guilt](../Categories/Guilt.md) [Mental health](../Categories/Mental%20health.md) [Mistakes](../Categories/Mistakes.md) [Problems](../Categories/Problems.md)

@@ -39,4 +39,4 @@ I like my friend's Jonathan Verrecchia [Zeronalist](https://verekia.com/zeromali
 - [Do what you want](../Do%20what%20you%20want/index.md)
 - [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
 - [Give and share with others](../Give%20and%20share%20with%20others/index.md)
-- [Remove dependencies](../Remove%20dependencies/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Focus](../Categories/Focus.md) [Simplicity](../Categories/Simplicity.md) [Minimalism](../Categories/Minimalism.md) [Happiness](../Categories/Happiness.md) [Dependencies](../Categories/Dependencies.md)
+- [Remove dependencies](../Remove%20dependencies/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Dependencies](../Categories/Dependencies.md) [Focus](../Categories/Focus.md) [Happiness](../Categories/Happiness.md) [Material things](../Categories/Material%20things.md) [Minimalism](../Categories/Minimalism.md) [Simplicity](../Categories/Simplicity.md)

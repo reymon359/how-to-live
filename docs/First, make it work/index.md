@@ -20,4 +20,4 @@ I learned this one doing software development and reading books like The Pragmat
 
 - [Continuous refactor](../Continuous%20refactor/index.md)
 - [Do what you want](../Do%20what%20you%20want/index.md)
-- [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Productivity](../Categories/Productivity.md) [Success](../Categories/Success.md) [Commitment](../Categories/Commitment.md) [Goals](../Categories/Goals.md) [Software development](../Categories/Software%20development.md) [Refactor](../Categories/Refactor.md)
+- [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Commitment](../Categories/Commitment.md) [Goals](../Categories/Goals.md) [Productivity](../Categories/Productivity.md) [Refactor](../Categories/Refactor.md) [Software development](../Categories/Software%20development.md) [Success](../Categories/Success.md)

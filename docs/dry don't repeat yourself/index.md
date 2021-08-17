@@ -22,4 +22,4 @@ The Pragmatic Programmer from Andy Hunt and Dave Thomas
 - [Do one thing and do it well](../Do%20one%20thing%20and%20do%20it%20well/index.md)
 - [Embrace minimalism](../Embrace%20minimalism/index.md)
 - [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-- [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Simplicity](../Categories/Simplicity.md) [Software development](../Categories/Software%20development.md) [Productivity](../Categories/Productivity.md) [Optimization](../Categories/Optimization.md)
+- [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Material things](../Categories/Material%20things.md) [Optimization](../Categories/Optimization.md) [Productivity](../Categories/Productivity.md) [Simplicity](../Categories/Simplicity.md) [Software development](../Categories/Software%20development.md)

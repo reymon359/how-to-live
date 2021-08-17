@@ -24,4 +24,4 @@ You won't find the balance on the first try. Give it time and keep trying little
 
 - [Get to know yourself](../Get%20to%20know%20yourself/index.md)
 - [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Eating an elephant](../Eating%20an%20elephant/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Happiness](../Categories/Happiness.md) [Optimization](../Categories/Optimization.md) [Nutrition](../Categories/Nutrition.md) [Balance](../Categories/Balance.md) [Justice](../Categories/Justice.md) [Health](../Categories/Health.md)
+- [Eating an elephant](../Eating%20an%20elephant/index.md)<hr/><br/>[Categories:](../Categories/index.md) [Balance](../Categories/Balance.md) [Happiness](../Categories/Happiness.md) [Health](../Categories/Health.md) [Justice](../Categories/Justice.md) [Nutrition](../Categories/Nutrition.md) [Optimization](../Categories/Optimization.md)
