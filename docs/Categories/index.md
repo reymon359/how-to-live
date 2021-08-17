@@ -1,145 +1,145 @@
 # Categories
 
 
- - [Adventures](../Categories/Adventures.md)
+ - [Adventures](Categories/Adventures.md)
     
- - [Asking](../Categories/Asking.md)
+ - [Asking](Categories/Asking.md)
     
- - [Attention](../Categories/Attention.md)
+ - [Attention](Categories/Attention.md)
     
- - [Balance](../Categories/Balance.md)
+ - [Balance](Categories/Balance.md)
     
- - [Change](../Categories/Change.md)
+ - [Change](Categories/Change.md)
     
- - [Comfort zone](../Categories/Comfort%20zone.md)
+ - [Comfort zone](Categories/Comfort%20zone.md)
     
- - [Commitment](../Categories/Commitment.md)
+ - [Commitment](Categories/Commitment.md)
     
- - [Communication](../Categories/Communication.md)
+ - [Communication](Categories/Communication.md)
     
- - [Community](../Categories/Community.md)
+ - [Community](Categories/Community.md)
     
- - [Curiosity](../Categories/Curiosity.md)
+ - [Curiosity](Categories/Curiosity.md)
     
- - [Decisions](../Categories/Decisions.md)
+ - [Decisions](Categories/Decisions.md)
     
- - [Dependencies](../Categories/Dependencies.md)
+ - [Dependencies](Categories/Dependencies.md)
     
- - [Distractions](../Categories/Distractions.md)
+ - [Distractions](Categories/Distractions.md)
     
- - [Empathy](../Categories/Empathy.md)
+ - [Empathy](Categories/Empathy.md)
     
- - [Family](../Categories/Family.md)
+ - [Family](Categories/Family.md)
     
- - [Feedback](../Categories/Feedback.md)
+ - [Feedback](Categories/Feedback.md)
     
- - [Focus](../Categories/Focus.md)
+ - [Focus](Categories/Focus.md)
     
- - [Freedom](../Categories/Freedom.md)
+ - [Freedom](Categories/Freedom.md)
     
- - [Friendship](../Categories/Friendship.md)
+ - [Friendship](Categories/Friendship.md)
     
- - [Fulfillment](../Categories/Fulfillment.md)
+ - [Fulfillment](Categories/Fulfillment.md)
     
- - [Future](../Categories/Future.md)
+ - [Future](Categories/Future.md)
     
- - [Goals](../Categories/Goals.md)
+ - [Goals](Categories/Goals.md)
     
- - [Gratitude](../Categories/Gratitude.md)
+ - [Gratitude](Categories/Gratitude.md)
     
- - [Growth](../Categories/Growth.md)
+ - [Growth](Categories/Growth.md)
     
- - [Guilt](../Categories/Guilt.md)
+ - [Guilt](Categories/Guilt.md)
     
- - [Happiness](../Categories/Happiness.md)
+ - [Happiness](Categories/Happiness.md)
     
- - [Health](../Categories/Health.md)
+ - [Health](Categories/Health.md)
     
- - [Help](../Categories/Help.md)
+ - [Help](Categories/Help.md)
     
- - [Honesty](../Categories/Honesty.md)
+ - [Honesty](Categories/Honesty.md)
     
- - [Improvement](../Categories/Improvement.md)
+ - [Improvement](Categories/Improvement.md)
     
- - [Integrity](../Categories/Integrity.md)
+ - [Integrity](Categories/Integrity.md)
     
- - [Justice](../Categories/Justice.md)
+ - [Justice](Categories/Justice.md)
     
- - [Kindness](../Categories/Kindness.md)
+ - [Kindness](Categories/Kindness.md)
     
- - [Knowledge](../Categories/Knowledge.md)
+ - [Knowledge](Categories/Knowledge.md)
     
- - [Leisure](../Categories/Leisure.md)
+ - [Leisure](Categories/Leisure.md)
     
- - [Listening](../Categories/Listening.md)
+ - [Listening](Categories/Listening.md)
     
- - [Material things](../Categories/Material%20things.md)
+ - [Material things](Categories/Material%20things.md)
     
- - [Mental health](../Categories/Mental%20health.md)
+ - [Mental health](Categories/Mental%20health.md)
     
- - [Mindfulness](../Categories/Mindfulness.md)
+ - [Mindfulness](Categories/Mindfulness.md)
     
- - [Minimalism](../Categories/Minimalism.md)
+ - [Minimalism](Categories/Minimalism.md)
     
- - [Mistakes](../Categories/Mistakes.md)
+ - [Mistakes](Categories/Mistakes.md)
     
- - [Money](../Categories/Money.md)
+ - [Money](Categories/Money.md)
     
- - [Motivation](../Categories/Motivation.md)
+ - [Motivation](Categories/Motivation.md)
     
- - [Music](../Categories/Music.md)
+ - [Music](Categories/Music.md)
     
- - [Nature](../Categories/Nature.md)
+ - [Nature](Categories/Nature.md)
     
- - [Networking](../Categories/Networking.md)
+ - [Networking](Categories/Networking.md)
     
- - [Nutrition](../Categories/Nutrition.md)
+ - [Nutrition](Categories/Nutrition.md)
     
- - [Open-mindedness](../Categories/Open-mindedness.md)
+ - [Open-mindedness](Categories/Open-mindedness.md)
     
- - [Optimization](../Categories/Optimization.md)
+ - [Optimization](Categories/Optimization.md)
     
- - [Personality](../Categories/Personality.md)
+ - [Personality](Categories/Personality.md)
     
- - [Planning](../Categories/Planning.md)
+ - [Planning](Categories/Planning.md)
     
- - [Practice](../Categories/Practice.md)
+ - [Practice](Categories/Practice.md)
     
- - [Prioritize](../Categories/Prioritize.md)
+ - [Prioritize](Categories/Prioritize.md)
     
- - [Proactivity](../Categories/Proactivity.md)
+ - [Proactivity](Categories/Proactivity.md)
     
- - [Problems](../Categories/Problems.md)
+ - [Problems](Categories/Problems.md)
     
- - [Procrastination](../Categories/Procrastination.md)
+ - [Procrastination](Categories/Procrastination.md)
     
- - [Productivity](../Categories/Productivity.md)
+ - [Productivity](Categories/Productivity.md)
     
- - [Refactor](../Categories/Refactor.md)
+ - [Refactor](Categories/Refactor.md)
     
- - [Relationships](../Categories/Relationships.md)
+ - [Relationships](Categories/Relationships.md)
     
- - [Religion](../Categories/Religion.md)
+ - [Religion](Categories/Religion.md)
     
- - [Respect](../Categories/Respect.md)
+ - [Respect](Categories/Respect.md)
     
- - [Responsibility](../Categories/Responsibility.md)
+ - [Responsibility](Categories/Responsibility.md)
     
- - [Simplicity](../Categories/Simplicity.md)
+ - [Simplicity](Categories/Simplicity.md)
     
- - [Software development](../Categories/Software%20development.md)
+ - [Software development](Categories/Software%20development.md)
     
- - [Solutions](../Categories/Solutions.md)
+ - [Solutions](Categories/Solutions.md)
     
- - [Success](../Categories/Success.md)
+ - [Success](Categories/Success.md)
     
- - [Time](../Categories/Time.md)
+ - [Time](Categories/Time.md)
     
- - [Time management](../Categories/Time%20management.md)
+ - [Time management](Categories/Time%20management.md)
     
- - [Travel](../Categories/Travel.md)
+ - [Travel](Categories/Travel.md)
     
- - [Trust](../Categories/Trust.md)
+ - [Trust](Categories/Trust.md)
     
- - [Unknown](../Categories/Unknown.md)
+ - [Unknown](Categories/Unknown.md)
     
