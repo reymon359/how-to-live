@@ -30,8 +30,8 @@ In the Atomic Habits book by James Clear, he discussed it. Although, he focuses 
 
 ## Related advices
 
-- [Set up reminders](../Set%20up%20reminders/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [Take action](../Take%20action/index.md)
-- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)
+- [Set up reminders](Set%20up%20reminders/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)
+- [Take action](Take%20action/index.md)
+- [Avoid procrastinating](Avoid%20procrastinating/index.md)
+- [Learn to delegate](Learn%20to%20delegate/index.md)

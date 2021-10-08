@@ -34,6 +34,6 @@ I got better at this doing software development and reading books like The Pragm
 
 ## Related advices
 
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Be independent](../Be%20independent/index.md)
-- [Optimize your stuff](../Optimize%20your%20stuff/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)
+- [Be independent](Be%20independent/index.md)
+- [Optimize your stuff](Optimize%20your%20stuff/index.md)

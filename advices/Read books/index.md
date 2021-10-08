@@ -40,10 +40,10 @@ Thanks to my mom for encouraging and helping me to read when I was a child.
 
 ## Related advices
 
-- [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)
-- [Try new things](../Try%20new%20things/index.md)
-- [Pay attention](../Pay%20attention/index.md)
-- [Put your phone down](../Put%20your%20phone%20down/index.md)
+- [Eating an elephant](Eating%20an%20elephant/index.md)
+- [Everything in life is practice](Everything%20in%20life%20is%20practice/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Continuous learning](Continuous%20learning/index.md)
+- [Try new things](Try%20new%20things/index.md)
+- [Pay attention](Pay%20attention/index.md)
+- [Put your phone down](Put%20your%20phone%20down/index.md)

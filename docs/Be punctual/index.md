@@ -30,9 +30,9 @@ Robert C. Martin gives some good tips about managing lateness on The Clean Coder
 
 ## Related advices
 
-- [Be honest](../Be%20honest/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-- [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-- [Actions speak louder than words](../Actions%20speak%20louder%20than%20words/index.md)<hr/><br/>[Categories:](Categories/index.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Planning](Categories/Planning.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md) [Time](Categories/Time.md) [Trust](Categories/Trust.md)
+- [Be honest](Be%20honest/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+- [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
+- [Actions speak louder than words](Actions%20speak%20louder%20than%20words/index.md)<hr/><br/>[Categories:](Categories/index.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Planning](Categories/Planning.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md) [Time](Categories/Time.md) [Trust](Categories/Trust.md)

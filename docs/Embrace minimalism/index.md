@@ -34,9 +34,9 @@ I like my friend's Jonathan Verrecchia [Zeronalist](https://verekia.com/zeromali
 
 ## Related advices
 
-- [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Give and share with others](../Give%20and%20share%20with%20others/index.md)
-- [Remove dependencies](../Remove%20dependencies/index.md)<hr/><br/>[Categories:](Categories/index.md) [Dependencies](Categories/Dependencies.md) [Focus](Categories/Focus.md) [Happiness](Categories/Happiness.md) [Material things](Categories/Material%20things.md) [Minimalism](Categories/Minimalism.md) [Simplicity](Categories/Simplicity.md)
+- [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
+- [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
+- [Give and share with others](Give%20and%20share%20with%20others/index.md)
+- [Remove dependencies](Remove%20dependencies/index.md)<hr/><br/>[Categories:](Categories/index.md) [Dependencies](Categories/Dependencies.md) [Focus](Categories/Focus.md) [Happiness](Categories/Happiness.md) [Material things](Categories/Material%20things.md) [Minimalism](Categories/Minimalism.md) [Simplicity](Categories/Simplicity.md)

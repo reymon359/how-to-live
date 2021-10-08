@@ -30,9 +30,9 @@ Stephen Covey’s book The 7 Habits of Highly Effective People discuss the commu
 
 ## Related advices
 
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)
-- [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
-- [Research to understand](../Research%20to%20understand%20better/index.md)
-- [Pay attention](../Pay%20attention/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)
+- [Ask for help](Ask%20for%20help/index.md)
+- [Question everything. Do not take anything for granted](Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
+- [Research to understand](Research%20to%20understand%20better/index.md)
+- [Pay attention](Pay%20attention/index.md)

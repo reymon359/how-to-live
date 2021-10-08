@@ -30,9 +30,9 @@ Your Erroneous Zones from Wayne Dyer discusses this topic.
 
 ## Related advices
 
-- [Don't worry](../Don't%20worry/index.md)
-- [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Avoid overthinking](../Avoid%20overthinking/index.md)
-- [Fail with success](../Fail%20with%20success/index.md)
-- [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
-- [There is always a solution](../../docs/There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Decisions](Categories/Decisions.md) [Growth](Categories/Growth.md) [Guilt](Categories/Guilt.md) [Mental health](Categories/Mental%20health.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md)
+- [Don't worry](Don't%20worry/index.md)
+- [Don't feel guilty](Don't%20feel%20guilty/index.md)
+- [Avoid overthinking](Avoid%20overthinking/index.md)
+- [Fail with success](Fail%20with%20success/index.md)
+- [There is no black or white](There%20is%20no%20black%20or%20white/index.md)
+- [There is always a solution](../docs/There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Decisions](Categories/Decisions.md) [Growth](Categories/Growth.md) [Guilt](Categories/Guilt.md) [Mental health](Categories/Mental%20health.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md)

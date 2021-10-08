@@ -38,12 +38,12 @@ Try situations that put you outside the comfort zone. Travel to unknown countrie
 
 ## Related advices
 
-- [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-- [Respect yourself](../Respect%20yourself/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Try new things](../Try%20new%20things/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+- [Learn to be alone](Learn%20to%20be%20alone/index.md)
+- [Respect yourself](Respect%20yourself/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
+- [Try new things](Try%20new%20things/index.md)
+- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)

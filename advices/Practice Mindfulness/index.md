@@ -28,6 +28,6 @@ The more you are aware of what is happening at the moment, the deeper you live t
 
 ## Related advices
 
-- [Pay attention](../Pay%20attention/index.md) 
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)
-- [Listen to your body](../Listen%20to%20your%20body/index.md)
+- [Pay attention](Pay%20attention/index.md) 
+- [Enjoy the moment](Enjoy%20the%20moment/index.md)
+- [Listen to your body](Listen%20to%20your%20body/index.md)

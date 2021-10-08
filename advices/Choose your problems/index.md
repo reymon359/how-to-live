@@ -20,5 +20,5 @@ I had a nice deep talk about this with Javier Deblas at Sun&Co, Javea.
 
 ## Related advices
 
-- [Begin with the end in mind](../Begin%20with%20the%20end%20in%20mind/index.md)
-- [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)
+- [Begin with the end in mind](Begin%20with%20the%20end%20in%20mind/index.md)
+- [Fulfill your commitments](Fulfill%20your%20commitments/index.md)

@@ -24,6 +24,6 @@ No matter the other's opinion and if you agree or not with it, try to respect it
 
 ## Related advices
 
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Let others do what they want](Let%20others%20do%20what%20they%20want/index.md)

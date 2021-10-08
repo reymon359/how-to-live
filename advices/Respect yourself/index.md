@@ -36,9 +36,9 @@ The better you know yourself, the easier it will be to respect yourself.
 
 ## Related advices
 
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-- [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
-- [Exercise frequently](../Exercise%20frequently/index.md)
-- [We teach others how to treat us](../We%20teach%20others%20how%20to%20treat%20us/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)
+- [Listen to your body](Listen%20to%20your%20body/index.md)
+- [Take care of mental health](Take%20care%20of%20mental%20health/index.md)
+- [Exercise frequently](Exercise%20frequently/index.md)
+- [We teach others how to treat us](We%20teach%20others%20how%20to%20treat%20us/index.md)

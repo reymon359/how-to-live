@@ -26,6 +26,6 @@ Include an acknowledgments section in a report if you need to credit someone.
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)
-- [Be honest](../Be%20honest/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
+- [Be grateful](Be%20grateful/index.md)
+- [Be honest](Be%20honest/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)

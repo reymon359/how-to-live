@@ -21,9 +21,9 @@ Travel to new places to meet new people.
 
 ## Related advices
 
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-- [Do networking](../Do%20networking/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Empathy](Categories/Empathy.md) [Friendship](Categories/Friendship.md) [Networking](Categories/Networking.md) [Open-mindedness](Categories/Open-mindedness.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Learn to be alone](Learn%20to%20be%20alone/index.md)
+- [Do networking](Do%20networking/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Empathy](Categories/Empathy.md) [Friendship](Categories/Friendship.md) [Networking](Categories/Networking.md) [Open-mindedness](Categories/Open-mindedness.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md)

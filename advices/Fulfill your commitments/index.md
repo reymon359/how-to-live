@@ -32,8 +32,8 @@ Communicate, update often about the status of your commitment. No matter if it i
 
 ## Related advices
 
-- [Be punctual](../Be%20punctual/index.md)
-- [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-- [Be honest](../Be%20honest/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)
+- [Be punctual](Be%20punctual/index.md)
+- [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+- [Be honest](Be%20honest/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Finish what you start](Finish%20what%20you%20start/index.md)

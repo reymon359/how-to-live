@@ -32,11 +32,11 @@ Stephen R. Covey, discusses empathy in The 7 Habits of Highly Effective People.
 
 ## Related advices
 
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Be kind](../Be%20kind/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)  
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Empathic listening](../Empathic%20listening/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)<hr/><br/>[Categories:](Categories/index.md) [Communication](Categories/Communication.md) [Empathy](Categories/Empathy.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Mental health](Categories/Mental%20health.md) [Open-mindedness](Categories/Open-mindedness.md) [Respect](Categories/Respect.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Be kind](Be%20kind/index.md)
+- [Offer your help](Offer%20your%20help/index.md)  
+- [Open your mind](Open%20your%20mind/index.md)
+- [Helping makes you happy](Helping%20makes%20you%20happy/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Empathic listening](Empathic%20listening/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)<hr/><br/>[Categories:](Categories/index.md) [Communication](Categories/Communication.md) [Empathy](Categories/Empathy.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Mental health](Categories/Mental%20health.md) [Open-mindedness](Categories/Open-mindedness.md) [Respect](Categories/Respect.md)

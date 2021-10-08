@@ -32,8 +32,8 @@ Throughout my travels, I have found myself in situations where local people open
 
 ## Related advices
 
-- [Be honest](../Be%20honest/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Give second chances](../Give%20second%20chances/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](Categories/index.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Friendship](Categories/Friendship.md) [Growth](Categories/Growth.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Kindness](Categories/Kindness.md) [Networking](Categories/Networking.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md) [Trust](Categories/Trust.md)
+- [Be honest](Be%20honest/index.md)
+- [Learn to delegate](Learn%20to%20delegate/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Give second chances](Give%20second%20chances/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](Categories/index.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Friendship](Categories/Friendship.md) [Growth](Categories/Growth.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Kindness](Categories/Kindness.md) [Networking](Categories/Networking.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md) [Trust](Categories/Trust.md)

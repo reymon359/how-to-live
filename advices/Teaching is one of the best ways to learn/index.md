@@ -47,5 +47,5 @@ After writing articles, making tutorials, giving talks, or just explaining conce
 
 ## Related advices
 
-- [Offer your help](../Offer%20your%20help/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)
+- [Offer your help](Offer%20your%20help/index.md)
+- [Continuous learning](Continuous%20learning/index.md)

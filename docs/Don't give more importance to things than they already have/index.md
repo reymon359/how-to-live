@@ -18,8 +18,8 @@ Try to not overthink and let things flow.
 
 ## Related advices
 
-- [Don't feel bad about making mistakes](../We%20all%20make%20mistakes/index.md)
-- [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Don't worry](../Don't%20worry/index.md)
-- [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
-- [Fail with success](../Fail%20with%20success/index.md)<hr/><br/>[Categories:](Categories/index.md) [Focus](Categories/Focus.md) [Mental health](Categories/Mental%20health.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Simplicity](Categories/Simplicity.md)
+- [Don't feel bad about making mistakes](We%20all%20make%20mistakes/index.md)
+- [Don't feel guilty](Don't%20feel%20guilty/index.md)
+- [Don't worry](Don't%20worry/index.md)
+- [Relativize, don't generalize](Relativize,%20don't%20generalize/index.md)
+- [Fail with success](Fail%20with%20success/index.md)<hr/><br/>[Categories:](Categories/index.md) [Focus](Categories/Focus.md) [Mental health](Categories/Mental%20health.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Simplicity](Categories/Simplicity.md)

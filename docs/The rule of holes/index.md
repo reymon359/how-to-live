@@ -28,12 +28,12 @@ The book Atomic Habits by James Clear talks about this rule applied to breaking 
 
 All advice about avoiding or not doing something is related to this one.
 
-- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-- [Don't waste time on Social Media](../Don't%20waste%20time%20on%20Social%20Media/index.md)
-- [Avoid complaining](../Avoid%20complaining/index.md)
-- [Avoid overengineering](../Avoid%20overengineering/index.md)
-- [Avoid overthinking](../Avoid%20overthinking/index.md)
-- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
-- [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Don't interrupt](../Don't%20interrupt/index.md)
-- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Mistakes](Categories/Mistakes.md) [Open-mindedness](Categories/Open-mindedness.md) [Problems](Categories/Problems.md) [Solutions](Categories/Solutions.md)
+- [Avoid procrastinating](Avoid%20procrastinating/index.md)
+- [Don't waste time on Social Media](Don't%20waste%20time%20on%20Social%20Media/index.md)
+- [Avoid complaining](Avoid%20complaining/index.md)
+- [Avoid overengineering](Avoid%20overengineering/index.md)
+- [Avoid overthinking](Avoid%20overthinking/index.md)
+- [Don't compare yourself with others](Don't%20compare%20yourself%20with%20others/index.md)
+- [Don't feel guilty](Don't%20feel%20guilty/index.md)
+- [Don't interrupt](Don't%20interrupt/index.md)
+- [Don't live with broken windows](Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Mistakes](Categories/Mistakes.md) [Open-mindedness](Categories/Open-mindedness.md) [Problems](Categories/Problems.md) [Solutions](Categories/Solutions.md)

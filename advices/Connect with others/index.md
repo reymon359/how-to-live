@@ -25,9 +25,9 @@ Travel to new places to meet new people.
 
 ## Related advices
 
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-- [Do networking](../Do%20networking/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Learn to be alone](Learn%20to%20be%20alone/index.md)
+- [Do networking](Do%20networking/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)

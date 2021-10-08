@@ -28,7 +28,7 @@ All of us need help with something. Communicate, ask and listen to other people 
 
 ## Related advices
 
-- [Offer your help](../Offer%20your%20help/index.md)
-- [Empathic listening](../Empathic%20listening/index.md)
-- [Be Empathic](../Be%20empathetic/index.md)
-- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
+- [Offer your help](Offer%20your%20help/index.md)
+- [Empathic listening](Empathic%20listening/index.md)
+- [Be Empathic](Be%20empathetic/index.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)

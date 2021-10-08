@@ -28,8 +28,8 @@ This topic is referenced in the chapter "5 - Seek first to understand, then to b
 
 ## Related advices
 
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Ask questions](../Ask%20questions/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Empathic listening](../Empathic%20listening/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Respect](Categories/Respect.md) [Success](Categories/Success.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Empathic listening](Empathic%20listening/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Respect](Categories/Respect.md) [Success](Categories/Success.md)

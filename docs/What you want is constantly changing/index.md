@@ -32,8 +32,8 @@ Having a talk with my friend, Pablo Llorca, made me realize this deeply.
 
 ## Related advices
 
-- [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)
-- [Don't worry](../Don't%20worry/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Decisions](Categories/Decisions.md) [Growth](Categories/Growth.md) [Personality](Categories/Personality.md) [Unknown](Categories/Unknown.md)
+- [There is no black or white](There%20is%20no%20black%20or%20white/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [Enjoy the moment](Enjoy%20the%20moment/index.md)
+- [Don't worry](Don't%20worry/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Decisions](Categories/Decisions.md) [Growth](Categories/Growth.md) [Personality](Categories/Personality.md) [Unknown](Categories/Unknown.md)

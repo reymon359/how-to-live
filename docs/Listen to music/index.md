@@ -24,7 +24,7 @@ Don't just listen, sing and dance too. Enjoy music in its fullness.
 
 ## Related advices
 
-- [Discover new music](../Discover%20new%20music/index.md)
-- [Sing](../Sing/index.md)
-- [Enjoy nature music](../Enjoy%20nature%20music/index.md)
-- [Try new things](../Try%20new%20things/index.md)<hr/><br/>[Categories:](Categories/index.md) [Attention](Categories/Attention.md) [Happiness](Categories/Happiness.md) [Leisure](Categories/Leisure.md) [Listening](Categories/Listening.md) [Music](Categories/Music.md)
+- [Discover new music](Discover%20new%20music/index.md)
+- [Sing](Sing/index.md)
+- [Enjoy nature music](Enjoy%20nature%20music/index.md)
+- [Try new things](Try%20new%20things/index.md)<hr/><br/>[Categories:](Categories/index.md) [Attention](Categories/Attention.md) [Happiness](Categories/Happiness.md) [Leisure](Categories/Leisure.md) [Listening](Categories/Listening.md) [Music](Categories/Music.md)

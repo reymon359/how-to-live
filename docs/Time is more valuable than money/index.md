@@ -22,6 +22,6 @@ Sometimes the time spent trying to sell something is not worth the money you wil
 
 ## Related advices
 
-- [Money is a means, not an end](../Money%20is%20a%20means,%20not%20an%20end/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Give and share with others](../Give%20and%20share%20with%20others/index.md)<hr/><br/>[Categories:](Categories/index.md) [Happiness](Categories/Happiness.md) [Leisure](Categories/Leisure.md) [Material things](Categories/Material%20things.md) [Money](Categories/Money.md) [Time](Categories/Time.md)
+- [Money is a means, not an end](Money%20is%20a%20means,%20not%20an%20end/index.md)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Give and share with others](Give%20and%20share%20with%20others/index.md)<hr/><br/>[Categories:](Categories/index.md) [Happiness](Categories/Happiness.md) [Leisure](Categories/Leisure.md) [Material things](Categories/Material%20things.md) [Money](Categories/Money.md) [Time](Categories/Time.md)

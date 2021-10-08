@@ -32,5 +32,5 @@ Don't give and share just material things, you can share knowledge, advice, supp
 
 ## Related advices
 
-- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)
+- [Helping makes you happy](Helping%20makes%20you%20happy/index.md)
+- [Offer your help](Offer%20your%20help/index.md)

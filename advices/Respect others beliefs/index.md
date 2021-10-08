@@ -26,9 +26,9 @@ Do no harm. No matter what you believe, Do no harm.
 
 ## Related advices
 
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Most religions have great values](../Most%20religions%20have%20great%20values/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Do no harm](../Do%20no%20harm/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Most religions have great values](Most%20religions%20have%20great%20values/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Do no harm](Do%20no%20harm/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)

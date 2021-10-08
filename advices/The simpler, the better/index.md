@@ -40,7 +40,7 @@ It is also related to the software development principle KISS — Keep It Simple
 
 ## Related advices
 
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Remove dependencies](../Remove%20dependencies/index.md)
-- [Avoid overthinking](../Avoid%20overthinking/index.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)
+- [Remove dependencies](Remove%20dependencies/index.md)
+- [Avoid overthinking](Avoid%20overthinking/index.md)

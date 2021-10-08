@@ -31,9 +31,9 @@ When I was living in Morocco, the people there taught me a word called _Insha'Al
 
 ## Related advices
 
-- [Don't worry](../Don't%20worry/index.md)
-- [Avoid overthinking](../Avoid%20overthinking/index.md)
-- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Be grateful](../Be%20grateful/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
+- [Don't worry](Don't%20worry/index.md)
+- [Avoid overthinking](Avoid%20overthinking/index.md)
+- [Let others do what they want](Let%20others%20do%20what%20they%20want/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Be grateful](Be%20grateful/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)

@@ -24,8 +24,8 @@ Travel to see other religions and research about them to understand them better.
 
 ## Related advices
 
-- [Respect others beliefs](../Respect%20others%20beliefs/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Learn to forgive](../Learn%20to%20forgive/index.md)
-- [Research to understand](../Research%20to%20understand%20better/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](Categories/index.md) [Open-mindedness](Categories/Open-mindedness.md) [Religion](Categories/Religion.md)
+- [Respect others beliefs](Respect%20others%20beliefs/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Learn to forgive](Learn%20to%20forgive/index.md)
+- [Research to understand](Research%20to%20understand%20better/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](Categories/index.md) [Open-mindedness](Categories/Open-mindedness.md) [Religion](Categories/Religion.md)

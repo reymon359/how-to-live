@@ -26,8 +26,8 @@ If you want to pursue new goals, just do it. However, try to not leave too many 
 
 ## Related advices
 
-- [Set up goals](../Set%20up%20goals)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Embrace growing](../Embrace%20growing/index.md)
-- [Don't live with broken windows](../Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Feedback](Categories/Feedback.md) [Future](Categories/Future.md) [Goals](Categories/Goals.md) [Planning](Categories/Planning.md) [Productivity](Categories/Productivity.md) [Refactor](Categories/Refactor.md) [Success](Categories/Success.md) [Time management](Categories/Time%20management.md)
+- [Set up goals](Set%20up%20goals)
+- [Finish what you start](Finish%20what%20you%20start/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Embrace growing](Embrace%20growing/index.md)
+- [Don't live with broken windows](Don’t%20live%20with%20broken%20windows/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Feedback](Categories/Feedback.md) [Future](Categories/Future.md) [Goals](Categories/Goals.md) [Planning](Categories/Planning.md) [Productivity](Categories/Productivity.md) [Refactor](Categories/Refactor.md) [Success](Categories/Success.md) [Time management](Categories/Time%20management.md)

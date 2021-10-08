@@ -24,5 +24,5 @@ The Social Dilemma documentary from 2020 is a great resource about this topic.
 
 ## Related advices
 
-- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-- [Put your phone down](../Put%20your%20phone%20down/index.md)
+- [Avoid procrastinating](Avoid%20procrastinating/index.md)
+- [Put your phone down](Put%20your%20phone%20down/index.md)

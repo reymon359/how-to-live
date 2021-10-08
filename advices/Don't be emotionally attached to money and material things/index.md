@@ -24,8 +24,8 @@ Follow a minimalism lifestyle. The fewer things you have, the fewer attachments.
 
 ## Related advices
 
-- [Money is a means, not an end](../Money%20is%20a%20means,%20not%20an%20end/index.md)
-- [Give and share with others](../Give%20and%20share%20with%20others/index.md)
-- [Do not accumulate useless things](../Do%20not%20accumulate%20useless%20things/index.md)
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
+- [Money is a means, not an end](Money%20is%20a%20means,%20not%20an%20end/index.md)
+- [Give and share with others](Give%20and%20share%20with%20others/index.md)
+- [Do not accumulate useless things](Do%20not%20accumulate%20useless%20things/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)
+- [Buy just what you need](Buy%20just%20what%20you%20need/index.md)

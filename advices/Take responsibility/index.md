@@ -42,7 +42,7 @@ In addition, some books I read discussed responsibility and blaming, for example
 
 ## Related advices
 
-- [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
-- [Remove dependencies](../Remove%20dependencies/index.md)
-- [Avoid complaining](../Avoid%20complaining/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
+- [Have ownership of what you do](Have%20ownership%20of%20what%20you%20do/index.md)
+- [Remove dependencies](Remove%20dependencies/index.md)
+- [Avoid complaining](Avoid%20complaining/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)

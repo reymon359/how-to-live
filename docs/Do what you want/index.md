@@ -34,10 +34,10 @@ Learned from experiences, although Your Erroneous Zones from Wayne Dyer discusse
 
 ## Related advices
 
-- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Do no harm](../Do%20no%20harm/index.md)
-- [Respect others opinion](../Respect%20others%20pinion/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](Categories/index.md) [Adventures](Categories/Adventures.md) [Comfort zone](Categories/Comfort%20zone.md) [Decisions](Categories/Decisions.md) [Goals](Categories/Goals.md) [Happiness](Categories/Happiness.md) [Motivation](Categories/Motivation.md) [Proactivity](Categories/Proactivity.md) [Respect](Categories/Respect.md) [Success](Categories/Success.md)
+- [If you want, you can](If%20you%20want,%20you%20can/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Do no harm](Do%20no%20harm/index.md)
+- [Respect others opinion](Respect%20others%20pinion/index.md)
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)
+- [Let others do what they want](Let%20others%20do%20what%20they%20want/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)<hr/><br/>[Categories:](Categories/index.md) [Adventures](Categories/Adventures.md) [Comfort zone](Categories/Comfort%20zone.md) [Decisions](Categories/Decisions.md) [Goals](Categories/Goals.md) [Happiness](Categories/Happiness.md) [Motivation](Categories/Motivation.md) [Proactivity](Categories/Proactivity.md) [Respect](Categories/Respect.md) [Success](Categories/Success.md)

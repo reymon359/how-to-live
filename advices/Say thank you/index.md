@@ -31,4 +31,4 @@ My friend Adrian Ferrera inspired me on this. He always thanked back anyone no m
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)
+- [Be grateful](Be%20grateful/index.md)

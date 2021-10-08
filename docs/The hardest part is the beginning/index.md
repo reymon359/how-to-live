@@ -30,10 +30,10 @@ Do not wait for motivation to do things. Take action, and the motivation will co
 
 ## Related advices
 
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)
-- [Take action](../Take%20action/index.md)
-- [First, make it work](../First,%20make%20it%20work/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Commitment](Categories/Commitment.md) [Goals](Categories/Goals.md) [Motivation](Categories/Motivation.md) [Proactivity](Categories/Proactivity.md) [Procrastination](Categories/Procrastination.md) [Success](Categories/Success.md)
+- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Avoid procrastinating](Avoid%20procrastinating/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Eating an elephant](Eating%20an%20elephant/index.md)
+- [The 2 minutes rule](The%202%20minutes%20rule/index.md)
+- [Take action](Take%20action/index.md)
+- [First, make it work](First,%20make%20it%20work/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Commitment](Categories/Commitment.md) [Goals](Categories/Goals.md) [Motivation](Categories/Motivation.md) [Proactivity](Categories/Proactivity.md) [Procrastination](Categories/Procrastination.md) [Success](Categories/Success.md)

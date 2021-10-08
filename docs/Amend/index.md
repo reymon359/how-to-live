@@ -18,7 +18,7 @@ We all make mistakes, it's ok. Just learn from them and amend what can be amende
 
 ## Related advices
 
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Apologize](../Apologize/index.md)
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [We all make mistakes](../We%20all%20make%20mistakes/index.md)<hr/><br/>[Categories:](Categories/index.md) [Fulfillment](Categories/Fulfillment.md) [Growth](Categories/Growth.md) [Guilt](Categories/Guilt.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Apologize](Apologize/index.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)
+- [We all make mistakes](We%20all%20make%20mistakes/index.md)<hr/><br/>[Categories:](Categories/index.md) [Fulfillment](Categories/Fulfillment.md) [Growth](Categories/Growth.md) [Guilt](Categories/Guilt.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md)

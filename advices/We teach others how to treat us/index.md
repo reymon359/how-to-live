@@ -29,6 +29,6 @@ Try to get to know yourself. The better you know yourself, the better you will t
 
 ## Related advices
 
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Respect yourself](../Respect%20yourself/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Respect yourself](Respect%20yourself/index.md)
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)

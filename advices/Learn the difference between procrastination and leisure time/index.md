@@ -18,6 +18,6 @@ In the end, it is hard to discern between both. Pay attention to how you feel at
 
 ## Related advices
 
-- [Avoid procrastinating](../Avoid%20procrastinating)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Find balance](../Find%20balance/index.md)
+- [Avoid procrastinating](Avoid%20procrastinating)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Find balance](Find%20balance/index.md)

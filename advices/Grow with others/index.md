@@ -12,8 +12,8 @@ The key is finding a balance between both situations. Spending time with others 
 
 ## Related advices
 
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-- [Find balance](../Find%20balance/index.md)
-- [Embrace growing](../Embrace%20growing/index.md)
-- [What surrounds you shapes you](../What%20surrounds%20you%20shapes%20you/index.md)
-- [Spend time with people you love and love you](../Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md) 
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)
+- [Find balance](Find%20balance/index.md)
+- [Embrace growing](Embrace%20growing/index.md)
+- [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)
+- [Spend time with people you love and love you](Spend%20time%20with%20people%20you%20love%20and%20love%20you/index.md) 

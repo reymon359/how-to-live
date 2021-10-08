@@ -22,7 +22,7 @@ When I travel and drive abroad, I like to listen to the radio from there and sav
 
 ## Related advices
 
-- [Listen to music](../Listen%20to%20music/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Try new things](../Try%20new%20things/index.md)
-- [Travel as much as you can](../../docs/Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Curiosity](Categories/Curiosity.md) [Knowledge](Categories/Knowledge.md) [Listening](Categories/Listening.md) [Music](Categories/Music.md) [Open-mindedness](Categories/Open-mindedness.md) [Travel](Categories/Travel.md)
+- [Listen to music](Listen%20to%20music/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Try new things](Try%20new%20things/index.md)
+- [Travel as much as you can](../docs/Travel%20as%20much%20as%20you%20can/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Curiosity](Categories/Curiosity.md) [Knowledge](Categories/Knowledge.md) [Listening](Categories/Listening.md) [Music](Categories/Music.md) [Open-mindedness](Categories/Open-mindedness.md) [Travel](Categories/Travel.md)

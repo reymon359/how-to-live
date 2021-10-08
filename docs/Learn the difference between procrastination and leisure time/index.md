@@ -14,6 +14,6 @@ In the end, it is hard to discern between both. Pay attention to how you feel at
 
 ## Related advices
 
-- [Avoid procrastinating](../Avoid%20procrastinating)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Find balance](../Find%20balance/index.md)<hr/><br/>[Categories:](Categories/index.md) [Balance](Categories/Balance.md) [Leisure](Categories/Leisure.md) [Procrastination](Categories/Procrastination.md) [Time](Categories/Time.md) [Time management](Categories/Time%20management.md)
+- [Avoid procrastinating](Avoid%20procrastinating)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Find balance](Find%20balance/index.md)<hr/><br/>[Categories:](Categories/index.md) [Balance](Categories/Balance.md) [Leisure](Categories/Leisure.md) [Procrastination](Categories/Procrastination.md) [Time](Categories/Time.md) [Time management](Categories/Time%20management.md)

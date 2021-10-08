@@ -32,10 +32,10 @@ This topic is well discussed in Stephen Covey's book The 7 Habits of Highly Effe
 
 ## Related advices
 
-- [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
-- [Ask for forgiveness, not permission](../Ask%20for%20forgiveness,%20not%20permissio/index.md)
-- [You are not something, you choose to be something](../You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Take action](../Take%20action/index.md)
+- [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [If you want, you can](If%20you%20want,%20you%20can/index.md)
+- [Ask for forgiveness, not permission](Ask%20for%20forgiveness,%20not%20permissio/index.md)
+- [You are not something, you choose to be something](You%20are%20not%20something,%20you%20choose%20to%20be%20something/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
+- [Take action](Take%20action/index.md)

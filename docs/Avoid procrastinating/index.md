@@ -38,9 +38,9 @@ Chapter 9: Putting An End to Procrastination — Now from Wayne Dyer's Your Erro
 
 ## Related advices
 
-- [Avoid complaining](../Avoid%20complaining/index.md)
-- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
-- [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Commitment](Categories/Commitment.md) [Distractions](Categories/Distractions.md) [Focus](Categories/Focus.md) [Fulfillment](Categories/Fulfillment.md) [Goals](Categories/Goals.md) [Guilt](Categories/Guilt.md) [Leisure](Categories/Leisure.md) [Mistakes](Categories/Mistakes.md) [Motivation](Categories/Motivation.md) [Procrastination](Categories/Procrastination.md) [Productivity](Categories/Productivity.md) [Responsibility](Categories/Responsibility.md) [Time](Categories/Time.md) [Time management](Categories/Time%20management.md)
+- [Avoid complaining](Avoid%20complaining/index.md)
+- [The Eisenhower Matrix](The%20Eisenhower%20Matrix/index.md)
+- [Learn the difference between procrastination and pleasure time](Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Commitment](Categories/Commitment.md) [Distractions](Categories/Distractions.md) [Focus](Categories/Focus.md) [Fulfillment](Categories/Fulfillment.md) [Goals](Categories/Goals.md) [Guilt](Categories/Guilt.md) [Leisure](Categories/Leisure.md) [Mistakes](Categories/Mistakes.md) [Motivation](Categories/Motivation.md) [Procrastination](Categories/Procrastination.md) [Productivity](Categories/Productivity.md) [Responsibility](Categories/Responsibility.md) [Time](Categories/Time.md) [Time management](Categories/Time%20management.md)

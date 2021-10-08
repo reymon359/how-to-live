@@ -20,5 +20,5 @@ You will save an enormous quantity of time and effort.
 
 ## Related advices
 
-- [Avoid overthinking](../Avoid%20overthinking/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
+- [Avoid overthinking](Avoid%20overthinking/index.md)
+- [Research to understand better](Research%20to%20understand%20better/index.md)

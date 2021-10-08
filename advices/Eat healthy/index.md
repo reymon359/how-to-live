@@ -28,8 +28,8 @@ If you don't know how to eat healthy or what you should eat, ask for help. Go to
 
 ## Related advices
 
-- [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Drink enough water](../Drink%20enough%20water/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Go to the doctor](../Go%20to%20the%20doctor/index.md)
-- [Try new things](../Try%20new%20things/index.md)
+- [Listen to your body](Listen%20to%20your%20body/index.md)
+- [Drink enough water](Drink%20enough%20water/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Go to the doctor](Go%20to%20the%20doctor/index.md)
+- [Try new things](Try%20new%20things/index.md)

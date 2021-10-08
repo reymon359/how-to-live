@@ -34,9 +34,9 @@ Working in team situations made me realize it is much better to ask for help and
 
 ## Related advices
 
-- [Offer your help](../Offer%20your%20help/index.md)
-- [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Go to the doctor](../Go%20to%20the%20doctor/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Comfort zone](Categories/Comfort%20zone.md) [Commitment](Categories/Commitment.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Help](Categories/Help.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Mental health](Categories/Mental%20health.md) [Problems](Categories/Problems.md) [Solutions](Categories/Solutions.md)
+- [Offer your help](Offer%20your%20help/index.md)
+- [Question what you don't understand](Question%20what%20you%20don't%20understand/index.md)
+- [Research to understand better](Research%20to%20understand%20better/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Go to the doctor](Go%20to%20the%20doctor/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Comfort zone](Categories/Comfort%20zone.md) [Commitment](Categories/Commitment.md) [Communication](Categories/Communication.md) [Community](Categories/Community.md) [Help](Categories/Help.md) [Honesty](Categories/Honesty.md) [Integrity](Categories/Integrity.md) [Mental health](Categories/Mental%20health.md) [Problems](Categories/Problems.md) [Solutions](Categories/Solutions.md)

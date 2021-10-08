@@ -28,10 +28,10 @@ Remember, the most important part when communicating is to listen properly.
 
 ## Related advices
 
-- [Ask questions](../Ask%20questions/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)
-- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
-- [Listening before talking](../Listen%20before%20talking/index.md)
-- [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-- [Emphatic listening](../Empathic%20Listening/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Comfort zone](Categories/Comfort%20zone.md) [Communication](Categories/Communication.md) [Knowledge](Categories/Knowledge.md) [Listening](Categories/Listening.md) [Networking](Categories/Networking.md) [Open-mindedness](Categories/Open-mindedness.md) [Problems](Categories/Problems.md) [Relationships](Categories/Relationships.md) [Solutions](Categories/Solutions.md) [Travel](Categories/Travel.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Ask for help](Ask%20for%20help/index.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)
+- [Listening before talking](Listen%20before%20talking/index.md)
+- [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+- [Emphatic listening](Empathic%20Listening/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Comfort zone](Categories/Comfort%20zone.md) [Communication](Categories/Communication.md) [Knowledge](Categories/Knowledge.md) [Listening](Categories/Listening.md) [Networking](Categories/Networking.md) [Open-mindedness](Categories/Open-mindedness.md) [Problems](Categories/Problems.md) [Relationships](Categories/Relationships.md) [Solutions](Categories/Solutions.md) [Travel](Categories/Travel.md)

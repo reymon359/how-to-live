@@ -22,7 +22,7 @@ We all make mistakes, it's ok. Just learn from them and amend what can be amende
 
 ## Related advices
 
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Apologize](../Apologize/index.md)
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [We all make mistakes](../We%20all%20make%20mistakes/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Apologize](Apologize/index.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)
+- [We all make mistakes](We%20all%20make%20mistakes/index.md)

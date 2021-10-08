@@ -24,4 +24,4 @@ Helping others will make you feel fulfilled and happier.
 
 ## Related advices
 
-- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Friendship](Categories/Friendship.md) [Happiness](Categories/Happiness.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Networking](Categories/Networking.md) [Proactivity](Categories/Proactivity.md) [Relationships](Categories/Relationships.md)
+- [Helping makes you happy](Helping%20makes%20you%20happy/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Friendship](Categories/Friendship.md) [Happiness](Categories/Happiness.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Networking](Categories/Networking.md) [Proactivity](Categories/Proactivity.md) [Relationships](Categories/Relationships.md)

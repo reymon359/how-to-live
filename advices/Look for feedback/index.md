@@ -32,7 +32,7 @@ Be grateful with the negative feedback. Don't be afraid of it. Embrace it becaus
 
 ## Related advices
 
-- [Empathic listening](../Empathic%20listening/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Ask questions](../Ask%20questions/index.md)
-- [Be grateful](../Be%20grateful/index.md)
+- [Empathic listening](Empathic%20listening/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Be grateful](Be%20grateful/index.md)

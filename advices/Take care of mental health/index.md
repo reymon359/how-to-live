@@ -34,7 +34,7 @@ Mental health is no joke. Offer your help to those that are struggling with it.
 
 ## Related advices
 
-- [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Go to the doctor](../Go%20to%20the%20doctor/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)
+- [Listen to your body](Listen%20to%20your%20body/index.md)
+- [Go to the doctor](Go%20to%20the%20doctor/index.md)
+- [Ask for help](Ask%20for%20help/index.md)
+- [Offer your help](Offer%20your%20help/index.md)

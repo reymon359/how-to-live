@@ -34,9 +34,9 @@ The chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your 
 
 ## Related advices
 
-- [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
-- [Don't feel bad about making mistakes](../We%20all%20make%20mistakes/index.md)
-- [Don't worry](../Don't%20worry/index.md)
-- [There is no black or white](../There%20is%20no%20black%20or%20white/index.md)
-- [Learn to forgive](../Learn%20to%20forgive/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
+- [Don't give more importance to things than they already have](Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
+- [Don't feel bad about making mistakes](We%20all%20make%20mistakes/index.md)
+- [Don't worry](Don't%20worry/index.md)
+- [There is no black or white](There%20is%20no%20black%20or%20white/index.md)
+- [Learn to forgive](Learn%20to%20forgive/index.md)
+- [Take care of your mental health](Take%20care%20of%20your%20mental%20health/index.md)

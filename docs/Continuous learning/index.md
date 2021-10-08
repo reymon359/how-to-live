@@ -38,12 +38,12 @@ Try to learn something new every day. With the internet, you have access to all 
 
 ## Related advices
 
-- [Step outside comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Take Notes](../Take%20notes/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Curiosity](Categories/Curiosity.md) [Future](Categories/Future.md) [Goals](Categories/Goals.md) [Growth](Categories/Growth.md) [Improvement](Categories/Improvement.md) [Knowledge](Categories/Knowledge.md) [Knowledge](Categories/Knowledge.md) [Motivation](Categories/Motivation.md) [Practice](Categories/Practice.md) [Success](Categories/Success.md) [Travel](Categories/Travel.md)
+- [Step outside comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [If you want, you can](If%20you%20want,%20you%20can/index.md)
+- [Research to understand better](Research%20to%20understand%20better/index.md)
+- [Take Notes](Take%20notes/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
+- [Everything in life is practice](Everything%20in%20life%20is%20practice/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Curiosity](Categories/Curiosity.md) [Future](Categories/Future.md) [Goals](Categories/Goals.md) [Growth](Categories/Growth.md) [Improvement](Categories/Improvement.md) [Knowledge](Categories/Knowledge.md) [Knowledge](Categories/Knowledge.md) [Motivation](Categories/Motivation.md) [Practice](Categories/Practice.md) [Success](Categories/Success.md) [Travel](Categories/Travel.md)

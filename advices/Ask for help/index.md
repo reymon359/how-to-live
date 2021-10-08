@@ -38,9 +38,9 @@ Working in team situations made me realize it is much better to ask for help and
 
 ## Related advices
 
-- [Offer your help](../Offer%20your%20help/index.md)
-- [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Go to the doctor](../Go%20to%20the%20doctor/index.md)
+- [Offer your help](Offer%20your%20help/index.md)
+- [Question what you don't understand](Question%20what%20you%20don't%20understand/index.md)
+- [Research to understand better](Research%20to%20understand%20better/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Go to the doctor](Go%20to%20the%20doctor/index.md)

@@ -30,6 +30,6 @@ When you delegate, make sure the person that will be in charge understands what 
 
 ## Related advices
 
-- [Be honest](../Be%20honest/index.md)
-- [Trust others](../Trust%20others/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)
+- [Be honest](Be%20honest/index.md)
+- [Trust others](Trust%20others/index.md)
+- [Offer your help](Offer%20your%20help/index.md)

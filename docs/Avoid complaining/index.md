@@ -34,10 +34,10 @@ Your Erroneous Zones from Wayne Dyer discussed this topic.
 
 ## Related advices
 
-- [Take action](../Take%20action/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Learn to forgive](../Learn%20to%20forgive/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Communication](Categories/Communication.md) [Guilt](Categories/Guilt.md) [Happiness](Categories/Happiness.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Mental health](Categories/Mental%20health.md) [Mistakes](Categories/Mistakes.md) [Proactivity](Categories/Proactivity.md) [Solutions](Categories/Solutions.md)
+- [Take action](Take%20action/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Learn to forgive](Learn%20to%20forgive/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Communication](Categories/Communication.md) [Guilt](Categories/Guilt.md) [Happiness](Categories/Happiness.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Mental health](Categories/Mental%20health.md) [Mistakes](Categories/Mistakes.md) [Proactivity](Categories/Proactivity.md) [Solutions](Categories/Solutions.md)

@@ -28,8 +28,8 @@ There are some interesting chapters about others' opinions and exploring the unk
 
 ## Related advices
 
-- [Open your mind](../Open%20your%20mind/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Try new things](../Try%20new%20things/index.md)
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Try new things](Try%20new%20things/index.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)

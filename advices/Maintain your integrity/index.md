@@ -39,7 +39,7 @@ Stephen R. Covey focuses on this topic in his book The 7 Habits of Highly Effect
 
 ## Related advices
 
-- [Respect yourself](../Respect%20yourself/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Be honest](../Be%20honest/index.md)
-- [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
+- [Respect yourself](Respect%20yourself/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Be honest](Be%20honest/index.md)
+- [Have ownership of what you do](Have%20ownership%20of%20what%20you%20do/index.md)

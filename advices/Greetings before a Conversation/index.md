@@ -24,7 +24,7 @@ When you ask about how others feel, listen emphatically to them.
 
 ## Related advices
 
-- [Embrace communication](../Embrace%20communication/index.md)
-- [Ask questions](../Ask%20questions/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Emphatic Listening](../Empathic%20listening/index.md)
+- [Embrace communication](Embrace%20communication/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Emphatic Listening](Empathic%20listening/index.md)

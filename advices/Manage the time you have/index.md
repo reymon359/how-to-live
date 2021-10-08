@@ -43,7 +43,7 @@ Book time for planning. Try to spend a bit of time each day to plan the next day
 
 ## Related advices
 
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [Time is more valuable than money](../Time%20is%20more%20valuable%20than%20money/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)
+- [Time is more valuable than money](Time%20is%20more%20valuable%20than%20money/index.md)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [The Eisenhower Matrix](The%20Eisenhower%20Matrix/index.md)

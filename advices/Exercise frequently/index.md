@@ -42,7 +42,7 @@ This topic is referenced in the Stephen R. Covey book The 7 Habits of Highly Eff
  
 ## Related advices
  
-- [Everything in life is practice](../Everything%20in%20life%20is%20practice/index.md)
-- [Listen to our body](../Listen%20to%20your%20body/index.md)
-- [Eat healthy](../Eat%20healthy/index.md)
-- [Drink enough water](../Drink%20enough%20water/index.md)
+- [Everything in life is practice](Everything%20in%20life%20is%20practice/index.md)
+- [Listen to our body](Listen%20to%20your%20body/index.md)
+- [Eat healthy](Eat%20healthy/index.md)
+- [Drink enough water](Drink%20enough%20water/index.md)

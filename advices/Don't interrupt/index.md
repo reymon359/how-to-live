@@ -22,7 +22,7 @@ Avoid the urge to communicate your opinion.
 
 ## Related advices
 
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Empathic listening](../Empathic%20Listening/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Empathic listening](Empathic%20Listening/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)

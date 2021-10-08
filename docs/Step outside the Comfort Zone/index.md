@@ -44,12 +44,12 @@ I have discussed this topic with a lot of people and have read books about it li
 
 ## Related advices
 
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Try new things](../Try%20new%20things/index.md)
-- [If you want, you can](../If%20you%20want,%20you%20can/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Don't procastinate](../Avoid%20procrastinating/index.md)
-- [Take action](../Take%20action/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)<hr/><br/>[Categories:](Categories/index.md) [Adventures](Categories/Adventures.md) [Balance](Categories/Balance.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Growth](Categories/Growth.md) [Open-mindedness](Categories/Open-mindedness.md) [Proactivity](Categories/Proactivity.md) [Solutions](Categories/Solutions.md) [Success](Categories/Success.md) [Unknown](Categories/Unknown.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Try new things](Try%20new%20things/index.md)
+- [If you want, you can](If%20you%20want,%20you%20can/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Eating an elephant](Eating%20an%20elephant/index.md)
+- [Don't procastinate](Avoid%20procrastinating/index.md)
+- [Take action](Take%20action/index.md)
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)<hr/><br/>[Categories:](Categories/index.md) [Adventures](Categories/Adventures.md) [Balance](Categories/Balance.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Growth](Categories/Growth.md) [Open-mindedness](Categories/Open-mindedness.md) [Proactivity](Categories/Proactivity.md) [Solutions](Categories/Solutions.md) [Success](Categories/Success.md) [Unknown](Categories/Unknown.md)

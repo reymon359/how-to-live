@@ -32,10 +32,10 @@ Remember, the most important part when communicating is to listen properly.
 
 ## Related advices
 
-- [Ask questions](../Ask%20questions/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)
-- [You shouldn't avoid communication](../You%20shouldn't%20avoid%20communication/index.md)
-- [Listening before talking](../Listen%20before%20talking/index.md)
-- [Update others about your commitment](../Update%20others%20about%20your%20commitment/index.md)
-- [Emphatic listening](../Empathic%20Listening/index.md)
-- [Listen before talking](../Listen%20before%20talking/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Ask for help](Ask%20for%20help/index.md)
+- [You shouldn't avoid communication](You%20shouldn't%20avoid%20communication/index.md)
+- [Listening before talking](Listen%20before%20talking/index.md)
+- [Update others about your commitment](Update%20others%20about%20your%20commitment/index.md)
+- [Emphatic listening](Empathic%20Listening/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)

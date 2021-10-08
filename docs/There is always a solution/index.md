@@ -14,6 +14,6 @@ Once you have a solution that works, try to improve it. Refactor it.
 
 ## Related advices
 
-- [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Continuous refactor](../Continuous%20refactor/index.md)<hr/><br/>[Categories:](Categories/index.md) [Mental health](Categories/Mental%20health.md) [Open-mindedness](Categories/Open-mindedness.md) [Proactivity](Categories/Proactivity.md) [Proactivity](Categories/Proactivity.md) [Problems](Categories/Problems.md) [Refactor](Categories/Refactor.md) [Solutions](Categories/Solutions.md)
+- [Focus on solutions, not problems](Focus%20on%20solutions,%20not%20problems/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Continuous refactor](Continuous%20refactor/index.md)<hr/><br/>[Categories:](Categories/index.md) [Mental health](Categories/Mental%20health.md) [Open-mindedness](Categories/Open-mindedness.md) [Proactivity](Categories/Proactivity.md) [Proactivity](Categories/Proactivity.md) [Problems](Categories/Problems.md) [Refactor](Categories/Refactor.md) [Solutions](Categories/Solutions.md)

@@ -22,6 +22,6 @@ I learned this one doing software development and reading books like The Pragmat
 
 ## Related advices
 
-- [Continuous refactor](../Continuous%20refactor/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [The hardest part is the beginning](../The%20hardest%20part%20is%20the%20beginning/index.md)
+- [Continuous refactor](Continuous%20refactor/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [The hardest part is the beginning](The%20hardest%20part%20is%20the%20beginning/index.md)

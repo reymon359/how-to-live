@@ -30,7 +30,7 @@ There are multiple ways to do this, from a simple notebook to online apps. Just 
 
 ## Related advices
 
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
-- [Set up reminders](../Set%20up%20reminders/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)
+- [Continuous learning](Continuous%20learning/index.md)
+- [Research to understand better](Research%20to%20understand%20better/index.md)
+- [Set up reminders](Set%20up%20reminders/index.md)

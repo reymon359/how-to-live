@@ -106,5 +106,5 @@ Most of the text above comes from what I learned from Stephen Covey’s book The
 
 ## Related advices
 
-- [Learn to delegate](../Learn%20to%20delegate/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
+- [Learn to delegate](Learn%20to%20delegate/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)

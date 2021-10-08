@@ -30,7 +30,7 @@ Maybe the moment is not how you want it to be. Try not to force it, let the mome
 
 ## Related advices
 
-- [Enjoy the little things](../Enjoy%20the%20little%20things/index.md)
-- [Pay attention](../Pay%20attention/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
+- [Enjoy the little things](Enjoy%20the%20little%20things/index.md)
+- [Pay attention](Pay%20attention/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)

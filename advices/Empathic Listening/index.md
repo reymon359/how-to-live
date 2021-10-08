@@ -31,8 +31,8 @@ This topic is discussed in Stephen Covey's book The 7 Habits of Highly Effective
 
 ## Related advices
 
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Ask questions](../Ask%20questions/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)

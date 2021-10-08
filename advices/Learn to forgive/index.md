@@ -32,7 +32,7 @@ Forgive a second time if necessary. However, be careful forgiving the same mista
 
 ## Related advices
 
-- [Let it flow](../Let%20it%20flow/index.md)
-- [Give second chances](../Give%20second%20chances/index.md)
-- [Be empathetic](../Be%20empathetic/index.md)
-- [Offer your help](../Offer%20your%20help/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [Give second chances](Give%20second%20chances/index.md)
+- [Be empathetic](Be%20empathetic/index.md)
+- [Offer your help](Offer%20your%20help/index.md)

@@ -32,7 +32,7 @@ I also enjoyed reading this article from Kenta Nagamine about the topic: [Where 
 
 ## Related advices
 
-- [Travel as much as you can](../Travel%20as%20much%20as%20you%20can/index.md)
-- [Try new things](../Try%20new%20things/index.md)
-- [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Growth](Categories/Growth.md) [Networking](Categories/Networking.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md)
+- [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
+- [Try new things](Try%20new%20things/index.md)
+- [Eating an elephant](Eating%20an%20elephant/index.md)
+- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Growth](Categories/Growth.md) [Networking](Categories/Networking.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md)

@@ -32,10 +32,10 @@ This one is heavily inspired by chapter 8: The Justice Trap from Wayne Dyer's bo
 
 ## Related advices
 
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Avoid complaining](../Avoid%20complaining/index.md)
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Don't compare yourself with others](../Don't%20compare%20yourself%20with%20others/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Avoid complaining](Avoid%20complaining/index.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Don't compare yourself with others](Don't%20compare%20yourself%20with%20others/index.md)
+- [Take care of your mental health](Take%20care%20of%20your%20mental%20health/index.md)

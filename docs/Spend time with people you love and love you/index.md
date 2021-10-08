@@ -29,6 +29,6 @@ Take care of your relationship with them. Spend time physically or if not possib
 
 ## Related advices
 
-- [Set up social goals](../Set%20up%20social%20goals/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Family](Categories/Family.md) [Friendship](Categories/Friendship.md) [Happiness](Categories/Happiness.md) [Leisure](Categories/Leisure.md) [Relationships](Categories/Relationships.md) [Time](Categories/Time.md) [Time management](Categories/Time%20management.md)
+- [Set up social goals](Set%20up%20social%20goals/index.md)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)<hr/><br/>[Categories:](Categories/index.md) [Community](Categories/Community.md) [Family](Categories/Family.md) [Friendship](Categories/Friendship.md) [Happiness](Categories/Happiness.md) [Leisure](Categories/Leisure.md) [Relationships](Categories/Relationships.md) [Time](Categories/Time.md) [Time management](Categories/Time%20management.md)

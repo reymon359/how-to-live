@@ -22,8 +22,8 @@ Learned about this while doing Software development and reading The Pragmatic Pr
 
 ## Related advices
 
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [Finish what you start](../Finish%20what%20you%20start/index.md)
-- [Have ownership of what you do](../Have%20ownership%20of%20what%20you%20do/index.md)
-- [Inbox zero](../Inbox%20zero/index.md)
-- [The 2 minutes rule](../The%202%20minutes%20rule/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Integrity](Categories/Integrity.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Refactor](Categories/Refactor.md) [Responsibility](Categories/Responsibility.md) [Software development](Categories/Software%20development.md) [Success](Categories/Success.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)
+- [Finish what you start](Finish%20what%20you%20start/index.md)
+- [Have ownership of what you do](Have%20ownership%20of%20what%20you%20do/index.md)
+- [Inbox zero](Inbox%20zero/index.md)
+- [The 2 minutes rule](The%202%20minutes%20rule/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Integrity](Categories/Integrity.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Refactor](Categories/Refactor.md) [Responsibility](Categories/Responsibility.md) [Software development](Categories/Software%20development.md) [Success](Categories/Success.md)

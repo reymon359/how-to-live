@@ -18,9 +18,9 @@ Be proactive. It's not about doing things that are illegal or immoral. It is abo
 
 ## Related advices
 
-- [Apologize](../Apologize/index.md)
-- [Amend](../Amend/index.md)
-- [Be kind](../Be%20kind/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Do no harm](../Do%20no%20harm/index.md)
+- [Apologize](Apologize/index.md)
+- [Amend](Amend/index.md)
+- [Be kind](Be%20kind/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Do no harm](Do%20no%20harm/index.md)

@@ -31,6 +31,6 @@ Thanks to Treasa Spragg for the above tips she gave me at Sun&Co about sleep opt
 
 ## Related advices
 
-- [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Take care of mental health](../Take%20care%20of%20mental%20health/index.md)
-- [Put your phone down](../Put%20your%20phone%20down/index.md)<hr/><br/>[Categories:](Categories/index.md) [Health](Categories/Health.md) [Mental health](Categories/Mental%20health.md)
+- [Listen to your body](Listen%20to%20your%20body/index.md)
+- [Take care of mental health](Take%20care%20of%20mental%20health/index.md)
+- [Put your phone down](Put%20your%20phone%20down/index.md)<hr/><br/>[Categories:](Categories/index.md) [Health](Categories/Health.md) [Mental health](Categories/Mental%20health.md)

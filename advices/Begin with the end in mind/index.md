@@ -26,5 +26,5 @@ The chapter with the same name from Stephen R. Covey's book The 7 Habits of High
 
 ## Related advices
 
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
-- [What you want is constantly changing](../What%20you%20want%20is%20constantly%20changing/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)
+- [What you want is constantly changing](What%20you%20want%20is%20constantly%20changing/index.md)

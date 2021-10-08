@@ -44,9 +44,9 @@ Chapter 5 "The Useless Emotions — Guilt and Worry" from Wayne Dyer's Your Erro
 
 ## Related advices
 
-- [Don't give more importance to things than they already have](../Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
-- [Don't feel guilty](../Don't%20feel%20guilty/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-- [Take action](../Take%20action/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [You Don’t Need Their Approval](../You%20don't%20need%20their%20approval/index.md)
+- [Don't give more importance to things than they already have](Don't%20give%20more%20importance%20to%20things%20than%20they%20already%20have/index.md)
+- [Don't feel guilty](Don't%20feel%20guilty/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [Take action](Take%20action/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [You Don’t Need Their Approval](You%20don't%20need%20their%20approval/index.md)

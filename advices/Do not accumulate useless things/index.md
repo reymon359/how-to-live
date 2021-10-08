@@ -26,7 +26,7 @@ Have a minimalist mentality.
 
 ## Related advices
 
-- [Remove dependencies](../Remove%20dependencies/index.md)
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Give and share with others](../Give%20and%20share%20with%20others/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.m)
+- [Remove dependencies](Remove%20dependencies/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)
+- [Give and share with others](Give%20and%20share%20with%20others/index.md)
+- [Buy just what you need](Buy%20just%20what%20you%20need/index.m)

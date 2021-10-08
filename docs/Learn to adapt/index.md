@@ -34,8 +34,8 @@ Adapt to the moment. Sometimes things change suddenly, much faster than expected
 
 ## Related advices
 
-- [Avoid complaining](../Avoid%20complaining/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-- [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Freedom](Categories/Freedom.md) [Growth](Categories/Growth.md) [Proactivity](Categories/Proactivity.md) [Solutions](Categories/Solutions.md) [Success](Categories/Success.md) [Travel](Categories/Travel.md) [Unknown](Categories/Unknown.md)
+- [Avoid complaining](Avoid%20complaining/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [Life has its own stages](Life%20has%20its%20own%20stages/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Focus on solutions, not problems](Focus%20on%20solutions,%20not%20problems/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Comfort zone](Categories/Comfort%20zone.md) [Freedom](Categories/Freedom.md) [Growth](Categories/Growth.md) [Proactivity](Categories/Proactivity.md) [Solutions](Categories/Solutions.md) [Success](Categories/Success.md) [Travel](Categories/Travel.md) [Unknown](Categories/Unknown.md)

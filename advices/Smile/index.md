@@ -42,4 +42,4 @@ Smile and be grateful.
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)
+- [Be grateful](Be%20grateful/index.md)

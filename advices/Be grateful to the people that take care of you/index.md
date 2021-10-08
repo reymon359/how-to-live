@@ -28,5 +28,5 @@ Enjoy the moments with them.
 
 ## Related advices
 
-- [Be grateful](../Be%20grateful/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)
+- [Be grateful](Be%20grateful/index.md)
+- [Enjoy the moment](Enjoy%20the%20moment/index.md)

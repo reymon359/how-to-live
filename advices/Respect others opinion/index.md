@@ -32,7 +32,7 @@ There are two great books I read that discussed this topic: The 7 Habits of High
 
 ## Related advices
 
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [respect others beliefs](../Respect%20others%20beliefs/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Empathic listening](../Empathic%20listening/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [respect others beliefs](Respect%20others%20beliefs/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Empathic listening](Empathic%20listening/index.md)

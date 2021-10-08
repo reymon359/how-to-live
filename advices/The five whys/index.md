@@ -28,7 +28,7 @@ The technique was originally developed by Sakichi Toyoda and was used within the
 
 ## Related advices
 
-- [Question everything. Do not take anything for granted](../Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [There is always a solution](../There%20is%20always%20a%20solution/index.md)
-- [Ask questions](../Ask%20questions/index.md)
+- [Question everything. Do not take anything for granted](Question%20everything.%20Do%20not%20take%20anything%20for%20granted/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [There is always a solution](There%20is%20always%20a%20solution/index.md)
+- [Ask questions](Ask%20questions/index.md)

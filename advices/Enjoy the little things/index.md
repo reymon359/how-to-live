@@ -24,7 +24,7 @@ Enjoy those details, they can seem meaningless, however, are the most important 
 
 ## Related advices
 
-- [Enjoy nature music](../Enjoy%20nature%20music/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)
-- [Smile](../Smile/index.md)
-- [Pay attention](../Pay%20attention/index.md)
+- [Enjoy nature music](Enjoy%20nature%20music/index.md)
+- [Enjoy the moment](Enjoy%20the%20moment/index.md)
+- [Smile](Smile/index.md)
+- [Pay attention](Pay%20attention/index.md)

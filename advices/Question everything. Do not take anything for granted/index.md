@@ -28,7 +28,7 @@ Make sure a commitment is clear before committing to it
 
 ## Related advices
 
-- [Ask questions](../Ask%20questions/index.md)
-- [Question what you don't understand](../Question%20what%20you%20don't%20understand/index.md)
-- [Continuous learning](../Continuous%20learning/index.md)
-- [Research to understand better](../Research%20to%20understand%20better/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Question what you don't understand](Question%20what%20you%20don't%20understand/index.md)
+- [Continuous learning](Continuous%20learning/index.md)
+- [Research to understand better](Research%20to%20understand%20better/index.md)

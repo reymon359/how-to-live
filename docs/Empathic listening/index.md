@@ -27,8 +27,8 @@ This topic is discussed in Stephen Covey's book The 7 Habits of Highly Effective
 
 ## Related advices
 
-- [Listen before talking](../Listen%20before%20talking/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Ask questions](../Ask%20questions/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Attention](Categories/Attention.md) [Communication](Categories/Communication.md) [Empathy](Categories/Empathy.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Mindfulness](Categories/Mindfulness.md) [Networking](Categories/Networking.md) [Open-mindedness](Categories/Open-mindedness.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md)
+- [Listen before talking](Listen%20before%20talking/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Ask questions](Ask%20questions/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)<hr/><br/>[Categories:](Categories/index.md) [Asking](Categories/Asking.md) [Attention](Categories/Attention.md) [Communication](Categories/Communication.md) [Empathy](Categories/Empathy.md) [Help](Categories/Help.md) [Kindness](Categories/Kindness.md) [Listening](Categories/Listening.md) [Mindfulness](Categories/Mindfulness.md) [Networking](Categories/Networking.md) [Open-mindedness](Categories/Open-mindedness.md) [Relationships](Categories/Relationships.md) [Respect](Categories/Respect.md)

@@ -32,9 +32,9 @@ Stephen R. Covey focused on this topic in his book The 7 Habits of Highly Effect
 
 ## Related advices
 
-- [Avoid procrastinating](../Avoid%20procrastinating/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Let it flow](../Let%20it%20flow/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Manage the time you have](../Manage%20the%20time%20you%20have/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)
+- [Avoid procrastinating](Avoid%20procrastinating/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Let it flow](Let%20it%20flow/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Manage the time you have](Manage%20the%20time%20you%20have/index.md)
+- [Enjoy the moment](Enjoy%20the%20moment/index.md)

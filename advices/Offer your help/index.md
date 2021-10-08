@@ -28,4 +28,4 @@ Helping others will make you feel fulfilled and happier.
 
 ## Related advices
 
-- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
+- [Helping makes you happy](Helping%20makes%20you%20happy/index.md)

@@ -33,6 +33,6 @@ There is a saying in the Scouts about trying to leave a place better than you fo
 
 ## Related advices
 
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Enjoy nature music](../Enjoy%20nature%20music/index.md) <hr/><br/>[Categories:](Categories/index.md) [Integrity](Categories/Integrity.md) [Kindness](Categories/Kindness.md) [Nature](Categories/Nature.md) [Respect](Categories/Respect.md) [Travel](Categories/Travel.md)
+- [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)
+- [Enjoy nature music](Enjoy%20nature%20music/index.md) <hr/><br/>[Categories:](Categories/index.md) [Integrity](Categories/Integrity.md) [Kindness](Categories/Kindness.md) [Nature](Categories/Nature.md) [Respect](Categories/Respect.md) [Travel](Categories/Travel.md)

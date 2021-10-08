@@ -22,8 +22,8 @@ Try new things and look for new experiences to open your mind.
 
 ## Related advices
 
-- [Respect others beliefs](../Respect%20others%20beliefs/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Relativize, don't generalize](../Relativize,%20don't%20generalize/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Try new things](../Try%20new%20things/index.md)
+- [Respect others beliefs](Respect%20others%20beliefs/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Relativize, don't generalize](Relativize,%20don't%20generalize/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Try new things](Try%20new%20things/index.md)

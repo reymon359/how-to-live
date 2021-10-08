@@ -24,6 +24,6 @@ When you do Software Development, you are constantly creating things that you ha
 
 ## Related advices
 
-- [Take responsibility](../Take%20responsibility/index.md) 
-- [Remove dependencies](../Remove%20dependencies/index.md)
-- [Fulfill your commitments](../Fulfill%20your%20commitments/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Dependencies](Categories/Dependencies.md) [Fulfillment](Categories/Fulfillment.md) [Integrity](Categories/Integrity.md) [Responsibility](Categories/Responsibility.md) [Software development](Categories/Software%20development.md)
+- [Take responsibility](Take%20responsibility/index.md) 
+- [Remove dependencies](Remove%20dependencies/index.md)
+- [Fulfill your commitments](Fulfill%20your%20commitments/index.md)<hr/><br/>[Categories:](Categories/index.md) [Commitment](Categories/Commitment.md) [Dependencies](Categories/Dependencies.md) [Fulfillment](Categories/Fulfillment.md) [Integrity](Categories/Integrity.md) [Responsibility](Categories/Responsibility.md) [Software development](Categories/Software%20development.md)

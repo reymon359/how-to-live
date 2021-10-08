@@ -20,6 +20,6 @@ No matter the other's opinion and if you agree or not with it, try to respect it
 
 ## Related advices
 
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Communication](Categories/Communication.md) [Justice](Categories/Justice.md) [Kindness](Categories/Kindness.md) [Open-mindedness](Categories/Open-mindedness.md) [Personality](Categories/Personality.md) [Relationships](Categories/Relationships.md) [Religion](Categories/Religion.md) [Respect](Categories/Respect.md) [Travel](Categories/Travel.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Let others do what they want](Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Communication](Categories/Communication.md) [Justice](Categories/Justice.md) [Kindness](Categories/Kindness.md) [Open-mindedness](Categories/Open-mindedness.md) [Personality](Categories/Personality.md) [Relationships](Categories/Relationships.md) [Religion](Categories/Religion.md) [Respect](Categories/Respect.md) [Travel](Categories/Travel.md)

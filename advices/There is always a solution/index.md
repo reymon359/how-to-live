@@ -18,6 +18,6 @@ Once you have a solution that works, try to improve it. Refactor it.
 
 ## Related advices
 
-- [Focus on solutions, not problems](../Focus%20on%20solutions,%20not%20problems/index.md)
-- [Be proactive](../Be%20proactive/index.md)
-- [Continuous refactor](../Continuous%20refactor/index.md)
+- [Focus on solutions, not problems](Focus%20on%20solutions,%20not%20problems/index.md)
+- [Be proactive](Be%20proactive/index.md)
+- [Continuous refactor](Continuous%20refactor/index.md)

@@ -26,6 +26,6 @@ This one is heavily inspired by a great talk I had with Jean-Philippe at Chateau
 
 ## Related advices
 
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Enjoy the moment](../Enjoy%20the%20moment/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Enjoy the moment](Enjoy%20the%20moment/index.md)

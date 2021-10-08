@@ -25,12 +25,12 @@ A deep chat with my friend Pablo Llorca made me realize about this.
 
 ## Related advices
 
-- [Eating an elephant](../Eating%20an%20elephant/index.md)
-- [Embrace growing](../Embrace%20growing/index.md)
-- [Step outside the comfort zone](../Step%20outside%20the%20comfort%20zone/index.md)
-- [Be grateful](../Be%20grateful/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
-- [Look for feedback](../Look%20for%20feedback/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Let others do what they want](../Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Growth](Categories/Growth.md) [Personality](Categories/Personality.md) [Respect](Categories/Respect.md)
+- [Eating an elephant](Eating%20an%20elephant/index.md)
+- [Embrace growing](Embrace%20growing/index.md)
+- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Be grateful](Be%20grateful/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
+- [Look for feedback](Look%20for%20feedback/index.md)
+- [Open your mind](Open%20your%20mind/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Let others do what they want](Let%20others%20do%20what%20they%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Change](Categories/Change.md) [Growth](Categories/Growth.md) [Personality](Categories/Personality.md) [Respect](Categories/Respect.md)

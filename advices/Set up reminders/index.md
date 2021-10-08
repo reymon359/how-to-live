@@ -32,6 +32,6 @@ I learned this by myself by realizing how my productivity increased just by sett
 
 ## Related advices
 
-- [Review your goals](../Review%20your%20goals/index.md)
-- [Learn to adapt](../Learn%20to%20adapt/index.md)
-- [Learn to delegate](../Learn%20to%20delegate/index.md)
+- [Review your goals](Review%20your%20goals/index.md)
+- [Learn to adapt](Learn%20to%20adapt/index.md)
+- [Learn to delegate](Learn%20to%20delegate/index.md)

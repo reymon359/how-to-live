@@ -42,9 +42,9 @@ Chapter 9: Putting An End to Procrastination — Now from Wayne Dyer's Your Erro
 
 ## Related advices
 
-- [Avoid complaining](../Avoid%20complaining/index.md)
-- [The Eisenhower Matrix](../The%20Eisenhower%20Matrix/index.md)
-- [Learn the difference between procrastination and pleasure time](../Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Book leisure time](../Book%20leisure%20time/index.md)
-- [Book time for planning](../Book%20time%20for%20planning/index.md)
+- [Avoid complaining](Avoid%20complaining/index.md)
+- [The Eisenhower Matrix](The%20Eisenhower%20Matrix/index.md)
+- [Learn the difference between procrastination and pleasure time](Learn%20the%20difference%20between%20procrastination%20and%20leisure%20time/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Book leisure time](Book%20leisure%20time/index.md)
+- [Book time for planning](Book%20time%20for%20planning/index.md)

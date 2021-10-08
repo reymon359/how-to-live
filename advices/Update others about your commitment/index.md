@@ -30,7 +30,7 @@ The Clean Coder by Robert C. Martin discusses this topic.
 
 ## Related advices
 
-- [Be punctual](../Be%20punctual/index.md)
-- [Maintain your integrity](../Maintain%20your%20integrity/index.md)
-- [Ask for help](../Ask%20for%20help/index.md)
-- [Be honest](../Be%20honest/index.md)
+- [Be punctual](Be%20punctual/index.md)
+- [Maintain your integrity](Maintain%20your%20integrity/index.md)
+- [Ask for help](Ask%20for%20help/index.md)
+- [Be honest](Be%20honest/index.md)

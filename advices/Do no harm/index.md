@@ -32,7 +32,7 @@ Don't harm nature, either. Respect the world we all live on.
 
 ## Related advices
 
-- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
-- [Apologize](../Apologize/index.md)
-- [Be kind](../Be%20kind/index.md)
-- [Respect nature](../Respect%20nature/index.md)
+- [Helping makes you happy](Helping%20makes%20you%20happy/index.md)
+- [Apologize](Apologize/index.md)
+- [Be kind](Be%20kind/index.md)
+- [Respect nature](Respect%20nature/index.md)

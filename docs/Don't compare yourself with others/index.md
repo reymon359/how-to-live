@@ -28,7 +28,7 @@ By comparing yourself to others, you are holding yourself back.
 
 ## Related advices
 
-- [Learn to be alone](../Learn%20to%20be%20alone/index.md)
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-- [You don't need their approval](../You%20don't%20need%20their%20approval/index.md)
-- [Life has its own stages](../Life%20has%20its%20own%20stages/index.md)<hr/><br/>[Categories:](Categories/index.md) [Fulfillment](Categories/Fulfillment.md) [Goals](Categories/Goals.md) [Growth](Categories/Growth.md) [Happiness](Categories/Happiness.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Mistakes](Categories/Mistakes.md) [Open-mindedness](Categories/Open-mindedness.md) [Personality](Categories/Personality.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md)
+- [Learn to be alone](Learn%20to%20be%20alone/index.md)
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)
+- [You don't need their approval](You%20don't%20need%20their%20approval/index.md)
+- [Life has its own stages](Life%20has%20its%20own%20stages/index.md)<hr/><br/>[Categories:](Categories/index.md) [Fulfillment](Categories/Fulfillment.md) [Goals](Categories/Goals.md) [Growth](Categories/Growth.md) [Happiness](Categories/Happiness.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Mistakes](Categories/Mistakes.md) [Open-mindedness](Categories/Open-mindedness.md) [Personality](Categories/Personality.md) [Relationships](Categories/Relationships.md) [Travel](Categories/Travel.md)

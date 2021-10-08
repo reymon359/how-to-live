@@ -30,6 +30,6 @@ Wayne Dyer discusses this in The Right vs. Wrong Trap, from his book Your Errone
 
 ## Related advices
 
-- [Avoid overthinking](../Avoid%20overthinking/index.md)
-- [Take action](../Take%20action/index.md)
-- [Open your mind](../Open%20your%20mind/index.md)
+- [Avoid overthinking](Avoid%20overthinking/index.md)
+- [Take action](Take%20action/index.md)
+- [Open your mind](Open%20your%20mind/index.md)

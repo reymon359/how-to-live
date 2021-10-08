@@ -22,8 +22,8 @@ Don't only focus on things. Optimize the way you do them. Think from time to tim
 
 ## Related advices
 
-- [Embrace minimalism](../Embrace%20minimalism/index.md)
-- [Buy just what you need](../Buy%20just%20what%20you%20need/index.md)
-- [Continuous refactor](../Continuous%20refactor/index.md)
-- [The simpler, the better](../The%20simpler,%20the%20better/index.md)
-- [DRY Don't repeat yourself](../DRY%20Don't%20repeat%20yourself/index.md)
+- [Embrace minimalism](Embrace%20minimalism/index.md)
+- [Buy just what you need](Buy%20just%20what%20you%20need/index.md)
+- [Continuous refactor](Continuous%20refactor/index.md)
+- [The simpler, the better](The%20simpler,%20the%20better/index.md)
+- [DRY Don't repeat yourself](DRY%20Don't%20repeat%20yourself/index.md)

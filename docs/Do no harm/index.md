@@ -28,7 +28,7 @@ Don't harm nature, either. Respect the world we all live on.
 
 ## Related advices
 
-- [Helping makes you happy](../Helping%20makes%20you%20happy/index.md)
-- [Apologize](../Apologize/index.md)
-- [Be kind](../Be%20kind/index.md)
-- [Respect nature](../Respect%20nature/index.md)<hr/><br/>[Categories:](Categories/index.md) [Happiness](Categories/Happiness.md) [Help](Categories/Help.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Kindness](Categories/Kindness.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Respect](Categories/Respect.md) [Trust](Categories/Trust.md)
+- [Helping makes you happy](Helping%20makes%20you%20happy/index.md)
+- [Apologize](Apologize/index.md)
+- [Be kind](Be%20kind/index.md)
+- [Respect nature](Respect%20nature/index.md)<hr/><br/>[Categories:](Categories/index.md) [Happiness](Categories/Happiness.md) [Help](Categories/Help.md) [Integrity](Categories/Integrity.md) [Justice](Categories/Justice.md) [Kindness](Categories/Kindness.md) [Mistakes](Categories/Mistakes.md) [Problems](Categories/Problems.md) [Respect](Categories/Respect.md) [Trust](Categories/Trust.md)

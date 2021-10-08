@@ -26,6 +26,6 @@ You won't find the balance on the first try. Give it time and keep trying little
 
 ## Related advices
 
-- [Get to know yourself](../Get%20to%20know%20yourself/index.md)
-- [Listen to your body](../Listen%20to%20your%20body/index.md)
-- [Eating an elephant](../Eating%20an%20elephant/index.md)
+- [Get to know yourself](Get%20to%20know%20yourself/index.md)
+- [Listen to your body](Listen%20to%20your%20body/index.md)
+- [Eating an elephant](Eating%20an%20elephant/index.md)

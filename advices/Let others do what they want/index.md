@@ -18,8 +18,8 @@ Open your mind. It is as easy as respecting other people's opinions.
 
 ## Related advices
 
-- [Do what you want](../Do%20what%20you%20want/index.md)
-- [Respect others beliefs](../Respect%20others%20beliefs/index.md)
-- [Respect others opinion](../Respect%20others%20opinion/index.md)
-- [Nobody thinks the same way you do](../Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Do what brings you joy](../Do%20what%20brings%20you%20joy/index.md)
+- [Do what you want](Do%20what%20you%20want/index.md)
+- [Respect others beliefs](Respect%20others%20beliefs/index.md)
+- [Respect others opinion](Respect%20others%20opinion/index.md)
+- [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
+- [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)

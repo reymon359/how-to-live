@@ -24,6 +24,6 @@ If you act with kindness, you will get that back. People will treat you in a kin
 
 ## Related advices
 
-- [Helping others makes you happy](../Helping%20makes%20you%20happy/index.md)
-- [Take care of your mental health](../Take%20care%20of%20your%20mental%20health/index.md)
-- [Don't do something that hurt another person](../Do%20no%20harm/index.md)
+- [Helping others makes you happy](Helping%20makes%20you%20happy/index.md)
+- [Take care of your mental health](Take%20care%20of%20your%20mental%20health/index.md)
+- [Don't do something that hurt another person](Do%20no%20harm/index.md)
