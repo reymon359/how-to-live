@@ -45,5 +45,5 @@ Chapter 6 "Exploring the unknown" from Wayne Dyer's Your Erroneous Zones speaks 
 ## Related advices
 
 - [Open your mind](Open%20your%20mind/index.md)
-- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
 - [Embrace growing](Embrace%20growing/index.md)

@@ -58,7 +58,7 @@ My own experience as a Digital Nomad. I feel how I grow and learn the more I tra
 
 - [Embrace growing](Embrace%20growing/index.md)
 - [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
 - [Open your mind](Open%20your%20mind/index.md)
 - [Respect others beliefs](Respect%20others%20beliefs/index.md)
 - [Respect others opinion](Respect%20others%20opinion/index.md)

@@ -37,6 +37,6 @@ Traveling as well helps you to open your mind. Experiencing new cultures and way
 ## Related advices
 
 - [Nobody thinks the same way you do](Nobody%20thinks%20the%20same%20way%20you%20do/index.md)
-- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
 - [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
 - [Respect others opinion](Respect%20others%20opinion/index.md)

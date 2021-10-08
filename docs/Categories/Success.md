@@ -59,7 +59,7 @@
     
  - [Set up goals](Set%20up%20goals/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [Stick to people that give you good advice](Stick%20to%20people%20that%20give%20you%20good%20advice/index.md)
     

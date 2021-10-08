@@ -45,7 +45,7 @@
     
  - [Manage the time you have](Manage%20the%20time%20you%20have/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [There is no black or white](There%20is%20no%20black%20or%20white/index.md)
     

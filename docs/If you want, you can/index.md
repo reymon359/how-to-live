@@ -31,7 +31,7 @@ You may have to step outside your comfort zone to accomplish. Don't give up. Pla
 - [The hardest part is the beginning](The%20hardest%20part%20is%20the%20beginning/index.md)
 - [Book time for planning](Book%20time%20for%20planning/index.md)
 - [Eating an elephant](Eating%20an%20elephant/index.md)
-- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
 - [Avoid procrastinating](Avoid%20procrastinating/index.md)
 - [Do what brings you joy](Do%20what%20brings%20you%20joy/index.md)
 - [Do what you want](Do%20what%20you%20want/index.md)<hr/><br/>[Categories:](Categories/index.md) [Comfort zone](Categories/Comfort%20zone.md) [Decisions](Categories/Decisions.md) [Freedom](Categories/Freedom.md) [Goals](Categories/Goals.md) [Happiness](Categories/Happiness.md) [Motivation](Categories/Motivation.md) [Proactivity](Categories/Proactivity.md) [Success](Categories/Success.md)

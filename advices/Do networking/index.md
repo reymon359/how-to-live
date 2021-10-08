@@ -31,5 +31,5 @@ If you are interested in a topic, search for a community and events about it. Me
 ## Related advices
 
 - [Connect with others](Connect%20with%20others/index.md)
-- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
 - [What surrounds you shapes you](What%20surrounds%20you%20shapes%20you/index.md)

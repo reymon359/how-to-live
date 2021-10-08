@@ -21,7 +21,7 @@
     
  - [Optimize your stuff](Optimize%20your%20stuff/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [The Eisenhower Matrix](The%20Eisenhower%20Matrix/index.md)
     

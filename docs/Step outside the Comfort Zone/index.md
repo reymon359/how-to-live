@@ -1,4 +1,4 @@
-# Step outside the comfort zone
+# Step outside the Comfort Zone
 
 To step outside the comfort zone means to grow. To take risks, and learn from all of them.
 

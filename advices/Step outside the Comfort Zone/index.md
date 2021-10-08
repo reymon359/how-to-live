@@ -1,8 +1,8 @@
 ---
-name: 'Step outside the comfort zone'
+name: 'Step outside the Comfort Zone'
 Categories: ['Comfort zone', 'Change', 'Success', 'Solutions', 'Balance', 'Unknown', 'Open-mindedness', 'Growth', 'Proactivity', 'Adventures']
 ---
-# Step outside the comfort zone
+# Step outside the Comfort Zone
 
 To step outside the comfort zone means to grow. To take risks, and learn from all of them.
 

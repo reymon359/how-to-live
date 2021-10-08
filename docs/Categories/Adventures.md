@@ -11,7 +11,7 @@
     
  - [Regret what you have done, not what you have not](Regret%20what%20you%20have%20done,%20not%20what%20you%20have%20not/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [Travel as much as you can](Travel%20as%20much%20as%20you%20can/index.md)
     

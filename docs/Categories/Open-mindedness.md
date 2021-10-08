@@ -43,7 +43,7 @@
     
  - [Respect others opinion](Respect%20others%20opinion/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [The rule of holes](The%20rule%20of%20holes/index.md)
     

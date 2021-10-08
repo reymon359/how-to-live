@@ -25,7 +25,7 @@
     
  - [Open your mind](Open%20your%20mind/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [The hardest part is the beginning](The%20hardest%20part%20is%20the%20beginning/index.md)
     

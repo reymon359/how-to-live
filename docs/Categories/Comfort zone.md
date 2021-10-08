@@ -53,7 +53,7 @@
     
  - [Set up goals](Set%20up%20goals/index.md)
     
- - [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+ - [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
     
  - [Take action](Take%20action/index.md)
     

@@ -40,4 +40,4 @@ I learned this over time. I am still improving at it. Books like The 7 Habits of
 - [If you want, you can](If%20you%20want,%20you%20can/index.md)
 - [Respect others opinion](Respect%20others%20opinion/index.md)
 - [Maintain your integrity](Maintain%20your%20integrity/index.md)
-- [Step outside the comfort zone](Step%20outside%20the%20comfort%20zone/index.md)
+- [Step outside the Comfort Zone](Step%20outside%20the%20Comfort%20Zone/index.md)
